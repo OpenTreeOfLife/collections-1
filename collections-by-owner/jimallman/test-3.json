@@ -4,8 +4,17 @@
 "login": "jimallman", 
 "name": "Jim Allman"
 }, 
-"decisions": [], 
-"description": "", 
+"decisions": [
+{
+"SHA": "", 
+"comments": "Just a test tree for this collection.", 
+"decision": "INCLUDED", 
+"name": "Tr87993 (Sandoval-denis M.P., 2016)", 
+"studyID": "ot_453", 
+"treeID": "Tr87993"
+}
+], 
+"description": "This is a test collection on production!", 
 "name": "test-3", 
 "queries": []
 }
