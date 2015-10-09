@@ -1,0 +1,1402 @@
+{
+"contributors": [
+{
+"login": "blackrim", 
+"name": "Stephen Smith"
+}
+], 
+"creator": {
+"login": "josephwb", 
+"name": "Joseph W. Brown"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3855 (244)", 
+"studyID": "244", 
+"treeID": "tree3855"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6674 (2879)", 
+"studyID": "2879", 
+"treeID": "tree6674"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6673 (2878)", 
+"studyID": "2878", 
+"treeID": "tree6673"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2166 (412)", 
+"studyID": "412", 
+"treeID": "tree2166"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6577 (2827)", 
+"studyID": "2827", 
+"treeID": "tree6577"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1967 (1022)", 
+"studyID": "1022", 
+"treeID": "tree1967"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree817 (562)", 
+"studyID": "562", 
+"treeID": "tree817"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree532 (424)", 
+"studyID": "424", 
+"treeID": "tree532"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3902 (1916)", 
+"studyID": "1916", 
+"treeID": "tree3902"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree878 (588)", 
+"studyID": "588", 
+"treeID": "tree878"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1825 (926)", 
+"studyID": "926", 
+"treeID": "tree1825"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5647 (1133)", 
+"studyID": "1133", 
+"treeID": "tree5647"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6139 (2624)", 
+"studyID": "2624", 
+"treeID": "tree6139"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4437 (2128)", 
+"studyID": "2128", 
+"treeID": "tree4437"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2177 (1102)", 
+"studyID": "1102", 
+"treeID": "tree2177"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1016 (625)", 
+"studyID": "625", 
+"treeID": "tree1016"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1415 (761)", 
+"studyID": "761", 
+"treeID": "tree1415"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4220 (2048)", 
+"studyID": "2048", 
+"treeID": "tree4220"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2544 (1264)", 
+"studyID": "1264", 
+"treeID": "tree2544"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2251 (1129)", 
+"studyID": "1129", 
+"treeID": "tree2251"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3724 (1842)", 
+"studyID": "1842", 
+"treeID": "tree3724"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5028 (288)", 
+"studyID": "288", 
+"treeID": "tree5028"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1392 (754)", 
+"studyID": "754", 
+"treeID": "tree1392"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2295 (1137)", 
+"studyID": "1137", 
+"treeID": "tree2295"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2201 (1109)", 
+"studyID": "1109", 
+"treeID": "tree2201"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4118 (2004)", 
+"studyID": "2004", 
+"treeID": "tree4118"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree458 (385)", 
+"studyID": "385", 
+"treeID": "tree458"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3725 (1843)", 
+"studyID": "1843", 
+"treeID": "tree3725"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3754 (1858)", 
+"studyID": "1858", 
+"treeID": "tree3754"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree325 (330)", 
+"studyID": "330", 
+"treeID": "tree325"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree483 (394)", 
+"studyID": "394", 
+"treeID": "tree483"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5821 (56)", 
+"studyID": "56", 
+"treeID": "tree5821"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1280 (53)", 
+"studyID": "53", 
+"treeID": "tree1280"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2878 (62)", 
+"studyID": "62", 
+"treeID": "tree2878"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5878 (77)", 
+"studyID": "77", 
+"treeID": "tree5878"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6597 (2841)", 
+"studyID": "2841", 
+"treeID": "tree6597"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2226 (1118)", 
+"studyID": "1118", 
+"treeID": "tree2226"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6213 (2669)", 
+"studyID": "2669", 
+"treeID": "tree6213"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5922 (2032)", 
+"studyID": "2032", 
+"treeID": "tree5922"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3877 (1901)", 
+"studyID": "1901", 
+"treeID": "tree3877"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1287 (713)", 
+"studyID": "713", 
+"treeID": "tree1287"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2265 (1131)", 
+"studyID": "1131", 
+"treeID": "tree2265"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6288 (2608)", 
+"studyID": "2608", 
+"treeID": "tree6288"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6294 (2539)", 
+"studyID": "2539", 
+"treeID": "tree6294"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6566 (2820)", 
+"studyID": "2820", 
+"treeID": "tree6566"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6296 (2712)", 
+"studyID": "2712", 
+"treeID": "tree6296"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree142 (259)", 
+"studyID": "259", 
+"treeID": "tree142"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree150 (264)", 
+"studyID": "264", 
+"treeID": "tree150"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree161 (267)", 
+"studyID": "267", 
+"treeID": "tree161"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4291 (2077)", 
+"studyID": "2077", 
+"treeID": "tree4291"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree201 (293)", 
+"studyID": "293", 
+"treeID": "tree201"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree784 (197)", 
+"studyID": "197", 
+"treeID": "tree784"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree896 (595)", 
+"studyID": "595", 
+"treeID": "tree896"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6236 (131)", 
+"studyID": "131", 
+"treeID": "tree6236"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6241 (2689)", 
+"studyID": "2689", 
+"treeID": "tree6241"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree906 (597)", 
+"studyID": "597", 
+"treeID": "tree906"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4100 (2001)", 
+"studyID": "2001", 
+"treeID": "tree4100"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5290 (606)", 
+"studyID": "606", 
+"treeID": "tree5290"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree949 (54)", 
+"studyID": "54", 
+"treeID": "tree949"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree901 (596)", 
+"studyID": "596", 
+"treeID": "tree901"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree202 (294)", 
+"studyID": "294", 
+"treeID": "tree202"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree199 (292)", 
+"studyID": "292", 
+"treeID": "tree199"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree775 (58)", 
+"studyID": "58", 
+"treeID": "tree775"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree798 (548)", 
+"studyID": "548", 
+"treeID": "tree798"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4234 (2055)", 
+"studyID": "2055", 
+"treeID": "tree4234"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4240 (2057)", 
+"studyID": "2057", 
+"treeID": "tree4240"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4426 (2127)", 
+"studyID": "2127", 
+"treeID": "tree4426"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree890 (594)", 
+"studyID": "594", 
+"treeID": "tree890"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree145 (261)", 
+"studyID": "261", 
+"treeID": "tree145"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree777 (57)", 
+"studyID": "57", 
+"treeID": "tree777"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6237 (78)", 
+"studyID": "78", 
+"treeID": "tree6237"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5858 (78)", 
+"studyID": "78", 
+"treeID": "tree5858"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6243 (2690)", 
+"studyID": "2690", 
+"treeID": "tree6243"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4213 (2045)", 
+"studyID": "2045", 
+"treeID": "tree4213"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree947 (605)", 
+"studyID": "605", 
+"treeID": "tree947"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5017 (271)", 
+"studyID": "271", 
+"treeID": "tree5017"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6198 (2661)", 
+"studyID": "2661", 
+"treeID": "tree6198"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6165 (2645)", 
+"studyID": "2645", 
+"treeID": "tree6165"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6164 (2644)", 
+"studyID": "2644", 
+"treeID": "tree6164"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6117 (2610)", 
+"studyID": "2610", 
+"treeID": "tree6117"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6161 (2642)", 
+"studyID": "2642", 
+"treeID": "tree6161"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4228 (2052)", 
+"studyID": "2052", 
+"treeID": "tree4228"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2178 (1103)", 
+"studyID": "1103", 
+"treeID": "tree2178"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree12 (14)", 
+"studyID": "14", 
+"treeID": "tree12"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4483 (2140)", 
+"studyID": "2140", 
+"treeID": "tree4483"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6171 (2648)", 
+"studyID": "2648", 
+"treeID": "tree6171"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1147 (650)", 
+"studyID": "650", 
+"treeID": "tree1147"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4317 (2085)", 
+"studyID": "2085", 
+"treeID": "tree4317"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4212 (2044)", 
+"studyID": "2044", 
+"treeID": "tree4212"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6142 (2626)", 
+"studyID": "2626", 
+"treeID": "tree6142"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6020 (2598)", 
+"studyID": "2598", 
+"treeID": "tree6020"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5699 (2564)", 
+"studyID": "2564", 
+"treeID": "tree5699"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4202 (2042)", 
+"studyID": "2042", 
+"treeID": "tree4202"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4098 (2000)", 
+"studyID": "2000", 
+"treeID": "tree4098"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2162 (20)", 
+"studyID": "20", 
+"treeID": "tree2162"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2172 (1101)", 
+"studyID": "1101", 
+"treeID": "tree2172"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5708 (2565)", 
+"studyID": "2565", 
+"treeID": "tree5708"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2138 (1094)", 
+"studyID": "1094", 
+"treeID": "tree2138"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6160 (2641)", 
+"studyID": "2641", 
+"treeID": "tree6160"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5885 (99)", 
+"studyID": "99", 
+"treeID": "tree5885"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree167 (275)", 
+"studyID": "275", 
+"treeID": "tree167"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1411 (93)", 
+"studyID": "93", 
+"treeID": "tree1411"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2281 (30)", 
+"studyID": "30", 
+"treeID": "tree2281"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1732 (898)", 
+"studyID": "898", 
+"treeID": "tree1732"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5865 (216)", 
+"studyID": "216", 
+"treeID": "tree5865"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1740 (901)", 
+"studyID": "901", 
+"treeID": "tree1740"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6583 (2830)", 
+"studyID": "2830", 
+"treeID": "tree6583"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6584 (2831)", 
+"studyID": "2831", 
+"treeID": "tree6584"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1296 (719)", 
+"studyID": "719", 
+"treeID": "tree1296"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4041 (1975)", 
+"studyID": "1975", 
+"treeID": "tree4041"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3678 (1821)", 
+"studyID": "1821", 
+"treeID": "tree3678"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3194 (1583)", 
+"studyID": "1583", 
+"treeID": "tree3194"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3188 (1581)", 
+"studyID": "1581", 
+"treeID": "tree3188"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3164 (1575)", 
+"studyID": "1575", 
+"treeID": "tree3164"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree333 (332)", 
+"studyID": "332", 
+"treeID": "tree333"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3144 (1573)", 
+"studyID": "1573", 
+"treeID": "tree3144"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1832 (934)", 
+"studyID": "934", 
+"treeID": "tree1832"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6585 (200)", 
+"studyID": "200", 
+"treeID": "tree6585"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5743 (152)", 
+"studyID": "152", 
+"treeID": "tree5743"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1281 (53)", 
+"studyID": "53", 
+"treeID": "tree1281"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4282 (2076)", 
+"studyID": "2076", 
+"treeID": "tree4282"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6586 (2832)", 
+"studyID": "2832", 
+"treeID": "tree6586"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5871 (37)", 
+"studyID": "37", 
+"treeID": "tree5871"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1397 (50)", 
+"studyID": "50", 
+"treeID": "tree1397"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3765 (1866)", 
+"studyID": "1866", 
+"treeID": "tree3765"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5731 (59)", 
+"studyID": "59", 
+"treeID": "tree5731"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5787 (73)", 
+"studyID": "73", 
+"treeID": "tree5787"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5881 (80)", 
+"studyID": "80", 
+"treeID": "tree5881"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5863 (81)", 
+"studyID": "81", 
+"treeID": "tree5863"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5792 (82)", 
+"studyID": "82", 
+"treeID": "tree5792"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5848 (88)", 
+"studyID": "88", 
+"treeID": "tree5848"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree794 (180)", 
+"studyID": "180", 
+"treeID": "tree794"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree849 (576)", 
+"studyID": "576", 
+"treeID": "tree849"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree859 (581)", 
+"studyID": "581", 
+"treeID": "tree859"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree862 (582)", 
+"studyID": "582", 
+"treeID": "tree862"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree926 (598)", 
+"studyID": "598", 
+"treeID": "tree926"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree927 (599)", 
+"studyID": "599", 
+"treeID": "tree927"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree940 (603)", 
+"studyID": "603", 
+"treeID": "tree940"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1266 (704)", 
+"studyID": "704", 
+"treeID": "tree1266"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1298 (721)", 
+"studyID": "721", 
+"treeID": "tree1298"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1300 (723)", 
+"studyID": "723", 
+"treeID": "tree1300"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4103 (921)", 
+"studyID": "921", 
+"treeID": "tree4103"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2613 (1300)", 
+"studyID": "1300", 
+"treeID": "tree2613"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6580 (1962)", 
+"studyID": "1962", 
+"treeID": "tree6580"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1802 (915)", 
+"studyID": "915", 
+"treeID": "tree1802"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1803 (915)", 
+"studyID": "915", 
+"treeID": "tree1803"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6140 (2625)", 
+"studyID": "2625", 
+"treeID": "tree6140"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2258 (1130)", 
+"studyID": "1130", 
+"treeID": "tree2258"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4217 (2047)", 
+"studyID": "2047", 
+"treeID": "tree4217"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree459 (386)", 
+"studyID": "386", 
+"treeID": "tree459"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5860 (139)", 
+"studyID": "139", 
+"treeID": "tree5860"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2233 (126)", 
+"studyID": "126", 
+"treeID": "tree2233"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5857 (136)", 
+"studyID": "136", 
+"treeID": "tree5857"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (9)", 
+"studyID": "9", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6578 (2828)", 
+"studyID": "2828", 
+"treeID": "tree6578"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree38 (142)", 
+"studyID": "142", 
+"treeID": "tree38"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6157 (2638)", 
+"studyID": "2638", 
+"treeID": "tree6157"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree37 (21)", 
+"studyID": "21", 
+"treeID": "tree37"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree801 (72)", 
+"studyID": "72", 
+"treeID": "tree801"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1743 (75)", 
+"studyID": "75", 
+"treeID": "tree1743"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4038 (1974)", 
+"studyID": "1974", 
+"treeID": "tree4038"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4039 (1974)", 
+"studyID": "1974", 
+"treeID": "tree4039"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree816 (61)", 
+"studyID": "61", 
+"treeID": "tree816"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5493 (2546)", 
+"studyID": "2546", 
+"treeID": "tree5493"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1396 (41)", 
+"studyID": "41", 
+"treeID": "tree1396"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree184 (283)", 
+"studyID": "283", 
+"treeID": "tree184"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5991 (225)", 
+"studyID": "225", 
+"treeID": "tree5991"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3766 (1867)", 
+"studyID": "1867", 
+"treeID": "tree3766"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2572 (1278)", 
+"studyID": "1278", 
+"treeID": "tree2572"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2560 (1268)", 
+"studyID": "1268", 
+"treeID": "tree2560"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2166 (412)", 
+"studyID": "412", 
+"treeID": "tree2166"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1489 (787)", 
+"studyID": "787", 
+"treeID": "tree1489"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5928 (2046)", 
+"studyID": "2046", 
+"treeID": "tree5928"
+}
+], 
+"description": "Generated by tree-ranks-to-collection.py on Fri, 09 Oct 2015 15:53:50 GMT", 
+"name": "Inputs to synthesis (plants)", 
+"queries": [], 
+"url": ""
+}
