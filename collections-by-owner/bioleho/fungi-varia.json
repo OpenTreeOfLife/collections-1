@@ -7,10 +7,18 @@
 "decisions": [
 {
 "SHA": "", 
-"comments": "It will improve the phylogeny of a part of Helotiales (Myxotrichiaceae and related groups)", 
+"comments": "It improves the phylogeny of  Helotiales and families therein", 
 "decision": "INCLUDED", 
 "name": "Helotiales clade (Leho Tedersoo, 2009)", 
 "studyID": "ot_512", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "It contains all sequences of Albatrellaceae and solves well its phylogeny", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree1) (Leho Tedersoo, 2011)", 
+"studyID": "ot_513", 
 "treeID": "tree1"
 }
 ], 
