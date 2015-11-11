@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "bioleho", 
+"name": "bioleho (None)"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "It will improve the phylogeny of a part of Helotiales (Myxotrichiaceae and related groups)", 
+"decision": "INCLUDED", 
+"name": "Helotiales clade (Leho Tedersoo, 2009)", 
+"studyID": "ot_512", 
+"treeID": "tree1"
+}
+], 
+"description": "Specifically focused fungal taxa from multiple studies", 
+"name": "Fungi varia", 
+"queries": []
+}
