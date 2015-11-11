@@ -28,6 +28,14 @@
 "name": "Thelephoraceae (Leho Tedersoo, 2014)", 
 "studyID": "ot_515", 
 "treeID": "tree23"
+}, 
+{
+"SHA": "", 
+"comments": "resolves phylogeny of Atheliales genera with envir. lineages", 
+"decision": "INCLUDED", 
+"name": "Atheliales (Leho Tedersoo, 2013)", 
+"studyID": "ot_516", 
+"treeID": "tree1"
 }
 ], 
 "description": "Specifically focused fungal taxa from multiple studies", 
