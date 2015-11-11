@@ -20,6 +20,14 @@
 "name": "Untitled (tree1) (Leho Tedersoo, 2011)", 
 "studyID": "ot_513", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "resolves phylogeny of Thelephoraceae s.stricto genera and species therein", 
+"decision": "INCLUDED", 
+"name": "Thelephoraceae (Leho Tedersoo, 2014)", 
+"studyID": "ot_515", 
+"treeID": "tree23"
 }
 ], 
 "description": "Specifically focused fungal taxa from multiple studies", 
