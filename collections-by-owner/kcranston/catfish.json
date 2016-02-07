@@ -1,10 +1,24 @@
 {
-"contributors": [], 
+"contributors": [
+{
+"login": "bsidlauskas", 
+"name": "Brian Sidlauskas"
+}
+], 
 "creator": {
 "login": "kcranston", 
 "name": "Karen Cranston"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "Morphological phylogeny of Cetopsidae (whale catfishes)", 
+"decision": "INCLUDED", 
+"name": "Figure 32B (De Pinna, 2007)", 
+"studyID": "ot_575", 
+"treeID": "tree1"
+}
+], 
 "description": "Catfish - collection from clade workshops", 
 "name": "catfish", 
 "queries": []
