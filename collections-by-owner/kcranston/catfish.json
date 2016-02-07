@@ -12,11 +12,11 @@
 "decisions": [
 {
 "SHA": "", 
-"comments": "Morphological phylogeny of Cetopsidae (whale catfishes)", 
+"comments": "Preferred Morphological phylogeny of Cetopsidae (whale catfishes)", 
 "decision": "INCLUDED", 
-"name": "Figure 32B (De Pinna, 2007)", 
+"name": "Figure 33 (De Pinna, 2007)", 
 "studyID": "ot_575", 
-"treeID": "tree1"
+"treeID": "tree3"
 }
 ], 
 "description": "Catfish - collection from clade workshops", 
