@@ -18,14 +18,6 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree5590 (Lang, 2013)", 
-"studyID": "pg_2542", 
-"treeID": "tree5590"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "tree5580 (Engene N., 2013)", 
 "studyID": "pg_2554", 
 "treeID": "tree5580"
@@ -53,6 +45,14 @@
 "name": "tree149 (Swithers KS, 2012)", 
 "studyID": "pg_263", 
 "treeID": "tree149"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5590 (Lang, 2013)", 
+"studyID": "pg_2542", 
+"treeID": "tree5590"
 }, 
 {
 "SHA": "", 
