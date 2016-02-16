@@ -1,0 +1,68 @@
+{
+"contributors": [], 
+"creator": {
+"login": "jar398", 
+"name": "Jonathan A Rees"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6294 (Soltis D., 2011)", 
+"studyID": "pg_2539", 
+"treeID": "tree6294"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1289 (Gruenstaeudl, 2009)", 
+"studyID": "pg_715", 
+"treeID": "tree1289"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree324 (Gaskin, 2007)", 
+"studyID": "pg_329", 
+"treeID": "tree324"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3959 (Tank, 2010)", 
+"studyID": "pg_1944", 
+"treeID": "tree3959"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1276 (Antonelli, 2008)", 
+"studyID": "pg_709", 
+"treeID": "tree1276"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1396 (Cariaga, 2008)", 
+"studyID": "pg_41", 
+"treeID": "tree1396"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5792 (Park, 2006)", 
+"studyID": "pg_82", 
+"treeID": "tree5792"
+}
+], 
+"description": "studies from synthesis set overlapping with Asterales, for system testing purposes", 
+"name": "asterales", 
+"queries": []
+}
