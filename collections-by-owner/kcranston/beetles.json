@@ -9,16 +9,7 @@
 "login": "kcranston", 
 "name": "Karen Cranston"
 }, 
-"decisions": [
-{
-"SHA": "", 
-"comments": "This is one of the first phylogenies of the superfamily Curculionoidea", 
-"decision": "INCLUDED", 
-"name": "Malvardi etal (2002) Curculionoidea Figure 4 (Adriana E. Marvaldi, 2002)", 
-"studyID": "ot_601", 
-"treeID": "tree1"
-}
-], 
+"decisions": [], 
 "description": "Beetles - collection from clade workshops", 
 "name": "beetles", 
 "queries": []
