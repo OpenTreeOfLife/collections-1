@@ -37,6 +37,14 @@
 "name": "t1 (Nico M. Franz, 2013)", 
 "studyID": "ot_604", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "t1 (Nico M. Franz, 2006)", 
+"studyID": "ot_605", 
+"treeID": "tree1"
 }
 ], 
 "description": "Beetles - collection from clade workshops", 
