@@ -45,6 +45,14 @@
 "name": "t1 (Nico M. Franz, 2006)", 
 "studyID": "ot_605", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Exophthalmus sec. Franz 2012 (NICO M. FRANZ, 2012)", 
+"studyID": "ot_606", 
+"treeID": "tree10"
 }
 ], 
 "description": "Beetles - collection from clade workshops", 
