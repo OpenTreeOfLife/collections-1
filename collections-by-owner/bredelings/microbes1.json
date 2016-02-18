@@ -1,0 +1,28 @@
+{
+"contributors": [], 
+"creator": {
+"login": "bredelings", 
+"name": "Benjamin Redelings"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5223 (Segata, 2013)", 
+"studyID": "pg_2448", 
+"treeID": "tree5223"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5590 (Lang, 2013)", 
+"studyID": "pg_2542", 
+"treeID": "tree5590"
+}
+], 
+"description": "", 
+"name": "microbes1", 
+"queries": []
+}
