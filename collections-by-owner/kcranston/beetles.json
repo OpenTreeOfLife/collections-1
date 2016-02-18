@@ -3,6 +3,10 @@
 {
 "login": "GZhang2", 
 "name": "GZhang2 (None)"
+}, 
+{
+"login": "nfranz", 
+"name": "Nico Franz"
 }
 ], 
 "creator": {
@@ -16,6 +20,14 @@
 "decision": "INCLUDED", 
 "name": "Marvaldi etal (2002) Curculionoidea Figure 4 (Adriana E. Marvaldi, 2002)", 
 "studyID": "ot_601", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "t1 (Franz, 2001)", 
+"studyID": "ot_603", 
 "treeID": "tree1"
 }
 ], 
