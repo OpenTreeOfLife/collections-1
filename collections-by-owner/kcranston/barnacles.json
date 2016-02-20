@@ -97,6 +97,14 @@
 "name": "Bayesian (P\u00e9rez-Losada, 2014)", 
 "studyID": "pg_2923", 
 "treeID": "tree6751"
+}, 
+{
+"SHA": "", 
+"comments": "shallow barnacles", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (Wares, 2009)", 
+"studyID": "pg_2919", 
+"treeID": "tree6749"
 }
 ], 
 "description": "barnacles - collection from clade workshop", 
