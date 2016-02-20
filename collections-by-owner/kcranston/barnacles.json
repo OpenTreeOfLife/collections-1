@@ -16,11 +16,35 @@
 "decisions": [
 {
 "SHA": "", 
+"comments": "Balanomorpha", 
+"decision": "INCLUDED", 
+"name": "Bayesian (P\u00e9rez-Losada, 2014)", 
+"studyID": "pg_2923", 
+"treeID": "tree6751"
+}, 
+{
+"SHA": "", 
+"comments": "overall barnacle tree", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree6745) (Marcos P\u00e9rez-Losada, 2008)", 
+"studyID": "pg_2917", 
+"treeID": "tree6745"
+}, 
+{
+"SHA": "", 
 "comments": "Thecostraca overall phylogenetic picture.", 
 "decision": "INCLUDED", 
 "name": "Untitled (tree6603) (P\u00e9rez-Losada, 2009)", 
 "studyID": "pg_2842", 
 "treeID": "tree6603"
+}, 
+{
+"SHA": "", 
+"comments": "Thecostraca, character evolution", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree6744) (P\u00e9rez-Losada M, 2012)", 
+"studyID": "pg_2916", 
+"treeID": "tree6744"
 }, 
 {
 "SHA": "", 
@@ -32,11 +56,19 @@
 }, 
 {
 "SHA": "", 
-"comments": "Rhizocephala: Akentrogonida, larval structure", 
+"comments": "deep sea Antarctic barnacles", 
 "decision": "INCLUDED", 
-"name": "Bayesian tree (Henrik Glenner, 2010)", 
-"studyID": "ot_71", 
-"treeID": "tree1"
+"name": "Untitled (tree6752) (Linse, 2013)", 
+"studyID": "pg_2922", 
+"treeID": "tree6752"
+}, 
+{
+"SHA": "", 
+"comments": "shallow barnacles", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (Wares, 2009)", 
+"studyID": "pg_2919", 
+"treeID": "tree6749"
 }, 
 {
 "SHA": "", 
@@ -44,14 +76,6 @@
 "decision": "INCLUDED", 
 "name": "Fig. 2 (Glenner, 2006)", 
 "studyID": "ot_74", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "Rhizocephala: Heterosaccus, larval data", 
-"decision": "INCLUDED", 
-"name": "Bayesian tree (Henrik Glenner, 2008)", 
-"studyID": "ot_75", 
 "treeID": "tree1"
 }, 
 {
@@ -64,11 +88,19 @@
 }, 
 {
 "SHA": "", 
-"comments": "deep sea Antarctic barnacles", 
+"comments": "Rhizocephala: Akentrogonida, larval structure", 
 "decision": "INCLUDED", 
-"name": "Untitled (tree6752) (Linse, 2013)", 
-"studyID": "pg_2922", 
-"treeID": "tree6752"
+"name": "Bayesian tree (Henrik Glenner, 2010)", 
+"studyID": "ot_71", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Rhizocephala: Heterosaccus, larval data", 
+"decision": "INCLUDED", 
+"name": "Bayesian tree (Henrik Glenner, 2008)", 
+"studyID": "ot_75", 
+"treeID": "tree1"
 }, 
 {
 "SHA": "", 
@@ -77,38 +109,6 @@
 "name": "RAxML tree (Maria Celia Machel Defrance Malay, 2014)", 
 "studyID": "ot_163", 
 "treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "overall barnacle tree", 
-"decision": "INCLUDED", 
-"name": "Untitled (tree6745) (Marcos P\u00e9rez-Losada, 2008)", 
-"studyID": "pg_2917", 
-"treeID": "tree6745"
-}, 
-{
-"SHA": "", 
-"comments": "Thecostraca, character evolution", 
-"decision": "INCLUDED", 
-"name": "Untitled (tree6744) (P\u00e9rez-Losada M, 2012)", 
-"studyID": "pg_2916", 
-"treeID": "tree6744"
-}, 
-{
-"SHA": "", 
-"comments": "Balanomorpha", 
-"decision": "INCLUDED", 
-"name": "Bayesian (P\u00e9rez-Losada, 2014)", 
-"studyID": "pg_2923", 
-"treeID": "tree6751"
-}, 
-{
-"SHA": "", 
-"comments": "shallow barnacles", 
-"decision": "INCLUDED", 
-"name": "Fig. 2 (Wares, 2009)", 
-"studyID": "pg_2919", 
-"treeID": "tree6749"
 }, 
 {
 "SHA": "", 
