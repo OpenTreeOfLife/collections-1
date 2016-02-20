@@ -4,7 +4,16 @@
 "login": "nfranz", 
 "name": "Nico Franz"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "MP Morphology (A. E. Marvaldi, 2006)", 
+"studyID": "ot_611", 
+"treeID": "tree1"
+}
+], 
 "description": "Belidae", 
 "name": "Belidae", 
 "queries": []
