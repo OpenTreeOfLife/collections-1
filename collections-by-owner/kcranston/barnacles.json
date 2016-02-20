@@ -65,6 +65,14 @@
 "name": "Untitled (tree6752) (Linse, 2013)", 
 "studyID": "pg_2922", 
 "treeID": "tree6752"
+}, 
+{
+"SHA": "", 
+"comments": "Balanomorpha: Pyrgomatidae coral barnacles", 
+"decision": "INCLUDED", 
+"name": "RAxML tree (Maria Celia Machel Defrance Malay, 2014)", 
+"studyID": "ot_163", 
+"treeID": "tree1"
 }
 ], 
 "description": "barnacles - collection from clade workshop", 
