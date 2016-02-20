@@ -28,10 +28,18 @@
 }, 
 {
 "SHA": "", 
-"comments": "Akentrogonida: Rhizocephela, larval structure", 
+"comments": "Akentrogonida: Rhizocephala, larval structure", 
 "decision": "INCLUDED", 
 "name": "Bayesian tree (Henrik Glenner, 2010)", 
 "studyID": "ot_71", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Rhizocephala, life history strategies for parasitic barnacles", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (Glenner, 2006)", 
+"studyID": "ot_74", 
 "treeID": "tree1"
 }
 ], 
