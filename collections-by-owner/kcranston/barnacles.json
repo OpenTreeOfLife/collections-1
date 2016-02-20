@@ -12,7 +12,7 @@
 "decisions": [
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Thecostraca overall phylogenetic picture.", 
 "decision": "INCLUDED", 
 "name": "Untitled (tree6603) (P\u00e9rez-Losada, 2009)", 
 "studyID": "pg_2842", 
@@ -20,11 +20,19 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Pedunculata focus with sexual systems information.", 
 "decision": "INCLUDED", 
 "name": "Fig. 2 Bayesian consensus (Yusa, 2012)", 
 "studyID": "pg_2918", 
 "treeID": "tree6755"
+}, 
+{
+"SHA": "", 
+"comments": "Akentrogonida: Rhizocephela, larval structure", 
+"decision": "INCLUDED", 
+"name": "Bayesian tree (Henrik Glenner, 2010)", 
+"studyID": "ot_71", 
+"treeID": "tree1"
 }
 ], 
 "description": "barnacles - collection from clade workshop", 
