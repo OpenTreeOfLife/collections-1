@@ -69,6 +69,14 @@
 "name": "t1 (Adriana E. Marvaldi, 2005)", 
 "studyID": "ot_612", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Third FuturePhy input tree for Belidae sec. authorum", 
+"decision": "INCLUDED", 
+"name": "MP Morphology (Robert S. Anderson, 2013)", 
+"studyID": "ot_616", 
+"treeID": "tree2"
 }
 ], 
 "description": "Beetles - collection from clade workshops", 
