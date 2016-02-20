@@ -49,6 +49,14 @@
 "name": "Bayesian tree (Henrik Glenner, 2008)", 
 "studyID": "ot_75", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Balanomorpha: Coronuloidea, turtle and whale barnacles", 
+"decision": "INCLUDED", 
+"name": "Fig. 1a (Ryota Hayashi, 2013)", 
+"studyID": "pg_2921", 
+"treeID": "tree6749"
 }
 ], 
 "description": "barnacles - collection from clade workshop", 
