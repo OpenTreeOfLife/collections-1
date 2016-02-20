@@ -3,6 +3,10 @@
 {
 "login": "kacrandall", 
 "name": "Keith Crandall"
+}, 
+{
+"login": "ewersSaucedo", 
+"name": "Christine Ewers-Saucedo"
 }
 ], 
 "creator": {
@@ -105,6 +109,14 @@
 "name": "Fig. 2 (Wares, 2009)", 
 "studyID": "pg_2919", 
 "treeID": "tree6749"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Bayesian MCC (Hsiu-Chin Lin, 2015)", 
+"studyID": "ot_615", 
+"treeID": "Tr76459"
 }
 ], 
 "description": "barnacles - collection from clade workshop", 
