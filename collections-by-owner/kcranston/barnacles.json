@@ -89,6 +89,14 @@
 "name": "Untitled (tree6744) (P\u00e9rez-Losada M, 2012)", 
 "studyID": "pg_2916", 
 "treeID": "tree6744"
+}, 
+{
+"SHA": "", 
+"comments": "Balanomorpha", 
+"decision": "INCLUDED", 
+"name": "Bayesian (P\u00e9rez-Losada, 2014)", 
+"studyID": "pg_2923", 
+"treeID": "tree6751"
 }
 ], 
 "description": "barnacles - collection from clade workshop", 
