@@ -73,6 +73,14 @@
 "name": "RAxML tree (Maria Celia Machel Defrance Malay, 2014)", 
 "studyID": "ot_163", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "overall barnacle tree", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree6745) (Marcos P\u00e9rez-Losada, 2008)", 
+"studyID": "pg_2917", 
+"treeID": "tree6745"
 }
 ], 
 "description": "barnacles - collection from clade workshop", 
