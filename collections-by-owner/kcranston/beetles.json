@@ -53,6 +53,14 @@
 "name": "Exophthalmus sec. Franz 2012 (NICO M. FRANZ, 2012)", 
 "studyID": "ot_606", 
 "treeID": "tree10"
+}, 
+{
+"SHA": "", 
+"comments": "First FuturePhy input tree for Belidae sec. authorum", 
+"decision": "INCLUDED", 
+"name": "MP Morphology (A. E. Marvaldi, 2006)", 
+"studyID": "ot_611", 
+"treeID": "tree1"
 }
 ], 
 "description": "Beetles - collection from clade workshops", 
