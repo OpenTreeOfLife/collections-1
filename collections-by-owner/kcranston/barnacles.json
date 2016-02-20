@@ -57,6 +57,14 @@
 "name": "Fig. 1a (Ryota Hayashi, 2013)", 
 "studyID": "pg_2921", 
 "treeID": "tree6749"
+}, 
+{
+"SHA": "", 
+"comments": "deep sea Antarctic barnacles", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree6752) (Linse, 2013)", 
+"studyID": "pg_2922", 
+"treeID": "tree6752"
 }
 ], 
 "description": "barnacles - collection from clade workshop", 
