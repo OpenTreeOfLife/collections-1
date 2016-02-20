@@ -1,5 +1,10 @@
 {
-"contributors": [], 
+"contributors": [
+{
+"login": "djclarke7824", 
+"name": "djclarke7824 (None)"
+}
+], 
 "creator": {
 "login": "nfranz", 
 "name": "Nico Franz"
@@ -28,6 +33,14 @@
 "name": "MP Morphology (Robert S. Anderson, 2013)", 
 "studyID": "ot_616", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree1) (D. D. McKenna, 2009)", 
+"studyID": "ot_617", 
+"treeID": "tree1"
 }
 ], 
 "description": "Belidae", 
