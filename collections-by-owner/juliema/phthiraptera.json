@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "juliema", 
+"name": "juliema (None)"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "PAUP 1 (Light J.E., 2010)", 
+"studyID": "ot_609", 
+"treeID": "Tr19968"
+}
+], 
+"description": "Compare lice topologies", 
+"name": "Phthiraptera", 
+"queries": []
+}
