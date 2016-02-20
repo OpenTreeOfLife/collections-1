@@ -117,6 +117,14 @@
 "name": "Bayesian MCC (Hsiu-Chin Lin, 2015)", 
 "studyID": "ot_615", 
 "treeID": "Tr76459"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 1F (Glenner H, 2003)", 
+"studyID": "ot_98", 
+"treeID": "tree1"
 }
 ], 
 "description": "barnacles - collection from clade workshop", 
