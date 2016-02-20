@@ -133,6 +133,14 @@
 "name": "TREE1 (Santiago Herrera, 2015)", 
 "studyID": "ot_618", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figure 1 (Dana Carrison-Stone, 2013)", 
+"studyID": "ot_619", 
+"treeID": "tree8"
 }
 ], 
 "description": "barnacles - collection from clade workshop", 
