@@ -28,7 +28,7 @@
 }, 
 {
 "SHA": "", 
-"comments": "Akentrogonida: Rhizocephala, larval structure", 
+"comments": "Rhizocephala: Akentrogonida, larval structure", 
 "decision": "INCLUDED", 
 "name": "Bayesian tree (Henrik Glenner, 2010)", 
 "studyID": "ot_71", 
@@ -40,6 +40,14 @@
 "decision": "INCLUDED", 
 "name": "Fig. 2 (Glenner, 2006)", 
 "studyID": "ot_74", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Rhizocephala: Heterosaccus, larval data", 
+"decision": "INCLUDED", 
+"name": "Bayesian tree (Henrik Glenner, 2008)", 
+"studyID": "ot_75", 
 "treeID": "tree1"
 }
 ], 
