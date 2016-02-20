@@ -9,7 +9,16 @@
 "login": "kcranston", 
 "name": "Karen Cranston"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree6603) (P\u00e9rez-Losada, 2009)", 
+"studyID": "pg_2842", 
+"treeID": "tree6603"
+}
+], 
 "description": "barnacles - collection from clade workshop", 
 "name": "barnacles", 
 "queries": []
