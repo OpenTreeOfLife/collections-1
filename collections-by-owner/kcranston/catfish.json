@@ -97,6 +97,14 @@
 "name": "Figure 21 (, 1987)", 
 "studyID": "ot_633", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Morphological tree of Sisoroidea", 
+"decision": "INCLUDED", 
+"name": "Figure 52 (De Pinna, 1996)", 
+"studyID": "ot_631", 
+"treeID": "tree1"
 }
 ], 
 "description": "Catfish - collection from clade workshops", 
