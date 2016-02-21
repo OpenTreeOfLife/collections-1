@@ -105,6 +105,14 @@
 "name": "Figure 52 (De Pinna, 1996)", 
 "studyID": "ot_631", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figure 13 (SCOTT A. SCHAEFER, 1991)", 
+"studyID": "ot_635", 
+"treeID": "tree1"
 }
 ], 
 "description": "Catfish - collection from clade workshops", 
