@@ -53,6 +53,14 @@
 "name": "MP Morphology (Robert S. Anderson, 2005)", 
 "studyID": "ot_628", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Davis 2014 (Davis PhD dissertation, 2014)", 
+"studyID": "ot_626", 
+"treeID": "tree1"
 }
 ], 
 "description": "Belidae", 
