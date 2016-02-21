@@ -157,6 +157,14 @@
 "name": "Fig. 2A (Ling Ming Tsang, 2012)", 
 "studyID": "ot_621", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 24 (Robert J. Van Syoc, 2010)", 
+"studyID": "ot_632", 
+"treeID": "tree2"
 }
 ], 
 "description": "barnacles - collection from clade workshop", 
