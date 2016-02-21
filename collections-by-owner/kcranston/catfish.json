@@ -37,6 +37,22 @@
 "name": "Tr53870 (Royero R. , 1999)", 
 "studyID": "ot_591", 
 "treeID": "Tr53870"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Bockmann, 1998)", 
+"studyID": "ot_594", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Soares-Porto, 1998)", 
+"studyID": "ot_589", 
+"treeID": "tree1"
 }
 ], 
 "description": "Catfish - collection from clade workshops", 
