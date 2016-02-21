@@ -21,6 +21,22 @@
 "name": "Figure 33 (De Pinna, 2007)", 
 "studyID": "ot_575", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr91777 (Lundberg J.G., 2007)", 
+"studyID": "ot_526", 
+"treeID": "Tr91777"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr53870 (Royero R. , 1999)", 
+"studyID": "ot_591", 
+"treeID": "Tr53870"
 }
 ], 
 "description": "Catfish - collection from clade workshops", 
