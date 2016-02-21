@@ -24,19 +24,19 @@
 "decisions": [
 {
 "SHA": "", 
-"comments": "Preferred Morphological phylogeny of Cetopsidae (whale catfishes)", 
-"decision": "INCLUDED", 
-"name": "Figure 33 (De Pinna, 2007)", 
-"studyID": "ot_575", 
-"treeID": "tree3"
-}, 
-{
-"SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
 "name": "Tr91777 (Lundberg J.G., 2007)", 
 "studyID": "ot_526", 
 "treeID": "Tr91777"
+}, 
+{
+"SHA": "", 
+"comments": "Preferred Morphological phylogeny of Cetopsidae (whale catfishes)", 
+"decision": "INCLUDED", 
+"name": "Figure 33 (De Pinna, 2007)", 
+"studyID": "ot_575", 
+"treeID": "tree3"
 }, 
 {
 "SHA": "", 
