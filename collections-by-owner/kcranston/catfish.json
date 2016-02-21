@@ -53,6 +53,22 @@
 "name": "tree1 (Soares-Porto, 1998)", 
 "studyID": "ot_589", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (ALAN H. BORNBUSCH, 1995)", 
+"studyID": "ot_590", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr53782 (Friel J.P. , 1994)", 
+"studyID": "ot_595", 
+"treeID": "Tr53782"
 }
 ], 
 "description": "Catfish - collection from clade workshops", 
