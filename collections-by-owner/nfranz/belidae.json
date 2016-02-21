@@ -7,6 +7,10 @@
 {
 "login": "steved-zz", 
 "name": "Steven R. Davis"
+}, 
+{
+"login": "gaurav", 
+"name": "Gaurav Vaidya"
 }
 ], 
 "creator": {
@@ -69,6 +73,14 @@
 "name": "Belinae (Kuschel, 2003)", 
 "studyID": "ot_629", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tree-based representation of taxonomic checklist (Charles W. O\u2019Brien and William Tang, 2015)", 
+"studyID": "ot_630", 
+"treeID": "tree6"
 }
 ], 
 "description": "Belidae", 
