@@ -69,6 +69,14 @@
 "name": "Tr53782 (Friel J.P. , 1994)", 
 "studyID": "ot_595", 
 "treeID": "Tr53782"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 17+ (Shibatta O.A. , 1998)", 
+"studyID": "ot_599", 
+"treeID": "Tr53933"
 }
 ], 
 "description": "Catfish - collection from clade workshops", 
