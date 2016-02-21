@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "betanri", 
+"name": "betanri (None)"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree1) (Ricardo Betancur-R, 2015)", 
+"studyID": "ot_622", 
+"treeID": "tree1"
+}
+], 
+"description": "Actinopterygii tree", 
+"name": "Actinopterygii", 
+"queries": []
+}
