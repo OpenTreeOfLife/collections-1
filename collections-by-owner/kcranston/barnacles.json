@@ -165,6 +165,14 @@
 "name": "Fig. 24 (Robert J. Van Syoc, 2010)", 
 "studyID": "ot_632", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 4 (David\u00a0John Rees, 2014)", 
+"studyID": "ot_634", 
+"treeID": "tree1"
 }
 ], 
 "description": "barnacles - collection from clade workshop", 
