@@ -11,6 +11,10 @@
 {
 "login": "ictiologa", 
 "name": "Mariangeles Arce H."
+}, 
+{
+"login": "laurajackson", 
+"name": "laurajackson (None)"
 }
 ], 
 "creator": {
@@ -112,6 +116,14 @@
 "decision": "INCLUDED", 
 "name": "Figure 13 (SCOTT A. SCHAEFER, 1991)", 
 "studyID": "ot_635", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figure 1 (Lundberg JG, 1992)", 
+"studyID": "ot_627", 
 "treeID": "tree1"
 }
 ], 
