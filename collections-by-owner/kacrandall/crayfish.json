@@ -97,6 +97,14 @@
 "name": "NJ_tree_reupload (S Fratini, 2006)", 
 "studyID": "ot_201", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "parastacidae", 
+"decision": "INCLUDED", 
+"name": "RAxML_tree (Erich H. Rudolph, 2012)", 
+"studyID": "ot_205", 
+"treeID": "tree2"
 }
 ], 
 "description": "colleciton of trees for a crayfish synthesis", 
