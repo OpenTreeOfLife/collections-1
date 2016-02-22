@@ -121,6 +121,14 @@
 "name": "ML_tree (Peter Trontelj, 2005)", 
 "studyID": "ot_203", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "cherax", 
+"decision": "INCLUDED", 
+"name": "NJ_tree (D. H N. Munasinghe, 2003)", 
+"studyID": "ot_202", 
+"treeID": "tree2"
 }
 ], 
 "description": "colleciton of trees for a crayfish synthesis", 
