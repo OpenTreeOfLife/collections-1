@@ -105,6 +105,14 @@
 "name": "RAxML_tree (Erich H. Rudolph, 2012)", 
 "studyID": "ot_205", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Parastacidae", 
+"decision": "INCLUDED", 
+"name": "Fig2_Bayesian (Heather C. Shull, 2005)", 
+"studyID": "ot_84", 
+"treeID": "tree4"
 }
 ], 
 "description": "colleciton of trees for a crayfish synthesis", 
