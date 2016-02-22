@@ -1,10 +1,24 @@
 {
-"contributors": [], 
+"contributors": [
+{
+"login": "dbsternGWU", 
+"name": "dbsternGWU (None)"
+}
+], 
 "creator": {
 "login": "kacrandall", 
 "name": "Keith Crandall"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "Deeper Astacidea", 
+"decision": "INCLUDED", 
+"name": "BI 50% maj-rule (Bracken-Grissom, 2014)", 
+"studyID": "pg_2838", 
+"treeID": "tree6594"
+}
+], 
 "description": "colleciton of trees for a crayfish synthesis", 
 "name": "crayfish", 
 "queries": []
