@@ -33,6 +33,14 @@
 "name": "BI 50% maj-rule (Bracken-Grissom, 2014)", 
 "studyID": "pg_2838", 
 "treeID": "tree6594"
+}, 
+{
+"SHA": "", 
+"comments": "Cambarellus", 
+"decision": "INCLUDED", 
+"name": "BEAST (Carlos Pedraza-Lara, 2012)", 
+"studyID": "ot_206", 
+"treeID": "tree2"
 }
 ], 
 "description": "colleciton of trees for a crayfish synthesis", 
