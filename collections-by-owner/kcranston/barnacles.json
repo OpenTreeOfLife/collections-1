@@ -128,6 +128,14 @@
 }, 
 {
 "SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "TREE1 (H\u00f8eg, 2016)", 
+"studyID": "ot_639", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
 "comments": "Balanomorpha", 
 "decision": "INCLUDED", 
 "name": "Bayesian (P\u00e9rez-Losada, 2014)", 
