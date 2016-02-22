@@ -64,6 +64,14 @@
 }, 
 {
 "SHA": "", 
+"comments": "Pyrgomatidae", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (N. Simon-Blecher, 2007)", 
+"studyID": "ot_640", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
 "comments": "Sponge barnacles", 
 "decision": "INCLUDED", 
 "name": "Fig. 4 (David\u00a0John Rees, 2014)", 
@@ -128,7 +136,7 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Rhizocephala", 
 "decision": "INCLUDED", 
 "name": "TREE1 (H\u00f8eg, 2016)", 
 "studyID": "ot_639", 
