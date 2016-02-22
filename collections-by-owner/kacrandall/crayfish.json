@@ -12,19 +12,27 @@
 "decisions": [
 {
 "SHA": "", 
-"comments": "Deeper Astacidea", 
-"decision": "INCLUDED", 
-"name": "BI 50% maj-rule (Bracken-Grissom, 2014)", 
-"studyID": "pg_2838", 
-"treeID": "tree6594"
-}, 
-{
-"SHA": "", 
 "comments": "Fallicambarus", 
 "decision": "INCLUDED", 
 "name": "Untitled (tree6220) (Ainscough, 2013)", 
 "studyID": "pg_2674", 
 "treeID": "tree6220"
+}, 
+{
+"SHA": "", 
+"comments": "Astacidea", 
+"decision": "INCLUDED", 
+"name": "Beast tree Fig1 (Breinholt, 2009)", 
+"studyID": "ot_83", 
+"treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "Deeper Astacidea", 
+"decision": "INCLUDED", 
+"name": "BI 50% maj-rule (Bracken-Grissom, 2014)", 
+"studyID": "pg_2838", 
+"treeID": "tree6594"
 }
 ], 
 "description": "colleciton of trees for a crayfish synthesis", 
