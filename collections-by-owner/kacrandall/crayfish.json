@@ -65,6 +65,14 @@
 "name": "PhyML_tree (Jennifer E. Buhay, 2007)", 
 "studyID": "ot_194", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Parastacidae", 
+"decision": "INCLUDED", 
+"name": "BI tree (Mark B. Schultz, 2009)", 
+"studyID": "ot_76", 
+"treeID": "tree1"
 }
 ], 
 "description": "colleciton of trees for a crayfish synthesis", 
