@@ -137,6 +137,14 @@
 "name": "PAUP_MP (Alycia L. Rode, 2003)", 
 "studyID": "ot_198", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Orconectes", 
+"decision": "INCLUDED", 
+"name": "PAUP_MP (Christopher A. Taylor, 2002)", 
+"studyID": "ot_199", 
+"treeID": "tree2"
 }
 ], 
 "description": "colleciton of trees for a crayfish synthesis", 
