@@ -129,6 +129,14 @@
 "name": "NJ_tree (D. H N. Munasinghe, 2003)", 
 "studyID": "ot_202", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Fossils, morphology", 
+"decision": "INCLUDED", 
+"name": "PAUP_MP (Alycia L. Rode, 2003)", 
+"studyID": "ot_198", 
+"treeID": "tree2"
 }
 ], 
 "description": "colleciton of trees for a crayfish synthesis", 
