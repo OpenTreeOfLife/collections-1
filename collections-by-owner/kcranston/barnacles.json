@@ -120,6 +120,14 @@
 }, 
 {
 "SHA": "", 
+"comments": "Tetraclitidae", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (Ling Ming Tsang, 2015)", 
+"studyID": "ot_643", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
 "comments": "Thoracica", 
 "decision": "INCLUDED", 
 "name": "Bayesian MCC (Hsiu-Chin Lin, 2015)", 
