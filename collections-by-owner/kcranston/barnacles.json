@@ -144,11 +144,11 @@
 }, 
 {
 "SHA": "", 
-"comments": "Thoracica", 
+"comments": "Acrothoracica", 
 "decision": "INCLUDED", 
-"name": "Bayesian MCC (Hsiu-Chin Lin, 2015)", 
-"studyID": "ot_615", 
-"treeID": "Tr76459"
+"name": "Fig. 7A (16S rDNA) (Benny K.K. CHAN, 2013)", 
+"studyID": "ot_646", 
+"treeID": "tree1"
 }, 
 {
 "SHA": "", 
@@ -157,6 +157,14 @@
 "name": "TREE1 (H\u00f8eg, 2016)", 
 "studyID": "ot_639", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Thoracica", 
+"decision": "INCLUDED", 
+"name": "Bayesian MCC (Hsiu-Chin Lin, 2015)", 
+"studyID": "ot_615", 
+"treeID": "Tr76459"
 }, 
 {
 "SHA": "", 
