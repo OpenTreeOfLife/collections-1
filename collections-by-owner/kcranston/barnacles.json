@@ -58,14 +58,6 @@
 "SHA": "", 
 "comments": "Pyrgomatidae", 
 "decision": "INCLUDED", 
-"name": "Fig. 2A (Ling Ming Tsang, 2012)", 
-"studyID": "ot_621", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "Pyrgomatidae", 
-"decision": "INCLUDED", 
 "name": "Fig. 2 (N. Simon-Blecher, 2007)", 
 "studyID": "ot_640", 
 "treeID": "tree1"
