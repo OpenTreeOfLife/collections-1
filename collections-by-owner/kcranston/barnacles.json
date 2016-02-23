@@ -48,6 +48,14 @@
 }, 
 {
 "SHA": "", 
+"comments": "Pyrgomatidae", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (Ling Ming Tsang, 2014)", 
+"studyID": "ot_644", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
 "comments": "Balanomorpha: Pyrgomatidae coral barnacles", 
 "decision": "INCLUDED", 
 "name": "RAxML tree (Maria Celia Machel Defrance Malay, 2014)", 
