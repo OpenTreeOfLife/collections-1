@@ -16,14 +16,6 @@
 "decisions": [
 {
 "SHA": "", 
-"comments": "Conopea", 
-"decision": "INCLUDED", 
-"name": "Figure 1 (Dana Carrison-Stone, 2013)", 
-"studyID": "ot_619", 
-"treeID": "tree8"
-}, 
-{
-"SHA": "", 
 "comments": "Galkinia", 
 "decision": "INCLUDED", 
 "name": "Fig. 2 (Benny K. K. Chan, 2013)", 
@@ -37,6 +29,22 @@
 "name": "Fig. 24 (Robert J. Van Syoc, 2010)", 
 "studyID": "ot_632", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Chthamalidae", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (Wares, 2009)", 
+"studyID": "pg_2919", 
+"treeID": "tree6749"
+}, 
+{
+"SHA": "", 
+"comments": "Conopea", 
+"decision": "INCLUDED", 
+"name": "Figure 1 (Dana Carrison-Stone, 2013)", 
+"studyID": "ot_619", 
+"treeID": "tree8"
 }, 
 {
 "SHA": "", 
@@ -56,34 +64,10 @@
 }, 
 {
 "SHA": "", 
-"comments": "Pyrgomatidae", 
-"decision": "INCLUDED", 
-"name": "Fig. 2 (Ling Ming Tsang, 2014)", 
-"studyID": "ot_644", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
 "comments": "Balanomorpha: Pyrgomatidae coral barnacles", 
 "decision": "INCLUDED", 
 "name": "RAxML tree (Maria Celia Machel Defrance Malay, 2014)", 
 "studyID": "ot_163", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "Pyrgomatidae", 
-"decision": "INCLUDED", 
-"name": "Fig. 2 (N. Simon-Blecher, 2007)", 
-"studyID": "ot_640", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "Sponge barnacles", 
-"decision": "INCLUDED", 
-"name": "Fig. 4 (David\u00a0John Rees, 2014)", 
-"studyID": "ot_634", 
 "treeID": "tree1"
 }, 
 {
@@ -96,11 +80,19 @@
 }, 
 {
 "SHA": "", 
-"comments": "Chthamalidae", 
+"comments": "Pyrgomatidae", 
 "decision": "INCLUDED", 
-"name": "Fig. 2 (Wares, 2009)", 
-"studyID": "pg_2919", 
-"treeID": "tree6749"
+"name": "Fig. 2 (N. Simon-Blecher, 2007)", 
+"studyID": "ot_640", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Pyrgomatidae", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (Ling Ming Tsang, 2014)", 
+"studyID": "ot_644", 
+"treeID": "tree1"
 }, 
 {
 "SHA": "", 
@@ -181,6 +173,14 @@
 "name": "Untitled (tree6745) (Marcos P\u00e9rez-Losada, 2008)", 
 "studyID": "pg_2917", 
 "treeID": "tree6745"
+}, 
+{
+"SHA": "", 
+"comments": "Sponge barnacles", 
+"decision": "INCLUDED", 
+"name": "Fig. 4 (David\u00a0John Rees, 2014)", 
+"studyID": "ot_634", 
+"treeID": "tree1"
 }, 
 {
 "SHA": "", 
