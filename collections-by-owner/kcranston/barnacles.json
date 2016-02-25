@@ -26,8 +26,8 @@
 "SHA": "", 
 "comments": "Pollicipes", 
 "decision": "INCLUDED", 
-"name": "Fig. 24 (Robert J. Van Syoc, 2010)", 
-"studyID": "ot_632", 
+"name": "Fig. 4 (16S) (R.J. Van Syoc, 2010)", 
+"studyID": "ot_651", 
 "treeID": "tree2"
 }, 
 {
@@ -64,11 +64,11 @@
 }, 
 {
 "SHA": "", 
-"comments": "Balanomorpha: Pyrgomatidae coral barnacles", 
+"comments": "Bryozobiinae", 
 "decision": "INCLUDED", 
-"name": "RAxML tree (Maria Celia Machel Defrance Malay, 2014)", 
-"studyID": "ot_163", 
-"treeID": "tree1"
+"name": "Fig. 24 (Robert J. Van Syoc, 2010)", 
+"studyID": "ot_632", 
+"treeID": "tree2"
 }, 
 {
 "SHA": "", 
@@ -80,10 +80,10 @@
 }, 
 {
 "SHA": "", 
-"comments": "Pyrgomatidae", 
+"comments": "Balanomorpha: Pyrgomatidae coral barnacles", 
 "decision": "INCLUDED", 
-"name": "Fig. 2 (N. Simon-Blecher, 2007)", 
-"studyID": "ot_640", 
+"name": "RAxML tree (Maria Celia Machel Defrance Malay, 2014)", 
+"studyID": "ot_163", 
 "treeID": "tree1"
 }, 
 {
@@ -96,34 +96,10 @@
 }, 
 {
 "SHA": "", 
-"comments": "Balanomorpha: Coronuloidea, turtle and whale barnacles", 
+"comments": "Pyrgomatidae", 
 "decision": "INCLUDED", 
-"name": "Fig. 1a (Ryota Hayashi, 2013)", 
-"studyID": "pg_2921", 
-"treeID": "tree6749"
-}, 
-{
-"SHA": "", 
-"comments": "Pedunculata focus with sexual systems information.", 
-"decision": "INCLUDED", 
-"name": "Fig. 2 Bayesian consensus (Yusa, 2012)", 
-"studyID": "pg_2918", 
-"treeID": "tree6755"
-}, 
-{
-"SHA": "", 
-"comments": "Rhizocephala, life history strategies for parasitic barnacles", 
-"decision": "INCLUDED", 
-"name": "Fig. 2 (Glenner, 2006)", 
-"studyID": "ot_74", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "Rhizocephala: Akentrogonida, larval structure", 
-"decision": "INCLUDED", 
-"name": "Bayesian tree (Henrik Glenner, 2010)", 
-"studyID": "ot_71", 
+"name": "Fig. 2 (N. Simon-Blecher, 2007)", 
+"studyID": "ot_640", 
 "treeID": "tree1"
 }, 
 {
@@ -136,6 +112,22 @@
 }, 
 {
 "SHA": "", 
+"comments": "Balanomorpha: Coronuloidea, turtle and whale barnacles", 
+"decision": "INCLUDED", 
+"name": "Fig. 1a (Ryota Hayashi, 2013)", 
+"studyID": "pg_2921", 
+"treeID": "tree6749"
+}, 
+{
+"SHA": "", 
+"comments": "Balanomorpha", 
+"decision": "INCLUDED", 
+"name": "Bayesian (P\u00e9rez-Losada, 2014)", 
+"studyID": "pg_2923", 
+"treeID": "tree6751"
+}, 
+{
+"SHA": "", 
 "comments": "Acrothoracica", 
 "decision": "INCLUDED", 
 "name": "Fig. 7A (16S rDNA) (Benny K.K. CHAN, 2013)", 
@@ -144,10 +136,34 @@
 }, 
 {
 "SHA": "", 
+"comments": "Rhizocephala: Akentrogonida, larval structure", 
+"decision": "INCLUDED", 
+"name": "Bayesian tree (Henrik Glenner, 2010)", 
+"studyID": "ot_71", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "deep sea Antarctic barnacles", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree6752) (Linse, 2013)", 
+"studyID": "pg_2922", 
+"treeID": "tree6752"
+}, 
+{
+"SHA": "", 
 "comments": "Rhizocephala", 
 "decision": "INCLUDED", 
 "name": "TREE1 (H\u00f8eg, 2016)", 
 "studyID": "ot_639", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Rhizocephala, life history strategies for parasitic barnacles", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (Glenner, 2006)", 
+"studyID": "ot_74", 
 "treeID": "tree1"
 }, 
 {
@@ -160,11 +176,19 @@
 }, 
 {
 "SHA": "", 
-"comments": "Balanomorpha", 
+"comments": "Sponge barnacles", 
 "decision": "INCLUDED", 
-"name": "Bayesian (P\u00e9rez-Losada, 2014)", 
-"studyID": "pg_2923", 
-"treeID": "tree6751"
+"name": "Fig. 4 (David\u00a0John Rees, 2014)", 
+"studyID": "ot_634", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "TREE1 (Santiago Herrera, 2015)", 
+"studyID": "ot_618", 
+"treeID": "tree1"
 }, 
 {
 "SHA": "", 
@@ -176,19 +200,11 @@
 }, 
 {
 "SHA": "", 
-"comments": "Sponge barnacles", 
+"comments": "Pedunculata focus with sexual systems information.", 
 "decision": "INCLUDED", 
-"name": "Fig. 4 (David\u00a0John Rees, 2014)", 
-"studyID": "ot_634", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "Thecostraca, character evolution", 
-"decision": "INCLUDED", 
-"name": "Untitled (tree6744) (P\u00e9rez-Losada M, 2012)", 
-"studyID": "pg_2916", 
-"treeID": "tree6744"
+"name": "Fig. 2 Bayesian consensus (Yusa, 2012)", 
+"studyID": "pg_2918", 
+"treeID": "tree6755"
 }, 
 {
 "SHA": "", 
@@ -197,22 +213,6 @@
 "name": "Untitled (tree6603) (P\u00e9rez-Losada, 2009)", 
 "studyID": "pg_2842", 
 "treeID": "tree6603"
-}, 
-{
-"SHA": "", 
-"comments": "deep sea Antarctic barnacles", 
-"decision": "INCLUDED", 
-"name": "Untitled (tree6752) (Linse, 2013)", 
-"studyID": "pg_2922", 
-"treeID": "tree6752"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "TREE1 (Santiago Herrera, 2015)", 
-"studyID": "ot_618", 
-"treeID": "tree1"
 }
 ], 
 "description": "barnacles - collection from clade workshop", 
