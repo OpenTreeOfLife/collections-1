@@ -152,6 +152,14 @@
 }, 
 {
 "SHA": "", 
+"comments": "Acrothoracica", 
+"decision": "INCLUDED", 
+"name": "RAXML best tree (Lin, [no year])", 
+"studyID": "ot_652", 
+"treeID": "tree4"
+}, 
+{
+"SHA": "", 
 "comments": "Rhizocephala", 
 "decision": "INCLUDED", 
 "name": "TREE1 (H\u00f8eg, 2016)", 
