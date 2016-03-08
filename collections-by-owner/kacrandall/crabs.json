@@ -4,7 +4,16 @@
 "login": "kacrandall", 
 "name": "Keith Crandall"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree2660) (Ahyong, 2007)", 
+"studyID": "pg_1336", 
+"treeID": "tree2660"
+}
+], 
 "description": "Brachyuran phylogenies", 
 "name": "crabs", 
 "queries": []
