@@ -1,5 +1,10 @@
 {
-"contributors": [], 
+"contributors": [
+{
+"login": "federicaspani", 
+"name": "federicaspani (None)"
+}
+], 
 "creator": {
 "login": "kacrandall", 
 "name": "Keith Crandall"
