@@ -41,6 +41,14 @@
 "name": "ML-RAxML (EMMA PALACIOS-THEIL, 2009)", 
 "studyID": "ot_134", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "MajoideaBayesTreeFig2 (K.M. Hultgren, 2008)", 
+"studyID": "ot_657", 
+"treeID": "tree4"
 }
 ], 
 "description": "Brachyuran phylogenies", 
