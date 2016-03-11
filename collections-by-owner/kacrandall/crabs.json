@@ -49,6 +49,14 @@
 "name": "MajoideaBayesTreeFig2 (K.M. Hultgren, 2008)", 
 "studyID": "ot_657", 
 "treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "MrBayes 50% maj-rule consensus tree (Joelle C. Y. Lai, 2014)", 
+"studyID": "ot_143", 
+"treeID": "tree1"
 }
 ], 
 "description": "Brachyuran phylogenies", 
