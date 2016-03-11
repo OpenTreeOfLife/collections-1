@@ -4,7 +4,16 @@
 "login": "dbsternGWU", 
 "name": "dbsternGWU (None)"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "ML tree (study has no reference)", 
+"studyID": "ot_658", 
+"treeID": "tree2"
+}
+], 
 "description": "Pancrustacea", 
 "name": "Pancrustacea", 
 "queries": []
