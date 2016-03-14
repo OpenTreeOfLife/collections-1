@@ -9,14 +9,6 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "ML tree (study has no reference)", 
-"studyID": "ot_658", 
-"treeID": "tree2"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "Fig. S1 aaCAT tree (Rota-Stabelli, 2013)", 
 "studyID": "pg_2814", 
 "treeID": "tree6551"
@@ -36,6 +28,14 @@
 "name": "figure 1 tree with unconstrained ML branch lengths (B. Misof, 2014)", 
 "studyID": "ot_211", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "ML tree (study has no reference)", 
+"studyID": "ot_658", 
+"treeID": "tree2"
 }
 ], 
 "description": "Pancrustacea", 
