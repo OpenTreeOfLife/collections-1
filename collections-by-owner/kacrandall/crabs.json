@@ -57,6 +57,14 @@
 "name": "MrBayes 50% maj-rule consensus tree (Joelle C. Y. Lai, 2014)", 
 "studyID": "ot_143", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "MrBayes 50% maj-rule consensus (Robert M. Lasley, 2013)", 
+"studyID": "ot_141", 
+"treeID": "tree1"
 }
 ], 
 "description": "Brachyuran phylogenies", 
