@@ -161,6 +161,14 @@
 "name": "XanthidaeBayestreeFig1 (Joelle C.Y. Lai, 2011)", 
 "studyID": "ot_671", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "UcaBayestreeFig2 (Richard B. Landstorfer, 2009)", 
+"studyID": "ot_672", 
+"treeID": "tree1"
 }
 ], 
 "description": "Brachyuran phylogenies", 
