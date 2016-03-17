@@ -20,14 +20,6 @@
 }, 
 {
 "SHA": "", 
-"comments": "Astacidea", 
-"decision": "INCLUDED", 
-"name": "Beast tree Fig1 (Breinholt, 2009)", 
-"studyID": "ot_83", 
-"treeID": "tree3"
-}, 
-{
-"SHA": "", 
 "comments": "Deeper Astacidea", 
 "decision": "INCLUDED", 
 "name": "BI 50% maj-rule (Bracken-Grissom, 2014)", 
@@ -41,14 +33,6 @@
 "name": "BEAST (Carlos Pedraza-Lara, 2012)", 
 "studyID": "ot_206", 
 "treeID": "tree2"
-}, 
-{
-"SHA": "", 
-"comments": "Parastacidae", 
-"decision": "INCLUDED", 
-"name": "Untitled (tree6219) (Toon, 2010)", 
-"studyID": "pg_2673", 
-"treeID": "tree6219"
 }, 
 {
 "SHA": "", 
@@ -132,6 +116,22 @@
 }, 
 {
 "SHA": "", 
+"comments": "Orconectes", 
+"decision": "INCLUDED", 
+"name": "PAUP_MP (Christopher A. Taylor, 2002)", 
+"studyID": "ot_199", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Parastacidae", 
+"decision": "INCLUDED", 
+"name": "Fig3_ML (Ludwig Buckup, 2000)", 
+"studyID": "ot_200", 
+"treeID": "tree3"
+}, 
+{
+"SHA": "", 
 "comments": "Fossils, morphology", 
 "decision": "INCLUDED", 
 "name": "PAUP_MP (Alycia L. Rode, 2003)", 
@@ -140,11 +140,11 @@
 }, 
 {
 "SHA": "", 
-"comments": "Orconectes", 
+"comments": "Parastacidae", 
 "decision": "INCLUDED", 
-"name": "PAUP_MP (Christopher A. Taylor, 2002)", 
-"studyID": "ot_199", 
-"treeID": "tree2"
+"name": "Untitled (tree6219) (Toon, 2010)", 
+"studyID": "pg_2673", 
+"treeID": "tree6219"
 }, 
 {
 "SHA": "", 
@@ -156,10 +156,10 @@
 }, 
 {
 "SHA": "", 
-"comments": "Parastacidae", 
+"comments": "Astacidea", 
 "decision": "INCLUDED", 
-"name": "Fig3_ML (Ludwig Buckup, 2000)", 
-"studyID": "ot_200", 
+"name": "Beast tree Fig1 (Breinholt, 2009)", 
+"studyID": "ot_83", 
 "treeID": "tree3"
 }, 
 {
