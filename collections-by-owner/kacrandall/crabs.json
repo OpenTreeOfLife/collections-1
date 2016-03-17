@@ -129,6 +129,14 @@
 "name": "GrapsoidcrabNJtreeFig1 (Jing-ming, 2010)", 
 "studyID": "ot_667", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "MacrophthalmidaeBayesTreeFig1 (Jun Kitaura, 2010)", 
+"studyID": "ot_668", 
+"treeID": "tree1"
 }
 ], 
 "description": "Brachyuran phylogenies", 
