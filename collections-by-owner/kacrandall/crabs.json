@@ -137,6 +137,14 @@
 "name": "MacrophthalmidaeBayesTreeFig1 (Jun Kitaura, 2010)", 
 "studyID": "ot_668", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "ParathelphusaBayestreeFig2 (Sebastian Klaus, 2012)", 
+"studyID": "ot_669", 
+"treeID": "tree1"
 }
 ], 
 "description": "Brachyuran phylogenies", 
