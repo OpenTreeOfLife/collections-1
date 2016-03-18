@@ -169,6 +169,14 @@
 "name": "UcaBayestreeFig2 (Richard B. Landstorfer, 2009)", 
 "studyID": "ot_672", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "ScyllaNJtreeFig3 (Hongyu Ma, 2013)", 
+"studyID": "ot_673", 
+"treeID": "tree1"
 }
 ], 
 "description": "Brachyuran phylogenies", 
