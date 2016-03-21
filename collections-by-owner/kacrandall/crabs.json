@@ -209,6 +209,14 @@
 "name": "GrapsidaeBayesTreeFig1 (Christoph D. Schubart, 2011)", 
 "studyID": "ot_680", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "PlagusiidaeBayestreeFig2 (Christoph D. Schubart, 2010)", 
+"studyID": "ot_681", 
+"treeID": "tree2"
 }
 ], 
 "description": "Brachyuran phylogenies", 
