@@ -265,6 +265,14 @@
 "name": "UcaBayestreeFig1 (Shih H., 2013)", 
 "studyID": "ot_687", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "UcaMEtreeFig8 (HSI-TE SHIH, 2013)", 
+"studyID": "ot_688", 
+"treeID": "tree1"
 }
 ], 
 "description": "Brachyuran phylogenies", 
