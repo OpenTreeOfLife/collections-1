@@ -217,6 +217,14 @@
 "name": "PlagusiidaeBayestreeFig2 (Christoph D. Schubart, 2010)", 
 "studyID": "ot_681", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "BrachyuraBayestreeFig3b (Hong Shen, 2013)", 
+"studyID": "ot_682", 
+"treeID": "tree1"
 }
 ], 
 "description": "Brachyuran phylogenies", 
