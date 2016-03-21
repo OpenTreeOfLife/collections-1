@@ -257,6 +257,14 @@
 "name": "GeothelphusaBayestreeFig2 (Hsi-Te Shih, 2011)", 
 "studyID": "ot_686", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "UcaBayestreeFig1 (Shih H., 2013)", 
+"studyID": "ot_687", 
+"treeID": "tree1"
 }
 ], 
 "description": "Brachyuran phylogenies", 
