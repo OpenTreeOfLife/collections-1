@@ -241,6 +241,14 @@
 "name": "UcaBayestreeFig9 (HSI-TE SHIH, 2015)", 
 "studyID": "ot_684", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "NanhaipotamonMLtreeFig2 (Hsi-Te Shih, 2011)", 
+"studyID": "ot_685", 
+"treeID": "tree1"
 }
 ], 
 "description": "Brachyuran phylogenies", 
