@@ -225,6 +225,14 @@
 "name": "BrachyuraBayestreeFig3b (Hong Shen, 2013)", 
 "studyID": "ot_682", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "RaninidaeBayestreeFig4a (Guohui Shi, 2015)", 
+"studyID": "ot_683", 
+"treeID": "tree1"
 }
 ], 
 "description": "Brachyuran phylogenies", 
