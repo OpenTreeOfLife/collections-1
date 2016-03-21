@@ -14,14 +14,6 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Untitled (tree2660) (Ahyong, 2007)", 
-"studyID": "pg_1336", 
-"treeID": "tree2660"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "MrBayes consensus tree (L. M. Tsang, 2014)", 
 "studyID": "ot_99", 
 "treeID": "tree1"
@@ -33,22 +25,6 @@
 "name": "ML-RAxML (Brent P. Thoma, 2013)", 
 "studyID": "ot_135", 
 "treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "ML-RAxML (EMMA PALACIOS-THEIL, 2009)", 
-"studyID": "ot_134", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "MajoideaBayesTreeFig2 (K.M. Hultgren, 2008)", 
-"studyID": "ot_657", 
-"treeID": "tree4"
 }, 
 {
 "SHA": "", 
