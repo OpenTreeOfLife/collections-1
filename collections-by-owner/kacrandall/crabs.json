@@ -297,6 +297,14 @@
 "name": "CryptochiridaeMLtreeFig1 (Sancia E.T. van der Meij, 2016)", 
 "studyID": "ot_691", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "CryptochiridaeBayestreeFig2 (Sancia E. T. van der Meij, 2014)", 
+"studyID": "ot_692", 
+"treeID": "tree1"
 }
 ], 
 "description": "Brachyuran phylogenies", 
