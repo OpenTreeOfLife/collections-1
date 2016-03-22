@@ -313,6 +313,14 @@
 "name": "OcypodeBayestreeFig9 (K. J.H. WONG, 2013)", 
 "studyID": "ot_693", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "GandalfusMLtreeFig3a (Jin-Shu Yang, 2010)", 
+"studyID": "ot_694", 
+"treeID": "tree1"
 }
 ], 
 "description": "Brachyuran phylogenies", 
