@@ -4,7 +4,16 @@
 "login": "kcranston", 
 "name": "Karen Cranston"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 ML (Selvatti, 2015)", 
+"studyID": "ot_290", 
+"treeID": "tree1"
+}
+], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
 "name": "Inputs to synthesis (default)", 
 "queries": []
