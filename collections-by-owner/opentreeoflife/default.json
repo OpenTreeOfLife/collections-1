@@ -3,6 +3,10 @@
 {
 "login": "DMaddison", 
 "name": "David Maddison"
+}, 
+{
+"login": "cdspecht", 
+"name": "cdspecht (None)"
 }
 ], 
 "creator": {
@@ -16,6 +20,14 @@
 "decision": "INCLUDED", 
 "name": "Fig. 2 ML (Selvatti, 2015)", 
 "studyID": "ot_290", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Zingiberales Sass et al PeerJ 2016 (Chodon Sass, 2016)", 
+"studyID": "ot_709", 
 "treeID": "tree1"
 }
 ], 
