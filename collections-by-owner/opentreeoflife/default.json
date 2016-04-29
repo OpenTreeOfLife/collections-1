@@ -41,6 +41,14 @@
 "name": "Majority-Rule Consensus of 2000 trees from Trees stored in block \"7Genes MLBoot Trees (PartitionFinder)\" (David Maddison, 2014)", 
 "studyID": "ot_624", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree 3 (Shayla Salzman, 2015)", 
+"studyID": "ot_711", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
