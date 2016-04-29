@@ -7,6 +7,10 @@
 {
 "login": "cdspecht", 
 "name": "cdspecht (None)"
+}, 
+{
+"login": "mtholder", 
+"name": "Mark T. Holder"
 }
 ], 
 "creator": {
@@ -29,6 +33,14 @@
 "name": "Zingiberales Sass et al PeerJ 2016 (Chodon Sass, 2016)", 
 "studyID": "ot_709", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Majority-Rule Consensus of 2000 trees from Trees stored in block \"7Genes MLBoot Trees (PartitionFinder)\" (David Maddison, 2014)", 
+"studyID": "ot_624", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
