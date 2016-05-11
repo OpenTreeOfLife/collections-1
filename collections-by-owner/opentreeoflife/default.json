@@ -49,6 +49,30 @@
 "name": "tree 3 (Shayla Salzman, 2015)", 
 "studyID": "ot_711", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (Yang X., 2014)", 
+"studyID": "ot_44", 
+"treeID": "Tr64893"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr63070 (Lorch J.M., 2012)", 
+"studyID": "ot_19", 
+"treeID": "Tr63070"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Hibbett & Gazis. Fungi Classification update. , 2015)", 
+"studyID": "ot_246", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
