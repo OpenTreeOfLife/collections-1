@@ -81,6 +81,22 @@
 "name": "Ericales (tree530) (S. A. Smith, 2008)", 
 "studyID": "pg_422", 
 "treeID": "tree530"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Tedford, 2009)", 
+"studyID": "ot_278", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4 (Yoshiyuki Ishitani, 2011)", 
+"studyID": "ot_97", 
+"treeID": "tree4"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
