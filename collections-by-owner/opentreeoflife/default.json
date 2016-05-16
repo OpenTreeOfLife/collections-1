@@ -81,6 +81,14 @@
 "name": "Imported tree 0 (Hibbett & Gazis. Fungi Classification update. , 2015)", 
 "studyID": "ot_246", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Ericales (tree530) (S. A. Smith, 2008)", 
+"studyID": "pg_422", 
+"treeID": "tree530"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
