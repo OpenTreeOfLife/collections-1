@@ -97,6 +97,22 @@
 "name": "tree4 (Yoshiyuki Ishitani, 2011)", 
 "studyID": "ot_97", 
 "treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr77496 (K. M. Kozak, 2015)", 
+"studyID": "ot_488", 
+"treeID": "Tr77496"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6388 (Barker F., 2004)", 
+"studyID": "pg_2404", 
+"treeID": "tree6388"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
