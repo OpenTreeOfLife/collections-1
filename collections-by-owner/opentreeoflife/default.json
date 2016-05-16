@@ -73,6 +73,14 @@
 "name": "Fig. 2b (Callejas R., 2008)", 
 "studyID": "pg_108", 
 "treeID": "tree4130"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Imported tree 0 (Hibbett & Gazis. Fungi Classification update. , 2015)", 
+"studyID": "ot_246", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
