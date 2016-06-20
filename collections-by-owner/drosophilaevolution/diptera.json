@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "drosophilaevolution", 
+"name": "drosophilaevolution"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule (Kari Roesch Goodman, 2014)", 
+"studyID": "ot_736", 
+"treeID": "tree1"
+}
+], 
+"description": "Phylogenetic Studies of Flies", 
+"name": "Diptera", 
+"queries": []
+}
