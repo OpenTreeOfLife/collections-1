@@ -28,6 +28,14 @@
 "name": "tree1 (Kevin L. Tang, 2013)", 
 "studyID": "ot_737", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (Francesco Santini, 2013)", 
+"studyID": "ot_738", 
+"treeID": "tree1"
 }
 ], 
 "description": "Adding published phylogenies to resolve relationships of teleost clades for which I have associated fin loss data for character mapping", 
