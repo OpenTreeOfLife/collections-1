@@ -7,6 +7,10 @@
 {
 "login": "bredelings", 
 "name": "Benjamin Redelings"
+}, 
+{
+"login": "drosophilaevolution", 
+"name": "drosophilaevolution"
 }
 ], 
 "creator": {
@@ -1524,6 +1528,14 @@
 "decision": "INCLUDED", 
 "name": "tree1 (Delsuc, 2016)", 
 "studyID": "ot_642", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule (Kari Roesch Goodman, 2014)", 
+"studyID": "ot_736", 
 "treeID": "tree1"
 }, 
 {
