@@ -121,6 +121,14 @@
 "name": "con 50 majrule++ (Mariangeles Arce H., 2013)", 
 "studyID": "ot_623", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 24 (Marcelo R. Britto, 2003)", 
+"studyID": "ot_597", 
+"treeID": "Tr53543"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
