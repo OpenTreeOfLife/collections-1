@@ -113,6 +113,14 @@
 "name": "tree6388 (Barker F., 2004)", 
 "studyID": "pg_2404", 
 "treeID": "tree6388"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule++ (Mariangeles Arce H., 2013)", 
+"studyID": "ot_623", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
