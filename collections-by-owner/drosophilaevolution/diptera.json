@@ -12,6 +12,14 @@
 "name": "con 50 majrule (Kari Roesch Goodman, 2014)", 
 "studyID": "ot_736", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "TREE1 (Richard T. Lapoint, 2011)", 
+"studyID": "ot_741", 
+"treeID": "tree1"
 }
 ], 
 "description": "Phylogenetic Studies of Flies", 
