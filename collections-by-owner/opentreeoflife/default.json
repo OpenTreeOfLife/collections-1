@@ -129,6 +129,14 @@
 "name": "Fig. 24 (Marcelo R. Britto, 2003)", 
 "studyID": "ot_597", 
 "treeID": "Tr53543"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figs. 36-38 (Armbruster J.W. , 2004)", 
+"studyID": "pg_2071", 
+"treeID": "tree4264"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
