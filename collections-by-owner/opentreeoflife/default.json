@@ -137,6 +137,14 @@
 "name": "Figs. 36-38 (Armbruster J.W. , 2004)", 
 "studyID": "pg_2071", 
 "treeID": "tree4264"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3 (BEAST) (Cushing, 2015)", 
+"studyID": "ot_509", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
