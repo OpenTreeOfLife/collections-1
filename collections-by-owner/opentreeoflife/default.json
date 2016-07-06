@@ -161,6 +161,14 @@
 "name": "Fig. \uf732. Mid-point rooted maximum likelihood phylogeny (ITS, nLSU, nSSU, rpb2) of the Tricholomataceae s.str. Bootstrap values \u2265 70 and Bayesian posterior probabilities \u2265 0.95 are shown at branches. Types of generic names are indicated in bold. Taxa labels follow updated nomenclature presented in the Taxonomy section. (Sanchez-garcia M., 2014)", 
 "studyID": "ot_331", 
 "treeID": "Tr77751"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "FIG. 1. Phylogram based on ML analyses of ITS1-5.8S-ITS2 rDNA sequences, showing where fungal associates of pine bark beetles in Spain from the study of Romo\u00b4n et al. (2007) groups within the Ophiostomatales. (P. Romon, 2014)", 
+"studyID": "ot_340", 
+"treeID": "Tr52077"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
