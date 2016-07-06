@@ -169,6 +169,14 @@
 "name": "FIG. 1. Phylogram based on ML analyses of ITS1-5.8S-ITS2 rDNA sequences, showing where fungal associates of pine bark beetles in Spain from the study of Romo\u00b4n et al. (2007) groups within the Ophiostomatales. (P. Romon, 2014)", 
 "studyID": "ot_340", 
 "treeID": "Tr52077"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 1-topology-similar to publication? (Jae-Gu Han, 2014)", 
+"studyID": "ot_232", 
+"treeID": "Tr49047"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
