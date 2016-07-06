@@ -153,6 +153,14 @@
 "name": "best (Kaliszewska Z.A., 2015)", 
 "studyID": "ot_530", 
 "treeID": "Tr81397"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. \uf732. Mid-point rooted maximum likelihood phylogeny (ITS, nLSU, nSSU, rpb2) of the Tricholomataceae s.str. Bootstrap values \u2265 70 and Bayesian posterior probabilities \u2265 0.95 are shown at branches. Types of generic names are indicated in bold. Taxa labels follow updated nomenclature presented in the Taxonomy section. (Sanchez-garcia M., 2014)", 
+"studyID": "ot_331", 
+"treeID": "Tr77751"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
