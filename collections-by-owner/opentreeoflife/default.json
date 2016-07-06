@@ -145,6 +145,14 @@
 "name": "Fig. 3 (BEAST) (Cushing, 2015)", 
 "studyID": "ot_509", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "best (Kaliszewska Z.A., 2015)", 
+"studyID": "ot_530", 
+"treeID": "Tr81397"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
