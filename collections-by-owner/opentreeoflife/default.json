@@ -209,6 +209,54 @@
 "name": "Bayesian consensus (Ohlson, 2013)", 
 "studyID": "pg_2796", 
 "treeID": "tree6491"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6130 (Sandra C. Craveiro, 2011)", 
+"studyID": "pg_2618", 
+"treeID": "tree6130"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3743 (Mann, 2006)", 
+"studyID": "pg_1854", 
+"treeID": "tree3743"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr63300 (J. L. Alves, 2013)", 
+"studyID": "ot_389", 
+"treeID": "Tr63300"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (K.Y. Ma, 2009)", 
+"studyID": "ot_115", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1585 (Porter T.M., 2011)", 
+"studyID": "pg_827", 
+"treeID": "tree1585"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr3688 (Cooke D., 2000)", 
+"studyID": "ot_26", 
+"treeID": "Tr3688"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
