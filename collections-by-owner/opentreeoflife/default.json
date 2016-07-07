@@ -177,6 +177,14 @@
 "name": "Fig. 1-topology-similar to publication? (Jae-Gu Han, 2014)", 
 "studyID": "ot_232", 
 "treeID": "Tr49047"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figure 1 (no edge lengths) (O'Leary, 2013)", 
+"studyID": "pg_2647", 
+"treeID": "tree6169"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
