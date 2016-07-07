@@ -185,6 +185,14 @@
 "name": "Figure 1 (no edge lengths) (O'Leary, 2013)", 
 "studyID": "pg_2647", 
 "treeID": "tree6169"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 1 Maximum likelihood (ML) tree obtained from the combined LSU and ITS sequences of 61 representative taxa of Microascaceae and Graphiaceae. (Sandoval-denis M.P., 2016)", 
+"studyID": "ot_453", 
+"treeID": "Tr87992"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
