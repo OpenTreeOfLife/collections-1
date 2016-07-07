@@ -257,6 +257,38 @@
 "name": "Tr3688 (Cooke D., 2000)", 
 "studyID": "ot_26", 
 "treeID": "Tr3688"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6744 (P\u00e9rez-Losada M, 2012)", 
+"studyID": "pg_2916", 
+"treeID": "tree6744"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr53059 (T. Shirouzu, 2013)", 
+"studyID": "ot_317", 
+"treeID": "Tr53059"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr80994 (M. J. Trappe, 2015)", 
+"studyID": "ot_458", 
+"treeID": "Tr80994"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6760 (Thiago da Silva Paiva, 2014)", 
+"studyID": "pg_2927", 
+"treeID": "tree6760"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
