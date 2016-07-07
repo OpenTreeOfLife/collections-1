@@ -401,6 +401,174 @@
 "name": "Tr72273 (Thongklang N., 2014)", 
 "studyID": "ot_221", 
 "treeID": "Tr72273"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr3687 (Cooke D., 2000)", 
+"studyID": "ot_26", 
+"treeID": "Tr3687"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Dos Remedios, 2015)", 
+"studyID": "ot_289", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Oatley, 2015)", 
+"studyID": "ot_305", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr70597 (A. da Marcela Vasco-Palacios, 2014)", 
+"studyID": "ot_435", 
+"treeID": "Tr70597"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr75519 (P. Sandoval-Leiva, 2014)", 
+"studyID": "ot_445", 
+"treeID": "Tr75519"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3798 (Sidlauskas B.L. , 2008)", 
+"studyID": "pg_1879", 
+"treeID": "tree3798"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr75532 (H. Urbina, 2012)", 
+"studyID": "ot_447", 
+"treeID": "Tr75532"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr92138 (Hisayoshi Nozaki, 2015)", 
+"studyID": "ot_555", 
+"treeID": "Tr92138"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr70451 (Ryo Matsuzaki, 2014)", 
+"studyID": "ot_559", 
+"treeID": "Tr70451"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2 (Gibb, 2015)", 
+"studyID": "ot_647", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree856 (Thomas B. Patterson, 2002)", 
+"studyID": "pg_580", 
+"treeID": "tree856"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2455 (Delsuc, 2008)", 
+"studyID": "pg_1217", 
+"treeID": "tree2455"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3298 (Endo M., 2008)", 
+"studyID": "pg_1632", 
+"treeID": "tree3298"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6271 (Floudas, 6089)", 
+"studyID": "pg_2701", 
+"treeID": "tree6271"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6432 (Wyth L. Marshall, 2008)", 
+"studyID": "pg_2775", 
+"treeID": "tree6432"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6705 (Shuhei Ota, 2012)", 
+"studyID": "pg_2793", 
+"treeID": "tree6705"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6550 (Rota-Stabelli, 2011)", 
+"studyID": "pg_2813", 
+"treeID": "tree6550"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6667 (Tietze, 2013)", 
+"studyID": "pg_2874", 
+"treeID": "tree6667"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6698 (Bonnie R. Lei, 2014)", 
+"studyID": "pg_2889", 
+"treeID": "tree6698"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6701 (Rice, 2005)", 
+"studyID": "pg_2890", 
+"treeID": "tree6701"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6551 (Rota-Stabelli, 2013)", 
+"studyID": "pg_2814", 
+"treeID": "tree6551"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
