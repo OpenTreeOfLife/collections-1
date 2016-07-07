@@ -289,6 +289,94 @@
 "name": "tree6760 (Thiago da Silva Paiva, 2014)", 
 "studyID": "pg_2927", 
 "treeID": "tree6760"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr74361 (M. Gelardi, 2014)", 
+"studyID": "ot_443", 
+"treeID": "Tr74361"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree505 (Schroers, 2005)", 
+"studyID": "pg_404", 
+"treeID": "tree505"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2 (dos Reis, 2015)", 
+"studyID": "ot_508", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6545 (Lartillot, 2012)", 
+"studyID": "pg_2812", 
+"treeID": "tree6545"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Qi Kou, 2013)", 
+"studyID": "ot_131", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4 (K.M. Hultgren, 2008)", 
+"studyID": "ot_657", 
+"treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Sun, 2016)", 
+"studyID": "ot_535", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Ksepka, 2015)", 
+"studyID": "ot_534", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr85942 (Frederik Leliaert, 2015)", 
+"studyID": "ot_546", 
+"treeID": "Tr85942"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Gao, 2014)", 
+"studyID": "ot_105", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Ka Yan Ma, 2011)", 
+"studyID": "ot_114", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
