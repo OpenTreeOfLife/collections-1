@@ -193,6 +193,14 @@
 "name": "Fig. 1 Maximum likelihood (ML) tree obtained from the combined LSU and ITS sequences of 61 representative taxa of Microascaceae and Graphiaceae. (Sandoval-denis M.P., 2016)", 
 "studyID": "ot_453", 
 "treeID": "Tr87992"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig 5 strict consensus (Sidlauskas B.L. , 2008)", 
+"studyID": "pg_1879", 
+"treeID": "tree3796"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
