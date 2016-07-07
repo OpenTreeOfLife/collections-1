@@ -377,6 +377,30 @@
 "name": "tree1 (Ka Yan Ma, 2011)", 
 "studyID": "ot_114", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Qi Kou, 2013)", 
+"studyID": "ot_132", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4 (Dietrich, 1994)", 
+"studyID": "ot_218", 
+"treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr72273 (Thongklang N., 2014)", 
+"studyID": "ot_221", 
+"treeID": "Tr72273"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
