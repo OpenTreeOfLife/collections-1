@@ -11,6 +11,10 @@
 {
 "login": "mtholder", 
 "name": "Mark T. Holder"
+}, 
+{
+"login": "plewis", 
+"name": "Paul O. Lewis"
 }
 ], 
 "creator": {
@@ -569,6 +573,14 @@
 "name": "tree6551 (Rota-Stabelli, 2013)", 
 "studyID": "pg_2814", 
 "treeID": "tree6551"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Bayesian 18S Chlorophyceae (S. Watanabe, 2016)", 
+"studyID": "ot_752", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
