@@ -9,17 +9,17 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (DAVID R. MADDISON, 2013)", 
-"studyID": "ot_760", 
-"treeID": "tree1"
+"name": "tree2 (David Maddison, 2014)", 
+"studyID": "ot_624", 
+"treeID": "tree2"
 }, 
 {
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree2 (David Maddison, 2014)", 
-"studyID": "ot_624", 
-"treeID": "tree2"
+"name": "tree1 (DAVID R. MADDISON, 2013)", 
+"studyID": "ot_760", 
+"treeID": "tree1"
 }, 
 {
 "SHA": "", 
