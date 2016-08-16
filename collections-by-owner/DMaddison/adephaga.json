@@ -28,6 +28,14 @@
 "name": "tree3 (David R. Maddison, 2012)", 
 "studyID": "ot_762", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2 (David R. Maddison, 2012)", 
+"studyID": "ot_762", 
+"treeID": "tree2"
 }
 ], 
 "description": "trees for the beetle suborder Adephaga", 
