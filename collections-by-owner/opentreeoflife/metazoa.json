@@ -26,6 +26,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "S5. Maximum Clade Credibility Tree of Toussaint et al. fully annotated. (EMMANUEL F. A. TOUSSAINT, 2016)", 
+"studyID": "ot_764", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "tree1 (Pereira, 2002)", 
 "studyID": "ot_119", 
 "treeID": "tree1"
@@ -1556,14 +1564,6 @@
 "decision": "INCLUDED", 
 "name": "TREE1 (Richard T. Lapoint, 2011)", 
 "studyID": "ot_741", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "S5. Maximum Clade Credibility Tree of Toussaint et al. fully annotated. (EMMANUEL F. A. TOUSSAINT, 2016)", 
-"studyID": "ot_764", 
 "treeID": "tree1"
 }
 ], 
