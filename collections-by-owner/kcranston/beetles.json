@@ -77,6 +77,14 @@
 "name": "MP Morphology (Robert S. Anderson, 2013)", 
 "studyID": "ot_616", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Cladogram of Minyomerus sec. Jansen & Franz 2015 (Michael Andrew Jansen, 2015)", 
+"studyID": "ot_765", 
+"treeID": "tree1"
 }
 ], 
 "description": "Beetles - collection from clade workshops", 
