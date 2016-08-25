@@ -573,6 +573,14 @@
 "name": "Bayesian 18S Chlorophyceae (S. Watanabe, 2016)", 
 "studyID": "ot_752", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figure 1 (Martin Malmstr\u00f8m, [no year])", 
+"studyID": "ot_771", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
