@@ -15,6 +15,10 @@
 {
 "login": "mtholder", 
 "name": "Mark T. Holder"
+}, 
+{
+"login": "kcranston", 
+"name": "Karen Cranston"
 }
 ], 
 "creator": {
@@ -1564,6 +1568,14 @@
 "decision": "INCLUDED", 
 "name": "TREE1 (Richard T. Lapoint, 2011)", 
 "studyID": "ot_741", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3 FBD (full data) (Herrera, 2016)", 
+"studyID": "ot_722", 
 "treeID": "tree1"
 }
 ], 
