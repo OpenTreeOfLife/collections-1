@@ -581,6 +581,14 @@
 "name": "Figure 1 (Martin Malmstr\u00f8m, [no year])", 
 "studyID": "ot_771", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "ML majority-rule consensus (Betancur-R., 2013)", 
+"studyID": "pg_2651", 
+"treeID": "tree6177"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
