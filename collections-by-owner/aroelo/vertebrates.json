@@ -9,9 +9,33 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Untitled (tree5959) (Crawford, 2012)", 
-"studyID": "pg_2573", 
-"treeID": "tree5959"
+"name": "tree2 (dos Reis, 2015)", 
+"studyID": "ot_508", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2455 (Delsuc, 2008)", 
+"studyID": "pg_1217", 
+"treeID": "tree2455"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6291 (Ryan, 2013)", 
+"studyID": "pg_2710", 
+"treeID": "tree6291"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6569 (Parfrey, 2011)", 
+"studyID": "pg_2822", 
+"treeID": "tree6569"
 }
 ], 
 "description": "vertebrates", 
