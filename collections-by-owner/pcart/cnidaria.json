@@ -124,14 +124,6 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Zoantharia (Nano+Micro) 16S Bayes (Fujii & Reimer 2013) (Takuma Fujii, 2013)", 
-"studyID": "ot_933", 
-"treeID": "tree3"
-}, 
-{
-"SHA": "", 
 "comments": "naked coral tree", 
 "decision": "INCLUDED", 
 "name": "nt partitioned gene raxml (Mei Fang Lin, 2016)", 
