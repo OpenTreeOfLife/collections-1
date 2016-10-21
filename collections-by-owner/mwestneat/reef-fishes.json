@@ -7,6 +7,10 @@
 {
 "login": "cmnash", 
 "name": "Chloe Nash"
+}, 
+{
+"login": "cmccord773", 
+"name": "Charlene &quot;Charlie&quot; McCord"
 }
 ], 
 "creator": {
@@ -68,6 +72,14 @@
 "decision": "INCLUDED", 
 "name": "tree1 (Mark W. Westneat, 2005)", 
 "studyID": "ot_613", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree1) (F. Santini, 2013)", 
+"studyID": "ot_955", 
 "treeID": "tree1"
 }
 ], 
