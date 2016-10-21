@@ -148,6 +148,14 @@
 }, 
 {
 "SHA": "", 
+"comments": "Adds Nanozoanthidae + Abyssoanthidae to Zoantharia.", 
+"decision": "INCLUDED", 
+"name": "16S (Nano + Abyyso) Bayes (Fujii & Reimer 2013) (Takuma Fujii, 2013)", 
+"studyID": "ot_957", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
 "comments": "Epiactis", 
 "decision": "INCLUDED", 
 "name": "tree 1 (Larson P., 2015)", 
@@ -164,19 +172,11 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Adds Microzoanthdae to Zoantharia.", 
 "decision": "INCLUDED", 
 "name": "Zoantharia (Microzoanthidae) COI ML (Fujii & Reimer 2011) (Fujii T, 2011)", 
 "studyID": "ot_933", 
 "treeID": "tree2"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Zoantharia 16S + COI ML tree (Santos 2015) (Maria Eduarda Alves Santos, 2015)", 
-"studyID": "ot_925", 
-"treeID": "tree1"
 }, 
 {
 "SHA": "", 
@@ -217,6 +217,14 @@
 "name": "Drymonematidae_Baya & Dawson (2010) (Bayha K.M., 2010)", 
 "studyID": "pg_1947", 
 "treeID": "tree3965"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Zoantharia 16S + COI ML tree (Santos 2015) (Maria Eduarda Alves Santos, 2015)", 
+"studyID": "ot_925", 
+"treeID": "tree1"
 }
 ], 
 "description": "Epiactis tree from larson and daly", 
