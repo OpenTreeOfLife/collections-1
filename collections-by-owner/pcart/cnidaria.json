@@ -38,6 +38,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "matrix 16S18S28S_Nrw4 (Maximiliano M. Maronna, 2016)", 
+"studyID": "ot_714", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Untitled (tree3) (Takuma Fujii, 2013)", 
 "studyID": "ot_933", 
 "treeID": "tree3"
@@ -49,14 +57,6 @@
 "name": "Untitled (tree1) (Maria Eduarda Alves Santos, 2015)", 
 "studyID": "ot_925", 
 "treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "matrix 16S18S28S_Nrw4 (Maximiliano M. Maronna, 2016)", 
-"studyID": "ot_714", 
-"treeID": "tree2"
 }
 ], 
 "description": "", 
