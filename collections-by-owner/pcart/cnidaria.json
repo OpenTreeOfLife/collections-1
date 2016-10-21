@@ -23,6 +23,10 @@
 {
 "login": "Tesserazoa", 
 "name": "Tesserazoa"
+}, 
+{
+"login": "mndawson", 
+"name": "mndawson"
 }
 ], 
 "creator": {
@@ -125,6 +129,14 @@
 "name": "nt partitioned gene raxml (Mei Fang Lin, 2016)", 
 "studyID": "ot_944", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "As of this date, it's the best backbone for the Class", 
+"decision": "INCLUDED", 
+"name": "Scyphozoa_Bayha&c2010_18S28S_Tree04 (K. M. Bayha, 2010)", 
+"studyID": "ot_932", 
+"treeID": "tree6"
 }
 ], 
 "description": "Epiactis tree from larson and daly", 
