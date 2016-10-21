@@ -25,6 +25,22 @@
 "name": "tree1 (Martin Malmstr\u00f8m, 2016)", 
 "studyID": "ot_771", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2 (Jennifer L. Fessler, 2007)", 
+"studyID": "ot_948", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (W. James Cooper, 2009)", 
+"studyID": "ot_951", 
+"treeID": "tree1"
 }
 ], 
 "description": "Reef Fish Trees", 
