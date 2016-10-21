@@ -4,7 +4,16 @@
 "login": "pcart", 
 "name": "pcart"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "1 (Felipe Zapata, 2015)", 
+"studyID": "ot_895", 
+"treeID": "tree1"
+}
+], 
 "description": "", 
 "name": "Cnidaria", 
 "queries": []
