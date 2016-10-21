@@ -196,7 +196,7 @@
 }, 
 {
 "SHA": "", 
-"comments": "Octocorallia: Alcyoniidae", 
+"comments": "Octocorallia,family Alcyoniidae", 
 "decision": "INCLUDED", 
 "name": "Cladiella+Klyxum (Benayahu Y, 2013)", 
 "studyID": "ot_947", 
@@ -224,6 +224,14 @@
 "decision": "INCLUDED", 
 "name": "Zoantharia 16S + COI ML tree (Santos 2015) (Maria Eduarda Alves Santos, 2015)", 
 "studyID": "ot_925", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Octocorallia: Xeniidae", 
+"decision": "INCLUDED", 
+"name": "Xeniidae mt+28S (Michael Janes, 2014)", 
+"studyID": "ot_960", 
 "treeID": "tree1"
 }
 ], 
