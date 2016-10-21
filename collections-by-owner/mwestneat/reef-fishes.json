@@ -1,5 +1,10 @@
 {
-"contributors": [], 
+"contributors": [
+{
+"login": "hiweller", 
+"name": "Hannah Weller"
+}
+], 
 "creator": {
 "login": "mwestneat", 
 "name": "Mark Westneat"
