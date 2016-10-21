@@ -3,6 +3,10 @@
 {
 "login": "hiweller", 
 "name": "Hannah Weller"
+}, 
+{
+"login": "cmnash", 
+"name": "Chloe Nash"
 }
 ], 
 "creator": {
@@ -49,6 +53,14 @@
 "name": "tree2 (Peter Rask M\u00f8ller, 2016)", 
 "studyID": "ot_935", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tree1(S. T. Friedman, 2016, modified from Sorenson, 2013) (S. T. Friedman, 2016)", 
+"studyID": "ot_934", 
+"treeID": "tree1"
 }
 ], 
 "description": "Reef Fish Trees", 
