@@ -38,14 +38,6 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "matrix 16S18S28S_Nrw4 (Maximiliano M. Maronna, 2016)", 
-"studyID": "ot_714", 
-"treeID": "tree2"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "ML - Hydroidollina (tree6257) (Cartwright, 2008)", 
 "studyID": "pg_1786", 
 "treeID": "tree6257"
