@@ -113,6 +113,14 @@
 "name": "tree 1 (Larson P., 2015)", 
 "studyID": "ot_729", 
 "treeID": "Tr90969"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "nt partitioned gene raxml (Mei Fang Lin, 2016)", 
+"studyID": "ot_944", 
+"treeID": "tree1"
 }
 ], 
 "description": "Epiactis tree from larson and daly", 
