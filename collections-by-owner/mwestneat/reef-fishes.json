@@ -41,6 +41,14 @@
 "name": "tree1 (W. James Cooper, 2009)", 
 "studyID": "ot_951", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2 (Peter Rask M\u00f8ller, 2016)", 
+"studyID": "ot_935", 
+"treeID": "tree2"
 }
 ], 
 "description": "Reef Fish Trees", 
