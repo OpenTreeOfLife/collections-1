@@ -11,6 +11,10 @@
 {
 "login": "L-Leclere", 
 "name": "L-Leclere"
+}, 
+{
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
 }
 ], 
 "creator": {
@@ -65,6 +69,14 @@
 "name": "Leptothecata ML 16S18S28S_Nrw4 (Maximiliano M. Maronna, 2016)", 
 "studyID": "ot_714", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Zoantharia ITS+28S+12S+16S ML (Swain 2016) (Swain T.D., 2016)", 
+"studyID": "ot_924", 
+"treeID": "Tr97534"
 }
 ], 
 "description": "", 
