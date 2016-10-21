@@ -31,6 +31,10 @@
 {
 "login": "mtholder", 
 "name": "Mark T. Holder"
+}, 
+{
+"login": "csmcfadden", 
+"name": "Catherine McFadden"
 }
 ], 
 "creator": {
@@ -165,6 +169,14 @@
 "name": "tree 1 (Larson P., 2015)", 
 "studyID": "ot_729", 
 "treeID": "Tr90969"
+}, 
+{
+"SHA": "", 
+"comments": "Caribbean gorgonians", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule (Johanna Vel\u00e1squez, 2015)", 
+"studyID": "ot_949", 
+"treeID": "tree1"
 }
 ], 
 "description": "Epiactis tree from larson and daly", 
