@@ -73,6 +73,14 @@
 "name": "Myxosporea (tree5206) (Bartosova P., 2009)", 
 "studyID": "pg_2445", 
 "treeID": "tree5206"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Cubozoa (tree3974) (Bentlage B. , 2010)", 
+"studyID": "pg_1951", 
+"treeID": "tree3974"
 }
 ], 
 "description": "", 
