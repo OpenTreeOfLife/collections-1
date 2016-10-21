@@ -4,7 +4,16 @@
 "login": "mwestneat", 
 "name": "Mark Westneat"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (McCord, 2016)", 
+"studyID": "ot_523", 
+"treeID": "tree1"
+}
+], 
 "description": "Reef Fish Trees", 
 "name": "Reef Fishes", 
 "queries": []
