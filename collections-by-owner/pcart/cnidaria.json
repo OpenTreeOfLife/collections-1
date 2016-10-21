@@ -177,6 +177,14 @@
 "name": "Zoantharia 16S + COI ML tree (Santos 2015) (Maria Eduarda Alves Santos, 2015)", 
 "studyID": "ot_925", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Octocorallia: Alcyoniidae: Sinularia", 
+"decision": "INCLUDED", 
+"name": "Sinularia (Benayahu Y, 2013)", 
+"studyID": "ot_947", 
+"treeID": "tree1"
 }
 ], 
 "description": "Epiactis tree from larson and daly", 
