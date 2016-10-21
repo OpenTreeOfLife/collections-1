@@ -1,5 +1,10 @@
 {
-"contributors": [], 
+"contributors": [
+{
+"login": "quattrinia", 
+"name": "quattrinia"
+}
+], 
 "creator": {
 "login": "pcart", 
 "name": "pcart"
@@ -11,6 +16,14 @@
 "decision": "INCLUDED", 
 "name": "1 (Felipe Zapata, 2015)", 
 "studyID": "ot_895", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "bestREP3 (Catherine McFadden, 2013)", 
+"studyID": "ot_896", 
 "treeID": "tree1"
 }
 ], 
