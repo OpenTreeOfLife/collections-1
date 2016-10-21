@@ -15,6 +15,10 @@
 {
 "login": "snacktavish", 
 "name": "Emily Jane McTavish"
+}, 
+{
+"login": "marymegandaly", 
+"name": "marymegandaly"
 }
 ], 
 "creator": {
@@ -101,9 +105,17 @@
 "name": "Zoantharia 16S + COI ML tree (Santos 2015) (Maria Eduarda Alves Santos, 2015)", 
 "studyID": "ot_925", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree 1 (Larson P., 2015)", 
+"studyID": "ot_729", 
+"treeID": "Tr90969"
 }
 ], 
-"description": "", 
+"description": "Epiactis tree from larson and daly", 
 "name": "Cnidaria", 
 "queries": []
 }
