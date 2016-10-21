@@ -56,22 +56,6 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "ML - Hydroidollina (tree6257) (Cartwright, 2008)", 
-"studyID": "pg_1786", 
-"treeID": "tree6257"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Myxosporea (tree5206) (Bartosova P., 2009)", 
-"studyID": "pg_2445", 
-"treeID": "tree5206"
-}, 
-{
-"SHA": "", 
 "comments": "Cubozoa", 
 "decision": "INCLUDED", 
 "name": "Cubozoa (tree3974) (Bentlage B. , 2010)", 
@@ -80,11 +64,43 @@
 }, 
 {
 "SHA": "", 
+"comments": "As of this date, it's the best backbone for the Class", 
+"decision": "INCLUDED", 
+"name": "Scyphozoa_Bayha&c2010_18S28S_Tree04 (K. M. Bayha, 2010)", 
+"studyID": "ot_932", 
+"treeID": "tree6"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Trachylina Combined 2008 (Allen G. Collins, 2008)", 
+"studyID": "ot_929", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "ML - Hydroidollina (tree6257) (Cartwright, 2008)", 
+"studyID": "pg_1786", 
+"treeID": "tree6257"
+}, 
+{
+"SHA": "", 
 "comments": "This is the best backbone for Zoantharia", 
 "decision": "INCLUDED", 
 "name": "Zoantharia ITS+28S+12S+16S ML (Swain 2016) (Swain T.D., 2016)", 
 "studyID": "ot_924", 
 "treeID": "Tr97534"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Myxosporea (tree5206) (Bartosova P., 2009)", 
+"studyID": "pg_2445", 
+"treeID": "tree5206"
 }, 
 {
 "SHA": "", 
@@ -112,14 +128,6 @@
 }, 
 {
 "SHA": "", 
-"comments": "As of this date, it's the best backbone for the Class", 
-"decision": "INCLUDED", 
-"name": "Scyphozoa_Bayha&c2010_18S28S_Tree04 (K. M. Bayha, 2010)", 
-"studyID": "ot_932", 
-"treeID": "tree6"
-}, 
-{
-"SHA": "", 
 "comments": "naked coral tree", 
 "decision": "INCLUDED", 
 "name": "nt partitioned gene raxml (Mei Fang Lin, 2016)", 
@@ -136,6 +144,14 @@
 }, 
 {
 "SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Leptothecata 16s18s28s ML (Lucas Leclere, 2009)", 
+"studyID": "pg_1785", 
+"treeID": "tree6248"
+}, 
+{
+"SHA": "", 
 "comments": "siphonophores", 
 "decision": "INCLUDED", 
 "name": "Untitled (tree6534) (Dunn, 2005)", 
@@ -149,22 +165,6 @@
 "name": "tree 1 (Larson P., 2015)", 
 "studyID": "ot_729", 
 "treeID": "Tr90969"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Leptothecata 16s18s28s ML (Lucas Leclere, 2009)", 
-"studyID": "pg_1785", 
-"treeID": "tree6248"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Trachylina Combined 2008 (Allen G. Collins, 2008)", 
-"studyID": "ot_929", 
-"treeID": "tree1"
 }
 ], 
 "description": "Epiactis tree from larson and daly", 
