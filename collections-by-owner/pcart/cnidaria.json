@@ -110,24 +110,8 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Leptothecata ML 16S18S28S_Nrw4 (Maximiliano M. Maronna, 2016)", 
-"studyID": "ot_714", 
-"treeID": "tree2"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "Herrera_Paragorgiidae (Santiago Herrera, 2016)", 
 "studyID": "ot_938", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "naked coral tree", 
-"decision": "INCLUDED", 
-"name": "nt partitioned gene raxml (Mei Fang Lin, 2016)", 
-"studyID": "ot_944", 
 "treeID": "tree1"
 }, 
 {
@@ -137,6 +121,22 @@
 "name": "Leptothecata 16s18s28s ML (Lucas Leclere, 2009)", 
 "studyID": "pg_1785", 
 "treeID": "tree6248"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Leptothecata ML 16S18S28S_Nrw4 (Maximiliano M. Maronna, 2016)", 
+"studyID": "ot_714", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "naked coral tree", 
+"decision": "INCLUDED", 
+"name": "nt partitioned gene raxml (Mei Fang Lin, 2016)", 
+"studyID": "ot_944", 
+"treeID": "tree1"
 }, 
 {
 "SHA": "", 
