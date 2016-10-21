@@ -3,6 +3,10 @@
 {
 "login": "quattrinia", 
 "name": "quattrinia"
+}, 
+{
+"login": "reimerj", 
+"name": "James Davis Reimer"
 }
 ], 
 "creator": {
@@ -25,6 +29,14 @@
 "name": "bestREP3 (Catherine McFadden, 2013)", 
 "studyID": "ot_896", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree3) (Takuma Fujii, 2013)", 
+"studyID": "ot_933", 
+"treeID": "tree3"
 }
 ], 
 "description": "", 
