@@ -157,6 +157,14 @@
 "name": "Leptothecata 16s18s28s ML (Lucas Leclere, 2009)", 
 "studyID": "pg_1785", 
 "treeID": "tree6248"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Trachylina Combined 2008 (Allen G. Collins, 2008)", 
+"studyID": "ot_929", 
+"treeID": "tree1"
 }
 ], 
 "description": "Epiactis tree from larson and daly", 
