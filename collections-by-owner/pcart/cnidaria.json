@@ -35,6 +35,10 @@
 {
 "login": "csmcfadden", 
 "name": "Catherine McFadden"
+}, 
+{
+"login": "juansanc", 
+"name": "juansanc"
 }
 ], 
 "creator": {
@@ -232,6 +236,14 @@
 "decision": "INCLUDED", 
 "name": "Xeniidae mt+28S (Michael Janes, 2014)", 
 "studyID": "ot_960", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Octocorallia: Keratoisidinae", 
+"decision": "INCLUDED", 
+"name": "Keratoisidinae (Luisa F. Due\u00f1as, 2014)", 
+"studyID": "ot_956", 
 "treeID": "tree1"
 }
 ], 
