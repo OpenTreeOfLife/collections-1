@@ -61,6 +61,14 @@
 "name": "tree1 (S. T. Friedman, 2016)", 
 "studyID": "ot_934", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Mark W. Westneat, 2005)", 
+"studyID": "ot_613", 
+"treeID": "tree1"
 }
 ], 
 "description": "Reef Fish Trees", 
