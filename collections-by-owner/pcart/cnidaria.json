@@ -27,6 +27,10 @@
 {
 "login": "mndawson", 
 "name": "mndawson"
+}, 
+{
+"login": "mtholder", 
+"name": "Mark T. Holder"
 }
 ], 
 "creator": {
@@ -145,6 +149,14 @@
 "name": "tree 1 (Larson P., 2015)", 
 "studyID": "ot_729", 
 "treeID": "Tr90969"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Leptothecata 16s18s28s ML (Lucas Leclere, 2009)", 
+"studyID": "pg_1785", 
+"treeID": "tree6248"
 }
 ], 
 "description": "Epiactis tree from larson and daly", 
