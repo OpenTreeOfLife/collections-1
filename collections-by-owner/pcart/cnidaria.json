@@ -201,6 +201,14 @@
 "name": "Cladiella+Klyxum (Benayahu Y, 2013)", 
 "studyID": "ot_947", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "Octocorallia: Alcyoniidae", 
+"decision": "INCLUDED", 
+"name": "Sarcophyton+Lobophytum (Benayahu Y, 2013)", 
+"studyID": "ot_947", 
+"treeID": "tree2"
 }
 ], 
 "description": "Epiactis tree from larson and daly", 
