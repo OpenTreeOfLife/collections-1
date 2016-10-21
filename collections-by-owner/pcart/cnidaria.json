@@ -65,6 +65,14 @@
 "name": "ML - Hydroidollina (tree6257) (Cartwright, 2008)", 
 "studyID": "pg_1786", 
 "treeID": "tree6257"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Myxosporea (tree5206) (Bartosova P., 2009)", 
+"studyID": "pg_2445", 
+"treeID": "tree5206"
 }
 ], 
 "description": "", 
