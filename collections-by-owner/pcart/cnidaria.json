@@ -193,6 +193,14 @@
 "name": "tree 1 (SOFIA V. PYATAEVA, 2016)", 
 "studyID": "ot_954", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Octocorallia: Alcyoniidae", 
+"decision": "INCLUDED", 
+"name": "Cladiella+Klyxum (Benayahu Y, 2013)", 
+"studyID": "ot_947", 
+"treeID": "tree3"
 }
 ], 
 "description": "Epiactis tree from larson and daly", 
