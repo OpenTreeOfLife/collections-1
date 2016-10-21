@@ -60,7 +60,7 @@
 }, 
 {
 "SHA": "", 
-"comments": "Cubozoa", 
+"comments": "Cubozoa backbone", 
 "decision": "INCLUDED", 
 "name": "Cubozoa (tree3974) (Bentlage B. , 2010)", 
 "studyID": "pg_1951", 
@@ -76,7 +76,7 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Trachylina backbone", 
 "decision": "INCLUDED", 
 "name": "Trachylina Combined 2008 (Allen G. Collins, 2008)", 
 "studyID": "ot_929", 
