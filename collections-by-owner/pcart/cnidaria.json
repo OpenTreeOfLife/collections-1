@@ -82,6 +82,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "SSU & LSU Combined ML (Bentlage B. , 2010)", 
+"studyID": "pg_1951", 
+"treeID": "tree3975"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Rod et al hexos (Estefan\u00eda Rodr\u00edguez, 2014)", 
 "studyID": "ot_930", 
 "treeID": "tree3"
