@@ -28,6 +28,14 @@
 "name": "con 50 majrule (Takuma Fujii, 2013)", 
 "studyID": "ot_957", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Atlantic species (mainly Brachycnemina)", 
+"decision": "INCLUDED", 
+"name": "Zoantharia 16S + COI ML tree (Santos 2015) (Maria Eduarda Alves Santos, 2015)", 
+"studyID": "ot_925", 
+"treeID": "tree1"
 }
 ], 
 "description": "Zoantharia super-tree", 
