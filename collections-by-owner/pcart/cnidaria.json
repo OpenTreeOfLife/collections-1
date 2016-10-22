@@ -64,6 +64,14 @@
 }, 
 {
 "SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Rod et al hexos (Estefan\u00eda Rodr\u00edguez, 2014)", 
+"studyID": "ot_930", 
+"treeID": "tree3"
+}, 
+{
+"SHA": "", 
 "comments": "Cubozoa backbone", 
 "decision": "INCLUDED", 
 "name": "Cubozoa (tree3974) (Bentlage B. , 2010)", 
