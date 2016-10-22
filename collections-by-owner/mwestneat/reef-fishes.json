@@ -89,6 +89,14 @@
 "name": "TREE1 (P. F. COWMAN, 2011)", 
 "studyID": "ot_952", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Scarine (Labridae)- parrotfishes", 
+"decision": "INCLUDED", 
+"name": "tree1 (Lydia L. Smith, 2008)", 
+"studyID": "ot_987", 
+"treeID": "tree1"
 }
 ], 
 "description": "Reef Fish Trees", 
