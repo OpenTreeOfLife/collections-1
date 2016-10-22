@@ -357,6 +357,14 @@
 "name": "bestREP7 (Amanda F. Cunha, 2017)", 
 "studyID": "ot_898", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Umimayanthus (Parazoanthidae) in detail.", 
+"decision": "INCLUDED", 
+"name": "Detailed ITS ML (Montenegro et al. 2015MPE) (Javier Montenegro, 2015)", 
+"studyID": "ot_982", 
+"treeID": "tree4"
 }
 ], 
 "description": "", 
