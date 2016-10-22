@@ -12,6 +12,14 @@
 "name": "Zoantharia ITS+28S+12S+16S ML (Swain 2016) (Swain T.D., 2016)", 
 "studyID": "ot_924", 
 "treeID": "Tr97534"
+}, 
+{
+"SHA": "", 
+"comments": "Parazoanthidae detail including Sinniger et al. 2013.", 
+"decision": "INCLUDED", 
+"name": "Parazoanthidae 18S+28S+ITS+16S+COI ML (Montenegro et al. 2015) (Javier Montenegro, 2015)", 
+"studyID": "ot_981", 
+"treeID": "tree1"
 }
 ], 
 "description": "Zoantharia super-tree", 
