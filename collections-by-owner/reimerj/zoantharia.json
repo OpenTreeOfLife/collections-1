@@ -36,6 +36,14 @@
 "name": "Zoantharia 16S + COI ML tree (Santos 2015) (Maria Eduarda Alves Santos, 2015)", 
 "studyID": "ot_925", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Umimayanthus", 
+"decision": "INCLUDED", 
+"name": "Detailed ITS ML (Montenegro et al. 2015MPE) (Javier Montenegro, 2015)", 
+"studyID": "ot_982", 
+"treeID": "tree4"
 }
 ], 
 "description": "Zoantharia super-tree", 
