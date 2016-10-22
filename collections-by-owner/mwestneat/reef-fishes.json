@@ -20,7 +20,7 @@
 "decisions": [
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Balistidae, Monacanthidae", 
 "decision": "INCLUDED", 
 "name": "tree1 (McCord, 2016)", 
 "studyID": "ot_523", 
@@ -28,7 +28,7 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
+"comments": "various actinopts", 
 "decision": "INCLUDED", 
 "name": "tree1 (Martin Malmstr\u00f8m, 2016)", 
 "studyID": "ot_771", 
@@ -36,7 +36,7 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Chaets", 
 "decision": "INCLUDED", 
 "name": "tree2 (Jennifer L. Fessler, 2007)", 
 "studyID": "ot_948", 
@@ -44,7 +44,7 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Damselfish", 
 "decision": "INCLUDED", 
 "name": "tree1 (W. James Cooper, 2009)", 
 "studyID": "ot_951", 
@@ -60,7 +60,7 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Cichlidae", 
 "decision": "INCLUDED", 
 "name": "tree1 (S. T. Friedman, 2016)", 
 "studyID": "ot_934", 
@@ -68,7 +68,7 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Labridae", 
 "decision": "INCLUDED", 
 "name": "tree1 (Mark W. Westneat, 2005)", 
 "studyID": "ot_613", 
@@ -100,7 +100,7 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Holocentridae", 
 "decision": "INCLUDED", 
 "name": "Holocentridae (Alex Dornburg, 2014)", 
 "studyID": "ot_988", 
