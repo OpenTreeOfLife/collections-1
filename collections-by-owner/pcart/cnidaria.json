@@ -216,6 +216,14 @@
 }, 
 {
 "SHA": "", 
+"comments": "Best Parazoanthidae tree, includes Bergia, Umimayanthus, and genera described in Sinniger et al. 2013", 
+"decision": "INCLUDED", 
+"name": "Parazoanthidae 18S+28S+ITS+16S+COI ML (Montenegro et al. 2015) (Javier Montenegro, 2015)", 
+"studyID": "ot_981", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
 "comments": "Octocorallia: Alcyoniidae", 
 "decision": "INCLUDED", 
 "name": "Sarcophyton+Lobophytum (Benayahu Y, 2013)", 
