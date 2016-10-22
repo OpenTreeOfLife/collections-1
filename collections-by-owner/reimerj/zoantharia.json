@@ -4,7 +4,16 @@
 "login": "reimerj", 
 "name": "James Davis Reimer"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "Backbone.", 
+"decision": "INCLUDED", 
+"name": "Zoantharia ITS+28S+12S+16S ML (Swain 2016) (Swain T.D., 2016)", 
+"studyID": "ot_924", 
+"treeID": "Tr97534"
+}
+], 
 "description": "Zoantharia super-tree", 
 "name": "Zoantharia", 
 "queries": []
