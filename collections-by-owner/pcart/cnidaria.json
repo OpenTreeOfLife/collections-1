@@ -277,6 +277,14 @@
 "name": "Plumularioidea ML 16S (Lucas Lecl\u00e8re, 2007)", 
 "studyID": "ot_900", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Quattrini_MolEcol_MutSCOI28S (Andrea M. Quattrini, 2013)", 
+"studyID": "ot_984", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
