@@ -15,18 +15,18 @@
 }, 
 {
 "SHA": "", 
-"comments": "Parazoanthidae detail including Sinniger et al. 2013.", 
-"decision": "INCLUDED", 
-"name": "Parazoanthidae 18S+28S+ITS+16S+COI ML (Montenegro et al. 2015) (Javier Montenegro, 2015)", 
-"studyID": "ot_981", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
 "comments": "Nano + Micro + Abyss", 
 "decision": "INCLUDED", 
 "name": "con 50 majrule (Takuma Fujii, 2013)", 
 "studyID": "ot_957", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Parazoanthidae detail including Sinniger et al. 2013.", 
+"decision": "INCLUDED", 
+"name": "Parazoanthidae 18S+28S+ITS+16S+COI ML (Montenegro et al. 2015) (Javier Montenegro, 2015)", 
+"studyID": "ot_981", 
 "treeID": "tree1"
 }, 
 {
