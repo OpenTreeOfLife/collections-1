@@ -48,7 +48,7 @@
 "decisions": [
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Cnidaria backbone", 
 "decision": "INCLUDED", 
 "name": "1 (Felipe Zapata, 2015)", 
 "studyID": "ot_895", 
@@ -101,6 +101,14 @@
 "name": "Zoantharia ITS+28S+12S+16S ML (Swain 2016) (Swain T.D., 2016)", 
 "studyID": "ot_924", 
 "treeID": "Tr97534"
+}, 
+{
+"SHA": "", 
+"comments": "Scleractinia molecular supertree (~450 spp.)", 
+"decision": "INCLUDED", 
+"name": "Scleractinia (Huang & Roy 2011) (Huang, 2013)", 
+"studyID": "pg_1761", 
+"treeID": "tree6151"
 }, 
 {
 "SHA": "", 
