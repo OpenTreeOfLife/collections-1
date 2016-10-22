@@ -4,7 +4,32 @@
 "login": "mwestneat", 
 "name": "Mark Westneat"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6177 (Betancur-R., 2013)", 
+"studyID": "pg_2651", 
+"treeID": "tree6177"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Ricardo Betancur-R, 2015)", 
+"studyID": "ot_622", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5495 (Betancur-r. R., 2013)", 
+"studyID": "pg_2547", 
+"treeID": "tree5495"
+}
+], 
 "description": "Ray-finned fishes", 
 "name": "Actinopterygii", 
 "queries": []
