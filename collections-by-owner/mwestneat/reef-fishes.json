@@ -105,6 +105,14 @@
 "name": "Holocentridae (Alex Dornburg, 2014)", 
 "studyID": "ot_988", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6177 (Betancur-R., 2013)", 
+"studyID": "pg_2651", 
+"treeID": "tree6177"
 }
 ], 
 "description": "Reef Fish Trees", 
