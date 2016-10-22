@@ -285,6 +285,14 @@
 "name": "Quattrini_MolEcol_MutSCOI28S (Andrea M. Quattrini, 2013)", 
 "studyID": "ot_984", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "18S stampar 2014 (S\u00e9rgio N. Stampar, 2014)", 
+"studyID": "ot_985", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
