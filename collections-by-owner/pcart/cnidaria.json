@@ -112,6 +112,14 @@
 }, 
 {
 "SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Combined_ML_tree (Miranda L.S., 2016)", 
+"studyID": "ot_942", 
+"treeID": "Tr94692"
+}, 
+{
+"SHA": "", 
 "comments": "Trachylina backbone", 
 "decision": "INCLUDED", 
 "name": "Trachylina Combined 2008 (Allen G. Collins, 2008)", 
@@ -349,14 +357,6 @@
 "name": "bestREP7 (Amanda F. Cunha, 2017)", 
 "studyID": "ot_898", 
 "treeID": "tree2"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Combined_ML_tree (Miranda L.S., 2016)", 
-"studyID": "ot_942", 
-"treeID": "Tr94692"
 }, 
 {
 "SHA": "", 
