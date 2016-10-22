@@ -7,7 +7,7 @@
 "decisions": [
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Actinopterygii", 
 "decision": "INCLUDED", 
 "name": "tree6177 (Betancur-R., 2013)", 
 "studyID": "pg_2651", 
@@ -23,7 +23,7 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Pleuronectiformes", 
 "decision": "INCLUDED", 
 "name": "tree5495 (Betancur-r. R., 2013)", 
 "studyID": "pg_2547", 
@@ -31,7 +31,7 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
+"comments": "darters", 
 "decision": "INCLUDED", 
 "name": "Tr46188 (Near T.J., 2011)", 
 "studyID": "ot_256", 
