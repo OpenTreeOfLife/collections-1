@@ -48,6 +48,14 @@
 "decisions": [
 {
 "SHA": "", 
+"comments": "Cnidaria backbone with stauro and cerianthid", 
+"decision": "INCLUDED", 
+"name": "FullMatrix (Felipe Zapata, 2015)", 
+"studyID": "ot_895", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
 "comments": "Cnidaria backbone", 
 "decision": "INCLUDED", 
 "name": "1 (Felipe Zapata, 2015)", 
