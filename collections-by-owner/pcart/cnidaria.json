@@ -309,6 +309,14 @@
 "name": "Corallidae (N\u00e9stor E Ardila, 2012)", 
 "studyID": "ot_983", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Combined 16S, COI, 18S and 28S Parsimony (Amanda F. Cunha, 2017)", 
+"studyID": "ot_898", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
