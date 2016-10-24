@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "bobthacker", 
+"name": "bobthacker"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Easson and Thacker 2014 (tree1) (Cole G. Easson, 2014)", 
+"studyID": "ot_996", 
+"treeID": "tree1"
+}
+], 
+"description": "Collection of Porifera Phylogenies", 
+"name": "Porifera", 
+"queries": []
+}
