@@ -389,6 +389,14 @@
 "name": "Stylasteridae ML 92Taxa-total evidence (Stefania Puce, 2016)", 
 "studyID": "ot_964", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Hydra Fig3-COI 16S EF1a 28S Beast (Martin Schwentner, 2015)", 
+"studyID": "ot_965", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
