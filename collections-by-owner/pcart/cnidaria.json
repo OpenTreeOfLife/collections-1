@@ -64,6 +64,14 @@
 }, 
 {
 "SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Summary taxonomy override tree (Chang E.S., 2015)", 
+"studyID": "ot_519", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
 "comments": "myxozoa backbone", 
 "decision": "INCLUDED", 
 "name": "Bayesian CAT Model (Chang E.S., 2015)", 
