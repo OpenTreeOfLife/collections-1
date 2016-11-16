@@ -1,0 +1,28 @@
+{
+"contributors": [], 
+"creator": {
+"login": "maureenlynch", 
+"name": "maureenlynch"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Jetz, 2012)", 
+"studyID": "ot_809", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2 (Jetz, 2012)", 
+"studyID": "ot_809", 
+"treeID": "tree2"
+}
+], 
+"description": "", 
+"name": "Birds", 
+"queries": []
+}
