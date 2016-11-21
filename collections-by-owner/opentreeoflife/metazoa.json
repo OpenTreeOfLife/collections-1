@@ -910,6 +910,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "tree1 (Prum, 2015)", 
+"studyID": "ot_500", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "tree522 (Hackett, 2008)", 
 "studyID": "pg_420", 
 "treeID": "tree522"
