@@ -622,6 +622,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "tree1 (Slager, 2014)", 
+"studyID": "ot_768", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "tree1 (P\u00e4ckert, 2009)", 
 "studyID": "ot_170", 
 "treeID": "tree1"
@@ -1920,6 +1928,22 @@
 "decision": "INCLUDED", 
 "name": "tree1 (Cushing, 2015)", 
 "studyID": "ot_509", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Weigert, 2014)", 
+"studyID": "ot_649", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Alstrom, 2014)", 
+"studyID": "ot_111", 
 "treeID": "tree1"
 }
 ], 
