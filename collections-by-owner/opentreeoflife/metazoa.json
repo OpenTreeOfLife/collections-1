@@ -774,6 +774,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "tree1 (Hooper, 2016)", 
+"studyID": "ot_749", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "tree1 (Barker, 2015)", 
 "studyID": "ot_770", 
 "treeID": "tree1"
@@ -1222,6 +1230,22 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "tree2 (Zhi-Yong Yuan, 2016)", 
+"studyID": "ot_750", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2 (Alencar, 2016)", 
+"studyID": "ot_814", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "tree6680 (Mahler, 2013)", 
 "studyID": "pg_2881", 
 "treeID": "tree6680"
@@ -1281,6 +1305,14 @@
 "name": "tree6295 (Reynolds, 2014)", 
 "studyID": "pg_2711", 
 "treeID": "tree6295"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Wright, 2015)", 
+"studyID": "ot_307", 
+"treeID": "tree1"
 }, 
 {
 "SHA": "", 
@@ -1856,6 +1888,14 @@
 "decision": "INCLUDED", 
 "name": "Synthetic tree, page 46-47 (Lourie, 2016)", 
 "studyID": "ot_805", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Kocot, 2016)", 
+"studyID": "ot_811", 
 "treeID": "tree1"
 }
 ], 
