@@ -54,6 +54,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "tree1 (Stein, 2015)", 
+"studyID": "ot_425", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "tree5980 (Wang, 2013)", 
 "studyID": "pg_2577", 
 "treeID": "tree5980"
@@ -86,6 +94,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "tree2 (Dantas, 2016)", 
+"studyID": "ot_533", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "tree1 (Wood, 2016)", 
 "studyID": "ot_773", 
 "treeID": "tree1"
@@ -96,6 +112,14 @@
 "decision": "INCLUDED", 
 "name": "tree1 (Hugall, 2012)", 
 "studyID": "ot_116", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Besnard, 2015)", 
+"studyID": "ot_655", 
 "treeID": "tree1"
 }, 
 {
@@ -310,6 +334,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "tree3 (Dufort, 2015)", 
+"studyID": "ot_504", 
+"treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "tree3 (den Tex, 2013)", 
 "studyID": "ot_150", 
 "treeID": "tree3"
@@ -390,6 +422,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "tree1 (Dos Remedios, 2015)", 
+"studyID": "ot_289", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "tree1 (Pereira, 2008)", 
 "studyID": "ot_144", 
 "treeID": "tree1"
@@ -409,6 +449,14 @@
 "name": "tree4 (Johnson, 2016)", 
 "studyID": "ot_812", 
 "treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Oatley, 2015)", 
+"studyID": "ot_305", 
+"treeID": "tree1"
 }, 
 {
 "SHA": "", 
@@ -457,6 +505,14 @@
 "name": "tree6663 (Fuchs, 2012)", 
 "studyID": "pg_2871", 
 "treeID": "tree6663"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3 (Sweet, 2015)", 
+"studyID": "ot_769", 
+"treeID": "tree3"
 }, 
 {
 "SHA": "", 
@@ -678,9 +734,33 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "tree2 (Scofield, 2016)", 
+"studyID": "ot_863", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Barker, 2015)", 
+"studyID": "ot_770", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "tree5068 (Barker F., 2004)", 
 "studyID": "pg_2404", 
 "treeID": "tree5068"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3 (Mitchell, 2016)", 
+"studyID": "ot_747", 
+"treeID": "tree3"
 }, 
 {
 "SHA": "", 
@@ -809,6 +889,14 @@
 "name": "tree1 (Almeida, 2014)", 
 "studyID": "ot_168", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr87680 (Shi, 2015)", 
+"studyID": "ot_254", 
+"treeID": "Tr87680"
 }, 
 {
 "SHA": "", 
@@ -977,6 +1065,14 @@
 "name": "tree3769 (R\u00fcber, 2007)", 
 "studyID": "pg_1870", 
 "treeID": "tree3769"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Harrington, 2016)", 
+"studyID": "ot_979", 
+"treeID": "tree1"
 }, 
 {
 "SHA": "", 
@@ -1441,6 +1537,14 @@
 "name": "tree6669 (Eklof, 2007)", 
 "studyID": "pg_2405", 
 "treeID": "tree6669"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Struck, 2015)", 
+"studyID": "ot_650", 
+"treeID": "tree1"
 }, 
 {
 "SHA": "", 
