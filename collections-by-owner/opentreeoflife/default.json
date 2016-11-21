@@ -15,6 +15,10 @@
 {
 "login": "plewis", 
 "name": "Paul O. Lewis"
+}, 
+{
+"login": "josephwb", 
+"name": "Joseph W. Brown"
 }
 ], 
 "creator": {
@@ -589,6 +593,14 @@
 "name": "ML majority-rule consensus (Betancur-R., 2013)", 
 "studyID": "pg_2651", 
 "treeID": "tree6177"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Thornhill, 2015)", 
+"studyID": "ot_306", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
