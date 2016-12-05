@@ -28,6 +28,14 @@
 "name": "Macroscelidae Bayesian tree Fig.1 (JOHN P. DUMBACHER, 2016)", 
 "studyID": "ot_1007", 
 "treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Macroscelidea Bayesian tree Fig.2 (Matja\u017e Kuntner, 2010)", 
+"studyID": "ot_1008", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
