@@ -52,6 +52,14 @@
 "name": "Macroscelidea MP/ML tree fig.1 (H. A. Smit, 2011)", 
 "studyID": "ot_1010", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Macroscelidea Nei tree Fig.1 (Deanna K. Tolliver, 1989)", 
+"studyID": "ot_1011", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
