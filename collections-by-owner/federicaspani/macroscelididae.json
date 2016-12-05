@@ -20,6 +20,14 @@
 "name": "Macroscelidea ML tree Fig.1 (Christophe J. Douady, 2003)", 
 "studyID": "ot_1006", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Macroscelidae Bayesian tree Fig.1 (JOHN P. DUMBACHER, 2016)", 
+"studyID": "ot_1007", 
+"treeID": "tree4"
 }
 ], 
 "description": "", 
