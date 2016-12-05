@@ -36,6 +36,14 @@
 "name": "Macroscelidea Bayesian tree Fig.2 (Matja\u017e Kuntner, 2010)", 
 "studyID": "ot_1008", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Macroscelidea UPGMA tree Fig.1 (J. Raman and M. R. Perrin, 1996)", 
+"studyID": "ot_1009", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
