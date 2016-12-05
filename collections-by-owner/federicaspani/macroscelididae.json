@@ -12,6 +12,14 @@
 "name": "Rhynchocyon bayesian tree Fig.3 (Carlen E.J., 2015)", 
 "studyID": "ot_1005", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Macroscelidea ML tree Fig.1 (Christophe J. Douady, 2003)", 
+"studyID": "ot_1006", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
