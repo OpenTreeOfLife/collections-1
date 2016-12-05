@@ -4,7 +4,16 @@
 "login": "federicaspani", 
 "name": "federicaspani"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Rhynchocyon bayesian tree Fig.3 (Carlen E.J., 2015)", 
+"studyID": "ot_1005", 
+"treeID": "tree1"
+}
+], 
 "description": "", 
 "name": "Macroscelididae", 
 "queries": []
