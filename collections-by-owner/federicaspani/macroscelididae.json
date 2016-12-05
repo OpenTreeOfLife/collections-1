@@ -44,6 +44,14 @@
 "name": "Macroscelidea UPGMA tree Fig.1 (J. Raman and M. R. Perrin, 1996)", 
 "studyID": "ot_1009", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Macroscelidea MP/ML tree fig.1 (H. A. Smit, 2011)", 
+"studyID": "ot_1010", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
