@@ -612,14 +612,6 @@
 }, 
 {
 "SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Burleigh, J. Gordon, Rebecca T. Kimball, Edward L. Braun. 2015. Building the avian tree of life using a large-scale, sparse supermatrix. Molecular Phylogenetics and Evolution 84: 53-63", 
-"decision": "INCLUDED", 
-"name": "MLE", 
-"studyID": "ot_521", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from R. J. Machida, M. U. Miya, M. Nishida, S. Nishida, 2006, 'Molecular phylogeny and evolution of the pelagic copepod genus Neocalanus (Crustacea: Copepoda)', Marine Biology, vol. 148, no. 5, pp. 1071-1079", 
 "decision": "INCLUDED", 
 "name": "Machida_etal_2006", 
