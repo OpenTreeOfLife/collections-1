@@ -4,7 +4,16 @@
 "login": "jbernot", 
 "name": "jbernot"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Machida_etal_2006 (R. J. Machida, 2006)", 
+"studyID": "ot_1016", 
+"treeID": "tree1"
+}
+], 
 "description": "Copepod trees", 
 "name": "Copepoda", 
 "queries": []
