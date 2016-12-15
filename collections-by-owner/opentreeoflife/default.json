@@ -617,6 +617,14 @@
 "name": "Machida_etal_2006", 
 "studyID": "ot_1016", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Burleigh, J. Gordon, Rebecca T. Kimball, Edward L. Braun. 2015. Building the avian tree of life using a large-scale, sparse supermatrix. Molecular Phylogenetics and Evolution 84: 53-63", 
+"decision": "INCLUDED", 
+"name": "MLE", 
+"studyID": "ot_521", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
