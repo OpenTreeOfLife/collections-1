@@ -641,6 +641,14 @@
 "name": "Tree Fig. 1", 
 "studyID": "ot_1019", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from  A. Bucklin,  B. Frost,  J. Bradford-Grieve,  L. Allen,  N. Copley, 2003, 'Molecular systematic and phylogenetic assessment of 34 calanoid copepod species of the Calanidae and Clausocalanidae', Marine Biology, vol. 142, no. 2, pp. 333-343", 
+"decision": "INCLUDED", 
+"name": "Tree Fig. 4", 
+"studyID": "ot_1019", 
+"treeID": "tree4"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
