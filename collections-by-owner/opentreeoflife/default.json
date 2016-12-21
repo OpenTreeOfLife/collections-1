@@ -657,6 +657,14 @@
 "name": "Default Symmetrical Tree+", 
 "studyID": "ot_1020", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Peter A. Hosner, Edward L. Braun, Rebecca T. Kimball, 2015, 'Land connectivity changes and global cooling shaped the colonization history and diversification of New World quail (Aves: Galliformes: Odontophoridae)', Journal of Biogeography, vol. 42, no. 10, pp. 1883-1895", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree1)", 
+"studyID": "ot_1023", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
