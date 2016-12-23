@@ -681,6 +681,14 @@
 "name": "Tree fig. 2", 
 "studyID": "ot_1025", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from M. Taniguchi, 2004, 'Molecular phylogeny of Neocalanus copepods in the subarctic Pacific Ocean, with notes on non-geographical genetic variations for Neocalanus cristatus', Journal of Plankton Research, vol. 26, no. 10, pp. 1249-1255", 
+"decision": "INCLUDED", 
+"name": "Tree fig. 3", 
+"studyID": "ot_1025", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
