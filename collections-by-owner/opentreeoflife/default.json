@@ -697,6 +697,14 @@
 "name": "Fig 3", 
 "studyID": "ot_1027", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from E. Braga, R. Zardoya, A. Meyer, J. Yen, 1999, 'Mitochondrial and nuclear rRNA based copepod phylogeny with emphasis on the Euchaetidae (Calanoida)', Marine Biology, vol. 133, no. 1, pp. 79-90", 
+"decision": "INCLUDED", 
+"name": "Fig 6", 
+"studyID": "ot_1027", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
