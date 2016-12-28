@@ -705,6 +705,14 @@
 "name": "Fig 6", 
 "studyID": "ot_1027", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from SARAH J. ADAMOWICZ, SILVINA MENU-MARQUE, PAUL D. N. HEBERT, ANDY PURVIS, 2007, 'Molecular systematics and patterns of morphological evolution in the Centropagidae (Copepoda: Calanoida) of Argentina', Biological Journal of the Linnean Society, vol. 90, no. 2, pp. 279-292", 
+"decision": "INCLUDED", 
+"name": "Fig. 3", 
+"studyID": "ot_1029", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
