@@ -713,6 +713,14 @@
 "name": "Fig. 3", 
 "studyID": "ot_1029", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Wang Minxiao, Sun Song, Li Chaolun, Shen Xin, 2011, 'Distinctive mitochondrial genome of Calanoid copepod Calanus sinicus with multiple large non-coding regions and reshuffled gene order: Useful molecular markers for phylogenetic and population studies', BMC Genomics, vol. 12, no. 1", 
+"decision": "INCLUDED", 
+"name": "Fig 9", 
+"studyID": "ot_1030", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
