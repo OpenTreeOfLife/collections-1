@@ -60,6 +60,14 @@
 "name": "tree1 (Rony Huys, 2007)", 
 "studyID": "ot_1020", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tree Fig 3 ( A. Bucklin, 2003)", 
+"studyID": "ot_1019", 
+"treeID": "tree1"
 }
 ], 
 "description": "Copepod trees", 
