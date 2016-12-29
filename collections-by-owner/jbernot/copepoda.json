@@ -76,6 +76,14 @@
 "name": "Tree Fig. 2 ( A. Bucklin, 2003)", 
 "studyID": "ot_1019", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tree Fig. 1 ( A. Bucklin, 2003)", 
+"studyID": "ot_1019", 
+"treeID": "tree3"
 }
 ], 
 "description": "Copepod trees", 
