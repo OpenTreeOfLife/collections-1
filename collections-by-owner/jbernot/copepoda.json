@@ -20,6 +20,14 @@
 "name": "Fig. 3 (SARAH J. ADAMOWICZ, 2007)", 
 "studyID": "ot_1029", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Blanco_Bercial_etal_2011_ML (Leocadio Blanco-Bercial, 2011)", 
+"studyID": "ot_1024", 
+"treeID": "tree1"
 }
 ], 
 "description": "Copepod trees", 
