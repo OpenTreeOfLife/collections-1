@@ -108,6 +108,14 @@
 "name": "Fig. 3 (R. J. Machida, 2006)", 
 "studyID": "ot_1016", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3 (J. Hirai, 2013)", 
+"studyID": "ot_1031", 
+"treeID": "tree1"
 }
 ], 
 "description": "Copepod trees", 
