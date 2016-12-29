@@ -100,6 +100,14 @@
 "name": "Fig. 1a (Rony Huys, 2007)", 
 "studyID": "ot_1020", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig 9 (Wang Minxiao, 2011)", 
+"studyID": "ot_1030", 
+"treeID": "tree1"
 }
 ], 
 "description": "Copepod trees", 
