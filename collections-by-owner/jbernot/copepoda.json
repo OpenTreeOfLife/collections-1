@@ -100,6 +100,14 @@
 "name": "Fig 2 ML tree (Leocadio Blanco-Bercial, 2011)", 
 "studyID": "ot_1024", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 1a (Rony Huys, 2007)", 
+"studyID": "ot_1020", 
+"treeID": "tree1"
 }
 ], 
 "description": "Copepod trees", 
