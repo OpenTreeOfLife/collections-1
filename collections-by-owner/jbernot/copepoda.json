@@ -12,6 +12,14 @@
 "name": "Machida_etal_2006 (R. J. Machida, 2006)", 
 "studyID": "ot_1016", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3 (SARAH J. ADAMOWICZ, 2007)", 
+"studyID": "ot_1029", 
+"treeID": "tree1"
 }
 ], 
 "description": "Copepod trees", 
