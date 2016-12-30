@@ -729,6 +729,14 @@
 "name": "Fig. 3 ML", 
 "studyID": "ot_1032", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Silke Laakmann, Holger Auel, Marc Kochzius, 2012, 'Evolution in the deep sea: Biological traits, ecology and phylogenetics of pelagic copepods', Molecular Phylogenetics and Evolution, vol. 65, no. 2, pp. 535-546", 
+"decision": "INCLUDED", 
+"name": "Fig. 2a", 
+"studyID": "ot_1034", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
