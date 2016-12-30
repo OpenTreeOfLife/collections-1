@@ -124,6 +124,14 @@
 "name": "Fig. 3 ML (Astrid Cornils, 2013)", 
 "studyID": "ot_1032", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3 (Y. Takenaka, 2012)", 
+"studyID": "ot_1033", 
+"treeID": "tree1"
 }
 ], 
 "description": "Copepod trees", 
