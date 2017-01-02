@@ -164,6 +164,14 @@
 "name": "Fig 2 (Maxim V. Zagoskin, 2014)", 
 "studyID": "ot_1036", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 1 (Rony Huys, 2009)", 
+"studyID": "ot_1039", 
+"treeID": "tree1"
 }
 ], 
 "description": "Copepod trees", 
