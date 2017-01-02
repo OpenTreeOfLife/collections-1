@@ -753,6 +753,14 @@
 "name": "Untitled (tree2507)", 
 "studyID": "pg_1242", 
 "treeID": "tree2507"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Rony Huys, Jacqueline Mackenzie-Dodds, Julia Llewellyn-Hughes, 2009, 'Cancrincolidae (Copepoda, Harpacticoida) associated with land crabs: A semiterrestrial leaf of the ameirid tree', Molecular Phylogenetics and Evolution, vol. 51, no. 2, pp. 143-156", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_1039", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
