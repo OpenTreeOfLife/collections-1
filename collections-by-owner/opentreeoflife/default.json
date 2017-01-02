@@ -745,6 +745,14 @@
 "name": "con all compat", 
 "studyID": "ot_1037", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Laurin-Lemay, S., Brinkmann, H., & Philippe, H. (2012). Origin of land plants revisited in the light of sequence contamination and missing data. Current Biology, 22(15), R593-R594.", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree2507)", 
+"studyID": "pg_1242", 
+"treeID": "tree2507"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
