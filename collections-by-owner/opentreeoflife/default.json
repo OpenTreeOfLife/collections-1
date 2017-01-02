@@ -737,6 +737,14 @@
 "name": "Fig. 2a", 
 "studyID": "ot_1034", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Robert Alexander Pyron, Sumaithangi Rajagopalan Ganesh, Amit Sayyed, Vivek Sharma, Van Wallach, Ruchira Somaweera, 2016, 'A catalogue and systematic overview of the shield-tailed snakes (Serpentes: Uropeltidae)', Zoosystema, vol. 38, no. 4, pp. 453-506", 
+"decision": "INCLUDED", 
+"name": "con all compat", 
+"studyID": "ot_1037", 
+"treeID": "tree3"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
