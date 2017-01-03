@@ -172,6 +172,14 @@
 "name": "Fig. 1 (Rony Huys, 2009)", 
 "studyID": "ot_1039", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig 2 (Martin Kraj\u00ed\u010dek, 2016)", 
+"studyID": "ot_1040", 
+"treeID": "tree1"
 }
 ], 
 "description": "Copepod trees", 
