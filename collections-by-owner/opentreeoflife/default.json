@@ -761,6 +761,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_1039", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Yuchi Zheng, John J. Wiens, 2016, 'Combining phylogenomic and supermatrix approaches, and a time-calibrated phylogeny for squamate reptiles (lizards and snakes) based on 52 genes and 4162 species', Molecular Phylogenetics and Evolution, vol. 94, pp. 537-547", 
+"decision": "INCLUDED", 
+"name": "Fig 2. appendix S3 ML tree calibrated in BEAST", 
+"studyID": "ot_1041", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
