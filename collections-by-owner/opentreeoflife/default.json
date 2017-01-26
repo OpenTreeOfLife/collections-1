@@ -769,6 +769,14 @@
 "name": "Fig 2. appendix S3 ML tree calibrated in BEAST", 
 "studyID": "ot_1041", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Sara Ruane, Christopher C. Austin, 2017, 'Phylogenomics using formalin-fixed and 100+ year old intractable natural history specimens', Molecular Ecology Resources", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree1)", 
+"studyID": "ot_1042", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
