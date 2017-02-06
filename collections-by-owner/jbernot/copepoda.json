@@ -9,6 +9,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "Fig. 3 ML (Astrid Cornils, 2013)", 
+"studyID": "ot_1032", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Fig 2 ML tree (Leocadio Blanco-Bercial, 2011)", 
 "studyID": "ot_1024", 
 "treeID": "tree1"
@@ -25,16 +33,16 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Fig. 1 (Rony Huys, 2009)", 
-"studyID": "ot_1039", 
+"name": "Fig. 1a (Rony Huys, 2007)", 
+"studyID": "ot_1020", 
 "treeID": "tree1"
 }, 
 {
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Fig. 1a (Rony Huys, 2007)", 
-"studyID": "ot_1020", 
+"name": "Fig. 1 (Rony Huys, 2009)", 
+"studyID": "ot_1039", 
 "treeID": "tree1"
 }, 
 {
@@ -57,8 +65,16 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Tree Fig 3 ( A. Bucklin, 2003)", 
-"studyID": "ot_1019", 
+"name": "Fig 2 (Martin Kraj\u00ed\u010dek, 2016)", 
+"studyID": "ot_1040", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 2a (Silke Laakmann, 2012)", 
+"studyID": "ot_1034", 
 "treeID": "tree1"
 }, 
 {
@@ -68,6 +84,54 @@
 "name": "Tree fig. 3 (M. Taniguchi, 2004)", 
 "studyID": "ot_1025", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tree Fig 3 ( A. Bucklin, 2003)", 
+"studyID": "ot_1019", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig 2 (Maxim V. Zagoskin, 2014)", 
+"studyID": "ot_1036", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3 (J. Hirai, 2013)", 
+"studyID": "ot_1031", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3 (Y. Takenaka, 2012)", 
+"studyID": "ot_1033", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3 (R. J. Machida, 2006)", 
+"studyID": "ot_1016", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3 (SARAH J. ADAMOWICZ, 2007)", 
+"studyID": "ot_1029", 
+"treeID": "tree1"
 }, 
 {
 "SHA": "", 
@@ -116,70 +180,6 @@
 "name": "Fig 6 (E. Braga, 1999)", 
 "studyID": "ot_1027", 
 "treeID": "tree2"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig. 3 (R. J. Machida, 2006)", 
-"studyID": "ot_1016", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig. 3 (J. Hirai, 2013)", 
-"studyID": "ot_1031", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig. 3 ML (Astrid Cornils, 2013)", 
-"studyID": "ot_1032", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig. 3 (Y. Takenaka, 2012)", 
-"studyID": "ot_1033", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig. 2a (Silke Laakmann, 2012)", 
-"studyID": "ot_1034", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig. 3 (SARAH J. ADAMOWICZ, 2007)", 
-"studyID": "ot_1029", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig 2 (Maxim V. Zagoskin, 2014)", 
-"studyID": "ot_1036", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig 2 (Martin Kraj\u00ed\u010dek, 2016)", 
-"studyID": "ot_1040", 
-"treeID": "tree1"
 }
 ], 
 "description": "Copepod trees", 
