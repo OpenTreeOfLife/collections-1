@@ -777,6 +777,14 @@
 "name": "Untitled (tree1)", 
 "studyID": "ot_1042", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Benjamin Ollomo, Patrick Durand, Franck Prugnolle, Emmanuel Douzery, Celine Arnathau, Dieudonne Nkoghe, Eric Leroy, Francois Renaud, 2009, 'A New Malaria Agent in African Hominids', PLoS Pathogens, vol. 5, no. 5, p. e1000446", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree6417)", 
+"studyID": "pg_2770", 
+"treeID": "tree6417"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
