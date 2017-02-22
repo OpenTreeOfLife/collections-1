@@ -785,6 +785,14 @@
 "name": "Untitled (tree6417)", 
 "studyID": "pg_2770", 
 "treeID": "tree6417"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Rony Huys, Farrah Fatih, Susumu Ohtsuka, Julia Llewellyn-Hughes, 2012, 'Evolution of the bomolochiform superfamily complex (Copepoda: Cyclopoida): New insights from ssrDNA and morphology, and origin of umazuracolids from polychaete-infesting ancestors rejected', International Journal for Parasitology, vol. 42, no. 1, pp. 71-92", 
+"decision": "INCLUDED", 
+"name": "Fig. 2", 
+"studyID": "ot_1045", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
