@@ -793,6 +793,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_1045", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Seong-il Eyun, 2017, 'Phylogenomic analysis of Copepoda (Arthropoda, Crustacea) reveals unexpected similarities with earlier proposed morphological phylogenies', BMC Evolutionary Biology, vol. 17, no. 1", 
+"decision": "INCLUDED", 
+"name": "Fig. 3", 
+"studyID": "ot_1046", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
