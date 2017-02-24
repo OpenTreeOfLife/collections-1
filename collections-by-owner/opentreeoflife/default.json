@@ -801,6 +801,14 @@
 "name": "Fig. 3", 
 "studyID": "ot_1046", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from T. H. Oakley, J. M. Wolfe, A. R. Lindgren, A. K. Zaharoff, 2012, 'Phylotranscriptomics to Bring the Understudied into the Fold: Monophyletic Ostracoda, Fossil Placement, and Pancrustacean Phylogeny', Molecular Biology and Evolution, vol. 30, no. 1, pp. 215-233", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_1047", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
