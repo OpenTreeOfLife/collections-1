@@ -113,16 +113,16 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Fig. 3 (J. Hirai, 2013)", 
-"studyID": "ot_1031", 
+"name": "Fig. 3 (R. J. Machida, 2006)", 
+"studyID": "ot_1016", 
 "treeID": "tree1"
 }, 
 {
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Fig. 3 (R. J. Machida, 2006)", 
-"studyID": "ot_1016", 
+"name": "Fig. 3 (J. Hirai, 2013)", 
+"studyID": "ot_1031", 
 "treeID": "tree1"
 }, 
 {
@@ -161,22 +161,6 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Tree fig. 3 (M. Taniguchi, 2004)", 
-"studyID": "ot_1025", 
-"treeID": "tree2"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Tree fig. 2 (M. Taniguchi, 2004)", 
-"studyID": "ot_1025", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "Tree Fig. 2 ( A. Bucklin, 2003)", 
 "studyID": "ot_1019", 
 "treeID": "tree2"
@@ -196,6 +180,22 @@
 "name": "Tree Fig. 4 ( A. Bucklin, 2003)", 
 "studyID": "ot_1019", 
 "treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tree fig. 3 (M. Taniguchi, 2004)", 
+"studyID": "ot_1025", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tree fig. 2 (M. Taniguchi, 2004)", 
+"studyID": "ot_1025", 
+"treeID": "tree1"
 }, 
 {
 "SHA": "", 
