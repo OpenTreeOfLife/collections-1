@@ -809,6 +809,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_1047", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Che-Huang Tung, Yu-Rong Cheng, Ching-Yi Lin, Ju-Shey Ho, Chih-Horng Kuo, Jr-Kai Yu, Yi-Hsien Su, 2014, 'A New Copepod With Transformed Body Plan and Unique Phylogenetic Position Parasitic in the Acorn Worm Ptychodera flava', The Biological Bulletin, vol. 226, no. 1, pp. 69-80", 
+"decision": "INCLUDED", 
+"name": "Default Symmetrical Tree+", 
+"studyID": "ot_1048", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
