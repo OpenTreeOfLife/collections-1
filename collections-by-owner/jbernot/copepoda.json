@@ -41,6 +41,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "Fig 2B (Grace A. Wyngaard, 2010)", 
+"studyID": "ot_1028", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Fig. 2 (Rony Huys, 2012)", 
 "studyID": "ot_1045", 
 "treeID": "tree1"
@@ -73,8 +81,8 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Fig 2B (Grace A. Wyngaard, 2010)", 
-"studyID": "ot_1028", 
+"name": "Fig 2 (Martin Kraj\u00ed\u010dek, 2016)", 
+"studyID": "ot_1040", 
 "treeID": "tree1"
 }, 
 {
@@ -89,24 +97,8 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Fig 2 (Martin Kraj\u00ed\u010dek, 2016)", 
-"studyID": "ot_1040", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "Fig. 2a (Silke Laakmann, 2012)", 
 "studyID": "ot_1034", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig. 3 (J. Hirai, 2013)", 
-"studyID": "ot_1031", 
 "treeID": "tree1"
 }, 
 {
@@ -121,8 +113,8 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Fig. 5 (Che-Huang Tung, 2014)", 
-"studyID": "ot_1048", 
+"name": "Fig. 3 (J. Hirai, 2013)", 
+"studyID": "ot_1031", 
 "treeID": "tree1"
 }, 
 {
@@ -131,6 +123,14 @@
 "decision": "INCLUDED", 
 "name": "Fig. 3 (R. J. Machida, 2006)", 
 "studyID": "ot_1016", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 5 (Che-Huang Tung, 2014)", 
+"studyID": "ot_1048", 
 "treeID": "tree1"
 }, 
 {
