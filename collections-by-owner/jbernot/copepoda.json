@@ -89,14 +89,6 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Fig. 5 (Che-Huang Tung, 2014)", 
-"studyID": "ot_1048", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "Fig 2 (Martin Kraj\u00ed\u010dek, 2016)", 
 "studyID": "ot_1040", 
 "treeID": "tree1"
@@ -113,16 +105,8 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Tree fig. 3 (M. Taniguchi, 2004)", 
-"studyID": "ot_1025", 
-"treeID": "tree2"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Tree Fig 3 ( A. Bucklin, 2003)", 
-"studyID": "ot_1019", 
+"name": "Fig. 3 (J. Hirai, 2013)", 
+"studyID": "ot_1031", 
 "treeID": "tree1"
 }, 
 {
@@ -137,16 +121,8 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Fig. 3 (J. Hirai, 2013)", 
-"studyID": "ot_1031", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig. 3 (Y. Takenaka, 2012)", 
-"studyID": "ot_1033", 
+"name": "Fig. 5 (Che-Huang Tung, 2014)", 
+"studyID": "ot_1048", 
 "treeID": "tree1"
 }, 
 {
@@ -161,9 +137,33 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "Fig. 3 (Y. Takenaka, 2012)", 
+"studyID": "ot_1033", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Fig. 3 (SARAH J. ADAMOWICZ, 2007)", 
 "studyID": "ot_1029", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tree Fig 3 ( A. Bucklin, 2003)", 
+"studyID": "ot_1019", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tree fig. 3 (M. Taniguchi, 2004)", 
+"studyID": "ot_1025", 
+"treeID": "tree2"
 }, 
 {
 "SHA": "", 
