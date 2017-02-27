@@ -3,6 +3,10 @@
 {
 "login": "federicaspani", 
 "name": "federicaspani (None)"
+}, 
+{
+"login": "dbsternGWU", 
+"name": "David Stern"
 }
 ], 
 "creator": {
@@ -328,14 +332,6 @@
 "decision": "INCLUDED", 
 "name": "PinnotheridaeMLtreeFig1 (Emma Palacios Theil, 2016)", 
 "studyID": "ot_696", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Brachyuran phylogenetic tree (study has no reference)", 
-"studyID": "ot_707", 
 "treeID": "tree1"
 }, 
 {
