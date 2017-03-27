@@ -825,6 +825,14 @@
 "name": "Figure 1", 
 "studyID": "ot_1053", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Dahiana Arcila, Guillermo Ort\u00ed, Richard Vari, Jonathan W. Armbruster, Melanie L. J. Stiassny, Kyung D. Ko, Mark H. Sabaj, John Lundberg, Liam J. Revell, Ricardo Betancur-R., 2017, 'Genome-wide interrogation advances resolution of recalcitrant groups in the tree of life', Nature Ecology & Evolution, vol. 1, p. 0020", 
+"decision": "INCLUDED", 
+"name": "Figure 3", 
+"studyID": "ot_1054", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
