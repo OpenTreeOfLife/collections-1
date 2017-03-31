@@ -833,6 +833,14 @@
 "name": "Figure 3", 
 "studyID": "ot_1054", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Nyakatura, Katrin, Olaf RP Bininda-Emonds. 2012. Updating the evolutionary history of Carnivora (Mammalia): a new species-level supertree complete with divergence time estimates. BMC Biology 10 (1): 12", 
+"decision": "INCLUDED", 
+"name": "Figure 1: best dates", 
+"studyID": "ot_328", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
