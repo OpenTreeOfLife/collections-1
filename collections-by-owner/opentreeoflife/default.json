@@ -841,6 +841,14 @@
 "name": "Figure 1: best dates", 
 "studyID": "ot_328", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Moreau C.S., & Bell C. 2013. Testing the museum versus cradle tropical biological diversity hypothesis: Phylogeny, diversification, and ancestral biogeographic range evolution of the ants. Evolution, 67(8): 2240-2257.", 
+"decision": "INCLUDED", 
+"name": "MLT", 
+"studyID": "ot_1056", 
+"treeID": "Tr66754"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
