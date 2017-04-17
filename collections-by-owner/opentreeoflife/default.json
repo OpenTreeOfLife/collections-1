@@ -849,6 +849,14 @@
 "name": "MLT", 
 "studyID": "ot_1056", 
 "treeID": "Tr66754"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Allison K. Miller, Alexander M. Kerr, Gustav Paulay, Mike Reich, Nerida G. Wilson, Jose I. Carvajal, Greg W. Rouse, 2017, 'Molecular phylogeny of extant Holothuroidea (Echinodermata)', Molecular Phylogenetics and Evolution, vol. 111, pp. 110-131", 
+"decision": "INCLUDED", 
+"name": "Figure 3 - first tree from supp. data 2", 
+"studyID": "ot_1058", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
