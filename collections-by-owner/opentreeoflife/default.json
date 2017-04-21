@@ -857,6 +857,14 @@
 "name": "Figure 3 - first tree from supp. data 2", 
 "studyID": "ot_1058", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from William J.D. Iles, Chodon Sass, Laura Lagomarsino, Gracie Benson-Martin, Heather Driscoll, Chelsea D. Specht, 2016, 'The phylogeny of Heliconia (Heliconiaceae) and the evolution of floral presentation', Molecular Phylogenetics and Evolution", 
+"decision": "INCLUDED", 
+"name": "Heliconiaceae", 
+"studyID": "ot_1062", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
