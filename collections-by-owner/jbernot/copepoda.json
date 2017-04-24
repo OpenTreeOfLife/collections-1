@@ -9,14 +9,6 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Fig. 3 (Seong-il Eyun, 2017)", 
-"studyID": "ot_1046", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "Fig. 3 ML (Astrid Cornils, 2013)", 
 "studyID": "ot_1032", 
 "treeID": "tree1"
@@ -27,6 +19,14 @@
 "decision": "INCLUDED", 
 "name": "Fig 2 ML tree (Leocadio Blanco-Bercial, 2011)", 
 "studyID": "ot_1024", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3 (Seong-il Eyun, 2017)", 
+"studyID": "ot_1046", 
 "treeID": "tree1"
 }, 
 {
