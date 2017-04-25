@@ -865,6 +865,14 @@
 "name": "Heliconiaceae", 
 "studyID": "ot_1062", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from T. Yu. Mayor, N. G. Sheveleva, L. V. Sukhanova, O. A. Timoshkin, S. V. Kiril\u2019chik, 2010, 'Molecular-phylogenetic analysis of cyclopoids (Copepoda: Cyclopoida) from Lake Baikal and its water catchment basin', Russian Journal of Genetics, vol. 46, no. 11, pp. 1373-1380", 
+"decision": "INCLUDED", 
+"name": "Fig. 3", 
+"studyID": "ot_1064", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
