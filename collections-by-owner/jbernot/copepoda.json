@@ -212,6 +212,14 @@
 "name": "Fig 6 (E. Braga, 1999)", 
 "studyID": "ot_1027", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3 (T. Yu. Mayor, 2010)", 
+"studyID": "ot_1064", 
+"treeID": "tree1"
 }
 ], 
 "description": "Copepod trees", 
