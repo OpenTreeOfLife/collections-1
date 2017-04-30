@@ -1758,14 +1758,6 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6249 (Hill, 2013)", 
-"studyID": "pg_2696", 
-"treeID": "tree6249"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "tree6290 (Redmond, 2013)", 
 "studyID": "pg_2709", 
 "treeID": "tree6290"
