@@ -881,6 +881,14 @@
 "name": "Thacker et al. 2013 (tree1)", 
 "studyID": "ot_1067", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Martin Dohrmann, Christopher Kelley, Michelle Kelly, Andrzej Pisera, John N. A. Hooper, Henry M. Reiswig, 2017, 'An integrative systematic framework helps to reconstruct skeletal evolution of glass sponges (Porifera, Hexactinellida)', Frontiers in Zoology, vol. 14, no. 1", 
+"decision": "INCLUDED", 
+"name": "molecular supermatrix raxml", 
+"studyID": "ot_1068", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
