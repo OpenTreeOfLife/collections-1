@@ -28,6 +28,14 @@
 "name": "Thacker et al. 2013 (tree1) (R. W. Thacker, 2013)", 
 "studyID": "ot_1067", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Rossellidae", 
+"decision": "INCLUDED", 
+"name": "tree4156 (Dohrmann, 2012)", 
+"studyID": "pg_2017", 
+"treeID": "tree4156"
 }
 ], 
 "description": "Collection of Porifera Phylogenies", 
