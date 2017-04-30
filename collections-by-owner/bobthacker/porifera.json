@@ -7,7 +7,7 @@
 "decisions": [
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Largest Phylogeny with Most Conservative Marker 18S", 
 "decision": "INCLUDED", 
 "name": "Untitled (tree6290) (Redmond, 2013)", 
 "studyID": "pg_2709", 
@@ -15,10 +15,18 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Recent Phylogeny with 3 Markers: 28S, 18S, cox1", 
 "decision": "INCLUDED", 
 "name": "Easson and Thacker 2014 (tree1) (Cole G. Easson, 2014)", 
 "studyID": "ot_996", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Largest 28S for Demospongiae", 
+"decision": "INCLUDED", 
+"name": "Thacker et al. 2013 (tree1) (R. W. Thacker, 2013)", 
+"studyID": "ot_1067", 
 "treeID": "tree1"
 }
 ], 
