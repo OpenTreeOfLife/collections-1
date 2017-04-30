@@ -36,6 +36,14 @@
 "name": "tree4156 (Dohrmann, 2012)", 
 "studyID": "pg_2017", 
 "treeID": "tree4156"
+}, 
+{
+"SHA": "", 
+"comments": "Hexactinellida", 
+"decision": "INCLUDED", 
+"name": "molecular supermatrix raxml (Martin Dohrmann, 2017)", 
+"studyID": "ot_1068", 
+"treeID": "tree2"
 }
 ], 
 "description": "Collection of Porifera Phylogenies", 
