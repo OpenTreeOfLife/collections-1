@@ -889,6 +889,14 @@
 "name": "molecular supermatrix raxml", 
 "studyID": "ot_1068", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from E. Hajdu, T. S. de Paula, N. E. Redmond, B. Cosme, A. G. Collins, G. Lobo-Hajdu, 2013, 'Mycalina: Another Crack in the Poecilosclerida Framework', Integrative and Comparative Biology, vol. 53, no. 3, pp. 462-472", 
+"decision": "INCLUDED", 
+"name": "18S Hajdu 2013 (tree1)", 
+"studyID": "ot_1070", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
