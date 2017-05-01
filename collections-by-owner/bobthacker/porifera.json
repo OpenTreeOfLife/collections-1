@@ -44,6 +44,14 @@
 "name": "molecular supermatrix raxml (Martin Dohrmann, 2017)", 
 "studyID": "ot_1068", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Poecilosclerida", 
+"decision": "INCLUDED", 
+"name": "18S Hajdu 2013 (tree1) (E. Hajdu, 2013)", 
+"studyID": "ot_1070", 
+"treeID": "tree1"
 }
 ], 
 "description": "Collection of Porifera Phylogenies", 
