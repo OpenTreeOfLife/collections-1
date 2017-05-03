@@ -52,6 +52,14 @@
 "name": "18S Hajdu 2013 (tree1) (E. Hajdu, 2013)", 
 "studyID": "ot_1070", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Need to improve curation", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree2674) (Dohrmann, 2009)", 
+"studyID": "pg_1343", 
+"treeID": "tree2674"
 }
 ], 
 "description": "Collection of Porifera Phylogenies", 
