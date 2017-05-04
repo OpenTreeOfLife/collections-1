@@ -897,6 +897,14 @@
 "name": "18S Hajdu 2013 (tree1)", 
 "studyID": "ot_1070", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Deng J., Drew B.T., Mavrodiev E.V., Gitzendanner M.A., Soltis P., & Soltis D. 2014. Saxifragaceae: Phylogeny, divergence times, and historical biogeography. Molecular Phylogentics and Evolution, .", 
+"decision": "INCLUDED", 
+"name": "cpDNA+nrDNA-ML", 
+"studyID": "ot_1072", 
+"treeID": "Tr77370"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
