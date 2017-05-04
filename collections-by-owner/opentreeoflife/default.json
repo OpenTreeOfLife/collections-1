@@ -905,6 +905,14 @@
 "name": "cpDNA+nrDNA-ML", 
 "studyID": "ot_1072", 
 "treeID": "Tr77370"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Ryan A. Folk, Jennifer R. Mandel, John V. Freudenstein, 2016, 'Ancestral Gene Flow and Parallel Organellar Genome Capture Result in Extreme Phylogenomic Discord in a Lineage of Angiosperms', Systematic Biology, p. syw083", 
+"decision": "INCLUDED", 
+"name": "Unpartitioned concatenated", 
+"studyID": "ot_1075", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
