@@ -913,6 +913,14 @@
 "name": "Unpartitioned concatenated", 
 "studyID": "ot_1075", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Brett R. Aiello, Mark W. Westneat, Melina E. Hale, 2017, 'Mechanosensation is evolutionarily tuned to locomotor mechanics', Proceedings of the National Academy of Sciences, vol. 114, no. 17, pp. 4459-4464", 
+"decision": "INCLUDED", 
+"name": "Imported tree 1", 
+"studyID": "ot_1078", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
