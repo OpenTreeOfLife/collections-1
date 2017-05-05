@@ -3,6 +3,10 @@
 {
 "login": "meganlinnay", 
 "name": "Megan Porter"
+}, 
+{
+"login": "ostratodd", 
+"name": "ostratodd"
 }
 ], 
 "creator": {
@@ -49,6 +53,14 @@
 "name": "Stomatopoda_tree1_Bok_etal_2015 (M. J. Bok, 2015)", 
 "studyID": "ot_1087", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Nearly complete family level tree for Cylindroleberididae (Ostracoda)", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (A. E. Syme, 2011)", 
+"studyID": "ot_1092", 
+"treeID": "Tr29848"
 }
 ], 
 "description": "Pancrustacea", 
