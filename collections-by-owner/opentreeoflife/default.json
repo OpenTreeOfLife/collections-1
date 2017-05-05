@@ -945,6 +945,14 @@
 "name": "bestREP1", 
 "studyID": "ot_1085", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Chen J., Cui B., & Dai Y.C. 2016. Global diversity and molecular systematics of Wrightoporia s.l. (Russulales, Basidiomycota). Persoonia, 37: 21-36.", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_1090", 
+"treeID": "Tr99739"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
