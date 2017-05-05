@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "meganlinnay", 
+"name": "Megan Porter"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Stomatopoda_tree1_Bok_etal_2015 (M. J. Bok, 2015)", 
+"studyID": "ot_1087", 
+"treeID": "tree2"
+}
+], 
+"description": "Stomatopoda phylogenies", 
+"name": "Stomatopoda", 
+"queries": []
+}
