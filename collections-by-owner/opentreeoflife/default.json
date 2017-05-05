@@ -953,6 +953,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_1090", 
 "treeID": "Tr99739"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Bazinet, A. L., Mitter, K. T., Davis, D. R., Van Nieukerken, E. J., Cummings, M. P., & Mitter, C. (2017). Phylotranscriptomics resolves ancient divergences in the Lepidoptera. Systematic Entomology, 42(2), 305-316", 
+"decision": "INCLUDED", 
+"name": " 0", 
+"studyID": "ot_1086", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
