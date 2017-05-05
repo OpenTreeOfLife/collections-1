@@ -969,6 +969,14 @@
 "name": "tree 1", 
 "studyID": "ot_1073", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Syme A.E., & Oakley T.H. 2011. Dispersal between shallow and abyssal seas and evolutionary loss and re-gain of compound eyes in cylindroleberidid ostracods: conflicting conclusions from different comparative methods. Systematic Biology, .", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_1092", 
+"treeID": "Tr29847"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
