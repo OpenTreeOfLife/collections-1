@@ -921,6 +921,14 @@
 "name": "Imported tree 1", 
 "studyID": "ot_1078", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Jessica L. Ware, Christopher D. Beatty, Melissa S\u00e1nchez Herrera, Steve Valley, Jim Johnson, Cary Kerst, Michael L. May, Gunther Theischinger, 2014, 'The petaltail dragonflies (Odonata: Petaluridae): Mesozoic habitat specialists that survive to the modern day', Journal of Biogeography, vol. 41, no. 7, pp. 1291-1300", 
+"decision": "INCLUDED", 
+"name": "tree 1", 
+"studyID": "ot_1079", 
+"treeID": "tree3"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
