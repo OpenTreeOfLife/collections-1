@@ -961,6 +961,14 @@
 "name": " 0", 
 "studyID": "ot_1086", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Hwang, W. S. and Weirauch, C. 2012, 'Evolutionary History of Assassin Bugs (Insecta: Hemiptera: Reduviidae): Insights from Divergence Dating and Ancestral State Reconstruction', PLoS ONE, vol. 7, no. 9, p. e45523", 
+"decision": "INCLUDED", 
+"name": "tree 1", 
+"studyID": "ot_1073", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
