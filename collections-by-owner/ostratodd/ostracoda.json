@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "ostratodd", 
+"name": "ostratodd"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (A. E. Syme, 2011)", 
+"studyID": "ot_1092", 
+"treeID": "Tr29848"
+}
+], 
+"description": "", 
+"name": "Ostracoda", 
+"queries": []
+}
