@@ -929,6 +929,14 @@
 "name": "tree 1", 
 "studyID": "ot_1079", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Gonz\u00e1lez D., Rodriguez-carres M., Boekhout T., Stalpers J.A., Kuramae E.E., Nakatani A.K., Vilgalys R., & Cubeta M.A. 2016. Phylogenetic Relationships of Rhizoctonia Fungi within the Cantharellales. Fungal Biology, 120(4): 603-619.", 
+"decision": "INCLUDED", 
+"name": "bootrep100", 
+"studyID": "ot_1088", 
+"treeID": "Tr102832"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
