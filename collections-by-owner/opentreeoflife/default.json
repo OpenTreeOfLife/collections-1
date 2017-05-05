@@ -937,6 +937,14 @@
 "name": "bootrep100", 
 "studyID": "ot_1088", 
 "treeID": "Tr102832"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Adam L. Bazinet, Michael P. Cummings, Kim T. Mitter, Charles W. Mitter, 2013, 'Can RNA-Seq Resolve the Rapid Radiation of Advanced Moths and Butterflies (Hexapoda: Lepidoptera: Apoditrysia)? An Exploratory Study', PLoS ONE, vol. 8, no. 12, p. e82615", 
+"decision": "INCLUDED", 
+"name": "bestREP1", 
+"studyID": "ot_1085", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
