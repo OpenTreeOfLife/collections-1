@@ -1017,6 +1017,14 @@
 "name": "Bayesian MRC multilocus nt", 
 "studyID": "ot_1105", 
 "treeID": "Tr76755"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Irisarri I., Eernisse D.J., & Zardoya R. 2014. Molecular phylogeny of Acanthochitonina (Mollusca: Polyplacophora: Chitonida): three new mitochondrial genomes, rearranged gene orders and systematics. Journal of Natural History, .", 
+"decision": "INCLUDED", 
+"name": "ML multilocus nt", 
+"studyID": "ot_1105", 
+"treeID": "Tr76757"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
