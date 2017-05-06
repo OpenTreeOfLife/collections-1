@@ -1073,6 +1073,14 @@
 "name": "Fig3_Honemann_Bayesian", 
 "studyID": "ot_1101", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Weimin Ye, Chow-Yang Lee, Rudolf H. Scheffrahn, Jody M. Aleong, Nan-Yao Su, Gary W. Bennett, Michael E. Scharf, 2004, 'Phylogenetic relationships of nearctic Reticulitermes species (Isoptera: Rhinotermitidae) with particular reference to Reticulitermes arenincola Goellner', Molecular Phylogenetics and Evolution, vol. 30, no. 3, pp. 815-822", 
+"decision": "INCLUDED", 
+"name": "Tree3009", 
+"studyID": "ot_1114", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
