@@ -1129,6 +1129,14 @@
 "name": "Fig.3_cladogram", 
 "studyID": "ot_1124", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Eric Robert Lucien Gordon, Quinn McFrederick, Christiane Weirauch, 2016, 'Phylogenetic Evidence for Ancient and Persistent Environmental Symbiont Reacquisition in Largidae (Hemiptera: Heteroptera)', Applied and Environmental Microbiology, vol. 82, no. 24, pp. 7123-7133", 
+"decision": "INCLUDED", 
+"name": "Maximum likelihood Tree", 
+"studyID": "ot_1125", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
