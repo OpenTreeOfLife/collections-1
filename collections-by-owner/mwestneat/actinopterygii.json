@@ -1,5 +1,10 @@
 {
-"contributors": [], 
+"contributors": [
+{
+"login": "cmnash", 
+"name": "Chloe Nash"
+}
+], 
 "creator": {
 "login": "mwestneat", 
 "name": "Mark Westneat"
@@ -36,6 +41,14 @@
 "name": "Tr46188 (Near T.J., 2011)", 
 "studyID": "ot_256", 
 "treeID": "Tr46188"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Percomorphaceae (Millicent D. Sanciangco, 2016)", 
+"studyID": "ot_1091", 
+"treeID": "tree1"
 }
 ], 
 "description": "Ray-finned fishes", 
