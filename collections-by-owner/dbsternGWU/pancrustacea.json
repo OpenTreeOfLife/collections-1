@@ -69,6 +69,14 @@
 "name": "Fig3_Honemann_Bayesian (Mario Hoenemann, 2013)", 
 "studyID": "ot_1101", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig.1_bayesian (K.M. Abrams, 2012)", 
+"studyID": "ot_1120", 
+"treeID": "tree2"
 }
 ], 
 "description": "Pancrustacea", 
