@@ -1097,6 +1097,14 @@
 "name": "best", 
 "studyID": "ot_1098", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Harald Letsch, Brigitte Gottsberger, Jessica L. Ware, 2016, 'Not going with the flow: a comprehensive time-calibrated phylogeny of dragonflies (Anisoptera: Odonata: Insecta) provides evidence for the role of lentic habitats on diversification', Molecular Ecology, vol. 25, no. 6, pp. 1340-1353", 
+"decision": "INCLUDED", 
+"name": "Best Tree", 
+"studyID": "ot_1117", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
