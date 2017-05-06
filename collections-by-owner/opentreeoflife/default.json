@@ -1137,6 +1137,14 @@
 "name": "Maximum likelihood Tree", 
 "studyID": "ot_1125", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from John M. Heraty, Roger A. Burks, Astrid Cruaud, Gary A. P. Gibson, Johan Liljeblad, James Munro, Jean-Yves Rasplus, Gerard Delvare, Peter Jan\u0161ta, Alex Gumovsky, John Huber, James B. Woolley, Lars Krogmann, Steve Heydon, Andrew Polaszek, Stefan Schmidt, D. Chris Darling, Michael W. Gates, Jason Mottern, Elizabeth Murray, Ana Dal Molin, Serguei Triapitsyn, Hannes Baur, John D. Pinto, Simon van Noort, Jeremiah George, Matthew Yoder, 2013, 'A phylogenetic analysis of the megadiverse Chalcidoidea (Hymenoptera)', Cladistics, vol. 29, no. 5, pp. 466-542", 
+"decision": "INCLUDED", 
+"name": " Fig. 10 \"Best RaxML'", 
+"studyID": "ot_1093", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
