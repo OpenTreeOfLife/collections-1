@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "spissatella", 
+"name": "Katie Collins"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Bayesian MRC mitogenome nt (Irisarri I., 2014)", 
+"studyID": "ot_1105", 
+"treeID": "Tr76750"
+}
+], 
+"description": "collating trees for molluscan taxa", 
+"name": "Mollusca Trees", 
+"queries": []
+}
