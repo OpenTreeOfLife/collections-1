@@ -12,9 +12,17 @@
 "name": "Fig. 10 \"Best RaxML' (John M. Heraty, 2013)", 
 "studyID": "ot_1093", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Ralph S. Peters, 2017)", 
+"studyID": "ot_1053", 
+"treeID": "tree1"
 }
 ], 
-"description": "Trees that fall into Hymenoptera", 
+"description": "Hymenoptera trees", 
 "name": "Hymenoptera", 
 "queries": []
 }
