@@ -61,6 +61,14 @@
 "name": "Fig. 2 (A. E. Syme, 2011)", 
 "studyID": "ot_1092", 
 "treeID": "Tr29848"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig3_Honemann_Bayesian (Mario Hoenemann, 2013)", 
+"studyID": "ot_1101", 
+"treeID": "tree3"
 }
 ], 
 "description": "Pancrustacea", 
