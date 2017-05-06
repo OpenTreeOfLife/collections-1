@@ -1081,6 +1081,14 @@
 "name": "Tree3009", 
 "studyID": "ot_1114", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Marisol S\u00e1nchez-Garc\u00eda, Patrick Brandon Matheny, 2016, 'Is the switch to an ectomycorrhizal state an evolutionary key innovation in mushroom-forming fungi? A case study in the Tricholomatineae (Agaricales)', Evolution, vol. 71, no. 1, pp. 51-65", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1100", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
