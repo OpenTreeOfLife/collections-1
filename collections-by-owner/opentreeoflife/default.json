@@ -1121,6 +1121,14 @@
 "name": "Fig.1_bayesian", 
 "studyID": "ot_1120", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from David T. Drumm, 2010, 'Phylogenetic Relationships of Tanaidacea (Eumalacostraca: Peracarida) Inferred from Three Molecular Loci', Journal of Crustacean Biology, vol. 30, no. 4, pp. 692-698", 
+"decision": "INCLUDED", 
+"name": "Fig.3_cladogram", 
+"studyID": "ot_1124", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
