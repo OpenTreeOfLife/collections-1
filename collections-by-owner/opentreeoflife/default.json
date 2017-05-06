@@ -1049,6 +1049,14 @@
 "name": "ML mitogenome nt", 
 "studyID": "ot_1105", 
 "treeID": "Tr76752"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from M. Klautau, F. Azevedo, B. Condor-Lujan, H. T. Rapp, A. Collins, C. A. d. M. Russo, 2013, 'A Molecular Phylogeny for the Order Clathrinida Rekindles and Refines Haeckel's Taxonomic Proposal for Calcareous Sponges', Integrative and Comparative Biology, vol. 53, no. 3, pp. 447-461", 
+"decision": "INCLUDED", 
+"name": "Klautau 2013 Clathrinida ITS", 
+"studyID": "ot_1106", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
