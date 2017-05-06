@@ -1113,6 +1113,14 @@
 "name": "tree 1", 
 "studyID": "ot_1118", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from K.M. Abrams, M.T. Guzik, S.J.B. Cooper, W.F. Humphreys, R.A. King, J.-L. Cho, A.D. Austin, 2012, 'What lies beneath: Molecular phylogenetics and ancestral state reconstruction of the ancient subterranean Australian Parabathynellidae (Syncarida, Crustacea)', Molecular Phylogenetics and Evolution, vol. 64, no. 1, pp. 130-144", 
+"decision": "INCLUDED", 
+"name": "Fig.1_bayesian", 
+"studyID": "ot_1120", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
