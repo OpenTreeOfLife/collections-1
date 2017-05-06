@@ -3,6 +3,10 @@
 {
 "login": "blackrim", 
 "name": "Stephen Smith"
+}, 
+{
+"login": "kcranston", 
+"name": "Karen Cranston"
 }
 ], 
 "creator": {
@@ -1768,6 +1772,14 @@
 "decision": "INCLUDED", 
 "name": "tree1 (Magall\u00f3n, 2015)", 
 "studyID": "ot_502", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Zingiberales Sass et al PeerJ 2016 (Chodon Sass, 2016)", 
+"studyID": "ot_709", 
 "treeID": "tree1"
 }
 ], 
