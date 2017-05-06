@@ -1089,6 +1089,14 @@
 "name": "TREE1", 
 "studyID": "ot_1100", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Kawahara AY, Mignault AA, Regier JC, Kitching IJ, Mitter C (2009) 'Phylogeny and Biogeography of Hawkmoths (Lepidoptera: Sphingidae): Evidence from Five Nuclear Genes., PLoS ONE, vol. 4, no. 5, p. e5719", 
+"decision": "INCLUDED", 
+"name": "best", 
+"studyID": "ot_1098", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
