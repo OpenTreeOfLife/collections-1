@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "michaelalfaro", 
+"name": "Michael Alfaro"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "ML Shark Tree (L. Sorenson, 2014)", 
+"studyID": "ot_1094", 
+"treeID": "tree1"
+}
+], 
+"description": "", 
+"name": "Chondrichthys", 
+"queries": []
+}
