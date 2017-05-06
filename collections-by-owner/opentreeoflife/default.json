@@ -1065,6 +1065,14 @@
 "name": "Atheriniformes (tree1)", 
 "studyID": "ot_1112", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Mario Hoenemann, William F. Humphreys, Difei Li, Marco T. Neiber, Stefan Koenemann, Thomas M. Iliffe, Frederick R. Schram, 2013, 'Phylogenetic analysis and systematic revision of Remipedia (Nectiopoda) from Bayesian analysis of molecular data', Journal of Crustacean Biology, vol. 33, no. 5, pp. 603-619", 
+"decision": "INCLUDED", 
+"name": "Fig3_Honemann_Bayesian", 
+"studyID": "ot_1101", 
+"treeID": "tree3"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
