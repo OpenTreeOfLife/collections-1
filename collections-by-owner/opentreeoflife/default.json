@@ -985,6 +985,14 @@
 "name": "Figs 1 and 2 upload = supplementary dataset 2", 
 "studyID": "ot_700", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Irisarri I., Eernisse D.J., & Zardoya R. 2014. Molecular phylogeny of Acanthochitonina (Mollusca: Polyplacophora: Chitonida): three new mitochondrial genomes, rearranged gene orders and systematics. Journal of Natural History, .", 
+"decision": "INCLUDED", 
+"name": "Bayesian MRC mitogenome nt", 
+"studyID": "ot_1105", 
+"treeID": "Tr76750"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
