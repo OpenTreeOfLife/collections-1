@@ -77,6 +77,14 @@
 "name": "Fig.1_bayesian (K.M. Abrams, 2012)", 
 "studyID": "ot_1120", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig.3_cladogram (David T. Drumm, 2010)", 
+"studyID": "ot_1124", 
+"treeID": "tree1"
 }
 ], 
 "description": "Pancrustacea", 
