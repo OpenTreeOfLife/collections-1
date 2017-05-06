@@ -1105,6 +1105,14 @@
 "name": "Best Tree", 
 "studyID": "ot_1117", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Eric R.L. Gordon, Christiane Weirauch, 2016, 'Efficient capture of natural history data reveals prey conservatism of cryptic termite predators', Molecular Phylogenetics and Evolution, vol. 94, pp. 65-73", 
+"decision": "INCLUDED", 
+"name": "tree 1", 
+"studyID": "ot_1118", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
