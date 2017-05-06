@@ -60,6 +60,14 @@
 "name": "Untitled (tree2674) (Dohrmann, 2009)", 
 "studyID": "pg_1343", 
 "treeID": "tree2674"
+}, 
+{
+"SHA": "", 
+"comments": "adds Clathrinida", 
+"decision": "INCLUDED", 
+"name": "Klautau 2013 Clathrinida ITS (M. Klautau, 2013)", 
+"studyID": "ot_1106", 
+"treeID": "tree1"
 }
 ], 
 "description": "Collection of Porifera Phylogenies", 
