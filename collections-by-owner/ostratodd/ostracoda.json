@@ -7,27 +7,11 @@
 "decisions": [
 {
 "SHA": "", 
-"comments": "Nearly comprehensive subfamily tree", 
+"comments": "Well supported tree at superfamily level", 
 "decision": "INCLUDED", 
-"name": "Fig. 2 (A. E. Syme, 2011)", 
-"studyID": "ot_1092", 
-"treeID": "Tr29848"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Figure 3A (Shigetaka Yamaguchi, 2003)", 
-"studyID": "ot_1116", 
-"treeID": "tree3"
-}, 
-{
-"SHA": "", 
-"comments": "Nearly comprehensive subfamily tree", 
-"decision": "INCLUDED", 
-"name": "tree1 (Cohen A.C., 2003)", 
-"studyID": "ot_1128", 
-"treeID": "tree1"
+"name": "Figure 3 (T. H. Oakley, 2012)", 
+"studyID": "ot_1047", 
+"treeID": "tree2"
 }, 
 {
 "SHA": "", 
@@ -39,19 +23,35 @@
 }, 
 {
 "SHA": "", 
+"comments": "Many Podocopa", 
+"decision": "INCLUDED", 
+"name": "Figure 3A (Shigetaka Yamaguchi, 2003)", 
+"studyID": "ot_1116", 
+"treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "Nearly comprehensive subfamily tree", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (A. E. Syme, 2011)", 
+"studyID": "ot_1092", 
+"treeID": "Tr29848"
+}, 
+{
+"SHA": "", 
+"comments": "Nearly comprehensive subfamily tree", 
+"decision": "INCLUDED", 
+"name": "tree1 (Cohen A.C., 2003)", 
+"studyID": "ot_1128", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
 "comments": "Nearly comprehensive subfamily tree", 
 "decision": "INCLUDED", 
 "name": "tree1 (CELIA K.C. CHURCHILL, 2014)", 
 "studyID": "ot_1133", 
 "treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "Well supported tree at superfamily level", 
-"decision": "INCLUDED", 
-"name": "Figure 3 (T. H. Oakley, 2012)", 
-"studyID": "ot_1047", 
-"treeID": "tree2"
 }
 ], 
 "description": "", 
