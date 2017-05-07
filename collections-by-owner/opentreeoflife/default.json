@@ -1145,6 +1145,14 @@
 "name": " Fig. 10 \"Best RaxML'", 
 "studyID": "ot_1093", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Nhu H. Nguyen, Heather E. Driscoll, Chelsea D. Specht, 2008, 'A molecular phylogeny of the wild onions (Allium; Alliaceae) with a focus on the western North American center of diversity', Molecular Phylogenetics and Evolution, vol. 47, no. 3, pp. 1157-1172", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule", 
+"studyID": "ot_1095", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
