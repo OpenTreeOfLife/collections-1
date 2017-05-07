@@ -85,6 +85,14 @@
 "name": "Fig.3_cladogram (David T. Drumm, 2010)", 
 "studyID": "ot_1124", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 1 (combined ML) (Hiroki Hata, 2017)", 
+"studyID": "ot_1130", 
+"treeID": "tree1"
 }
 ], 
 "description": "Pancrustacea", 
