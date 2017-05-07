@@ -7,7 +7,7 @@
 "decisions": [
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Nearly comprehensive subfamily tree", 
 "decision": "INCLUDED", 
 "name": "Fig. 2 (A. E. Syme, 2011)", 
 "studyID": "ot_1092", 
@@ -23,7 +23,7 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Nearly comprehensive subfamily tree", 
 "decision": "INCLUDED", 
 "name": "tree1 (Cohen A.C., 2003)", 
 "studyID": "ot_1128", 
@@ -39,7 +39,15 @@
 }, 
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Nearly comprehensive subfamily tree", 
+"decision": "INCLUDED", 
+"name": "tree1 (CELIA K.C. CHURCHILL, 2014)", 
+"studyID": "ot_1133", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Well supported tree at superfamily level", 
 "decision": "INCLUDED", 
 "name": "Figure 3 (T. H. Oakley, 2012)", 
 "studyID": "ot_1047", 
