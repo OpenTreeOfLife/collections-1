@@ -1153,6 +1153,14 @@
 "name": "con 50 majrule", 
 "studyID": "ot_1095", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Chuan Ma, Yeying Wang, Chao Wu, Le Kang, Chunxiang Liu, 2014, 'The compact mitochondrial genome of Zorotypus medoensis provides insights into phylogenetic position of Zoraptera', BMC Genomics, vol. 15, no. 1, p. 1156", 
+"decision": "INCLUDED", 
+"name": "PCG12RNA BI", 
+"studyID": "ot_1132", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
