@@ -17,14 +17,6 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Figure 3 (T. H. Oakley, 2012)", 
-"studyID": "ot_1047", 
-"treeID": "tree2"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "Figure 3A (Shigetaka Yamaguchi, 2003)", 
 "studyID": "ot_1116", 
 "treeID": "tree3"
@@ -36,6 +28,22 @@
 "name": "tree1 (Cohen A.C., 2003)", 
 "studyID": "ot_1128", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Hayato Tanaka, 2014)", 
+"studyID": "ot_1131", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figure 3 (T. H. Oakley, 2012)", 
+"studyID": "ot_1047", 
+"treeID": "tree2"
 }
 ], 
 "description": "", 
