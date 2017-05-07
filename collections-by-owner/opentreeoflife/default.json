@@ -1161,6 +1161,14 @@
 "name": "PCG12RNA BI", 
 "studyID": "ot_1132", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Hiroki Hata, Atsushi Sogabe, Shinya Tada, Ryohei Nishimoto, Reina Nakano, Nobuhiko Kohya, Hirohiko Takeshima, Ryota Kawanishi, 2017, 'Molecular phylogeny of obligate fish parasites of the family Cymothoidae (Isopoda, Crustacea): evolution of the attachment mode to host fish and the habitat shift from saline water to freshwater', Marine Biology, vol. 164, no. 5", 
+"decision": "INCLUDED", 
+"name": "Fig. 1 (combined ML)", 
+"studyID": "ot_1130", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
