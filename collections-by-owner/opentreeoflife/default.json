@@ -1185,6 +1185,14 @@
 "name": "Best tree", 
 "studyID": "ot_1135", 
 "treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from R\u00fcdiger Bieler, Paula M. Mikkelsen, Timothy M. Collins, Emily A. Glover, Vanessa L. Gonz\u00e1lez, Daniel L. Graf, Elizabeth M. Harper, John Healy, Gisele Y. Kawauchi, Prashant P. Sharma, Sid Staubach, Ellen E. Strong, John D. Taylor, Ilya T\u00ebmkin, John D. Zardus, Stephanie Clark, Alejandra Guzm\u00e1n, Erin McIntyre, Paul Sharp, Gonzalo Giribet, 2014, 'Investigating the Bivalve Tree of Life \u2013 an exemplar-based approach combining molecular and novel morphological characters', Invertebrate Systematics, vol. 28, no. 1, p. 32", 
+"decision": "INCLUDED", 
+"name": "9 genes + morphology (Fig. 31)", 
+"studyID": "ot_1071", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
