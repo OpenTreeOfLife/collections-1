@@ -12,6 +12,14 @@
 "name": "9 genes + morphology (Fig. 31) (R\u00fcdiger Bieler, 2014)", 
 "studyID": "ot_1071", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "results of BivAtoL study 2017 (more taxa, Sanger only)", 
+"decision": "INCLUDED", 
+"name": "tree1 (David J. Combosch, 2017)", 
+"studyID": "ot_1137", 
+"treeID": "tree1"
 }
 ], 
 "description": "trees from recent bivalve phylogeny papers", 
