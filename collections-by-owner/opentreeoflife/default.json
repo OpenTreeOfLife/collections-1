@@ -1169,6 +1169,14 @@
 "name": "Fig. 1 (combined ML)", 
 "studyID": "ot_1130", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Annie R Lindgren, Molly S Pankey, Frederick G Hochberg, Todd H Oakley, 2012, 'A multi-gene phylogeny of Cephalopoda supports convergent morphological evolution in association with multiple habitat shifts in the marine environment', BMC Evolutionary Biology, vol. 12, no. 1, p. 129", 
+"decision": "INCLUDED", 
+"name": "Largest Tree from Supplement Fig S1", 
+"studyID": "ot_1134", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
