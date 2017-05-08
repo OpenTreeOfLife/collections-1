@@ -1177,6 +1177,14 @@
 "name": "Largest Tree from Supplement Fig S1", 
 "studyID": "ot_1134", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from JESSICA L. WARE, ERIK PILGRIM, MICHAEL L. MAY, THOMAS W. DONNELLY, KENNETH TENNESSEN, 2016, 'Phylogenetic relationships of North American Gomphidae and their close relatives', Systematic Entomology, vol. 42, no. 2, pp. 347-358", 
+"decision": "INCLUDED", 
+"name": "Best tree", 
+"studyID": "ot_1135", 
+"treeID": "tree4"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
