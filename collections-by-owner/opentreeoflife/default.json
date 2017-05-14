@@ -1209,6 +1209,14 @@
 "name": "ML tree", 
 "studyID": "ot_1138", 
 "treeID": "Tr89262"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Latha K., & Manimohan P. 2016. Five new species of Inocybe (Agaricales) from tropical India based on morphological and molecular data. Mycologia, 108(1): 110-122.", 
+"decision": "INCLUDED", 
+"name": "PAUP_1", 
+"studyID": "ot_1139", 
+"treeID": "Tr97436"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
