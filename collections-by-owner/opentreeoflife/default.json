@@ -1201,6 +1201,14 @@
 "name": "Combosch et al. 2017 (Fig 1 - ML)", 
 "studyID": "ot_1137", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Coelho G., Silveira A.D., Antoniolli Z.I., & Yurchenko E. 2016. Tropicoporus stratificans sp. nov. (Hymenochaetales, Basidiomycota) from southern Brazil. Phytotaxa, 245(2): 144-152.", 
+"decision": "INCLUDED", 
+"name": "ML tree", 
+"studyID": "ot_1138", 
+"treeID": "Tr89262"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
