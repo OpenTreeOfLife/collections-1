@@ -1217,6 +1217,14 @@
 "name": "PAUP_1", 
 "studyID": "ot_1139", 
 "treeID": "Tr97436"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Adamcik S., Slovak M., Eberhardt U., Ronikier A., Jairus T., Hampe F., & Verbeken A. 2016. Molecular inference, multivariate morphometrics and ecological assessment are applied in concert to delimit species in the Russula clavipes complex. Mycologia, 108(4): 716-730.", 
+"decision": "INCLUDED", 
+"name": "PAUP_1", 
+"studyID": "ot_1140", 
+"treeID": "Tr103257"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
