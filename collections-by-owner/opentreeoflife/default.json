@@ -1233,6 +1233,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_1141", 
 "treeID": "Tr88900"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Wang X., Lombard L., Groenewald J.Z., Li J., Videira S.I., Samson R., Liu X., & Crous P.W. 2016. Phylogenetic reassessment of the Chaetomium globosum species complex. Persoonia: Molecular Phylogeny and Evolution of Fungi, 36: 83-133.", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_1142", 
+"treeID": "Tr91759"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
