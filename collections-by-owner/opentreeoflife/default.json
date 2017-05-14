@@ -1225,6 +1225,14 @@
 "name": "PAUP_1", 
 "studyID": "ot_1140", 
 "treeID": "Tr103257"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Orihara T., Ohmae M., & Yamamoto K. 2016. First report of Chamonixia caespitosa (Boletaceae, Boletales) from Japan and its phylogeographic significance. Mycoscience, 57(1): 58-63.", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_1141", 
+"treeID": "Tr88900"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
