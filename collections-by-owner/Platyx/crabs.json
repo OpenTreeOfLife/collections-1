@@ -341,9 +341,25 @@
 "name": "MajidaetreeFig1 (J. Antonio Baeza, 2009)", 
 "studyID": "ot_744", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6223 (Bracken-Grissom, 2013)", 
+"studyID": "pg_2677", 
+"treeID": "tree6223"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2661 (Tsang, 2011)", 
+"studyID": "pg_1252", 
+"treeID": "tree2661"
 }
 ], 
 "description": "Brachyuran phylogenies", 
-"name": "crabs", 
+"name": "carcin", 
 "queries": []
 }
