@@ -20,6 +20,14 @@
 "name": "tree1 (David J. Combosch, 2017)", 
 "studyID": "ot_1137", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "results of phylogenomic study to resolve pteriomorphian tree", 
+"decision": "INCLUDED", 
+"name": "Figure 2. Phylogenetic hypothesis based on Matrix 2 analysed in PHYML-PCMA (Sarah Lemer, 2016)", 
+"studyID": "ot_1148", 
+"treeID": "tree1"
 }
 ], 
 "description": "trees from recent bivalve phylogeny papers", 
