@@ -1,0 +1,349 @@
+{
+"contributors": [
+{
+"login": "federicaspani", 
+"name": "federicaspani (None)"
+}, 
+{
+"login": "dbsternGWU", 
+"name": "David Stern"
+}
+], 
+"creator": {
+"login": "Platyx", 
+"name": "Platyx"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "MrBayes consensus tree (L. M. Tsang, 2014)", 
+"studyID": "ot_99", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "ML-RAxML (Brent P. Thoma, 2013)", 
+"studyID": "ot_135", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "MrBayes 50% maj-rule consensus tree (Joelle C. Y. Lai, 2014)", 
+"studyID": "ot_143", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "MrBayes 50% maj-rule consensus (Robert M. Lasley, 2013)", 
+"studyID": "ot_141", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "MrBayes 50% maj-rule consensus tree (Amanda M. Windsor, 2014)", 
+"studyID": "ot_133", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "SriLankanFreshwaterCrabsMLtreeFig3 (NATALIE BEENAERTS, 2010)", 
+"studyID": "ot_662", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "PotamonautidaeMLtreeFig2 (S. R. Daniels, 2015)", 
+"studyID": "ot_663", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "GrapsidaeBayesiantreeFig1 (Brian H. Y. Ip, 2015)", 
+"studyID": "ot_664", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "PotamonBayestreeFig5 (Ruth Jesse, 2010)", 
+"studyID": "ot_665", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "PotamidaeBayestreeFig4 (Ruth Jesse, 2011)", 
+"studyID": "ot_666", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "GrapsoidcrabNJtreeFig1 (Jing-ming, 2010)", 
+"studyID": "ot_667", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "MacrophthalmidaeBayesTreeFig1 (Jun Kitaura, 2010)", 
+"studyID": "ot_668", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "ParathelphusaBayestreeFig2 (Sebastian Klaus, 2012)", 
+"studyID": "ot_669", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "GecarcinucidaeBayestreeFig1 (Sebastian Klaus, 2014)", 
+"studyID": "ot_670", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "XanthidaeBayestreeFig1 (Joelle C.Y. Lai, 2011)", 
+"studyID": "ot_671", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "UcaBayestreeFig2 (Richard B. Landstorfer, 2009)", 
+"studyID": "ot_672", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "ScyllaNJtreeFig3 (Hongyu Ma, 2013)", 
+"studyID": "ot_673", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "ErgasticusBayestreeFig7 (Elena Marco-Herrero, 2013)", 
+"studyID": "ot_674", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "BythograeidaeBayestreeFig2 (Mariana Mateos, 2012)", 
+"studyID": "ot_675", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "ScyllaMLtreeFig3 (Naim, 2012)", 
+"studyID": "ot_676", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "DiscoplaxBayestreeFig14 (Ng, 1851)", 
+"studyID": "ot_677", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "GeothelphusaBayestreeFig5 (Ng, 2010)", 
+"studyID": "ot_678", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "PotamonautesMLtreeFig2 (Ethel E. Phiri, 2013)", 
+"studyID": "ot_679", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "GrapsidaeBayesTreeFig1 (Christoph D. Schubart, 2011)", 
+"studyID": "ot_680", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "PlagusiidaeBayestreeFig2 (Christoph D. Schubart, 2010)", 
+"studyID": "ot_681", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "BrachyuraBayestreeFig3b (Hong Shen, 2013)", 
+"studyID": "ot_682", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "RaninidaeBayestreeFig4a (Guohui Shi, 2015)", 
+"studyID": "ot_683", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "UcaBayestreeFig9 (HSI-TE SHIH, 2015)", 
+"studyID": "ot_684", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "NanhaipotamonMLtreeFig2 (Hsi-Te Shih, 2011)", 
+"studyID": "ot_685", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "GeothelphusaBayestreeFig2 (Hsi-Te Shih, 2011)", 
+"studyID": "ot_686", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "UcaBayestreeFig1 (Shih H., 2013)", 
+"studyID": "ot_687", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "UcaMEtreeFig8 (HSI-TE SHIH, 2013)", 
+"studyID": "ot_688", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "TiwaripotamonMEtreeFig8 (HSI-TE SHIH, 2014)", 
+"studyID": "ot_689", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "PortunoideaBayestreeFig5 (Vassily A. Spiridonov, 2014)", 
+"studyID": "ot_690", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "CryptochiridaeMLtreeFig1 (Sancia E.T. van der Meij, 2016)", 
+"studyID": "ot_691", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "CryptochiridaeBayestreeFig2 (Sancia E. T. van der Meij, 2014)", 
+"studyID": "ot_692", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "OcypodeBayestreeFig9 (K. J.H. WONG, 2013)", 
+"studyID": "ot_693", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "GandalfusMLtreeFig3a (Jin-Shu Yang, 2010)", 
+"studyID": "ot_694", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "PorcellanidaeBayestreeFig2 (J. Antonio Baeza, 2016)", 
+"studyID": "ot_695", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "PinnotheridaeMLtreeFig1 (Emma Palacios Theil, 2016)", 
+"studyID": "ot_696", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "MajidaetreeFig1 (J. Antonio Baeza, 2009)", 
+"studyID": "ot_744", 
+"treeID": "tree1"
+}
+], 
+"description": "Brachyuran phylogenies", 
+"name": "crabs", 
+"queries": []
+}
