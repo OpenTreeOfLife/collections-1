@@ -1241,6 +1241,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_1142", 
 "treeID": "Tr91759"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from S.J. Longo, B.C. Faircloth, A. Meyer, M.W. Westneat, M.E. Alfaro, P.C. Wainwright, 2017, 'Phylogenomic analysis of a rapid radiation of misfit fishes (Syngnathiformes) using ultraconserved elements', Molecular Phylogenetics and Evolution, vol. 113, pp. 33-48", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree1)", 
+"studyID": "ot_1147", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
