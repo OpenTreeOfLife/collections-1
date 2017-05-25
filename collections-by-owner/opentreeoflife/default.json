@@ -1249,6 +1249,14 @@
 "name": "Untitled (tree1)", 
 "studyID": "ot_1147", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Michael G. Branstetter, Bryan N. Danforth, James P. Pitts, Brant C. Faircloth, Philip S. Ward, Matthew L. Buffington, Michael W. Gates, Robert R. Kula, Se\u00e1n G. Brady, 2017, 'Phylogenomic Insights into the Evolution of Stinging Wasps and the Origins of Ants and Bees', Current Biology, vol. 27, no. 7, pp. 1019-1025", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree1)", 
+"studyID": "ot_1059", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
