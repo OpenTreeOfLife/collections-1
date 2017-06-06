@@ -19,6 +19,10 @@
 {
 "login": "josephwb", 
 "name": "Joseph W. Brown"
+}, 
+{
+"login": "blackrim", 
+"name": "Stephen Smith"
 }
 ], 
 "creator": {
@@ -26,14 +30,6 @@
 "name": "Karen Cranston"
 }, 
 "decisions": [
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "tree1 (Harris, 2016)", 
-"studyID": "ot_892", 
-"treeID": "tree1"
-}, 
 {
 "SHA": "", 
 "comments": "", 
