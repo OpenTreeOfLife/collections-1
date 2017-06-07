@@ -1261,6 +1261,14 @@
 "name": "UNTITLED", 
 "studyID": "ot_1152", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Graham J. Slater, Jeremy A. Goldbogen, Nicholas D. Pyenson, 2017, 'Independent evolution of baleen whale gigantism linked to Plio-Pleistocene ocean dynamics', Proceedings of the Royal Society B: Biological Sciences, vol. 284, no. 1855, p. 20170546", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1150", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
