@@ -1269,6 +1269,14 @@
 "name": "TREE1", 
 "studyID": "ot_1150", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from The Phylogenetic Basis of Sexual Size Dimorphism in Orb-Weaving\nSpiders (Araneae, Orbiculariae)", 
+"decision": "INCLUDED", 
+"name": "Preferred tree", 
+"studyID": "ot_1154", 
+"treeID": "tree18"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
