@@ -976,14 +976,6 @@
 }, 
 {
 "SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Laura A. Hug, Brett J. Baker, Karthik Anantharaman, Christopher T. Brown, Alexander J. Probst, Cindy J. Castelle, Cristina N. Butterfield, Alex W. Hernsdorf, Yuki Amano, Kotaro Ise, Yohey Suzuki, Natasha Dudek, David A. Relman, Kari M. Finstad, Ronald Amundson, Brian C. Thomas, Jillian F. Banfield, 2016, 'A new view of the tree of life', Nature Microbiology, p. 16048", 
-"decision": "INCLUDED", 
-"name": "Figs 1 and 2 upload = supplementary dataset 2", 
-"studyID": "ot_700", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from Irisarri I., Eernisse D.J., & Zardoya R. 2014. Molecular phylogeny of Acanthochitonina (Mollusca: Polyplacophora: Chitonida): three new mitochondrial genomes, rearranged gene orders and systematics. Journal of Natural History, .", 
 "decision": "INCLUDED", 
 "name": "Bayesian MRC mitogenome nt", 
