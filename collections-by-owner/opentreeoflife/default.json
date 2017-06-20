@@ -1245,6 +1245,14 @@
 "name": "Fig. 3", 
 "studyID": "ot_1159", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Janet M. Bradford-Grieve, Geoffrey A. Boxshall, Leocadio Blanco-Bercial, 2014, 'Revision of basal calanoid copepod families, with a description of a new species and genus of Pseudocyclopidae', Zoological Journal of the Linnean Society, vol. 171, no. 3, pp. 507-533", 
+"decision": "INCLUDED", 
+"name": "Fig 12", 
+"studyID": "ot_1161", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
