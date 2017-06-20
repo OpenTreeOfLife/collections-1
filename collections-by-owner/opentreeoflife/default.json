@@ -1237,6 +1237,14 @@
 "name": "TREE1", 
 "studyID": "ot_1150", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Sarah J. Adamowicz, Silvina Menu-Marque, Stuart A. Halse, Janet C. Topan, Tyler S. Zemlak, Paul D.N. Hebert, Jonathan D.S. Witt, 2010, 'The evolutionary diversification of the Centropagidae (Crustacea, Calanoida): A history of habitat shifts', Molecular Phylogenetics and Evolution, vol. 55, no. 2, pp. 418-430", 
+"decision": "INCLUDED", 
+"name": "Fig. 3", 
+"studyID": "ot_1159", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
