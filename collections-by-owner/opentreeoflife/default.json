@@ -1253,6 +1253,14 @@
 "name": "Fig 12", 
 "studyID": "ot_1161", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Iole Di Capua, Fulvio Maffucci, Raimondo Pannone, Maria Grazia Mazzocchi, Elio Biffali, Alberto Amato, 2017, 'Molecular phylogeny of Oncaeidae (Copepoda) using nuclear ribosomal internal transcribed spacer (ITS rDNA)', PLOS ONE, vol. 12, no. 4, p. e0175662", 
+"decision": "INCLUDED", 
+"name": "Fig 1", 
+"studyID": "ot_1162", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
