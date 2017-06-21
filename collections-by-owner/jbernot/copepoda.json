@@ -169,6 +169,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "Fig 1 (Iole Di Capua, 2017)", 
+"studyID": "ot_1162", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Tree Fig 3 ( A. Bucklin, 2003)", 
 "studyID": "ot_1019", 
 "treeID": "tree1"
