@@ -1269,6 +1269,14 @@
 "name": "Figure 4 ITS and ets combined", 
 "studyID": "pg_155", 
 "treeID": "tree780"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Simon, M. F. [et al. 2011], Grether, R., de Queiroz, L. P., S\u00e4rkinen, T. E., Dutra, V. F., & Hughes, C. E. 2011. The evolutionary history of Mimosa (Leguminosae): Toward a phylogeny of the sensitive plants. American J. Bot. 98: 1201-1221.", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree200)", 
+"studyID": "pg_293", 
+"treeID": "tree200"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
