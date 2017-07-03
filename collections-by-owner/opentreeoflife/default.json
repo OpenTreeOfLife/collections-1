@@ -1261,6 +1261,14 @@
 "name": "Fig 1", 
 "studyID": "ot_1162", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Brown, G. K., Murphy, D. J., Miller, J. T., & Ladiges, P. Y. (2008). Acacia ss. and its relationship among tropical legumes, Tribe Ingeae (Leguminosae: Mimosoideae). Systematic Botany, 33(4), 739-751.", 
+"decision": "INCLUDED", 
+"name": "Figure 4 ITS and ets combined", 
+"studyID": "pg_155", 
+"treeID": "tree780"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
