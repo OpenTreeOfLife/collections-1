@@ -1269,6 +1269,14 @@
 "name": "Figure 4 ITS and ets combined", 
 "studyID": "pg_155", 
 "treeID": "tree780"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Yan-Jie Feng, David C. Blackburn, Dan Liang, David M. Hillis, David B. Wake, David C. Cannatella, Peng Zhang, 2017, 'Phylogenomics reveals rapid, simultaneous diversification of three major clades of Gondwanan frogs at the Cretaceous\u2013Paleogene boundary', Proceedings of the National Academy of Sciences, p. 201704632", 
+"decision": "INCLUDED", 
+"name": "Gondwanan frogs", 
+"studyID": "ot_1164", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
