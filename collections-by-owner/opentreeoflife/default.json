@@ -1277,6 +1277,14 @@
 "name": "Gondwanan frogs", 
 "studyID": "ot_1164", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Laura M. Zahn, 2017, 'Loss of flight in the Galapagos cormorant', Science, vol. 356, no. 6341, pp. 918.10-919", 
+"decision": "INCLUDED", 
+"name": "Galapagos cormorant", 
+"studyID": "ot_1165", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
