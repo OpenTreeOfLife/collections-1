@@ -1285,6 +1285,14 @@
 "name": "Galapagos cormorant", 
 "studyID": "ot_1165", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Julia J. Day, Antoine Fages, Katherine J. Brown, Emmanuel J. Vreven, Melanie L. J. Stiassny, Roger Bills, John P. Friel, Lukas R\u00fcber, 2017, 'Multiple independent colonizations into the Congo Basin during the continental radiation of African Mastacembelus\n spiny eels', Journal of Biogeography", 
+"decision": "INCLUDED", 
+"name": "African Mastacembelus spiny eels", 
+"studyID": "ot_1167", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
