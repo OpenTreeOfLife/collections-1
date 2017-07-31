@@ -1293,6 +1293,14 @@
 "name": "African Mastacembelus spiny eels", 
 "studyID": "ot_1167", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Michael D. D'Emic, Roger B.J. Benson, 2013, 'Measurement, variation, and scaling of osteocyte lacunae: a case study in birds', Bone, vol. 57, no. 1, pp. 300-310", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree3)", 
+"studyID": "ot_1174", 
+"treeID": "tree3"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
