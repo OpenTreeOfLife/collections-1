@@ -1309,6 +1309,14 @@
 "name": "crown clade Apocynaceae", 
 "studyID": "ot_1175", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Steven B. Cannon, Michael R. McKain, Alex Harkess, Matthew N. Nelson, Sudhansu Dash, Michael K. Deyholos, Yanhui Peng, Blake Joyce, Charles N. Stewart, Megan Rolf, Toni Kutchan, Xuemei Tan, Cui Chen, Yong Zhang, Eric Carpenter, Gane Ka-Shu Wong, Jeff J. Doyle, Jim Leebens-Mack, 2014, 'Multiple Polyploidy Events in the Early Radiation of Nodulating and Nonnodulating Legumes', Molecular Biology and Evolution, vol. 32, no. 1, pp. 193-210", 
+"decision": "INCLUDED", 
+"name": "single copy trees", 
+"studyID": "ot_1176", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
