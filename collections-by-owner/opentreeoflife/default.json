@@ -1322,14 +1322,6 @@
 "SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from Kiontke K., Gavin N., Raynes Y., Roehrig C., Piano F., & Fitch D. 2004. Caenorhabditis phylogeny predicts convergence of hermaphroditism and extensive intron loss. Proceedings of the National Academy of Sciences of the United States of America 101 (24): 9003-9008.", 
 "decision": "INCLUDED", 
-"name": "Untitled (tree4327)", 
-"studyID": "pg_2089", 
-"treeID": "tree4327"
-}, 
-{
-"SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Kiontke K., Gavin N., Raynes Y., Roehrig C., Piano F., & Fitch D. 2004. Caenorhabditis phylogeny predicts convergence of hermaphroditism and extensive intron loss. Proceedings of the National Academy of Sciences of the United States of America 101 (24): 9003-9008.", 
-"decision": "INCLUDED", 
 "name": "Untitled (tree4326)", 
 "studyID": "pg_2089", 
 "treeID": "tree4326"
