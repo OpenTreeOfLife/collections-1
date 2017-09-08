@@ -1341,6 +1341,14 @@
 "name": "Fig. 3 ML", 
 "studyID": "ot_1182", 
 "treeID": "Tr43256"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Nepal M.P., & Ferguson C.J. 2011. Phylogenetics of Morus (Moraceae) Inferred from ITS and trnL-trnF Sequence Data. Systematic Botany, .", 
+"decision": "INCLUDED", 
+"name": "Fig. 1A (Left)", 
+"studyID": "ot_1182", 
+"treeID": "Tr43234"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
