@@ -1365,6 +1365,14 @@
 "name": "ml", 
 "studyID": "ot_1184", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Chris J. Law, Graham J. Slater, Rita S. Mehta, 2017, 'Lineage Diversity and Size Disparity in Musteloidea: Testing Patterns of Adaptive Radiation Using Molecular and Fossil-Based Methods', Systematic Biology", 
+"decision": "INCLUDED", 
+"name": "Musteloidea", 
+"studyID": "ot_1185", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
