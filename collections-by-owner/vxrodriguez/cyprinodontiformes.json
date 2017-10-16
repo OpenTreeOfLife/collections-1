@@ -4,7 +4,16 @@
 "login": "vxrodriguez", 
 "name": "vxrodriguez"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree2) (Andrew J. Helmstetter, 2016)", 
+"studyID": "ot_1192", 
+"treeID": "tree2"
+}
+], 
 "description": "", 
 "name": "Cyprinodontiformes", 
 "queries": []
