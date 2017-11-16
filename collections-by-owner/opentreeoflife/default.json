@@ -1373,6 +1373,14 @@
 "name": "Musteloidea", 
 "studyID": "ot_1185", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Perrie L., Wilson R., Shepherd L., Ohlsen D., Batty E., Brownsey P., & Bayly M.J. 2014. Molecular phylogenetics and generic taxonomy of the Blechnaceae ferns. Taxon, 63(4): 745-758.", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_1202", 
+"treeID": "Tr96307"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
