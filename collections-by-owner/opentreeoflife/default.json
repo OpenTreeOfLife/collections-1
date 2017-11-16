@@ -1381,6 +1381,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_1202", 
 "treeID": "Tr96307"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Gernandt D.S., Holman G., Campbell C., Parks M., Mathews S., Raubeson L., Liston A., Stockey R., & Rothwell G. 2016. Phylogenetics of extant and fossil Pinaceae: methods for increasing topological stability. Botany, .", 
+"decision": "INCLUDED", 
+"name": "Fig. 1C", 
+"studyID": "ot_1198", 
+"treeID": "Tr97555"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
