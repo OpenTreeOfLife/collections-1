@@ -1405,6 +1405,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_1209", 
 "treeID": "Tr96307"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Portnoy D., Willis S., Hunt E., Swift D., Gold J., & Conway K.W. 2016. Molecular phylogenetics of New World searobins (Triglidae; Prionotinae). Molecular Phylogenetics and Evolution, .", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1208", 
+"treeID": "Tr99854"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
