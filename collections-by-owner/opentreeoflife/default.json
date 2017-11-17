@@ -1413,6 +1413,14 @@
 "name": "TREE1", 
 "studyID": "ot_1208", 
 "treeID": "Tr99854"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Pohl, M., Milvertz, F. C., Meyer, A., & Vences, M. (2015). Multigene phylogeny of cyprinodontiform fishes suggests continental radiations and a rogue taxon position of Pantanodon. Vertebrate Zoology, 65(1), 37-44.", 
+"decision": "INCLUDED", 
+"name": "Bayesian tree", 
+"studyID": "ot_1212", 
+"treeID": "tree12"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
