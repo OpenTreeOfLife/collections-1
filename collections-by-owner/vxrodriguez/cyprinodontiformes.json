@@ -9,22 +9,6 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (Andrew J. Helmstetter, 2016)", 
-"studyID": "ot_1194", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "tree12 (Pohl, 2015)", 
-"studyID": "ot_1212", 
-"treeID": "tree12"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "tree2 (A. I. Furness, 2015)", 
 "studyID": "ot_1193", 
 "treeID": "tree2"
@@ -36,6 +20,22 @@
 "name": "tree5 (B. J. A. Pollux, 2014)", 
 "studyID": "ot_1196", 
 "treeID": "tree5"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Andrew J. Helmstetter, 2016)", 
+"studyID": "ot_1194", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree12 (Pohl, 2015)", 
+"studyID": "ot_1212", 
+"treeID": "tree12"
 }
 ], 
 "description": "", 
