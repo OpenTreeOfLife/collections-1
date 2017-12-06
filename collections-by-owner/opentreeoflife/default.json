@@ -1421,6 +1421,14 @@
 "name": "Bayesian tree", 
 "studyID": "ot_1212", 
 "treeID": "tree12"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Andrew J. Helmstetter, Alexander S. T. Papadopulos, Javier Igea, Tom J. M. Van Dooren, Armand M. Leroi, Vincent Savolainen, 2016, 'Viviparity stimulates diversification in an order of fish', Nature Communications, vol. 7, p. 11271", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1194", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
