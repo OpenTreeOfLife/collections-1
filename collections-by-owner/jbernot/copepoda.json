@@ -17,6 +17,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "Fig S6 (Sahar Khodami, 2017)", 
+"studyID": "ot_1215", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Fig. 3 ML (Astrid Cornils, 2013)", 
 "studyID": "ot_1032", 
 "treeID": "tree1"
