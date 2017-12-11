@@ -1429,6 +1429,14 @@
 "name": "Default Symmetrical Tree+", 
 "studyID": "ot_1215", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Sahar Khodami, J. Vaun McArthur, Leocadio Blanco-Bercial, Pedro Martinez Arbizu, 2017, 'Molecular Phylogeny and Revision of Copepod Orders (Crustacea: Copepoda)', Scientific Reports, vol. 7, no. 1", 
+"decision": "INCLUDED", 
+"name": "Fig S6", 
+"studyID": "ot_1215", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
