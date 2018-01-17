@@ -1437,6 +1437,14 @@
 "name": "Fig S6", 
 "studyID": "ot_1215", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from K. L. Haag, T. Y. James, J.-F. Pombert, R. Larsson, T. M. M. Schaer, D. Refardt, D. Ebert, 2014, 'Evolution of a morphological novelty occurred before genome compaction in a lineage of extreme parasites', Proceedings of the National Academy of Sciences, vol. 111, no. 43, pp. 15480-15485", 
+"decision": "INCLUDED", 
+"name": "Fig 2", 
+"studyID": "ot_1216", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
