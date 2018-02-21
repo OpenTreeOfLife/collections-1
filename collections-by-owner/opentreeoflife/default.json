@@ -1453,6 +1453,14 @@
 "name": "tree 1", 
 "studyID": "ot_303", 
 "treeID": "Tr62284"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Huang D.I., & Friar E. 2010. Relationships in the Lupinus albifrons species complex (Fabaceae) based on two highly variable chloroplast regions. Systematic Botany, .", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_607", 
+"treeID": "Tr25497"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
