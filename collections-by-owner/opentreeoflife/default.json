@@ -1445,6 +1445,14 @@
 "name": "Fig 2", 
 "studyID": "ot_1216", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Mishler B., Knerr N., Gonz?lez-orozco C.E., Thornhill A.H., Laffan S., & Miller J.T. 2014. Phylogenetic Measures of Biodiversity and Neo- and Paleo-Endemism in Australian Acacia. Nature Communications, 5(4473).", 
+"decision": "INCLUDED", 
+"name": "tree 1", 
+"studyID": "ot_303", 
+"treeID": "Tr62284"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
