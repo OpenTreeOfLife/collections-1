@@ -1461,6 +1461,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_607", 
 "treeID": "Tr25497"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Miller, J. T. [et al. 2003], Grimes, J. W,, Murphy, D. J., Bayer, R. J., & Ladiges, P. Y. 2003. A phylogenetic analysis of the Acacieae and Ingeae (Mimosoideae: Fabaceae) based on trnK, matK, psbA-trnH, and trnL/trnF sequence data. Syst. Bot. 28: 558-566.", 
+"decision": "INCLUDED", 
+"name": "Fig 1 Maximum parsimony strict consensus", 
+"studyID": "pg_295", 
+"treeID": "tree203"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
