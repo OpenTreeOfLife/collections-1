@@ -1469,6 +1469,14 @@
 "name": "Fig 1 Maximum parsimony strict consensus", 
 "studyID": "pg_295", 
 "treeID": "tree203"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Azani, Nasim, et al. \"A new subfamily classification of the Leguminosae based on a taxonomically comprehensive phylogeny The Legume Phylogeny Working Group (LPWG).\" Taxon 66.1 (2017): 44-77.", 
+"decision": "INCLUDED", 
+"name": "Bayesian Majority Rule Phylobayes Consensus Tree", 
+"studyID": "ot_1050", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
