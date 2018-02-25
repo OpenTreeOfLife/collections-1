@@ -1493,6 +1493,14 @@
 "name": "Untitled (tree3879)", 
 "studyID": "pg_1902", 
 "treeID": "tree3879"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from McMahon, M. M., & Sanderson, M. J. 2006. Phylogenetic supermatrix analysis of GenBank sequences from 2228 papilionoid legumes. Syst. Biol. 55: 818-836.", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree1940)", 
+"studyID": "pg_999", 
+"treeID": "tree1940"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
