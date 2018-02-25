@@ -1501,6 +1501,14 @@
 "name": "Untitled (tree1940)", 
 "studyID": "pg_999", 
 "treeID": "tree1940"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Brown, G. K., Murphy, D. J., & Ladiges, P. Y. (2011). Relationships of the Australo\u2010Malesian genus Paraserianthes (Mimosoideae: Leguminosae) identifies the sister group of Acacia sensu stricto and two biogeographical tracks. Cladistics, 27(4), 380-390.", 
+"decision": "INCLUDED", 
+"name": "Figure 1", 
+"studyID": "pg_154", 
+"treeID": "tree782"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
