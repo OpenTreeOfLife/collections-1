@@ -20,6 +20,14 @@
 "name": "TREE1 (Achimon F., 2018)", 
 "studyID": "ot_1228", 
 "treeID": "Tr109565"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figure 1 (Brown, 2011)", 
+"studyID": "pg_154", 
+"treeID": "tree782"
 }
 ], 
 "description": "Update of the Legume clade", 
