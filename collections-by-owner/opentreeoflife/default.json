@@ -1485,6 +1485,14 @@
 "name": "Fig 1 ML tree", 
 "studyID": "pg_1864", 
 "treeID": "tree3763"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Jobson, R. W., & Luckow, M. 2007. Phylogenetic study of the genus Piptadenia (Mimosoideae: Leguminosae) using plastid trnL-F and trnK/matK sequence data. Syst. Bot. 32: 569-575", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree3879)", 
+"studyID": "pg_1902", 
+"treeID": "tree3879"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
