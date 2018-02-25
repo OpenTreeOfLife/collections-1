@@ -12,9 +12,17 @@
 "name": "Untitled (tree203) (Miller, 2003)", 
 "studyID": "pg_295", 
 "treeID": "tree203"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "TREE1 (Achimon F., 2018)", 
+"studyID": "ot_1228", 
+"treeID": "Tr109565"
 }
 ], 
-"description": "", 
+"description": "Update of the Legume clade", 
 "name": "Legumes- Miller", 
 "queries": []
 }
