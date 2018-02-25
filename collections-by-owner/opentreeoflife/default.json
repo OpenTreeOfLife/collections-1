@@ -1477,6 +1477,14 @@
 "name": "Bayesian Majority Rule Phylobayes Consensus Tree", 
 "studyID": "ot_1050", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from C. Bessega, and R. H. Fortunato. 2010. Section Mimadenia: its phylogenetic relationships within the genus Mimosa (Leguminosae, Mimosoideae) using plastid trnL\u2013F sequence data. Australian Systematic Botany. 24: 104\u2013110.", 
+"decision": "INCLUDED", 
+"name": "Fig 1 ML tree", 
+"studyID": "pg_1864", 
+"treeID": "tree3763"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
