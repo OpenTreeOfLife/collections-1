@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "rebeclem", 
+"name": "Rebecca Clement"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Inward_et_al_2007_fig1-3 (Daegan J.G. Inward, 2007)", 
+"studyID": "ot_1231", 
+"treeID": "tree1"
+}
+], 
+"description": "", 
+"name": "TermitesRAC", 
+"queries": []
+}
