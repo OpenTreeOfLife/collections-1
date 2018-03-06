@@ -20,6 +20,14 @@
 "name": "Legendre2008 (Fr\u00e9d\u00e9ric Legendre, 2008)", 
 "studyID": "ot_1234", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Aenen2005fig1 (Duur K. Aanen, 2005)", 
+"studyID": "ot_1235", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
