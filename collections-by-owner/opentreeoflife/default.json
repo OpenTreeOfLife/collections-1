@@ -1525,6 +1525,14 @@
 "name": "Legendre2008", 
 "studyID": "ot_1234", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Duur K. Aanen, Paul Eggleton, 2005, 'Fungus-Growing Termites Originated in African Rain Forest', Current Biology, vol. 15, no. 9, pp. 851-855", 
+"decision": "INCLUDED", 
+"name": "Aenen2005fig1", 
+"studyID": "ot_1235", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
