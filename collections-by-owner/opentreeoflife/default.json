@@ -1533,6 +1533,14 @@
 "name": "Aenen2005fig1", 
 "studyID": "ot_1235", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Steven Poe, Adri\u00e1n Nieto-montes de oca, Omar Torres-carvajal, Kevin De Queiroz, Juli\u00e1n A. Velasco, Brad Truett, Levi N. Gray, Mason J. Ryan, Gunther K\u00f6hler, Fernando Ayala-varela, Ian Latella, 2017, 'A Phylogenetic, Biogeographic, and Taxonomic study of all Extant Species of Anolis (Squamata; Iguanidae)', Systematic Biology, vol. 66, no. 5, pp. 663-697", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1236", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
