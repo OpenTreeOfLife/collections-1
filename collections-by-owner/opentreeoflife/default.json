@@ -1541,6 +1541,14 @@
 "name": "TREE1", 
 "studyID": "ot_1236", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Joseph T. Miller, Vanessa Terra, Chance Riggins, John E. Ebinger, David S. Seigler, 2017, 'Molecular Phylogenetics of Parasenegalia and Pseudosenegalia (Fabaceae: Mimosoideae)', Systematic Botany, vol. 42, no. 3, pp. 465-469", 
+"decision": "INCLUDED", 
+"name": "Maximum likelihood topology tree based on the combined ITS and plastid dataset.", 
+"studyID": "ot_1229", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
