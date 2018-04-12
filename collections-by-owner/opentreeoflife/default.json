@@ -1565,6 +1565,14 @@
 "name": "bestREP10", 
 "studyID": "ot_1241", 
 "treeID": "Tr103639"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Kuo L., Chen C., Shinohara W., Ebihara A., Hiroshi K., Hirotoshi S., Huang Y., & Chiou W. 2017. Not only in the temperate zone: independent gametophytes of two vittarioid ferns (Pteridaceae, Polypodiales) in East Asian subtropics. Journal of Plant Research, 130: 407-416.", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1246", 
+"treeID": "Tr108958"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
