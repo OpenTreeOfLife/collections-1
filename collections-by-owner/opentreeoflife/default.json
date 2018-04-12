@@ -1549,6 +1549,14 @@
 "name": "Maximum likelihood topology tree based on the combined ITS and plastid dataset.", 
 "studyID": "ot_1229", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Fernando B. Matos, Alejandra Vasco, Robbin C. Moran, 2018, 'Elaphoglossum doanense and Elaphoglossum tonduzii: New Members of Elaphoglossum Sect. Squamipedia (Dryopteridaceae) and Their Significance for Inferring the Evolution of Rhizome Habit and Nest-Forming Leaves within the Genus', International Journal of Plant Sciences, pp. 000-000", 
+"decision": "INCLUDED", 
+"name": "Squamipedia MP", 
+"studyID": "ot_1239", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
