@@ -1557,6 +1557,14 @@
 "name": "Squamipedia MP", 
 "studyID": "ot_1239", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Chen C., Rothfels C.J., Mustapeng A.M., Gubilil M., Karger D.N., Kessler M., & Huang Y. 2017. End of an enigma: Aenigmopteris belongs in Tectaria (Tectariaceae: Polypodiopsida). Journal of Plant Research, .", 
+"decision": "INCLUDED", 
+"name": "bestREP10", 
+"studyID": "ot_1241", 
+"treeID": "Tr103639"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
