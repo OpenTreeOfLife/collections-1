@@ -1573,6 +1573,14 @@
 "name": "TREE1", 
 "studyID": "ot_1246", 
 "treeID": "Tr108958"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Guillaume Chomicki, Philip S. Ward, Susanne S. Renner, 2015, 'Macroevolutionary assembly of ant/plant symbioses:Pseudomyrmexants and their ant-housing plants in the Neotropics', Proceedings of the Royal Society B: Biological Sciences, vol. 282, no. 1819, p. 20152200", 
+"decision": "INCLUDED", 
+"name": "bestREP1", 
+"studyID": "ot_1245", 
+"treeID": "Tr87460"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
