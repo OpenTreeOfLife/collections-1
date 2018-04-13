@@ -1589,6 +1589,14 @@
 "name": "bestREP1", 
 "studyID": "ot_1248", 
 "treeID": "Tr92236"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from WARD, P. S. and FISHER, B. L. (2016), Tales of dracula ants: the evolutionary history of the ant subfamily Amblyoponinae (Hymenoptera: Formicidae). Syst Entomol, 41: 683-693. ", 
+"decision": "INCLUDED", 
+"name": "bestREP1", 
+"studyID": "ot_1249", 
+"treeID": "Tr93670"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
