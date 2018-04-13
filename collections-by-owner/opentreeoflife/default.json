@@ -1581,6 +1581,14 @@
 "name": "bestREP1", 
 "studyID": "ot_1245", 
 "treeID": "Tr87460"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Boudinot B.E., Probst R.S., Brand\u00e3o C.R.F., Feitosa R.M., & Ward P. 2016. Out of the Neotropics: newly discovered relictual species sheds light on the biogeographical history of spider ants (Leptomyrmex, Dolichoderinae, Formicidae). Syst Entomol, 41: 658-671. ", 
+"decision": "INCLUDED", 
+"name": "bestREP1", 
+"studyID": "ot_1248", 
+"treeID": "Tr92236"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
