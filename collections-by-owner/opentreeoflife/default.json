@@ -1597,6 +1597,14 @@
 "name": "bestREP1", 
 "studyID": "ot_1249", 
 "treeID": "Tr93670"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Amy E. Zanne, David C. Tank, William K. Cornwell, Jonathan M. Eastman, Stephen A. Smith, Richard G. FitzJohn, Daniel J. McGlinn, Brian C. O\u2019Meara, Angela T. Moles, Peter B. Reich, Dana L. Royer, Douglas E. Soltis, Peter F. Stevens, Mark Westoby, Ian J. Wright, Lonnie Aarssen, Robert I. Bertin, Andre Calaminus, Rafa\u00ebl Govaerts, Frank Hemmings, Michelle R. Leishman, Jacek Oleksyn, Pamela S. Soltis, Nathan G. Swenson, Laura Warman, Jeremy M. Beaulieu, 2013, 'Three keys to the radiation of angiosperms into freezing environments', Nature, vol. 506, no. 7486, pp. 89-92", 
+"decision": "INCLUDED", 
+"name": "Fig. 1 time-calibrated ML estimate", 
+"studyID": "ot_311", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
