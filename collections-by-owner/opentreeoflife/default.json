@@ -1605,6 +1605,14 @@
 "name": "Fig. 1 time-calibrated ML estimate", 
 "studyID": "ot_311", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Ward P.S., Brady S.G., Fisher B.L, and Schultz, T.R. 2015. The evolution of myrmicine ants: phylogeny and biogeography of a hyperdiverse ant clade (Hymenoptera: Formicidae). Syst Entomol, 40: 61-81. ", 
+"decision": "INCLUDED", 
+"name": "bestREP1", 
+"studyID": "ot_1247", 
+"treeID": "Tr74849"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
