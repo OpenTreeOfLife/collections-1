@@ -1613,6 +1613,14 @@
 "name": "bestREP1", 
 "studyID": "ot_1247", 
 "treeID": "Tr74849"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Benedict King, Tuo Qiao, Michael S. Y. Lee, Min Zhu, John A. Long, 2016, 'Bayesian Morphological Clock Methods Resurrect Placoderm Monophyly and Reveal Rapid Early Evolution in Jawed Vertebrates', Systematic Biology, p. syw107", 
+"decision": "INCLUDED", 
+"name": "Figure3. MCC BEAST2 time tree", 
+"studyID": "ot_1253", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
