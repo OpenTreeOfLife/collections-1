@@ -1621,6 +1621,14 @@
 "name": "Figure3. MCC BEAST2 time tree", 
 "studyID": "ot_1253", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Gregory F.M. Jongsma, Michael F. Barej, Christopher D. Barratt, Marius Burger, Werner Conradie, Raffael Ernst, Eli Greenbaum, Mareike Hirschfeld, Adam D. Leach\u00e9, Johannes Penner, Daniel M. Portik, Ange-Ghislain Zassi-Boulou, Mark-Oliver R\u00f6del, David C. Blackburn, 2018, 'Diversity and biogeography of frogs in the genus  Amnirana  (Anura: Ranidae) across sub-Saharan Africa', Molecular Phylogenetics and Evolution, vol. 120, pp. 274-285", 
+"decision": "INCLUDED", 
+"name": "Sub-saharan Amnirana tree", 
+"studyID": "ot_1261", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
