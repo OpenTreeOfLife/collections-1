@@ -1621,6 +1621,14 @@
 "name": "Figure3. MCC BEAST2 time tree", 
 "studyID": "ot_1253", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Luke B. Klicka, Barbara E. Kus, Pascal O. Title, Kevin J. Burns, 2015, 'Conservation genomics reveals multiple evolutionary units within Bell\u2019s Vireo (Vireo bellii)', Conservation Genetics, vol. 17, no. 2, pp. 455-471", 
+"decision": "INCLUDED", 
+"name": "Fig 3. MCC tree", 
+"studyID": "ot_1257", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
