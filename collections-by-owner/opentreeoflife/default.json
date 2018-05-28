@@ -1693,6 +1693,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_1281", 
 "treeID": "Tr788"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Rokas A., Melika G., Abe Y., Nieves-aldrey J., Cook J., & Stone G. 2003. Lifecycle closure, lineage sorting and hybridization revealed in a phylogenetic analysis of European oak gallwasps (Hymenoptera: Cynipidae: Cynipini) using mitochondrial sequence data. Molecular Phylogenetics and Evolution, 26(1): 36-45.", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_1281", 
+"treeID": "Tr787"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
