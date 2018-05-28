@@ -1645,6 +1645,14 @@
 "name": "con 50 majrule", 
 "studyID": "ot_1273", 
 "treeID": "Tr89135"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Fr\u00e9d\u00e9ric Delsuc, Melanie Kuch, Gillian C. Gibb, Jonathan Hughes, Paul Szpak, John Southon, Jacob Enk, Ana T. Duggan, Hendrik N. Poinar, 2018, ' Resolving the phylogenetic position of Darwin's extinct ground sloth ( Mylodon darwinii) using mitogenomic and nuclear exon data', Proceedings of the Royal Society B: Biological Sciences, vol. 285, no. 1878, p. 20180214", 
+"decision": "INCLUDED", 
+"name": "Bayesian Mitochondrial", 
+"studyID": "ot_1278", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
