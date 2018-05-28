@@ -1637,6 +1637,14 @@
 "name": "con 50 majrule", 
 "studyID": "ot_1273", 
 "treeID": "Tr89136"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Fraija-fernandez N., Olson P., Crespo E., Raga J.A., Aznar F.J., & Fernandez M. 2015. Independence host switching events by digeneans parasites of cetaceans inferred from ribosomal DNA. International Journal for Parasitology, 45(2-3): 167-173.", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule", 
+"studyID": "ot_1273", 
+"treeID": "Tr89135"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
