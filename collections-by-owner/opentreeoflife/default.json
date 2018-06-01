@@ -1741,6 +1741,14 @@
 "name": "Fig. 7", 
 "studyID": "ot_1325", 
 "treeID": "Tr87612"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Riebesehl J., Langer E.J., Ordynets A., Striegel M.M., & Witzany C. 2015. Hyphodontia borbonica, a new species from La Reunion. Mycol Progress, 14: 104.", 
+"decision": "INCLUDED", 
+"name": "Fig. 6", 
+"studyID": "ot_1325", 
+"treeID": "Tr87613"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
