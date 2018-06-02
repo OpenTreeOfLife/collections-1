@@ -1789,6 +1789,14 @@
 "name": "Fig. 4B", 
 "studyID": "ot_1334", 
 "treeID": "Tr2236"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Struck T., Purschke G., & Halanych K. 2005. A scaleless scale worm: Molecular evidence for the phylogenetic placement of Pisione remota (Pisionidae, Annelida). Marine Biology Research, 1.", 
+"decision": "INCLUDED", 
+"name": "Fig. 5", 
+"studyID": "ot_1334", 
+"treeID": "Tr2237"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
