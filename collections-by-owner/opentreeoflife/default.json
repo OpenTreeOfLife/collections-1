@@ -1805,6 +1805,14 @@
 "name": "Figure 19A", 
 "studyID": "ot_1335", 
 "treeID": "Tr55332"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Langer M.C., Bittencourt J.S., & Schultz C.L. 2011. A reassessment of the basal dinosaur Guaibasaurus candelariensis, from the Late Triassic Caturrita Formation of South Brazil. Earth and Environmental Science Transactions of the Royal Society of Edinburgh, 101: 301-332.", 
+"decision": "INCLUDED", 
+"name": "Figure 19B", 
+"studyID": "ot_1335", 
+"treeID": "Tr55333"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
