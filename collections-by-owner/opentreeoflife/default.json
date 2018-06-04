@@ -1821,6 +1821,14 @@
 "name": "combined data Flavipedes", 
 "studyID": "ot_1338", 
 "treeID": "Tr76168"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Juan Moles, Conxita Avila, Manuel A E Malaquias, 2017, 'Systematic revision of the Antarctic gastropod family Newnesiidae (Heterobranchia: Cephalaspidea) with the description of a new genus and a new abyssal species', Zoological Journal of the Linnean Society", 
+"decision": "INCLUDED", 
+"name": "Fig. 3", 
+"studyID": "ot_1339", 
+"treeID": "Tr105276"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
