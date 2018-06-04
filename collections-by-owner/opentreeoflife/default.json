@@ -1845,6 +1845,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_1340", 
 "treeID": "Tr92107"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Prosanta Chakrabarty, Brant C. Faircloth, Fernando Alda, William B. Ludt, Caleb D. Mcmahan, Thomas J. Near, Alex Dornburg, James S. Albert, Jairo Arroyave, Melanie L. J. Stiassny, Laurie Sorenson, Michael E. Alfaro, 2017, 'Phylogenomic Systematics of Ostariophysan Fishes: Ultraconserved Elements Support the Surprising Non-Monophyly of Characiformes', Systematic Biology, vol. 66, no. 6, pp. 881-895", 
+"decision": "INCLUDED", 
+"name": "Chakrabarty et al. (2017) Characiformes", 
+"studyID": "ot_1342", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
