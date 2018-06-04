@@ -1829,6 +1829,14 @@
 "name": "Fig. 3", 
 "studyID": "ot_1339", 
 "treeID": "Tr105276"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from R\u00e9blov\u00e1 M., Fournier J., & Stepanek V. 2016. Two new lineages of aquatic ascomycetes: Atractospora gen. nov. and Rubellisphaeria gen. et sp. nov., and a sexual morph of Myrmecridium montsegurinum sp. nov. Mycological Progress, 15: 21.", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_1340", 
+"treeID": "Tr92106"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
