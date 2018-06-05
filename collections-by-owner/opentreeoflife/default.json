@@ -1853,6 +1853,14 @@
 "name": "Chakrabarty et al. (2017) Characiformes", 
 "studyID": "ot_1342", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Bret M. Boyd, Julie M. Allen, Nam Nguyen, Andrew D. Sweet, Tandy Warnow, Michael D. Shapiro, Scott M. Villa, Sarah E. Bush, Dale H. Clayton, Kevin P. Johnson, 2017, '\n            Phylogenomics using Target-restricted Assembly Resolves Intra-generic Relationships of Parasitic Lice (Phthiraptera:\n            Columbicola\n            )\n          ', Systematic Biology, p. syx027", 
+"decision": "INCLUDED", 
+"name": "ConcatenationBootstrapTree", 
+"studyID": "ot_1343", 
+"treeID": "tree7"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
