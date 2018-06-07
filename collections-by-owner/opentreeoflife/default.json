@@ -1861,6 +1861,14 @@
 "name": "ConcatenationBootstrapTree", 
 "studyID": "ot_1343", 
 "treeID": "tree7"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Garfinkel A.R., Lorenzini M., Zapparoli G., & Chastagner G.A. 2017. Botrytis euroamericana, a new species from peony and grape in North America and Europe. Mycologia , .", 
+"decision": "INCLUDED", 
+"name": "Imported tree 1", 
+"studyID": "ot_1350", 
+"treeID": "Tr105259"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
