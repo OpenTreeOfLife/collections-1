@@ -1901,6 +1901,14 @@
 "name": "PAUP 1", 
 "studyID": "ot_1351", 
 "treeID": "Tr61887"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Zhou J., Zhu L., Chen H., & Cui B. 2016. Taxonomy and phylogeny of Polyporus group Melanopus (Polyporales, Basidiomycota) from China. PloS ONE, 11(8): e0159495.", 
+"decision": "INCLUDED", 
+"name": "PAUP 1", 
+"studyID": "ot_1353", 
+"treeID": "Tr111812"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
