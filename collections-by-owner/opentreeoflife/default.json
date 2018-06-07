@@ -1885,6 +1885,14 @@
 "name": "Imported tree 1", 
 "studyID": "ot_1350", 
 "treeID": "Tr105258"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Arora D., & Frank J.L. 2014. Clarifying the Butter Boletes: a new genus, Butyriboletus, is established to accommodate Boletus sect. Appendiculati, and seven new species are described. Mycologia, 106(3): 464-480.", 
+"decision": "INCLUDED", 
+"name": "PAUP 1", 
+"studyID": "ot_1351", 
+"treeID": "Tr61888"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
