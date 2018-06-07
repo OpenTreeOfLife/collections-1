@@ -1909,6 +1909,14 @@
 "name": "PAUP 1", 
 "studyID": "ot_1353", 
 "treeID": "Tr111812"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Marc S. Appelhans, Niklas Reichelt, Milton Groppo, Claudia Paetzold, Jun Wen, 2018, 'Phylogeny and biogeography of the pantropical genus  Zanthoxylum  and its closest relatives in the proto-Rutaceae group (Rutaceae)', Molecular Phylogenetics and Evolution, vol. 126, pp. 31-44", 
+"decision": "INCLUDED", 
+"name": "Fig3_4marker-tree", 
+"studyID": "ot_1354", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
