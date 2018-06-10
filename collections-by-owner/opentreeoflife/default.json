@@ -1949,6 +1949,14 @@
 "name": "ML tree ", 
 "studyID": "ot_1362", 
 "treeID": "Tr96006"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Videira S.I., Groenewald J.Z., Braun U., Shin H., & Crous P.W. 2016. All that glitters is not Ramularia. Studies in Mycology, 83: 49-163.", 
+"decision": "INCLUDED", 
+"name": "Fig. 1 Bayesian tree", 
+"studyID": "ot_1363", 
+"treeID": "Tr110586"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
