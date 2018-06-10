@@ -1933,6 +1933,14 @@
 "name": "Imported tree 1", 
 "studyID": "ot_1358", 
 "treeID": "Tr105797"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Pascual B., El-azaz J., De la torre F., Canas R.A., Avila C., & Canovas F.M. 2016. Biosynthesis and metabolic fate of phenylalanine in conifers. Frontiers in Plant Science, 7: 1030.", 
+"decision": "INCLUDED", 
+"name": "Fig. 2", 
+"studyID": "ot_1360", 
+"treeID": "Tr93591"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
