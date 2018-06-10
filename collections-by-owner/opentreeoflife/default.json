@@ -1941,6 +1941,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_1360", 
 "treeID": "Tr93591"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Sessegolo C., Burlet N., & Haudry A.V. 2016. Strong phylogenetic inertia on genome size and transposable element content among 26 species of flies. Biology Letters, 12(8).", 
+"decision": "INCLUDED", 
+"name": "ML tree ", 
+"studyID": "ot_1362", 
+"treeID": "Tr96006"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
