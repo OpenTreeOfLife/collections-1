@@ -1965,6 +1965,14 @@
 "name": "Fig. 2 Baysian tree", 
 "studyID": "ot_1363", 
 "treeID": "Tr110589"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Mehl J.W., Slippers B., Roux J., & Wingfield M.J. 2017. Overlap of latent pathogens in the Botryosphaeriaceae on a native and agricultural host. Fungal Biology, 121(4): 405-419.", 
+"decision": "INCLUDED", 
+"name": "nj", 
+"studyID": "ot_1365", 
+"treeID": "Tr106908"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
