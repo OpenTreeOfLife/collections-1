@@ -2005,6 +2005,14 @@
 "name": "MajRule", 
 "studyID": "ot_1366", 
 "treeID": "Tr98763"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Abasova L., Aghayeva D., & Takamatsu S. 2018. Notes on powdery mildews of the genus Erysiphe from Azerbaijan. Current Research in Environmental & Applied Mycology, 8(1): 50-53 .", 
+"decision": "INCLUDED", 
+"name": "PAUP_2", 
+"studyID": "ot_1368", 
+"treeID": "Tr111746"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
