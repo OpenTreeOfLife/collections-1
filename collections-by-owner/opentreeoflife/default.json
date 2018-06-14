@@ -2053,6 +2053,14 @@
 "name": "con 50 majrule", 
 "studyID": "ot_1375", 
 "treeID": "Tr86807"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Wei Wang, Rosa Del C. Ortiz, Fr\u00e9d\u00e9ric M.B. Jacques, Shih-Wen Chung, Yang Liu, Xiao-Guo Xiang, Zhi-Duan Chen, 2017, 'New insights into the phylogeny of Burasaieae (Menispermaceae) with the recognition of a new genus and emphasis on the southern Taiwanese and mainland Chinese disjunction', Molecular Phylogenetics and Evolution, vol. 109, pp. 11-20", 
+"decision": "INCLUDED", 
+"name": "Wang et al. 2017", 
+"studyID": "ot_1378", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
