@@ -2037,6 +2037,14 @@
 "name": "Fig4_4loci(2mtDNA)_time-tree", 
 "studyID": "ot_1370", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Chirivi-salomon J.S., Danies G., Restrepo S., & Sanjuan T.I. 2015. Lecanicillium sabanense sp. nov. (Cordycipitaceae) a new fungal entomopathogen of coccids. Phytotaxa, 234(1): 063-074.", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule", 
+"studyID": "ot_1375", 
+"treeID": "Tr86809"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
