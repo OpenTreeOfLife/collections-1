@@ -2061,6 +2061,14 @@
 "name": "Wang et al. 2017", 
 "studyID": "ot_1378", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Thais N.C. Vasconcelos, Carol E.B. Proen\u00e7a, Berhaman Ahmad, Daniel S. Aguilar, Reinaldo Aguilar, Bruno S. Amorim, Keron Campbell, Itayguara R. Costa, Plauto S. De-Carvalho, Jair E.Q. Faria, Augusto Giaretta, Pepijn W. Kooij, Duane F. Lima, Fiorella F. Mazine, Brigido Peguero, Gerhard Prenner, Matheus F. Santos, Julia Soewarto, Astrid Wingler, Eve J. Lucas, 2017, 'Myrteae phylogeny, calibration, biogeography and diversification patterns: Increased understanding in the most species rich tribe of Myrtaceae', Molecular Phylogenetics and Evolution, vol. 109, pp. 113-137", 
+"decision": "INCLUDED", 
+"name": "Vasconcelos et al. (2017), Myrtae", 
+"studyID": "ot_1380", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
