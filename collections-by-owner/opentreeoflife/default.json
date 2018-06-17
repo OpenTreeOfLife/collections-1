@@ -2069,6 +2069,14 @@
 "name": "Vasconcelos et al. (2017), Myrtae", 
 "studyID": "ot_1380", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Jose Tavera, Arturo Acero P., Peter C. Wainwright, 2018, 'Multilocus phylogeny, divergence times, and a major role for the benthic-to-pelagic axis in the diversification of grunts (Haemulidae)', Molecular Phylogenetics and Evolution, vol. 121, pp. 212-223", 
+"decision": "INCLUDED", 
+"name": "UNTITLED", 
+"studyID": "ot_1384", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
