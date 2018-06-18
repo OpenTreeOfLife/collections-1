@@ -2085,6 +2085,14 @@
 "name": "ML_tree", 
 "studyID": "ot_1386", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Worthy T., Mitri M., Handley W.D., Lee M.S., Anderson A., & Sand C. 2016. Osteology Supports a Stem-Galliform Affinity for the Giant Extinct Flightless Bird Sylviornis neocaledoniae (Sylviornithidae, Galloanseres). PLoS ONE, 11(3): e0150871.", 
+"decision": "INCLUDED", 
+"name": "Fig. 13", 
+"studyID": "ot_1345", 
+"treeID": "Tr109614"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
