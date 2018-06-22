@@ -2117,6 +2117,14 @@
 "name": "Watts et al., 2016, Empidinae", 
 "studyID": "ot_1394", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Theriot E.C., Ashworth M., Nakov T., Ruck E.C., & Jansen R.K. 2015. Dissecting signal and noise in diatom chloroplast protein encoding genes with phylogenetic information profiling. Molecular Phylogenetics and Evolution, 89: 28-36.", 
+"decision": "INCLUDED", 
+"name": "tree 1", 
+"studyID": "ot_1395", 
+"treeID": "Tr96911"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
