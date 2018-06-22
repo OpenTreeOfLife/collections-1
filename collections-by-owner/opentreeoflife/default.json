@@ -2101,6 +2101,14 @@
 "name": "Williams et al. (2016), Acacia", 
 "studyID": "ot_1390", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Andrew L. Hipp, Paul S. Manos, Antonio Gonz\u00e1lez-Rodr\u00edguez, Marlene Hahn, Matthew Kaproth, John D. McVay, Susana Valencia Avalos, Jeannine Cavender-Bares, 2017, 'Sympatric parallel diversification of major oak clades in the Americas and the origins of Mexican species diversity', New Phytologist, vol. 217, no. 1, pp. 439-452", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1393", 
+"treeID": "tree8"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
