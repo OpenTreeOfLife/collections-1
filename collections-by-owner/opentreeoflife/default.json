@@ -2125,6 +2125,14 @@
 "name": "tree 1", 
 "studyID": "ot_1395", 
 "treeID": "Tr96911"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Carlucci A., Lops F., Mostert L., Halleen F., & Raimondo M.L. 2016. Occurrence of black foot disease fungi of young grapevines and nursery rootstock plants in Italy. Phytopathologia Mediterranea, .", 
+"decision": "INCLUDED", 
+"name": "Fig. 3", 
+"studyID": "ot_1396", 
+"treeID": "Tr110817"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
