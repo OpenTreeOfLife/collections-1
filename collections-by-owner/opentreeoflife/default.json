@@ -2149,6 +2149,14 @@
 "name": "Fig. 5", 
 "studyID": "ot_1396", 
 "treeID": "Tr111440"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from E. Guatimosim, P.B. Schwartsburd, R.W. Barreto, P.W. Crous, 2016, 'Novel fungi from an ancient niche: cercosporoid and related sexual morphs on ferns', Persoonia - Molecular Phylogeny and Evolution of Fungi, vol. 37, no. 1, pp. 106-141", 
+"decision": "INCLUDED", 
+"name": "Fig. 2", 
+"studyID": "ot_1421", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
