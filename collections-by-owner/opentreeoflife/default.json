@@ -2173,6 +2173,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_1421", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Anil raj K., Deepna latha K., Rajan I., & Manimohan P. 2016. Rhodophana squamulosa \u0097a new species from India. Mycoscience, 57 (2): 90-95.", 
+"decision": "INCLUDED", 
+"name": "PAUP_1", 
+"studyID": "ot_1423", 
+"treeID": "Tr97439"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
