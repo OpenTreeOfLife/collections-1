@@ -2189,6 +2189,14 @@
 "name": "Figure 3", 
 "studyID": "ot_1429", 
 "treeID": "Tr55911"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Luque J., Christy J., Hendy A.J., Rosenberg M., Portell R.W., Kerr K.A., & Palmer A.R. 2017. Quaternary intertidal and supratidal crabs (Decapoda, Brachyura) from tropical America and the systematic affinities of fossil fiddler crabs. Journal of Systematic Palaeontology, 00(00): 00\u009600.", 
+"decision": "INCLUDED", 
+"name": "Fig. 8", 
+"studyID": "ot_1328", 
+"treeID": "Tr107194"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
