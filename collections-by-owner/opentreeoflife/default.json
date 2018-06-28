@@ -2197,6 +2197,14 @@
 "name": "Fig. 8", 
 "studyID": "ot_1328", 
 "treeID": "Tr107194"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Katharina Dittmar, Megan L. Porter, Susan Murray, Michael F. Whiting, 2006, 'Molecular phylogenetic analysis of nycteribiid and streblid bat flies (Diptera: Brachycera, Calyptratae): Implications for host associations and phylogeographic origins', Molecular Phylogenetics and Evolution, vol. 38, no. 1, pp. 155-170", 
+"decision": "INCLUDED", 
+"name": "Fig. 4 - ML", 
+"studyID": "ot_1432", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
