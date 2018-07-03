@@ -2245,6 +2245,14 @@
 "name": "Lerp, 2016 Gazella", 
 "studyID": "ot_1444", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Matthew G. Johnson, Claire Malley, Bernard Goffinet, A. Jonathan Shaw, Norman J. Wickett, 2016, 'A phylotranscriptomic analysis of gene family expansion and evolution in the largest order of pleurocarpous mosses (Hypnales, Bryophyta)', Molecular Phylogenetics and Evolution, vol. 98, pp. 29-40", 
+"decision": "INCLUDED", 
+"name": "Johnson et al., 2016", 
+"studyID": "ot_1446", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
