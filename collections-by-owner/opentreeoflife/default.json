@@ -2237,6 +2237,14 @@
 "name": "Ramos, 2016", 
 "studyID": "ot_1443", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Hannes Lerp, Sebastian Klaus, Stefanie Allg\u00f6wer, Torsten Wronski, Markus Pfenninger, Martin Plath, 2016, 'Phylogenetic analyses of gazelles reveal repeated transitions of key ecological traits and provide novel insights into the origin of the genus Gazella', Molecular Phylogenetics and Evolution, vol. 98, pp. 1-10", 
+"decision": "INCLUDED", 
+"name": "Lerp, 2016 Gazella", 
+"studyID": "ot_1444", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
