@@ -2381,6 +2381,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_1448", 
 "treeID": "Tr108836"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Shu-an J., Atterholt J., O'connor J.K., Lamanna M.C., Harris J.D., Da-qing L., Hai-lu Y., & Dodson P. 2011. A new, three-dimensionally preserved enantiornithine bird (Aves: Ornithothoraces) from Gansu Province, north-western China. Zoological Journal of the Linnean Society, 162(1): 201-219.", 
+"decision": "INCLUDED", 
+"name": "Figure 5", 
+"studyID": "ot_1449", 
+"treeID": "Tr55330"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
