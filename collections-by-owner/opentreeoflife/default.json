@@ -2357,6 +2357,14 @@
 "name": "TREE1", 
 "studyID": "ot_1344", 
 "treeID": "Tr105486"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Miller A.K., Kerr A.M., Paulay G., Reich M., Wilson N.G., Carvajal J.I., & Rouse G.W. 2017. Molecular phylogeny of extant Holothuroidea (Echinodermata). Molecular Phylogenetics and Evolution, 111: 110-131.", 
+"decision": "INCLUDED", 
+"name": "tree 1", 
+"studyID": "ot_1336", 
+"treeID": "Tr103781"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
