@@ -2261,6 +2261,14 @@
 "name": "Fig. 1b", 
 "studyID": "ot_1314", 
 "treeID": "Tr5182"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Dongyu H., Lianhai H., Lijun Z., & Xing X. 2010. A pre-Archaeopteryx troodontid theropod from China with long feathers on the metatarsus. Nature, 461: 640-643.", 
+"decision": "INCLUDED", 
+"name": "Figure 4", 
+"studyID": "ot_1431", 
+"treeID": "Tr55921"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
