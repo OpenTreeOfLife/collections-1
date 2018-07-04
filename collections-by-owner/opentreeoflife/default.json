@@ -2365,6 +2365,14 @@
 "name": "tree 1", 
 "studyID": "ot_1336", 
 "treeID": "Tr103781"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Coppard S.E., & Lessios H.A. 2017. Phylogeography of the sand dollar genus Encope: implications regarding the Central American Isthmus and rates of molecular evolution. Scientific Reports, .", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule", 
+"studyID": "ot_1327", 
+"treeID": "Tr106359"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
