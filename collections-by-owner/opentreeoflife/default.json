@@ -2293,6 +2293,14 @@
 "name": "Fig. 4", 
 "studyID": "ot_1427", 
 "treeID": "Tr55249"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Mart\u00edn J. Ram\u00edrez, 2014, 'The Morphology And Phylogeny Of Dionychan Spiders (Araneae: Araneomorphae)', Bulletin of the American Museum of Natural History, vol. 390, pp. 1-374", 
+"decision": "INCLUDED", 
+"name": "Imported tree 1", 
+"studyID": "ot_1268", 
+"treeID": "tree5"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
