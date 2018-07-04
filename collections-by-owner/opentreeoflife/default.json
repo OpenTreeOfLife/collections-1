@@ -2325,6 +2325,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_1409", 
 "treeID": "Tr87541"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Zhang X., Smith M.R., Yang J., & Hou J. 2016. Onychophoran-like musculature in a phosphatized Cambrian lobopodian. Biology Letters, .", 
+"decision": "INCLUDED", 
+"name": "Majority-Rule", 
+"studyID": "ot_1389", 
+"treeID": "Tr97256"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
