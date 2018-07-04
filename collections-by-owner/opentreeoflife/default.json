@@ -2301,6 +2301,14 @@
 "name": "Imported tree 1", 
 "studyID": "ot_1268", 
 "treeID": "tree5"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Jackson J.A., Linse K.T., Whittle R., & Griffiths H. 2015. The evolutionary origins of the Southern Ocean philobryid bivalves: hidden biodiversity, ancient persistence. PLoS One, .", 
+"decision": "INCLUDED", 
+"name": "Fig. 7", 
+"studyID": "ot_1445", 
+"treeID": "Tr80174"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
