@@ -2309,6 +2309,14 @@
 "name": "Fig. 7", 
 "studyID": "ot_1445", 
 "treeID": "Tr80174"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Wilson G.D., Shaik S., & Ranga reddy Y. 2015. A new species of Andhracoides Wilson & Ranga Reddy, 2011 (Crustacea, Isopoda, Hypsimetopidae) from Belum Cave, Andhra Pradesh, India, with a phylogenetic review of the family. Journal of Crustacean Biology, 35(2): 216-240.", 
+"decision": "INCLUDED", 
+"name": "tnt 9+", 
+"studyID": "ot_1447", 
+"treeID": "Tr80255"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
