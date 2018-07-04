@@ -2349,6 +2349,14 @@
 "name": "con all compat+", 
 "studyID": "ot_1388", 
 "treeID": "Tr101831"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Toljagi&#263; O., Voje K.L., Matschiner M., Liow L., & Hansen T.F. 2017. Millions of Years Behind: Slow Adaptation of Ruminants to Grasslands. Systematic Biology, .", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1344", 
+"treeID": "Tr105486"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
