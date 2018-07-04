@@ -2373,6 +2373,14 @@
 "name": "con 50 majrule", 
 "studyID": "ot_1327", 
 "treeID": "Tr106359"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Tavares V.D., Warsi O., Balseiro F., Mancina C., & Davalos L.M. 2018. Out of the Antilles: fossil phylogenies support reverse colonization of bats to South America. Journal of Biogeography, .", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_1448", 
+"treeID": "Tr108836"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
