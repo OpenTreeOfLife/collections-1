@@ -2285,6 +2285,14 @@
 "name": "Fig. 3", 
 "studyID": "ot_1301", 
 "treeID": "Tr27546"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Rubilar-rogers D., Otero R.A., Yury-y\u00e1\u00f1ez R.E., Vargas A.O., & Gutstein C.S. 2012. An overview of the dinosaur fossil record from Chile. Journal of South American Earth Sciences, : 1-14.", 
+"decision": "INCLUDED", 
+"name": "Fig. 4", 
+"studyID": "ot_1427", 
+"treeID": "Tr55249"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
