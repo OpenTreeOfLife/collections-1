@@ -2389,6 +2389,14 @@
 "name": "Figure 5", 
 "studyID": "ot_1449", 
 "treeID": "Tr55330"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Gang Yao, Bryan T. Drew, Ting-Shuang Yi, Hai-Fei Yan, Yong-Ming Yuan, Xue-Jun Ge, 2016, 'Phylogenetic relationships, character evolution and biogeographic diversification of Pogostemon s.l. (Lamiaceae)', Molecular Phylogenetics and Evolution, vol. 98, pp. 184-200", 
+"decision": "INCLUDED", 
+"name": "Yao et al., 2016", 
+"studyID": "ot_1452", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
