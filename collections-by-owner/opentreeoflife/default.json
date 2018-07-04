@@ -2277,6 +2277,14 @@
 "name": "Figure 2.23 E", 
 "studyID": "ot_1430", 
 "treeID": "Tr55885"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Sekimoto S., Rochon D., Long J.E., Dee J.M., & Berbee M. 2011. A multigene phylogeny of Olpidium and its implications for early fungal evolution. BMC Evolutionary Biology, .", 
+"decision": "INCLUDED", 
+"name": "Fig. 3", 
+"studyID": "ot_1301", 
+"treeID": "Tr27546"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
