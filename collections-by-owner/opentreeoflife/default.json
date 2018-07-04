@@ -2269,6 +2269,14 @@
 "name": "Figure 4", 
 "studyID": "ot_1431", 
 "treeID": "Tr55921"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Sereno P.C. 2010. \"Taxonomy, cranial morphology, and relationships of parrot-beaked dinosaurs.\" In: , eds. New Perspectives on Horned Dinosaurs. pp. 21-58. Bloomington, University of Indiana Press.", 
+"decision": "INCLUDED", 
+"name": "Figure 2.23 E", 
+"studyID": "ot_1430", 
+"treeID": "Tr55885"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
