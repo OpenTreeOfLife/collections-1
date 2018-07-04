@@ -2333,6 +2333,14 @@
 "name": "Majority-Rule", 
 "studyID": "ot_1389", 
 "treeID": "Tr97256"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Satoshi Eguchi, Minoru N. Tamura, 2016, 'Evolutionary timescale of monocots determined by the fossilized birth-death model using a large number of fossil records', Evolution, vol. 70, no. 5, pp. 1136-1144", 
+"decision": "INCLUDED", 
+"name": "mrbayes", 
+"studyID": "ot_1391", 
+"treeID": "Tr96262"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
