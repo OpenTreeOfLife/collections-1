@@ -2317,6 +2317,14 @@
 "name": "tnt 9+", 
 "studyID": "ot_1447", 
 "treeID": "Tr80255"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Rojas D., Warsi O., & Davalos L.M. 2016. Bats (Chiroptera: Noctilionoidea) challenge a recent origin of extant neotropical diversity. Systematic Biology, 65(3): 432-448.", 
+"decision": "INCLUDED", 
+"name": "Fig. 2", 
+"studyID": "ot_1409", 
+"treeID": "Tr87541"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
