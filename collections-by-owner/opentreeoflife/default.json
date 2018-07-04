@@ -2341,6 +2341,14 @@
 "name": "mrbayes", 
 "studyID": "ot_1391", 
 "treeID": "Tr96262"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Vitek N.S., Danilov I.G., Nakajima Y., & Hirayama R. 2017. Redescription of the skull of \u0093Trionyx\u0094 kyrgyzensis and improved phylogenetic taxon sampling of Cretaceous and Paleogene soft-shelled turtles (Trionychidae) of Asia, including the oldest crown trionychids. Journal of Systematic Palaeontology, .", 
+"decision": "INCLUDED", 
+"name": "con all compat+", 
+"studyID": "ot_1388", 
+"treeID": "Tr101831"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
