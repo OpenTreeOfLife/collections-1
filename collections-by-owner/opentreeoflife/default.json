@@ -2397,6 +2397,14 @@
 "name": "Yao et al., 2016", 
 "studyID": "ot_1452", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Lee Ann Galindo, Nicolas Puillandre, Jos\u00e9 Utge, Pierre Lozouet, Philippe Bouchet, 2016, 'The phylogeny and systematics of the Nassariidae revisited (Gastropoda, Buccinoidea)', Molecular Phylogenetics and Evolution, vol. 99, pp. 337-353", 
+"decision": "INCLUDED", 
+"name": "Galindo et al., 2016 Nassariidae", 
+"studyID": "ot_1454", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
