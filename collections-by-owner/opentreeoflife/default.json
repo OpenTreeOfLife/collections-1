@@ -2645,6 +2645,14 @@
 "name": "Bayes con 50 majrule", 
 "studyID": "ot_1433", 
 "treeID": "Tr106415"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Chen L., Grimm G., Wang Q., & Renner S.S. 2015. A phylogeny and biogeographic analysis for the Cape-Pondweed family Aponogetonaceae (Alismatales). Molecular Phylogenetics and Evolution, 82: 111\u00e2\u0080\u0093117.", 
+"decision": "INCLUDED", 
+"name": "MLT", 
+"studyID": "ot_1466", 
+"treeID": "Tr75272"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
