@@ -2469,6 +2469,14 @@
 "name": "TREE1", 
 "studyID": "ot_1291", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Sturaro M.J., Avila-pires T.C., & Rodrigues M.T. 2017. Molecular phylogenetic diversity in the widespread lizard <i>Cercosaura ocellata</i> (Reptilia: Gymnophthalmidae) in South America. Systematics and Biodiversity, .", 
+"decision": "INCLUDED", 
+"name": "ML tree", 
+"studyID": "ot_1401", 
+"treeID": "Tr102060"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
