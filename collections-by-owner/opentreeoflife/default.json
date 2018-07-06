@@ -2613,6 +2613,14 @@
 "name": "BEAST dated", 
 "studyID": "ot_1414", 
 "treeID": "Tr91920"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Economo E.P., Klimov P.B., Sarnat E.M., Gu\u00e9nard B., Weiser M.D., Lecroq B., & Knowles L.L. 2014. Global phylogenetic structure of the hyperdiverse ant genus Pheidole reveals the repeated evolution of macroecological patterns. Proceedings of the Royal Society B: Biological Sciences, 282: 1-10.", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1465", 
+"treeID": "Tr86890"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
