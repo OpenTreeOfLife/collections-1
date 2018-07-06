@@ -2573,6 +2573,14 @@
 "name": "Soma PartFinder", 
 "studyID": "ot_1410", 
 "treeID": "Tr97099"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from De campos santana M., Amalfi M., Castillo G., & Decock C. 2016. Multilocus, DNA-based phylogenetic analysis reveal three new species lineages in the P. gabonensis - P. caribaeo-quercicola species complex, including Phellinus amazonicus sp. nov. Mycologia, .", 
+"decision": "INCLUDED", 
+"name": "amazonicus", 
+"studyID": "ot_1416", 
+"treeID": "Tr95511"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
