@@ -2493,6 +2493,14 @@
 "name": "con 50 majrule", 
 "studyID": "ot_1405", 
 "treeID": "Tr110606"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Hertweck K.L., & Pires J.C. 2014. Systematics and evolution of inflorescence structure in the Tradescantia alliance (Commelinaceae). Systematic Botany, 39(1): 105-116.", 
+"decision": "INCLUDED", 
+"name": "unconstrained", 
+"studyID": "ot_1462", 
+"treeID": "Tr74579"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
