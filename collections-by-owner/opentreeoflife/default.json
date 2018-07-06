@@ -2677,6 +2677,14 @@
 "name": "con 50 majrule", 
 "studyID": "ot_1468", 
 "treeID": "Tr100261"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Fan P., Liu Y., Zhang Z., Zhao C., Li C., Liu W., & Li M. 2016. Phylogenetic position of the white-cheeked macaque (Macaca leucogenys), a newly described primate from Southeastern Tibet. Molecular Phylogentics and Evolution, .", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1468", 
+"treeID": "Tr100262"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
