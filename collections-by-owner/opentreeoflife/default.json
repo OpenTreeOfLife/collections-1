@@ -2589,6 +2589,14 @@
 "name": "con 50 majrule", 
 "studyID": "ot_1417", 
 "treeID": "Tr94055"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Wei X., Mccune B., Lumbsch H.T., Li H., Leavitt S., Yamamoto Y., Tchabanenko S., & Wei J. 2016. Limitations of Species Delimitation Based on Phylogenetic Analyses: A Case Study in the Hypogymnia hypotrypa Group (Parmeliaceae, Ascomycota). PLoS ONE, 11(11): e0163664.", 
+"decision": "INCLUDED", 
+"name": "Fig. S4", 
+"studyID": "ot_1413", 
+"treeID": "Tr95891"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
