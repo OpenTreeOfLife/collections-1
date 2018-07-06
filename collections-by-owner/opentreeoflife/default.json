@@ -2413,6 +2413,14 @@
 "name": "Massardo et al., 2016 Nymphalidae", 
 "studyID": "ot_1456", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Meeboon J., & Takamatsu S. 2014. Notes on the powdery mildews (Erysiphales) in Japan II. Erysiphe sect. Microsphaera. Mycoscience, 56(1): 230-236.", 
+"decision": "INCLUDED", 
+"name": "Fig. 2", 
+"studyID": "ot_1459", 
+"treeID": "Tr74507"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
