@@ -2653,6 +2653,14 @@
 "name": "MLT", 
 "studyID": "ot_1466", 
 "treeID": "Tr75272"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Lazarus K., Benny G., Ho H., & Smith M.E. 2016. Phylogenetic systematics of Syncephalis (Zoopagales, Zoopagomycotina), a genus of ubiquitous mycoparasites. Mycologia, .", 
+"decision": "INCLUDED", 
+"name": "tree 1", 
+"studyID": "ot_1467", 
+"treeID": "Tr101085"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
