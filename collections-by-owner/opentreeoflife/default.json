@@ -2533,6 +2533,14 @@
 "name": "con all compat", 
 "studyID": "ot_1464", 
 "treeID": "Tr103429"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Mossebo D.C., Essouman F.E., Machouart M.C., & Gueidan C. 2017. Phylogenetic relationships, taxonomic revision and new taxa of Termitomyces (Basidiomycota, Lyophyllaceae) inferred from combined nLSU- and mtSSU-rDNA sequences. Fungal Diversity, 321(1): 71-102.", 
+"decision": "INCLUDED", 
+"name": "PAUP", 
+"studyID": "ot_1407", 
+"treeID": "Tr110818"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
