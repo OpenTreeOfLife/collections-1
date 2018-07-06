@@ -2557,6 +2557,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_1408", 
 "treeID": "Tr106909"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Okane I., & Ono Y. 2017. Phylogenetic study of indigenous grapevine leaf rust fungi in North America and biological identity of an invasive grapevine leaf rust fungus in Brazil. Mycoscience, .", 
+"decision": "INCLUDED", 
+"name": "PHYLIP 1+", 
+"studyID": "ot_1411", 
+"treeID": "Tr105655"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
