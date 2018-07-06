@@ -2549,6 +2549,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_1408", 
 "treeID": "Tr107089"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Rengifo E.M., & Pacheco V. 2017. Phylogenetic position of the Ancash-eared mouse, Phyllotis definitus Osgood 1915 (Rodentia: Cricetidae). Mammalia, .", 
+"decision": "INCLUDED", 
+"name": "Fig. 2", 
+"studyID": "ot_1408", 
+"treeID": "Tr106909"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
