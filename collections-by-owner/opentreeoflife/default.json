@@ -2429,6 +2429,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_1459", 
 "treeID": "Tr74506"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Jayawardena R.S., Zhang W., Liu M., Maharachchikumbura M.S., Zhou Y., Huang J., Nilthong S., Wang Z., Li X., Yan J., & Hyde K.D. 2014. Identification and characterization of Pestalotiopsis-like fungi related to grapevine diseases in China. Fungal Biology, .", 
+"decision": "INCLUDED", 
+"name": "PAUP 1", 
+"studyID": "ot_1461", 
+"treeID": "Tr79340"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
