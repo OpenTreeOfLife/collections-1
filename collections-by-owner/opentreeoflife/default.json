@@ -2517,6 +2517,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_1463", 
 "treeID": "Tr71674"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Meeboon J., & Takamatsu S. 2015. Erysiphe takamatsui, a powdery mildew of lotus: rediscovery of teleomorph after 40 years, morphology and phylogeny. Mycoscience, 56(1): 159-167.", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_1463", 
+"treeID": "Tr71670"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
