@@ -2445,6 +2445,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_1460", 
 "treeID": "Tr105194"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Siahaan S., Sakamoto H., Shinoda T., & Takamatsu S. 2018. Morphophylogenetic study revealed that Erysiphe gracilis (powdery mildew of evergreen oaks, Erysiphales) is a species complex consisting of six true species. Mycoscience, 59(2): 124-136.", 
+"decision": "INCLUDED", 
+"name": "Fig. 3", 
+"studyID": "ot_1460", 
+"treeID": "Tr105196"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
