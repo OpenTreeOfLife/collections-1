@@ -2477,6 +2477,14 @@
 "name": "ML tree", 
 "studyID": "ot_1401", 
 "treeID": "Tr102060"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from LIN ZHU, JIA-HUI XING, BAO-KAI CUI, 2017, 'Morphological characters and phylogenetic analysis reveal a new species of Sanghuangporus from China', Phytotaxa, vol. 311, no. 3, p. 270", 
+"decision": "INCLUDED", 
+"name": "MajRule", 
+"studyID": "ot_1397", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
