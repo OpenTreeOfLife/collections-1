@@ -2685,6 +2685,14 @@
 "name": "TREE1", 
 "studyID": "ot_1468", 
 "treeID": "Tr100262"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Videira S.I., Groenewald J.Z., Nakashima C., Braun U., Barreto R.W., De wit P.J., & Crous P.W. 2017. Mycosphaerellaceae - Chaos or clarity?. Studies in Mycology , 87: 257-421.", 
+"decision": "INCLUDED", 
+"name": "Fig. 4", 
+"studyID": "ot_1469", 
+"treeID": "Tr108349"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
