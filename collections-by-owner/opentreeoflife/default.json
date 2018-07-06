@@ -2605,6 +2605,14 @@
 "name": "RAxML", 
 "studyID": "ot_1414", 
 "treeID": "Tr91919"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Adams N.F., Collinson M.E., Smith S.Y., Bamford M.K., Forest F., Malakasi P., Marone F., & Sykes D. 2016. X-rays and virtual taphonomy reveal the first fossil record of Cissus (Vitaceae) in Africa: phylogenetic, biogeographic and paleoenvironmental implications. American Journal of Botany, .", 
+"decision": "INCLUDED", 
+"name": "BEAST dated", 
+"studyID": "ot_1414", 
+"treeID": "Tr91920"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
