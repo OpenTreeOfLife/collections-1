@@ -2461,6 +2461,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_1460", 
 "treeID": "Tr105195"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Stuart V. Nielsen, Paul M. Oliver, 2017, '\n            Morphological and genetic evidence for a new karst specialist lizard from New Guinea (\n            Cyrtodactylus\n            : Gekkonidae)\n          ', Royal Society Open Science, vol. 4, no. 11, p. 170781", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1291", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
