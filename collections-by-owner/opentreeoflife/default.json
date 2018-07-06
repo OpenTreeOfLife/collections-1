@@ -2485,6 +2485,14 @@
 "name": "MajRule", 
 "studyID": "ot_1397", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Korotkova N., Borsch T., & Arias S. 2017. A phylogenetic framework for the Hylocereeae (Cactaceae) and implications for the circumscription of the genera. Phytotaxa, 327(1): 1-46.", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule", 
+"studyID": "ot_1405", 
+"treeID": "Tr110606"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
