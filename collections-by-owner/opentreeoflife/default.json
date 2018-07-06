@@ -2525,6 +2525,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_1463", 
 "treeID": "Tr71670"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Sosa-calvo J., Jesovnik A., Vasconcelos H.L., Bacci jr M., & Schultz T.R. 2017. Rediscovery of the enigmatic fungus-farming ant \"Mycetosoritis\" asper Mayr (Hymenoptera: Formicidae): Implications for taxonomy, phylogeny, and the evolution of agriculture in ants. PLoS ONE, 12(5): e0176498.", 
+"decision": "INCLUDED", 
+"name": "con all compat", 
+"studyID": "ot_1464", 
+"treeID": "Tr103429"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
