@@ -2501,6 +2501,14 @@
 "name": "unconstrained", 
 "studyID": "ot_1462", 
 "treeID": "Tr74579"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Abalde S., Tenorio M.J., Afonso C.M., Uribe J.E., Echeverry A.M., & Zardoya R. 2017. Phylogenetic relationships of cone snails endemic to Cabo Verde based on mitochondrial genomes. BMC Evolutionary Biology, 17: 231.", 
+"decision": "INCLUDED", 
+"name": "ML", 
+"studyID": "ot_1406", 
+"treeID": "Tr109588"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
