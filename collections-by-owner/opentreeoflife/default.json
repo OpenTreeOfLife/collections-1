@@ -2701,6 +2701,14 @@
 "name": "Fig. 2 published Bayesian tree", 
 "studyID": "ot_1469", 
 "treeID": "Tr108343"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Videira S.I., Groenewald J.Z., Nakashima C., Braun U., Barreto R.W., De wit P.J., & Crous P.W. 2017. Mycosphaerellaceae - Chaos or clarity?. Studies in Mycology , 87: 257-421.", 
+"decision": "INCLUDED", 
+"name": "Fig. 3 published Bayesian tree", 
+"studyID": "ot_1469", 
+"treeID": "Tr108346"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
