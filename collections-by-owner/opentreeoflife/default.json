@@ -2629,6 +2629,14 @@
 "name": "Mrbayes con tree rooted", 
 "studyID": "ot_1465", 
 "treeID": "Tr86888"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Barrett R., Bayly M.J., Duretto M., Forster P.I., Ladiges P.Y., & Cantrill D.J. 2018. Phylogenetic analysis of Zieria (Rutaceae) in Australia and New Caledonia based on nuclear ribosomal DNA shows species polyphyly, divergent paralogues and incongruence with chloroplast DNA. Australian Systematic Botany, 31: 16-47.", 
+"decision": "INCLUDED", 
+"name": "MP Strict", 
+"studyID": "ot_1433", 
+"treeID": "Tr106414"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
