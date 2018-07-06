@@ -2565,6 +2565,14 @@
 "name": "PHYLIP 1+", 
 "studyID": "ot_1411", 
 "treeID": "Tr105655"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from White N.D., Barrowclough G.F., Groth J.G., & Braun M. 2016. A Multi-Gene Estimate of Higher-Level Phylogenetic Relationships Among Nightjars (Aves: Caprimulgidae). Ornitologia Neotropical, 27: 223-236.", 
+"decision": "INCLUDED", 
+"name": "Soma PartFinder", 
+"studyID": "ot_1410", 
+"treeID": "Tr97099"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
