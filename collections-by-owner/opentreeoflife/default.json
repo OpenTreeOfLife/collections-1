@@ -2581,6 +2581,14 @@
 "name": "amazonicus", 
 "studyID": "ot_1416", 
 "treeID": "Tr95511"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Barber N.A., Jones H.P., Duvall M.R., Wysocki W.P., Hansen M.J., & Gibson D.J. 2016. Phylogenetic diversity is maintained despite richness losses over time in restored tallgrass  prairie plant communities. Journal of Applied Ecology, .", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule", 
+"studyID": "ot_1417", 
+"treeID": "Tr94055"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
