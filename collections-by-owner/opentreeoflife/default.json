@@ -2757,6 +2757,14 @@
 "name": "SSU+LSU bayesian", 
 "studyID": "ot_1472", 
 "treeID": "Tr76233"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Hirooka Y., Tanney J.B., Nguyen H., Redhead S., & Seifert K. 2017. Xerotolerant fungi in house dust: taxonomy of Spiromastix, Pseudospiromastix and Sigleria gen. nov. in Spiromastigaceae (Onygenales, Eurotiomycetes). Mycologia, 108(6): 135-156.", 
+"decision": "INCLUDED", 
+"name": "ITS bayesian", 
+"studyID": "ot_1472", 
+"treeID": "Tr76232"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
