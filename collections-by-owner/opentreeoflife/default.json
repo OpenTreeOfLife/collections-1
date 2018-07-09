@@ -2781,6 +2781,14 @@
 "name": "PAUP 13", 
 "studyID": "ot_1477", 
 "treeID": "Tr25846"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Ren C. 2016. Phylogenetic position and independent generic status of Indocypraea (Asteraceae-Heliantheae-Ecliptinae): evidence from chloroplast DNA sequences. Phytotaxa, .", 
+"decision": "INCLUDED", 
+"name": "BI tree with node support", 
+"studyID": "ot_1473", 
+"treeID": "Tr98329"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
