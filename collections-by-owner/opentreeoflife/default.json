@@ -2797,6 +2797,14 @@
 "name": "Strict consensus MP tree", 
 "studyID": "ot_1473", 
 "treeID": "Tr98327"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Ren C. 2016. Phylogenetic position and independent generic status of Indocypraea (Asteraceae-Heliantheae-Ecliptinae): evidence from chloroplast DNA sequences. Phytotaxa, .", 
+"decision": "INCLUDED", 
+"name": "PAUP 1", 
+"studyID": "ot_1473", 
+"treeID": "Tr100274"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
