@@ -2821,6 +2821,14 @@
 "name": "PAUP 1", 
 "studyID": "ot_1478", 
 "treeID": "Tr100017"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Wilson G.D., & Edgecombe G. 2003. The Triassic isopod Protamphisopus wianamattensis (Chilton) and comparison with extant taxa (Crustacea, phreatoicidea). Journal of Paleontology, 77(3): 454-470.", 
+"decision": "INCLUDED", 
+"name": "Fig. 14", 
+"studyID": "ot_1483", 
+"treeID": "Tr797"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
