@@ -2733,6 +2733,14 @@
 "name": "Fig. 3", 
 "studyID": "ot_1471", 
 "treeID": "Tr31125"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from P.W. Crous, J.Z. Groenewald, 2011, 'Why everlastings don't last', Persoonia - Molecular Phylogeny and Evolution of Fungi, vol. 26, no. 1, pp. 70-84", 
+"decision": "INCLUDED", 
+"name": "Fig. 2", 
+"studyID": "ot_1471", 
+"treeID": "Tr31127"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
