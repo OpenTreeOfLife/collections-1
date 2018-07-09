@@ -2773,6 +2773,14 @@
 "name": "Fig. 3", 
 "studyID": "ot_1476", 
 "treeID": "Tr79968"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Voglmayr H., Mayer V., Maschwitz U., Moog J., Djieto-lordon C., & Blatrix R. 2011. The diversity of ant-associated black yeasts: Insights into a newly discovered world of symbiotic interactions. Fungal Biology, 115(9): 1077-1091.", 
+"decision": "INCLUDED", 
+"name": "PAUP 13", 
+"studyID": "ot_1477", 
+"treeID": "Tr25846"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
