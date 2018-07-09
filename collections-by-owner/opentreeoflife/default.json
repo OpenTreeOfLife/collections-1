@@ -2765,6 +2765,14 @@
 "name": "ITS bayesian", 
 "studyID": "ot_1472", 
 "treeID": "Tr76232"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Videira S.I., Groenewald J.Z., Kolecka A., Van haren L., Boekhout T., & Crous P.W. 2015. Elucidating the Ramularia eucalypti species complex. Persoonia: Molecular Phylogeny and Evolution of Fungi, 34: 50-64.", 
+"decision": "INCLUDED", 
+"name": "Fig. 3", 
+"studyID": "ot_1476", 
+"treeID": "Tr79968"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
