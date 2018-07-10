@@ -2837,6 +2837,14 @@
 "name": "Chloroplast", 
 "studyID": "ot_1489", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Miao Sun, Douglas E. Soltis, Pamela S. Soltis, Xinyu Zhu, J. Gordon Burleigh, Zhiduan Chen, 2015, 'Deep phylogenetic incongruence in the angiosperm clade Rosidae', Molecular Phylogenetics and Evolution, vol. 83, pp. 156-166", 
+"decision": "INCLUDED", 
+"name": "Nuclear", 
+"studyID": "ot_1489", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
