@@ -2853,6 +2853,14 @@
 "name": "Mitochondrial", 
 "studyID": "ot_1489", 
 "treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Nicholas G. Crawford, James F. Parham, Anna B. Sellas, Brant C. Faircloth, Travis C. Glenn, Theodore J. Papenfuss, James B. Henderson, Madison H. Hansen, W. Brian Simison, 2015, 'A phylogenomic analysis of turtles', Molecular Phylogenetics and Evolution, vol. 83, pp. 250-257", 
+"decision": "INCLUDED", 
+"name": "Raxml", 
+"studyID": "ot_1490", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
