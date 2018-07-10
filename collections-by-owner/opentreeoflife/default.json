@@ -2861,6 +2861,14 @@
 "name": "Raxml", 
 "studyID": "ot_1490", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Meng-Yun Chen, Rong-Li Mao, Dan Liang, Masaki Kuro-o, Xiao-Mao Zeng, Peng Zhang, 2015, 'A reinvestigation of phylogeny and divergence times of Hynobiidae (Amphibia, Caudata) based on 29 nuclear genes', Molecular Phylogenetics and Evolution, vol. 83, pp. 1-6", 
+"decision": "INCLUDED", 
+"name": "RAxML", 
+"studyID": "ot_1491", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
