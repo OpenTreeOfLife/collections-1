@@ -2869,6 +2869,14 @@
 "name": "RAxML", 
 "studyID": "ot_1491", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Percy D., Cronk Q., & Page R. 2004. Plant-insect interactions: double-dating associated insect and plant lineages reveals asynchronous radiations. Systematic Biology, 53(1): 120-127.", 
+"decision": "INCLUDED", 
+"name": "psyllid 12S+CO", 
+"studyID": "ot_1493", 
+"treeID": "Tr5854"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
