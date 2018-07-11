@@ -2901,6 +2901,14 @@
 "name": "All16Calibs", 
 "studyID": "ot_1497", 
 "treeID": "Tr62775"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Richard C. Harrington, Thomas J. Near, 2015, 'Phylogenetic relationships of Goneaperca and the evolution of parental care in darters (Teleostei: Percidae)', Molecular Phylogenetics and Evolution, vol. 84, pp. 158-165", 
+"decision": "INCLUDED", 
+"name": "Bayesian", 
+"studyID": "ot_1496", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
