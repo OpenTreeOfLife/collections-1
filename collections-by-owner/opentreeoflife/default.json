@@ -2893,6 +2893,14 @@
 "name": "matK", 
 "studyID": "ot_1495", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Bibi F. 2013. A multi-calibrated mitochondrial phylogeny of extant Bovidae (Artiodactyla, Ruminantia) and the importance of the fossil record to systematics. BMC Evolutionary Biology, .", 
+"decision": "INCLUDED", 
+"name": "All16Calibs", 
+"studyID": "ot_1497", 
+"treeID": "Tr62775"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
