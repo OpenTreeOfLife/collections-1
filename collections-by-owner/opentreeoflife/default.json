@@ -2909,6 +2909,14 @@
 "name": "Bayesian", 
 "studyID": "ot_1496", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from William B. Ludt, Luiz A. Rocha, Mark V. Erdmann, Prosanta Chakrabarty, 2015, 'Skipping across the tropics: The evolutionary history of sawtail surgeonfishes (Acanthuridae: Prionurus)', Molecular Phylogenetics and Evolution, vol. 84, pp. 166-172", 
+"decision": "INCLUDED", 
+"name": "Maximum Likelihood", 
+"studyID": "ot_1498", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
