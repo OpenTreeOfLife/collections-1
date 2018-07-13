@@ -2917,6 +2917,14 @@
 "name": "Maximum Likelihood", 
 "studyID": "ot_1498", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Dupin J., & Smith S.D. 2018. Phylogenetics of Datureae (Solanaceae), including description of the new genus Trompettia and re-circumscription of the tribe. Taxon, 67(2): 359-375.", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1499", 
+"treeID": "Tr109204"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
