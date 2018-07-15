@@ -2925,6 +2925,14 @@
 "name": "TREE1", 
 "studyID": "ot_1499", 
 "treeID": "Tr109204"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Hermione T. Beckett, Sam Giles, Zerina Johanson, Matt Friedman, 2018, 'Morphology and phylogenetic relationships of fossil snake mackerels and cutlassfishes (Trichiuroidea) from the Eocene (Ypresian) London Clay Formation', Papers in Palaeontology", 
+"decision": "INCLUDED", 
+"name": "con all compat", 
+"studyID": "ot_1501", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
