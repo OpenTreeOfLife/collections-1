@@ -2949,6 +2949,14 @@
 "name": "BI", 
 "studyID": "ot_1504", 
 "treeID": "Tr74600"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Li J., Zheng X., Cai Y., Liu S., Zhang X., Yang M., Yue B., & Li J. 2014. DNA barcoding of Murinae (Rodentia: Muridae) and Arvicolinae (Rodentia: Cricetidae) distributed in China. Molecular Ecology Resources, .", 
+"decision": "INCLUDED", 
+"name": "BI", 
+"studyID": "ot_1504", 
+"treeID": "Tr74597"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
