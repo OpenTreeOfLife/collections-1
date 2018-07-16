@@ -2933,6 +2933,14 @@
 "name": "con all compat", 
 "studyID": "ot_1501", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Thompson R.S., Parish J.C., Maidment S.C., & Barrett P.M. 2011. Phylogeny of the ankylosaurian dinosaurs (Ornithischia: Thyreophora). Journal of Systematic Palaeontology, : 301-312.", 
+"decision": "INCLUDED", 
+"name": "Imported tree 0", 
+"studyID": "ot_1503", 
+"treeID": "Tr55253"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
