@@ -2957,6 +2957,14 @@
 "name": "BI", 
 "studyID": "ot_1504", 
 "treeID": "Tr74597"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Carrano M.T., Benson R.B., & Sampson S.D. 2012. The phylogeny of Tetanurae (Dinosauria: Theropoda). Journal of Systematic Palaeontology, 10(2): 211-300.", 
+"decision": "INCLUDED", 
+"name": "Figure 7A", 
+"studyID": "ot_1510", 
+"treeID": "Tr55267"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
