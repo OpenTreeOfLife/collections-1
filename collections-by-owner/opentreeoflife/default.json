@@ -2965,6 +2965,14 @@
 "name": "Figure 7A", 
 "studyID": "ot_1510", 
 "treeID": "Tr55267"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Andres B., & Ji Q. 2008. A new pterosaur from the Liaoning Province of China, the phylogeny of the Pterodactyloidea, and convergence in their cervical vertebrae. Palaeontology, 51(2): 453-469.", 
+"decision": "INCLUDED", 
+"name": "stored 2", 
+"studyID": "ot_1511", 
+"treeID": "Tr60093"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
