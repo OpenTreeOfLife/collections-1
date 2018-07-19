@@ -2981,6 +2981,14 @@
 "name": "Figure 8", 
 "studyID": "ot_1512", 
 "treeID": "Tr55545"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Zanno L.E. 2010. A taxonomic and phylogenetic re-evaluation of Therizinosauria (Dinosauria: Maniraptora). Journal of Systematic Palaeontology, 8(4): 37-41.", 
+"decision": "INCLUDED", 
+"name": "Figure 6", 
+"studyID": "ot_1513", 
+"treeID": "Tr55903"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
