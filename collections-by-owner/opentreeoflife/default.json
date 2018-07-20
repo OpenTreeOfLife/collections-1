@@ -2989,6 +2989,14 @@
 "name": "Figure 6", 
 "studyID": "ot_1513", 
 "treeID": "Tr55903"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Hu D., Xu X., Hou L., & Sullivan C. 2012. A new enantiornithine bird from the Lower Cretaceous of Western Liaoning, China, and its implications for early avian evolution. Journal of Vertebrate Paleontology, 32(3): 639-645.", 
+"decision": "INCLUDED", 
+"name": "Fig. 3A", 
+"studyID": "ot_1516", 
+"treeID": "Tr55113"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
