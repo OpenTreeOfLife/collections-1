@@ -2997,6 +2997,14 @@
 "name": "Fig. 3A", 
 "studyID": "ot_1516", 
 "treeID": "Tr55113"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Andres B.B., Clark J.M., & Xu X. 2012. A new rhamphorhynchid pterosaur from the Upper Jurassic of Xinjiang, China, and the phylogenetic relationships of basal pterosaurs. Journal of Vertebrate Paleontology, 30(1): 163-187.", 
+"decision": "INCLUDED", 
+"name": "UNTITLED", 
+"studyID": "ot_1517", 
+"treeID": "Tr60095"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
