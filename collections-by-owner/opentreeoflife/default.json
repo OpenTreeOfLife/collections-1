@@ -3013,6 +3013,14 @@
 "name": "con 50 majrule", 
 "studyID": "ot_1518", 
 "treeID": "Tr59010"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Margarita Metallinou, Edwin Nicholas Arnold, Pierre-Andr\u00e9 Crochet, Philippe Geniez, Jos\u00e9 Carlos Brito, Petros Lymberakis, Sherif Baha El Din, Roberto Sindaco, Michael Robinson, Salvador Carranza, 2012, 'Conquering the Sahara and Arabian deserts: systematics and biogeography of Stenodactylus geckos (Reptilia: Gekkonidae)', BMC Evolutionary Biology, vol. 12, no. 1, p. 258", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule", 
+"studyID": "ot_1518", 
+"treeID": "Tr59028"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
