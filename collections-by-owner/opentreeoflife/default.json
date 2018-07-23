@@ -3077,6 +3077,14 @@
 "name": "Fig. 3 UCLN", 
 "studyID": "ot_1532", 
 "treeID": "Tr64115"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from N\u00fcrk N.M., Scheriau C., & Madri\u00f1\u00e1n S. 2013. Explosive radiation in p\u00e1ramo Hypericum \u0096 rates of diversification among New World lineages. Frontiers in Genetics \u0096 Evolutionary and Population Genetics. Special volume: Effects of mountain formation and uplift on biological diversity, 4(175).", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 BI", 
+"studyID": "ot_1532", 
+"treeID": "Tr64117"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
