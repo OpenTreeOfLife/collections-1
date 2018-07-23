@@ -3037,6 +3037,14 @@
 "name": "cyt b", 
 "studyID": "ot_1524", 
 "treeID": "Tr6600"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Parks M., Cronn R., & Liston A. 2012. Separating the Wheat from the Chaff:: Mitigating the Effects of Noise in a Plastome Phylogenomic Data Set from Pinus L. (Pinaceae). BMC Evolutionary Biology, .", 
+"decision": "INCLUDED", 
+"name": "PHYLIP 1", 
+"studyID": "ot_1525", 
+"treeID": "Tr52468"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
