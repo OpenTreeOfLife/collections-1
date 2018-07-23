@@ -3021,6 +3021,14 @@
 "name": "con 50 majrule", 
 "studyID": "ot_1518", 
 "treeID": "Tr59028"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Spinks P., Thomson R.C., Lovely G., & Bradley shaffer H. 2009. Assessing what is needed to resolve a molecular phylogeny: simulations and empirical data from Emydid turtles. BMC Evolutionary Biology, 9(56): 56.", 
+"decision": "INCLUDED", 
+"name": "nuDNA", 
+"studyID": "ot_1524", 
+"treeID": "Tr6135"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
