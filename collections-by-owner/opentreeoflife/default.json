@@ -3061,6 +3061,14 @@
 "name": "Zou et al., 2015, Bayesian", 
 "studyID": "ot_1528", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Leuchtmann A., Bacon C.W., Schardl C.L., White J., & Tadych M. 2013. Nomenclatural realignment of Neotyphodium species with genus Epichloe. Mycologia , .", 
+"decision": "INCLUDED", 
+"name": "tree 1", 
+"studyID": "ot_1530", 
+"treeID": "Tr68066"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
