@@ -3085,6 +3085,14 @@
 "name": "Fig. 2 BI", 
 "studyID": "ot_1532", 
 "treeID": "Tr64117"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Victor A. Tagliacollo, Maxwell J. Bernt, Jack M. Craig, Claudio Oliveira, James S. Albert, 2016, 'Model-based total evidence phylogeny of Neotropical electric knifefishes (Teleostei, Gymnotiformes)', Molecular Phylogenetics and Evolution, vol. 95, pp. 20-33", 
+"decision": "INCLUDED", 
+"name": "Tagliacollo et al., 2016 Maximum Likelihood", 
+"studyID": "ot_1537", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
