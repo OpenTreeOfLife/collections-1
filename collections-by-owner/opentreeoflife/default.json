@@ -3109,6 +3109,14 @@
 "name": "Aguirre-Santoro et al. 2016, Bayesian", 
 "studyID": "ot_1544", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Ricardo Kriebel, Fabi\u00e1n A. Michelangeli, Lawrence M. Kelly, 2015, 'Discovery of unusual anatomical and continuous characters in the evolutionary history of Conostegia (Miconieae: Melastomataceae)', Molecular Phylogenetics and Evolution, vol. 82, pp. 289-313", 
+"decision": "INCLUDED", 
+"name": "Kriebel et al., 2015 Bayesian", 
+"studyID": "ot_1545", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
