@@ -3101,6 +3101,14 @@
 "name": "Persons et al. 2016, Maximum Likelihood", 
 "studyID": "ot_1543", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Juli\u00e1n Aguirre-Santoro, Fabi\u00e1n A. Michelangeli, Dennis W. Stevenson, 2016, 'Molecular phylogenetics of the  Ronnbergia  Alliance (Bromeliaceae, Bromelioideae) and insights into their morphological evolution', Molecular Phylogenetics and Evolution, vol. 100, pp. 1-20", 
+"decision": "INCLUDED", 
+"name": "Aguirre-Santoro et al. 2016, Bayesian", 
+"studyID": "ot_1544", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
