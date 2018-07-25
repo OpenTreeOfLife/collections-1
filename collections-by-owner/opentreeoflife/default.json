@@ -3093,6 +3093,14 @@
 "name": "Tagliacollo et al., 2016 Maximum Likelihood", 
 "studyID": "ot_1537", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Nicholas W. Persons, Peter A. Hosner, Kelly A. Meiklejohn, Edward L. Braun, Rebecca T. Kimball, 2016, 'Sorting out relationships among the grouse and ptarmigan using intron, mitochondrial, and ultra-conserved element sequences', Molecular Phylogenetics and Evolution, vol. 98, pp. 123-132", 
+"decision": "INCLUDED", 
+"name": "Persons et al. 2016, Maximum Likelihood", 
+"studyID": "ot_1543", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
