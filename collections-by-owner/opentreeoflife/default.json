@@ -3117,6 +3117,14 @@
 "name": "Kriebel et al., 2015 Bayesian", 
 "studyID": "ot_1545", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Nathan K. Lujan, Jonathan W. Armbruster, Nathan R. Lovejoy, Hern\u00e1n L\u00f3pez-Fern\u00e1ndez, 2015, 'Multilocus molecular phylogeny of the suckermouth armored catfishes (Siluriformes: Loricariidae) with a focus on subfamily Hypostominae', Molecular Phylogenetics and Evolution, vol. 82, pp. 269-288", 
+"decision": "INCLUDED", 
+"name": "Lujan et al., 2015 Bayesian", 
+"studyID": "ot_1546", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
