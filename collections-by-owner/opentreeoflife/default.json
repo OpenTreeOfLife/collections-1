@@ -3157,6 +3157,14 @@
 "name": "Santini et al., 2016 Bayesian", 
 "studyID": "ot_1552", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Leandro Aristide, Alfred L. Rosenberger, Marcelo F. Tejedor, S. Ivan Perez, 2015, 'Modeling lineage and phenotypic diversification in the New World monkey (Platyrrhini, Primates) radiation', Molecular Phylogenetics and Evolution, vol. 82, pp. 375-385", 
+"decision": "INCLUDED", 
+"name": "Aristide et al., 2015 Bayesian", 
+"studyID": "ot_1553", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
