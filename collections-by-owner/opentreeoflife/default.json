@@ -3165,6 +3165,14 @@
 "name": "Aristide et al., 2015 Bayesian", 
 "studyID": "ot_1553", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Ivan Prates, Miguel Trefaut Rodrigues, Paulo Roberto Melo-Sampaio, Ana Carolina Carnaval, 2015, 'Phylogenetic relationships of Amazonian anole lizards (Dactyloa): Taxonomic implications, new insights about phenotypic evolution and the timing of diversification', Molecular Phylogenetics and Evolution, vol. 82, pp. 258-268", 
+"decision": "INCLUDED", 
+"name": "Prates et al., 2015 Bayesian", 
+"studyID": "ot_1555", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
