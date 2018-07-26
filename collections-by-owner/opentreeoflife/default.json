@@ -3125,6 +3125,14 @@
 "name": "Lujan et al., 2015 Bayesian", 
 "studyID": "ot_1546", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Yombiyeni P., & Decock C. 2017. Hymenochaetaceae (Hymenochaetales) from the Guineo-Congolian phytochorion: Phylloporia littoralis sp. nov. from coastal vegetation in Gabon and an identification key to the local species. Plant Ecology and Evolution, 150(2): 160-172.", 
+"decision": "INCLUDED", 
+"name": "tree 1", 
+"studyID": "ot_1548", 
+"treeID": "Tr107329"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
