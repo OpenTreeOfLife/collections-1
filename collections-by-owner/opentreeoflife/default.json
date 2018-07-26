@@ -3133,6 +3133,14 @@
 "name": "tree 1", 
 "studyID": "ot_1548", 
 "treeID": "Tr107329"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Rahman M.Z., Uematsu S., Coffey M.D., Uzuhashi S., Suga H., & Koji K. 2014. Re-evaluation of Japanese Phytophthora isolates based on molecular phylogenetic analyses. Mycoscience, 55(4): 314-327.", 
+"decision": "INCLUDED", 
+"name": "MajRule", 
+"studyID": "ot_1550", 
+"treeID": "Tr59565"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
