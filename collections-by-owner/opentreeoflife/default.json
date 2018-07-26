@@ -3141,6 +3141,14 @@
 "name": "MajRule", 
 "studyID": "ot_1550", 
 "treeID": "Tr59565"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from L\u00e9veill\u00e9-bourret \u00c9., Gilmour C.N., Starr J.R., Naczi R.F., Daniel S., & Sytsma K.J. 2014. Searching for the sister to sedges (Carex): resolving relationships within the Cariceae-Dulichieae-Scirpeae clade (Cyperaceae). Botanical Journal of the Linnean Society, 176(1): 1-21.", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1551", 
+"treeID": "Tr78321"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
