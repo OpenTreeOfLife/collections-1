@@ -3173,6 +3173,14 @@
 "name": "Prates et al., 2015 Bayesian", 
 "studyID": "ot_1555", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Ishan Agarwal, K. Praveen Karanth, 2015, 'A phylogeny of the only ground-dwelling radiation of Cyrtodactylus (Squamata, Gekkonidae): diversification of Geckoella across peninsular India and Sri Lanka', Molecular Phylogenetics and Evolution, vol. 82, pp. 193-199", 
+"decision": "INCLUDED", 
+"name": "Agarwal & Karanth, 2015 Maximum Likelihood", 
+"studyID": "ot_1559", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
