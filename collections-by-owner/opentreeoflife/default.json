@@ -3189,6 +3189,14 @@
 "name": "Yang et al., 2015 Maximum Likelihood", 
 "studyID": "ot_1560", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Pellegrini M.O., Hunt D.R., Forzza R.C., & Sakuragui C.M. 2017. Morphological phylogeny of Tradescantia L. (Commelinaceae) sheds light on a new infrageneric classification and taxonomic novelties in subtribe Tradescantiinae. Phytokeys, .", 
+"decision": "INCLUDED", 
+"name": "Adams", 
+"studyID": "ot_1562", 
+"treeID": "Tr105990"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
