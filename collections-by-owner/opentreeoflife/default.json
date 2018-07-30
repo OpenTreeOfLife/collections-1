@@ -3213,6 +3213,14 @@
 "name": "Goetze et al., 2015 Neighbor Joining", 
 "studyID": "ot_1554", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Joshua M. Hallas, W. Brian Simison, Terrence M. Gosliner, 2016, 'Dating and biogeographical patterns in the sea slug genus  Acanthodoris  Gray, 1850 (Mollusca, Gastropoda, Nudibranchia)', Molecular Phylogenetics and Evolution, vol. 97, pp. 19-31", 
+"decision": "INCLUDED", 
+"name": "Hallas et al., 2016 Beast", 
+"studyID": "ot_1568", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
