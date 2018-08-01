@@ -3261,6 +3261,14 @@
 "name": "Terra-Ara\u00fajo et al., 2015 Bayesian", 
 "studyID": "ot_1574", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Jessica Ware, Michael May, Karl Kjer, 2007, 'Phylogeny of the higher Libelluloidea (Anisoptera: Odonata): An exploration of the most speciose superfamily of dragonflies', Molecular Phylogenetics and Evolution, vol. 45, no. 1, pp. 289-310", 
+"decision": "INCLUDED", 
+"name": "Libelluloidea", 
+"studyID": "ot_1104", 
+"treeID": "tree3"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
