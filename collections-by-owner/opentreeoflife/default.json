@@ -3245,6 +3245,14 @@
 "name": "Geneva et al., 2015 MCC Beast Concatenated", 
 "studyID": "ot_1575", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Hwalran Choi, Seunggwan Shin, Sunghoon Jung, Dave J. Clarke, Seunghwan Lee, 2018, 'Molecular phylogeny of Macrosiphini (Hemiptera: Aphididae): An evolutionary hypothesis for the  Pterocomma -group habitat adaptation', Molecular Phylogenetics and Evolution, vol. 121, pp. 12-22", 
+"decision": "INCLUDED", 
+"name": "Fig_2", 
+"studyID": "ot_1507", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
