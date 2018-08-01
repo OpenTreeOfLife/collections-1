@@ -3237,6 +3237,14 @@
 "name": "Fiala et al., 2015 Bayesian", 
 "studyID": "ot_1571", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Anthony J. Geneva, Jared Hilton, Sabina Noll, Richard E. Glor, 2015, 'Multilocus phylogenetic analyses of Hispaniolan and Bahamian trunk anoles (distichus species group)', Molecular Phylogenetics and Evolution, vol. 87, pp. 105-117", 
+"decision": "INCLUDED", 
+"name": "Geneva et al., 2015 MCC Beast Concatenated", 
+"studyID": "ot_1575", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
