@@ -3253,6 +3253,14 @@
 "name": "Fig_2", 
 "studyID": "ot_1507", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from M\u00e1rio H. Terra-Araujo, Aparecida D. de Faria, Alberto Vicentini, Stephan Nylinder, Ulf Swenson, 2015, 'Species tree phylogeny and biogeography of the Neotropical genus Pradosia (Sapotaceae, Chrysophylloideae)', Molecular Phylogenetics and Evolution, vol. 87, pp. 1-13", 
+"decision": "INCLUDED", 
+"name": "Terra-Ara\u00fajo et al., 2015 Bayesian", 
+"studyID": "ot_1574", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
