@@ -3325,6 +3325,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_1595", 
 "treeID": "Tr89910"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Paul Masonick, Amy Michael, Sarah Frankenberg, Wolfgang Rabitsch, Christiane Weirauch, 2017, 'Molecular phylogenetics and biogeography of the ambush bugs (Hemiptera: Reduviidae: Phymatinae)', Molecular Phylogenetics and Evolution, vol. 114, pp. 225-233", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree1)", 
+"studyID": "ot_1581", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
