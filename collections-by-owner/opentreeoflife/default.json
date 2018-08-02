@@ -3269,6 +3269,14 @@
 "name": "Libelluloidea", 
 "studyID": "ot_1104", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Luciano Paganucci de Queiroz, Jos\u00e9 Floriano B. Pastore, Domingos Cardoso, Cristiane Snak, Ana Lu\u00edsa de C. Lima, Edeline Gagnon, Mohammad Vatanparast, Ailsa E. Holland, Ashley N. Egan, 2015, 'A multilocus phylogenetic analysis reveals the monophyly of a recircumscribed papilionoid legume tribe Diocleae with well-supported generic relationships', Molecular Phylogenetics and Evolution, vol. 90, pp. 1-19", 
+"decision": "INCLUDED", 
+"name": "de Queiroz et al., 2015 Concatenated Bayesian", 
+"studyID": "ot_1584", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
