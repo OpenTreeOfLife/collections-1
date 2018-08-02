@@ -3341,6 +3341,14 @@
 "name": "Hedylidae (Kawahara et al. 2018)", 
 "studyID": "ot_1572", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from MANPREET KAUR KOHLI, THOMAS SCHNEIDER, OLE M\u00dcLLER, JESSICA L. WARE, 2013, 'Counting the spots: a molecular and morphological phylogeny of the spotted darnerBoyeria(Odonata: Anisoptera: Aeshnidae) with an emphasis on European taxa', Systematic Entomology, vol. 39, no. 1, pp. 190-195", 
+"decision": "INCLUDED", 
+"name": "best", 
+"studyID": "ot_1579", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
