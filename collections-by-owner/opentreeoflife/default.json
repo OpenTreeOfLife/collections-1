@@ -3309,6 +3309,14 @@
 "name": "Knie et al., 2015 Bayesian Concatenated", 
 "studyID": "ot_1590", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Ando Y., Masuya H., Motohashi K., Linnakoski R., & Yamaoka Y. 2016. Phylogenetic relationship of Japanese isolates belonging to the Grosmannia piceiperda complex (Ophiostomatales). Mycoscience, 57: 123-135.", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_1595", 
+"treeID": "Tr89909"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
