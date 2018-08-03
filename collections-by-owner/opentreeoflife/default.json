@@ -3373,6 +3373,14 @@
 "name": "Kergoat et al., 2015 Bayesian Concatenated", 
 "studyID": "ot_1603", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Nikolaos Psonis, Katerina Vardinoyannis, Moisis Mylonas, Nikos Poulakakis, 2015, 'Unraveling the evolutionary history of the Chilostoma Fitzinger, 1833 (Mollusca, Gastropoda, Pulmonata) lineages in Greece', Molecular Phylogenetics and Evolution, vol. 91, pp. 210-225", 
+"decision": "INCLUDED", 
+"name": "Psonis et al., 2015 Bayesian Concatenated", 
+"studyID": "ot_1604", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
