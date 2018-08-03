@@ -3349,6 +3349,14 @@
 "name": "best", 
 "studyID": "ot_1579", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Peter V\u010fa\u010dn\u00fd, \u013dubom\u00edr Rajter, Shahed Uddin Ahmed Shazib, Seok Won Jang, Mann Kyoon Shin, 2017, 'Diversification dynamics of rhynchostomatian ciliates: the impact of seven intrinsic traits on speciation and extinction in a microbial group', Scientific Reports, vol. 7, no. 1", 
+"decision": "INCLUDED", 
+"name": "Vdacny et al., 2017 Bayesian Concatenated", 
+"studyID": "ot_1601", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
