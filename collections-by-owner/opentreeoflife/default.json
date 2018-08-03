@@ -3357,6 +3357,14 @@
 "name": "Vdacny et al., 2017 Bayesian Concatenated", 
 "studyID": "ot_1601", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Brandon T. Sinn, Dylan D. Sedmak, Lawrence M. Kelly, John V. Freudenstein, 2018, 'Total duplication of the small single copy region in the angiosperm plastome: Rearrangement and inverted repeat instability in Asarum\n                    ', American Journal of Botany, vol. 105, no. 1, pp. 71-84", 
+"decision": "INCLUDED", 
+"name": "Sinn et al., 2018 Maximum Likelihood Concatenated", 
+"studyID": "ot_1602", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
