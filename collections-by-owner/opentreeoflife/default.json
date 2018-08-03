@@ -3381,6 +3381,14 @@
 "name": "Psonis et al., 2015 Bayesian Concatenated", 
 "studyID": "ot_1604", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Daniel L. Rabosky, Jonathan Chang, Pascal O. Title, Peter F. Cowman, Lauren Sallan, Matt Friedman, Kristin Kaschner, Cristina Garilao, Thomas J. Near, Marta Coll, Michael E. Alfaro, 2018, 'An inverse latitudinal gradient in speciation rate for marine fishes', Nature, vol. 559, no. 7714, pp. 392-395", 
+"decision": "INCLUDED", 
+"name": "actinopt12KtreePL", 
+"studyID": "ot_1592", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
