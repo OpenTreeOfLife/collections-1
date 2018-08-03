@@ -3365,6 +3365,14 @@
 "name": "Sinn et al., 2018 Maximum Likelihood Concatenated", 
 "studyID": "ot_1602", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Gael J. Kergoat, Bruno P. Le Ru, Seyed E. Sadeghi, Midori Tuda, Chris A.M. Reid, Zolt\u00e1n Gy\u00f6rgy, Gwena\u00eblle Genson, Cibele S. Ribeiro-Costa, Alex Delobel, 2015, 'Evolution of Spermophagus seed beetles (Coleoptera, Bruchinae, Amblycerini) indicates both synchronous and delayed colonizations of host plants', Molecular Phylogenetics and Evolution, vol. 89, pp. 91-103", 
+"decision": "INCLUDED", 
+"name": "Kergoat et al., 2015 Bayesian Concatenated", 
+"studyID": "ot_1603", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
