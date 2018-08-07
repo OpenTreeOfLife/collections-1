@@ -3429,6 +3429,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_1625", 
 "treeID": "Tr87128"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Vinther J., Sperling E.A., Briggs D.E., & Peterson K.J. 2011. A molecular paleobiological hypothesis to the origin of aplacophorans and their derivation from chiton-like ancestors. Proceedings of the Royal Society B, .", 
+"decision": "INCLUDED", 
+"name": "tree 1", 
+"studyID": "ot_1627", 
+"treeID": "Tr46103"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
