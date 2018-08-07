@@ -3437,6 +3437,14 @@
 "name": "tree 1", 
 "studyID": "ot_1627", 
 "treeID": "Tr46103"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Toussaint E.F., Condamine F., Hawlitschek O., Watts C., Porch N., Hendrich L., & Balke M. 2014. Unveiling the Diversification Dynamics of Australasian Predaceous Diving Beetles in the Cenozoic. Systematic Biology, .", 
+"decision": "INCLUDED", 
+"name": "con all compat", 
+"studyID": "ot_1631", 
+"treeID": "Tr75792"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
