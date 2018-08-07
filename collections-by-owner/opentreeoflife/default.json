@@ -3413,6 +3413,14 @@
 "name": "TREES1", 
 "studyID": "ot_1623", 
 "treeID": "Tr87940"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Jin L.S., Cadotte M.W., & Fortin M. 2015. Phylogenetic turnover patterns consistent with niche conservatism in montane plant species. Journal of Ecology, .", 
+"decision": "INCLUDED", 
+"name": "PhyloBayes+", 
+"studyID": "ot_1624", 
+"treeID": "Tr85668"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
