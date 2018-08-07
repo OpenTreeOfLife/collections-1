@@ -3421,6 +3421,14 @@
 "name": "PhyloBayes+", 
 "studyID": "ot_1624", 
 "treeID": "Tr85668"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Blonder B.W., Baldwin B.G., Enquist B.J., & Robichaux R.H. 2015. Variation and macroevolution in leaf functional traits in the Hawaiian silversword alliance (Asteraceae). Journal of Ecology, .", 
+"decision": "INCLUDED", 
+"name": "Fig. 2", 
+"studyID": "ot_1625", 
+"treeID": "Tr87128"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
