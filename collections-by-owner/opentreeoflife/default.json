@@ -3397,6 +3397,14 @@
 "name": "Grover et al., 2015 Concatenated Maximum Likelihood", 
 "studyID": "ot_1605", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Nogueira j\u00fanior A.F., Fischer I.H., Bragan\u00e7a C.A., Massola j\u00fanior N.S., & Amorim L. 2014. Identification of Botryosphaeriaceae species and characterisation of the monocycle of stylar-end rot of guava. Postharvest Biology and Technology, .", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule", 
+"studyID": "ot_1622", 
+"treeID": "Tr85362"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
