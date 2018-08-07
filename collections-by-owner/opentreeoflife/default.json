@@ -3405,6 +3405,14 @@
 "name": "con 50 majrule", 
 "studyID": "ot_1622", 
 "treeID": "Tr85362"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Pirie M.D., Litsios G., Bellstedt D., Salamin N., & Kissling J. 2015. Back to Gondwanaland: Can ancient vicariance explain (some) Indian Ocean disjunct plant distributions?. Biology Letters, .", 
+"decision": "INCLUDED", 
+"name": "TREES1", 
+"studyID": "ot_1623", 
+"treeID": "Tr87940"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
