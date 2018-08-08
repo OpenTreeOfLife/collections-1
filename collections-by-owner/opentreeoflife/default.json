@@ -3445,6 +3445,14 @@
 "name": "con all compat", 
 "studyID": "ot_1631", 
 "treeID": "Tr75792"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from D.R. Brookes, J.P. Hereward, L.I. Terry, G.H. Walter, 2015, 'Evolutionary dynamics of a cycad obligate pollination mutualism \u2013 Pattern and process in extant Macrozamia cycads and their specialist thrips pollinators', Molecular Phylogenetics and Evolution, vol. 93, pp. 83-93", 
+"decision": "INCLUDED", 
+"name": "Brookes et al., 2015 Concatenated Bayesian", 
+"studyID": "ot_1635", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
