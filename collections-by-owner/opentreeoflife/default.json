@@ -3461,6 +3461,14 @@
 "name": "Esposito et al., 2015 Concatenated Bayesian", 
 "studyID": "ot_1636", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Bjarte H. Jordal, 2015, 'Molecular phylogeny and biogeography of the weevil subfamily Platypodinae reveals evolutionarily conserved range patterns', Molecular Phylogenetics and Evolution, vol. 92, pp. 294-307", 
+"decision": "INCLUDED", 
+"name": "Jordal et al., 2015 Bayesian Concatenated", 
+"studyID": "ot_1638", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
