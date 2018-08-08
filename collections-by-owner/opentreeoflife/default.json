@@ -3453,6 +3453,14 @@
 "name": "Brookes et al., 2015 Concatenated Bayesian", 
 "studyID": "ot_1635", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Lauren A. Esposito, Trevor Bloom, Laura Caicedo-Quiroga, Angela M. Alicea-Serrano, Jose A. S\u00e1nchez-Ru\u00edz, Laura J. May-Collado, Greta J. Binford, Ingi Agnarsson, 2015, 'Islands within islands: Diversification of tailless whip spiders (Amblypygi, Phrynus) in Caribbean caves', Molecular Phylogenetics and Evolution, vol. 93, pp. 107-117", 
+"decision": "INCLUDED", 
+"name": "Esposito et al., 2015 Concatenated Bayesian", 
+"studyID": "ot_1636", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
