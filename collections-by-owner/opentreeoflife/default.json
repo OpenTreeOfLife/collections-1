@@ -3485,6 +3485,14 @@
 "name": "tree", 
 "studyID": "ot_1640", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Michael E. Alfaro, Brant C. Faircloth, Richard C. Harrington, Laurie Sorenson, Matt Friedman, Christine E. Thacker, Carl H. Oliveros, David \u010cern\u00fd, Thomas J. Near, 2018, 'Explosive diversification of marine fishes at the Cretaceous\u2013Palaeogene boundary', Nature Ecology & Evolution, vol. 2, no. 4, pp. 688-696", 
+"decision": "INCLUDED", 
+"name": "1", 
+"studyID": "ot_1641", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
