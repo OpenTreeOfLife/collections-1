@@ -3469,6 +3469,14 @@
 "name": "Jordal et al., 2015 Bayesian Concatenated", 
 "studyID": "ot_1638", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Marcela G.M. Lima, Jos\u00e9 de Sousa e Silva-J\u00fanior, David \u010cern\u00fd, Janet C. Buckner, Alexandre Aleixo, Jonathan Chang, Jimmy Zheng, Michael E. Alfaro, Amely Martins, Anthony Di Fiore, Jean P. Boubli, Jessica W. Lynch Alfaro, 2018, 'A phylogenomic perspective on the robust capuchin monkey ( Sapajus ) radiation: First evidence for extensive population admixture across South America', Molecular Phylogenetics and Evolution, vol. 124, pp. 137-150", 
+"decision": "INCLUDED", 
+"name": "PAUP 1", 
+"studyID": "ot_1639", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
