@@ -3493,6 +3493,14 @@
 "name": "1", 
 "studyID": "ot_1641", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Luz E. Ochoa, Fabio F. Roxo, Carlos DoNascimiento, Mark H. Sabaj, Al\u00e9ssio Datovo, Michael Alfaro, Claudio Oliveira, 2017, 'Multilocus analysis of the catfish family Trichomycteridae (Teleostei: Ostariophysi: Siluriformes) supporting a monophyletic Trichomycterinae', Molecular Phylogenetics and Evolution, vol. 115, pp. 71-81", 
+"decision": "INCLUDED", 
+"name": "mrbayes", 
+"studyID": "ot_1642", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
