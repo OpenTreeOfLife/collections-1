@@ -3501,6 +3501,14 @@
 "name": "mrbayes", 
 "studyID": "ot_1642", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Jennifer F. Hoyal Cuthill, Jian Han, 2018, 'Cambrian petalonamid Stromatoveris\n phylogenetically links Ediacaran biota to later animals', Palaeontology", 
+"decision": "INCLUDED", 
+"name": "MPT1", 
+"studyID": "ot_1646", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
