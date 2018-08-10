@@ -3525,6 +3525,14 @@
 "name": "Archibald et al., 2015 Bayesian Concatenated", 
 "studyID": "ot_1647", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Neiber M.T., & Hausdorf B. 2015. Phylogeography of the land snail genus Circassina Hesse, 1921 (Gastropoda: Hygromiidae) implies multiple Pleistocene refugia in the western Caucasus region. Molecular Phylogentics and Evolution, 93: 129-142.", 
+"decision": "INCLUDED", 
+"name": "Neiber & Hausdorf, 2015  Maximum Likelihood AFLP", 
+"studyID": "ot_1649", 
+"treeID": "Tr88213"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
