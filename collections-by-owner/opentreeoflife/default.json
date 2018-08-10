@@ -3533,6 +3533,14 @@
 "name": "Neiber & Hausdorf, 2015  Maximum Likelihood AFLP", 
 "studyID": "ot_1649", 
 "treeID": "Tr88213"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Neiber M.T., & Hausdorf B. 2015. Molecular phylogeny reveals the polyphyly of the banded snail genus Cepaea (Gastropoda: Helicidae). Molecular Phylogentics and Evolution, 93: 143-149.", 
+"decision": "INCLUDED", 
+"name": "Neiber & Hausdorf, 2015 Maximum Likelihood Concatenated", 
+"studyID": "ot_1650", 
+"treeID": "Tr91045"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
