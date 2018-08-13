@@ -3573,6 +3573,14 @@
 "name": "Two pore channels ML tree", 
 "studyID": "ot_1652", 
 "treeID": "Tr52509"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Saslis-Lagoudakis, C., Chase, M. W., Robinson, D. N., Russell, S. J., & Klitgaard, B. B. (2008). Phylogenetics of neotropical Platymiscium (Leguminosae: Dalbergieae): systematics, divergence times, and biogeography inferred from nuclear ribosomal and plastid DNA sequence data. American Journal of Botany, 95(10), 1270-1286.", 
+"decision": "INCLUDED", 
+"name": "Max Parsimony (tree3760)", 
+"studyID": "pg_1862", 
+"treeID": "tree3760"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
