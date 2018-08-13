@@ -3557,6 +3557,14 @@
 "name": "HAK channels ML tree", 
 "studyID": "ot_1652", 
 "treeID": "Tr52510"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Gomez-porras J., Riano-pachon D., Benito casado B., Haro hidalgo R., Sklodowski K., Rodr\u00e3\u00adguez navarro A., & Dreyer I. 2012. Phylogenetic Analysis of K+ Transporters in Bryophytes, Lycophytes, and Flowering Plants Indicates a Specialization of Vascular Plants. Frontiers in Plant Science, 3: 167.", 
+"decision": "INCLUDED", 
+"name": "Single pore channels ML tree", 
+"studyID": "ot_1652", 
+"treeID": "Tr52511"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
