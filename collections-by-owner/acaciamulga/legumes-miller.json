@@ -36,6 +36,14 @@
 "name": "Maximum likelihood topology tree based on the combined ITS and plastid dataset. (Joseph T. Miller, 2017)", 
 "studyID": "ot_1229", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree3760) (Saslis-Lagoudakis, 2008)", 
+"studyID": "pg_1862", 
+"treeID": "tree3760"
 }
 ], 
 "description": "Update of the Legume clade", 
