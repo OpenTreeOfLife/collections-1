@@ -3581,6 +3581,14 @@
 "name": "Max Parsimony (tree3760)", 
 "studyID": "pg_1862", 
 "treeID": "tree3760"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Xiaolu Zhao, Shan Gao, Yangbo Fan, Michaela Strueder-Kypke, Jie Huang, 2015, 'Phylogenetic framework of the systematically confused Anteholosticha\u2013Holosticha complex (Ciliophora, Hypotrichia) based on multigene analysis', Molecular Phylogenetics and Evolution, vol. 91, pp. 238-247", 
+"decision": "INCLUDED", 
+"name": "Zhao et al., 2015 Maximum Likelihood Concatenated", 
+"studyID": "ot_1654", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
