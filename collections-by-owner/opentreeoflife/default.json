@@ -3597,6 +3597,14 @@
 "name": "Buckner et al., 2015 Bayesian Concatenated", 
 "studyID": "ot_1655", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Omar Torres-Carvajal, Sim\u00f3n E. Lobos, Pablo J. Venegas, 2015, 'Phylogeny of Neotropical Cercosaura (Squamata: Gymnophthalmidae) lizards', Molecular Phylogenetics and Evolution, vol. 93, pp. 281-288", 
+"decision": "INCLUDED", 
+"name": "Torres-Carvajal et al., 2015 Bayesian Concatenated", 
+"studyID": "ot_1656", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
