@@ -3589,6 +3589,14 @@
 "name": "Zhao et al., 2015 Maximum Likelihood Concatenated", 
 "studyID": "ot_1654", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Janet C. Buckner, Jessica W. Lynch Alfaro, Anthony B. Rylands, Michael E. Alfaro, 2015, 'Biogeography of the marmosets and tamarins (Callitrichidae)', Molecular Phylogenetics and Evolution, vol. 82, pp. 413-425", 
+"decision": "INCLUDED", 
+"name": "Buckner et al., 2015 Bayesian Concatenated", 
+"studyID": "ot_1655", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
