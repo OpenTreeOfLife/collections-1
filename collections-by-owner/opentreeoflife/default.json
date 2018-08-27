@@ -3613,6 +3613,14 @@
 "name": "Ramirez & Galetti, 2015 Concatenated Bayesian", 
 "studyID": "ot_1660", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Hussam Zaher, Mario H. Y\u00e1nez-Mu\u00f1oz, Miguel T. Rodrigues, Roberta Graboski, Fabio A. Machado, Marco Altamirano-Benavides, Sandro L. Bonatto, Felipe G. Grazziotin, 2018, 'Origin and hidden diversity within the poorly known Gal\u00e1pagos snake radiation (Serpentes: Dipsadidae)', Systematics and Biodiversity, pp. 1-29", 
+"decision": "INCLUDED", 
+"name": "tree 1", 
+"studyID": "ot_1665", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
