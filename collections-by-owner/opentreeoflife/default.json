@@ -3605,6 +3605,14 @@
 "name": "Torres-Carvajal et al., 2015 Bayesian Concatenated", 
 "studyID": "ot_1656", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Jorge L. Ramirez, Pedro M. Galetti, 2015, 'DNA barcode and evolutionary relationship within Laemolyta Cope 1872 (Characiformes: Anostomidae) through molecular analyses', Molecular Phylogenetics and Evolution, vol. 93, pp. 77-82", 
+"decision": "INCLUDED", 
+"name": "Ramirez & Galetti, 2015 Concatenated Bayesian", 
+"studyID": "ot_1660", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
