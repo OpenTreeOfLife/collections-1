@@ -3621,6 +3621,14 @@
 "name": "tree 1", 
 "studyID": "ot_1665", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Noor D. White, Charles Mitter, Michael J. Braun, 2017, 'Ultraconserved elements resolve the phylogeny of potoos (Aves: Nyctibiidae)', Journal of Avian Biology, vol. 48, no. 6, pp. 872-880", 
+"decision": "INCLUDED", 
+"name": "GARLI", 
+"studyID": "ot_1662", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
