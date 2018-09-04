@@ -60,6 +60,14 @@
 "name": "tree2 (Pedro F. Amorim, 2018)", 
 "studyID": "ot_1683", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (T. Hrbek, 2003)", 
+"studyID": "ot_1684", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
