@@ -36,6 +36,14 @@
 "name": "tree2 (A. I. Furness, 2015)", 
 "studyID": "ot_1193", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Rachel Rodgers, 2018)", 
+"studyID": "ot_1374", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
