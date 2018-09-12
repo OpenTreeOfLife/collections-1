@@ -100,6 +100,14 @@
 "name": "Bayesian (Anthony A. Echelle, 2006)", 
 "studyID": "ot_1710", 
 "treeID": "tree11"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Time-calibrated maximum clade credibility (Christopher H. Martin, 2016)", 
+"studyID": "ot_1712", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
