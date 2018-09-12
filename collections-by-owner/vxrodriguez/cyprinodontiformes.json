@@ -92,6 +92,14 @@
 "name": "maximum likelihood (Hamid Reza Esmaeili, 2014)", 
 "studyID": "ot_1709", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Bayesian (Anthony A. Echelle, 2006)", 
+"studyID": "ot_1710", 
+"treeID": "tree11"
 }
 ], 
 "description": "", 
