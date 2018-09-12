@@ -84,6 +84,14 @@
 "name": "Fig. 2 Time-calibrated phylogeny generated in BEAST using cytochrome b data (Kimberly L. Foster, 2018)", 
 "studyID": "ot_1685", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6 (Pedro H.N. Bragan\u00e7a, 2018)", 
+"studyID": "ot_1708", 
+"treeID": "tree6"
 }
 ], 
 "description": "", 
