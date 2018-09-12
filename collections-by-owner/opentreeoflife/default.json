@@ -3637,6 +3637,14 @@
 "name": "con 50 majrule", 
 "studyID": "ot_1696", 
 "treeID": "Tr94605"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Munoz-ramirez C.P., Bitton P., Doucet S.M., & Knowles L.L. 2016. Mimics here and there, but not everywhere: M\u00fcllerian mimicry in Ceroglossus ground beetles?. Biology Letters, 12(9).", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1697", 
+"treeID": "Tr98182"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
