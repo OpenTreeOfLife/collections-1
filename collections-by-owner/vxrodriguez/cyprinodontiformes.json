@@ -148,6 +148,14 @@
 "name": "Fig. 3 (William J. Murphy, 1999)", 
 "studyID": "ot_1718", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figure 6.  Maximum likelihood phylogeny (Furness, 2018)", 
+"studyID": "ot_1719", 
+"treeID": "tree2"
 }
 ], 
 "description": "", 
