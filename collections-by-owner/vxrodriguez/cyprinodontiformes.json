@@ -108,6 +108,14 @@
 "name": "Time-calibrated maximum clade credibility (Christopher H. Martin, 2016)", 
 "studyID": "ot_1712", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Maximum likelihood (I. Vila, 2013)", 
+"studyID": "ot_1713", 
+"treeID": "tree6"
 }
 ], 
 "description": "", 
