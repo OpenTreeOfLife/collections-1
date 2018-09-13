@@ -140,6 +140,14 @@
 "name": "Bayesian Tree (G. Garc\u00eda, 2014)", 
 "studyID": "ot_1716", 
 "treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3 (William J. Murphy, 1999)", 
+"studyID": "ot_1718", 
+"treeID": "tree2"
 }
 ], 
 "description": "", 
