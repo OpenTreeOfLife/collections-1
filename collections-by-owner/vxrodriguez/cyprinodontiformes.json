@@ -164,6 +164,14 @@
 "name": "Fig. 2 Maximum likelihood (Tomas Hrbek, 2005)", 
 "studyID": "ot_1720", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3 Maximum-likelihood tree (Josi M. Ponzetto, 2016)", 
+"studyID": "ot_1721", 
+"treeID": "tree2"
 }
 ], 
 "description": "", 
