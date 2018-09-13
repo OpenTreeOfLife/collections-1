@@ -180,6 +180,14 @@
 "name": "FIGURE 1. Bayesian inference (Hrbek, 2008)", 
 "studyID": "ot_1722", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figure 12 (Michael J. Ghedotti, 2013)", 
+"studyID": "ot_1705", 
+"treeID": "tree3"
 }
 ], 
 "description": "", 
