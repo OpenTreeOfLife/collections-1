@@ -132,6 +132,14 @@
 "name": "Fig. 4 Max clade cred (YARELI ESQUER GARRIGOS, 2013)", 
 "studyID": "ot_1715", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Bayesian Tree (G. Garc\u00eda, 2014)", 
+"studyID": "ot_1716", 
+"treeID": "tree4"
 }
 ], 
 "description": "", 
