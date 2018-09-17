@@ -4,7 +4,16 @@
 "login": "seanchen607", 
 "name": "seanchen607"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr47737 (Mcdonald T.R., 2011)", 
+"studyID": "ot_274", 
+"treeID": "Tr47737"
+}
+], 
 "description": "", 
 "name": "Eukaryota_ToL", 
 "queries": []
