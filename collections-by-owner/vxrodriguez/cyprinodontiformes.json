@@ -244,6 +244,14 @@
 "name": "Fig. 2 Maximum Parsimony and Bayesian topology (Wilson J.E.M. Costa, 2016)", 
 "studyID": "ot_1760", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig 3. Bayesian (Robert W. Meredith, 2010)", 
+"studyID": "ot_1761", 
+"treeID": "tree3"
 }
 ], 
 "description": "", 
