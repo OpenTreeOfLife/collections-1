@@ -228,6 +228,14 @@
 "name": "Fig 1. Parsimony tree (Lydeard, 1995)", 
 "studyID": "ot_1758", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig 3. maximum likelihood (B Nagy, 2017)", 
+"studyID": "ot_1759", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
