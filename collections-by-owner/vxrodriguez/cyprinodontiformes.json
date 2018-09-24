@@ -220,6 +220,14 @@
 "name": "Fig. 2. Bayesian inference (BI) hypotheses (Spencer J. Ingley, 2015)", 
 "studyID": "ot_1757", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig 1. Parsimony tree (Lydeard, 1995)", 
+"studyID": "ot_1758", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
