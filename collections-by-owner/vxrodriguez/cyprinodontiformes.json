@@ -212,6 +212,14 @@
 "name": "Fig 1b. maximum parsimony (MP) (William J. Murphy, 1999)", 
 "studyID": "ot_1718", 
 "treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 2. Bayesian inference (BI) hypotheses (Spencer J. Ingley, 2015)", 
+"studyID": "ot_1757", 
+"treeID": "tree2"
 }
 ], 
 "description": "", 
