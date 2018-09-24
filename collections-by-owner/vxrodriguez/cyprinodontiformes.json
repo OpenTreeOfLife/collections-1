@@ -196,6 +196,14 @@
 "name": "Fig. 2 Bayesian tree (Kimberly L. Foster, 2018)", 
 "studyID": "ot_1724", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figure 3. ML tree (Tomas Hrbek, 2004)", 
+"studyID": "ot_1756", 
+"treeID": "tree4"
 }
 ], 
 "description": "", 
