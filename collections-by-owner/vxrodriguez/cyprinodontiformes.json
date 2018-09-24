@@ -204,6 +204,14 @@
 "name": "Figure 3. ML tree (Tomas Hrbek, 2004)", 
 "studyID": "ot_1756", 
 "treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig 1b. maximum parsimony (MP) (William J. Murphy, 1999)", 
+"studyID": "ot_1718", 
+"treeID": "tree4"
 }
 ], 
 "description": "", 
