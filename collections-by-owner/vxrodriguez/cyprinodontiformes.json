@@ -252,6 +252,14 @@
 "name": "Fig. 1. ML (Robert W. Meredith, 2011)", 
 "studyID": "ot_1762", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Supplementary Data 2.  Bayesian Inference analysis of the combined mtDNA and nDNA (Fernando Alda, 2013)", 
+"studyID": "ot_1763", 
+"treeID": "tree5"
 }
 ], 
 "description": "", 
