@@ -260,6 +260,14 @@
 "name": "Supplementary Data 2.  Bayesian Inference analysis of the combined mtDNA and nDNA (Fernando Alda, 2013)", 
 "studyID": "ot_1763", 
 "treeID": "tree5"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3. Maximum likelihood (D. N. Reznick, 2002)", 
+"studyID": "ot_1765", 
+"treeID": "tree2"
 }
 ], 
 "description": "", 
