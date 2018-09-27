@@ -3661,6 +3661,14 @@
 "name": "Imported tree 1", 
 "studyID": "ot_1784", 
 "treeID": "Tr106951"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Heluta V., Takamatsu S., & Siahaan S. 2017. Erysiphe salmonii (Erysiphales, Ascomycota), another East Asian powdery mildew fungus introduced into Ukraine. Ukrainian Botanical Journal, 74(3): 212\u0096219.", 
+"decision": "INCLUDED", 
+"name": "Fig. 2", 
+"studyID": "ot_1785", 
+"treeID": "Tr103704"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
