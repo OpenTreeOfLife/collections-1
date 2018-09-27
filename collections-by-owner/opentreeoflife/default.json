@@ -3653,6 +3653,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_1782", 
 "treeID": "Tr111615"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Zhao R., Li G., S\ufffdnchez-ram\ufffdrez S., Stata M., Yang Z., Wu G., Dai Y.C., He S., Cui B., Zhou J., Wu F., He M., Moncalvo J., & Hyde K.D. 2017. A six-gene phylogenetic overview of Basidiomycota and allied phyla with estimated divergence times of higher taxa and a phyloproteomics perspective. Fungal Diversity, 84(1): 43-74.", 
+"decision": "INCLUDED", 
+"name": "Imported tree 1", 
+"studyID": "ot_1784", 
+"treeID": "Tr106951"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
