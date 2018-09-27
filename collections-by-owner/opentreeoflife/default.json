@@ -3669,6 +3669,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_1785", 
 "treeID": "Tr103704"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Siahaan S., Sakamoto H., Shinoda T., & Takamatsu S. 2018. Geographic and temporal distributions of four genotypes found in Erysiphe gracilis, a powdery mildew of evergreen oak (Erysiphales). Mycoscience, 59(2): 110-118.", 
+"decision": "INCLUDED", 
+"name": "Fig. 2", 
+"studyID": "ot_1786", 
+"treeID": "Tr103879"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
