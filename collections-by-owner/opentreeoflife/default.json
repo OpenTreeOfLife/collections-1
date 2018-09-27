@@ -3645,6 +3645,14 @@
 "name": "tree 1", 
 "studyID": "ot_1704", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Xia J.W., Ma Y.R., Gao J.M., Yang C.L., Wang J.Y., Li Z., & Zhang X.G. 2017. Acrodictys-like wood decay fungi from southern China, with two new families Acrodictyaceae and Junewangiaceae. Scientific Reports, 7: 7888.", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_1782", 
+"treeID": "Tr111615"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
