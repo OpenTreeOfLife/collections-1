@@ -1970,14 +1970,6 @@
 "SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from Mehl J.W., Slippers B., Roux J., & Wingfield M.J. 2017. Overlap of latent pathogens in the Botryosphaeriaceae on a native and agricultural host. Fungal Biology, 121(4): 405-419.", 
 "decision": "INCLUDED", 
-"name": "Parvum-ribis complex ITS_TEF_BT ML tree", 
-"studyID": "ot_1365", 
-"treeID": "Tr95003"
-}, 
-{
-"SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Mehl J.W., Slippers B., Roux J., & Wingfield M.J. 2017. Overlap of latent pathogens in the Botryosphaeriaceae on a native and agricultural host. Fungal Biology, 121(4): 405-419.", 
-"decision": "INCLUDED", 
 "name": "Parvum-ribis complex TEF ML tree", 
 "studyID": "ot_1365", 
 "treeID": "Tr95001"
