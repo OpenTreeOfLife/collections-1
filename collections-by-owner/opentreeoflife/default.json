@@ -1968,14 +1968,6 @@
 }, 
 {
 "SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Mehl J.W., Slippers B., Roux J., & Wingfield M.J. 2017. Overlap of latent pathogens in the Botryosphaeriaceae on a native and agricultural host. Fungal Biology, 121(4): 405-419.", 
-"decision": "INCLUDED", 
-"name": "Parvum-ribis complex BT ML tree", 
-"studyID": "ot_1365", 
-"treeID": "Tr94997"
-}, 
-{
-"SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from Springer M.S., Emerling C.A., Meredith R.W., Janecka J., Eizirik E., & Murphy W. 2016. Waking the undead: implications of a soft explosive model for the timing of placental mammal diversification. Molecular Phylogentics and Evolution, .", 
 "decision": "INCLUDED", 
 "name": "MajRule", 
