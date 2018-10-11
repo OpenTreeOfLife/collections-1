@@ -3605,6 +3605,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_1786", 
 "treeID": "Tr103879"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Adeljean L.F.C. Ho, Christin L. Pruett, Junda Lin, 2016, 'Phylogeny and biogeography of Poecilia (Cyprinodontiformes: Poeciliinae) across Central and South America based on mitochondrial and nuclear DNA markers', Molecular Phylogenetics and Evolution, vol. 101, pp. 32-45", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule", 
+"studyID": "ot_1810", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
