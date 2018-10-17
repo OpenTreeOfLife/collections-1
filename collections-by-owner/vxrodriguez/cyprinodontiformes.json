@@ -9,6 +9,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "tree6 (Pedro H.N. Bragan\u00e7a, 2018)", 
+"studyID": "ot_1708", 
+"treeID": "tree6"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "tree2 (Andrew J. Helmstetter, 2016)", 
 "studyID": "ot_1194", 
 "treeID": "tree2"
@@ -76,14 +84,6 @@
 "name": "tree8 (Glen E. Collier, 2009)", 
 "studyID": "ot_1686", 
 "treeID": "tree8"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "tree6 (Pedro H.N. Bragan\u00e7a, 2018)", 
-"studyID": "ot_1708", 
-"treeID": "tree6"
 }, 
 {
 "SHA": "", 
