@@ -3669,6 +3669,14 @@
 "name": "Bootstrap majority rule tree of 500 reps", 
 "studyID": "pg_608", 
 "treeID": "tree959"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Wojciechowski M., Sanderson M., Baldwin B.G., & Donoghue M. 1993. Monophyly of aneuploid Astragalus (Fabaceae): Evidence from nuclear ribosomal DNA internal transcribed spacer sequences. American Journal of Botany, 80: 711-722.", 
+"decision": "INCLUDED", 
+"name": "MP; Fig 3a", 
+"studyID": "pg_607", 
+"treeID": "tree956"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
