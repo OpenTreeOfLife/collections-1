@@ -3613,6 +3613,14 @@
 "name": "con 50 majrule", 
 "studyID": "ot_1810", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Jiang J., Li J., Fu C., Li M., & Lou X. 2008. Phylogenetics and biogeography of Wisteria (Fabaceae) inferred from sequences of chloroplast and nuclear DNA regions. Systematic Botany, null.", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree6204)", 
+"studyID": "pg_129", 
+"treeID": "tree6204"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
