@@ -3629,6 +3629,14 @@
 "name": "tree", 
 "studyID": "pg_2051", 
 "treeID": "tree4226"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Farruggia, F. T., & Howard, J. H. 2011. Examination of five nuclear markers for phylogenetic study of Hologalegina (Leguminosae). Brittonia 63: 489-499.", 
+"decision": "INCLUDED", 
+"name": "Maximum Parsimony", 
+"studyID": "pg_590", 
+"treeID": "tree882"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
