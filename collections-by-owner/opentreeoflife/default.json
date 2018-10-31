@@ -3621,6 +3621,14 @@
 "name": "Untitled (tree6204)", 
 "studyID": "pg_129", 
 "treeID": "tree6204"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from le Roux, M. M., & van Wyk, B. E. (2013). A Taxonomic Revision of Amphitrichae, a New Section of Crotalaria (Fabaceae). Systematic Botany, 38(3), 638-652.", 
+"decision": "INCLUDED", 
+"name": "tree", 
+"studyID": "pg_2051", 
+"treeID": "tree4226"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
