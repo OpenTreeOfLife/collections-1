@@ -3645,6 +3645,14 @@
 "name": "two equally parsimonious trees from ITS", 
 "studyID": "pg_592", 
 "treeID": "tree887"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Hu M., Lavin M., Wojciechowski M., & Sanderson M. 2002. Phylogenetic analysis of nuclear ribosomal ITS/5.8 S sequences in the tribe Millettieae (Fabaceae): Poecilanthe-Cyclolobium, the core Millettieae, and the Callerya group. Systematic Botany, 27: 722-733.", 
+"decision": "INCLUDED", 
+"name": "One equally parsimonious tree ITS", 
+"studyID": "pg_592", 
+"treeID": "tree888"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
