@@ -3661,6 +3661,14 @@
 "name": "Parsimony ", 
 "studyID": "pg_592", 
 "treeID": "tree889"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Wojciechowski M., Sanderson M., & Hu J. 1999. Evidence on the Monophyly of Astragalus (Fabaceae) and its Major Subgroups Based on Nuclear Ribosomal DNA ITS and Chloroplast DNA trnL Intron Data. Systematic Botany, 24: 409-437.", 
+"decision": "INCLUDED", 
+"name": "Bootstrap majority rule tree of 500 reps", 
+"studyID": "pg_608", 
+"treeID": "tree959"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
