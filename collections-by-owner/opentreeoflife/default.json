@@ -1280,14 +1280,6 @@
 }, 
 {
 "SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Nepal M.P., & Ferguson C.J. 2011. Phylogenetics of Morus (Moraceae) Inferred from ITS and trnL-trnF Sequence Data. Systematic Botany, .", 
-"decision": "INCLUDED", 
-"name": "Fig. 2 MP", 
-"studyID": "ot_1182", 
-"treeID": "Tr43272"
-}, 
-{
-"SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from Yang EC, Boo SM, Bhattacharya D, Saunders GW, Knoll AH, Fredericq S, Graf L, Yoon HS. 2016. Divergence time estimates and the evolution of major lineages in the florideophyte red algae. Scientific Reports 6: 21361.", 
 "decision": "INCLUDED", 
 "name": "ml", 
