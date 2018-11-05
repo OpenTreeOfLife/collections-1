@@ -978,14 +978,6 @@
 "SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from Irisarri I., Eernisse D.J., & Zardoya R. 2014. Molecular phylogeny of Acanthochitonina (Mollusca: Polyplacophora: Chitonida): three new mitochondrial genomes, rearranged gene orders and systematics. Journal of Natural History, .", 
 "decision": "INCLUDED", 
-"name": "Bayesian MRC mitogenome aa", 
-"studyID": "ot_1105", 
-"treeID": "Tr76753"
-}, 
-{
-"SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Irisarri I., Eernisse D.J., & Zardoya R. 2014. Molecular phylogeny of Acanthochitonina (Mollusca: Polyplacophora: Chitonida): three new mitochondrial genomes, rearranged gene orders and systematics. Journal of Natural History, .", 
-"decision": "INCLUDED", 
 "name": "Bayesian MRC multilocus nt", 
 "studyID": "ot_1105", 
 "treeID": "Tr76755"
