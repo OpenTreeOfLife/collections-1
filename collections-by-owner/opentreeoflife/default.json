@@ -3613,6 +3613,14 @@
 "name": "\tMP; Fig 3b", 
 "studyID": "pg_607", 
 "treeID": "tree958"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Martin Stervander, Peter G. Ryan, Martim Melo, Bengt Hansson, 2019, 'The origin of the world\u2019s smallest flightless bird, the Inaccessible Island Rail Atlantisia rogersi (Aves: Rallidae)', Molecular Phylogenetics and Evolution, vol. 130, pp. 92-98", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1844", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
