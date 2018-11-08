@@ -3621,6 +3621,14 @@
 "name": "TREE1", 
 "studyID": "ot_1844", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Wayne Maddison, Daiqin Li, Melissa Bodner, Junxia Zhang, Xu Xin, Qinqing Liu, Fengxiang Liu, 2014, 'The deep phylogeny of jumping spiders (Araneae,\u00a0Salticidae)', ZooKeys, vol. 440, pp. 57-87", 
+"decision": "INCLUDED", 
+"name": "Complete Analysis best of 100+", 
+"studyID": "ot_1846", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
