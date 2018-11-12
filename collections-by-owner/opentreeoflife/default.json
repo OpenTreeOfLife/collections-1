@@ -1844,14 +1844,6 @@
 "decision": "INCLUDED", 
 "name": "Imported tree 1", 
 "studyID": "ot_1358", 
-"treeID": "Tr105796"
-}, 
-{
-"SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Voitk A., Saar I., Trudell S.A., Spirin V., Beug M.W., & Koljalg U. 2017. Polyozellus multiplex (Thelephorales) is a species complex containing four new species. Mycologia, 109(6): 975\u0096992.", 
-"decision": "INCLUDED", 
-"name": "Imported tree 1", 
-"studyID": "ot_1358", 
 "treeID": "Tr105797"
 }, 
 {
