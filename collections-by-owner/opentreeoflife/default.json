@@ -1586,14 +1586,6 @@
 "SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from Balci Y., Balci S., Blair J., Park S., Kang S., & Macdonald W. 2007. Phytophthora quercetorum sp. nov., a novel species isolated from eastern and north-central US oak forest soils. Mycological Research, null.", 
 "decision": "INCLUDED", 
-"name": "MP MajRule", 
-"studyID": "ot_1280", 
-"treeID": "Tr2911"
-}, 
-{
-"SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Balci Y., Balci S., Blair J., Park S., Kang S., & Macdonald W. 2007. Phytophthora quercetorum sp. nov., a novel species isolated from eastern and north-central US oak forest soils. Mycological Research, null.", 
-"decision": "INCLUDED", 
 "name": "NJ MajRule", 
 "studyID": "ot_1280", 
 "treeID": "Tr2910"
