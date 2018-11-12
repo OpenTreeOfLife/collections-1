@@ -1676,14 +1676,6 @@
 "decision": "INCLUDED", 
 "name": "con 50 majrule", 
 "studyID": "ot_1326", 
-"treeID": "Tr90800"
-}, 
-{
-"SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Azevedo E., Barata M., Marques I.M., & Caeiro M.F. 2017. Lulworthia atlantica: a new species supported by molecular phylogeny and morphological analysis. Mycologia, 109(2): 287-295.", 
-"decision": "INCLUDED", 
-"name": "con 50 majrule", 
-"studyID": "ot_1326", 
 "treeID": "Tr90799"
 }, 
 {
