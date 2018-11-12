@@ -2288,14 +2288,6 @@
 }, 
 {
 "SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Meeboon J., & Takamatsu S. 2014. Notes on the powdery mildews (Erysiphales) in Japan II. Erysiphe sect. Microsphaera. Mycoscience, 56(1): 230-236.", 
-"decision": "INCLUDED", 
-"name": "Fig. 1", 
-"studyID": "ot_1459", 
-"treeID": "Tr74506"
-}, 
-{
-"SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from Jayawardena R.S., Zhang W., Liu M., Maharachchikumbura M.S., Zhou Y., Huang J., Nilthong S., Wang Z., Li X., Yan J., & Hyde K.D. 2014. Identification and characterization of Pestalotiopsis-like fungi related to grapevine diseases in China. Fungal Biology, .", 
 "decision": "INCLUDED", 
 "name": "PAUP 1", 
