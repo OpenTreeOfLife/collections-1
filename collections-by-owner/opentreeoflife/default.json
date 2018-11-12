@@ -2658,14 +2658,6 @@
 "SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from Ren C. 2016. Phylogenetic position and independent generic status of Indocypraea (Asteraceae-Heliantheae-Ecliptinae): evidence from chloroplast DNA sequences. Phytotaxa, .", 
 "decision": "INCLUDED", 
-"name": "PAUP 1", 
-"studyID": "ot_1473", 
-"treeID": "Tr100274"
-}, 
-{
-"SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Ren C. 2016. Phylogenetic position and independent generic status of Indocypraea (Asteraceae-Heliantheae-Ecliptinae): evidence from chloroplast DNA sequences. Phytotaxa, .", 
-"decision": "INCLUDED", 
 "name": "Best ML tree with bootstrap value", 
 "studyID": "ot_1473", 
 "treeID": "Tr98326"
