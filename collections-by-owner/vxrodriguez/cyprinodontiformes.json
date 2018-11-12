@@ -97,17 +97,17 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Bayesian (Anthony A. Echelle, 2006)", 
-"studyID": "ot_1710", 
-"treeID": "tree11"
+"name": "Time-calibrated maximum clade credibility (Christopher H. Martin, 2016)", 
+"studyID": "ot_1712", 
+"treeID": "tree1"
 }, 
 {
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Time-calibrated maximum clade credibility (Christopher H. Martin, 2016)", 
-"studyID": "ot_1712", 
-"treeID": "tree1"
+"name": "Bayesian (Anthony A. Echelle, 2006)", 
+"studyID": "ot_1710", 
+"treeID": "tree11"
 }, 
 {
 "SHA": "", 
@@ -137,6 +137,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "Figure 6.  Maximum likelihood phylogeny (Furness, 2018)", 
+"studyID": "ot_1719", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Bayesian Tree (G. Garc\u00eda, 2014)", 
 "studyID": "ot_1716", 
 "treeID": "tree4"
@@ -153,24 +161,8 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Figure 6.  Maximum likelihood phylogeny (Furness, 2018)", 
-"studyID": "ot_1719", 
-"treeID": "tree2"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "Fig. 2 Maximum likelihood (Tomas Hrbek, 2005)", 
 "studyID": "ot_1720", 
-"treeID": "tree2"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig. 3 Maximum-likelihood tree (Josi M. Ponzetto, 2016)", 
-"studyID": "ot_1721", 
 "treeID": "tree2"
 }, 
 {
@@ -180,6 +172,14 @@
 "name": "FIGURE 1. Bayesian inference (Hrbek, 2008)", 
 "studyID": "ot_1722", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3 Maximum-likelihood tree (Josi M. Ponzetto, 2016)", 
+"studyID": "ot_1721", 
+"treeID": "tree2"
 }, 
 {
 "SHA": "", 
