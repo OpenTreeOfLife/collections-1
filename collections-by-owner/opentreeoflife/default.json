@@ -2656,14 +2656,6 @@
 }, 
 {
 "SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Ren C. 2016. Phylogenetic position and independent generic status of Indocypraea (Asteraceae-Heliantheae-Ecliptinae): evidence from chloroplast DNA sequences. Phytotaxa, .", 
-"decision": "INCLUDED", 
-"name": "Best ML tree with bootstrap value", 
-"studyID": "ot_1473", 
-"treeID": "Tr98326"
-}, 
-{
-"SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from Sandoval-leiva P., Mcdonald J.V., & Thorn R. 2016. Gymnopanella nothofagi, a new genus and species of gymnopoid fungi (Omphalotaceae) from Chilean Nothofagus forest. Mycologia, 108.", 
 "decision": "INCLUDED", 
 "name": "PAUP 1", 
