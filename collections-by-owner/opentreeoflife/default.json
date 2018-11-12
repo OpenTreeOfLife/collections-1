@@ -3168,14 +3168,6 @@
 }, 
 {
 "SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Ando Y., Masuya H., Motohashi K., Linnakoski R., & Yamaoka Y. 2016. Phylogenetic relationship of Japanese isolates belonging to the Grosmannia piceiperda complex (Ophiostomatales). Mycoscience, 57: 123-135.", 
-"decision": "INCLUDED", 
-"name": "Fig. 2", 
-"studyID": "ot_1595", 
-"treeID": "Tr89910"
-}, 
-{
-"SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from Paul Masonick, Amy Michael, Sarah Frankenberg, Wolfgang Rabitsch, Christiane Weirauch, 2017, 'Molecular phylogenetics and biogeography of the ambush bugs (Hemiptera: Reduviidae: Phymatinae)', Molecular Phylogenetics and Evolution, vol. 114, pp. 225-233", 
 "decision": "INCLUDED", 
 "name": "Phymatinae", 
