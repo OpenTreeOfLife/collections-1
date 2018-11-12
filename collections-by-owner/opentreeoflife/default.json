@@ -2880,14 +2880,6 @@
 }, 
 {
 "SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Margarita Metallinou, Edwin Nicholas Arnold, Pierre-Andr\u00e9 Crochet, Philippe Geniez, Jos\u00e9 Carlos Brito, Petros Lymberakis, Sherif Baha El Din, Roberto Sindaco, Michael Robinson, Salvador Carranza, 2012, 'Conquering the Sahara and Arabian deserts: systematics and biogeography of Stenodactylus geckos (Reptilia: Gekkonidae)', BMC Evolutionary Biology, vol. 12, no. 1, p. 258", 
-"decision": "INCLUDED", 
-"name": "con 50 majrule", 
-"studyID": "ot_1518", 
-"treeID": "Tr59028"
-}, 
-{
-"SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from Spinks P., Thomson R.C., Lovely G., & Bradley shaffer H. 2009. Assessing what is needed to resolve a molecular phylogeny: simulations and empirical data from Emydid turtles. BMC Evolutionary Biology, 9(56): 56.", 
 "decision": "INCLUDED", 
 "name": "nuDNA", 
