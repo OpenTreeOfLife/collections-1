@@ -1840,14 +1840,6 @@
 }, 
 {
 "SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Voitk A., Saar I., Trudell S.A., Spirin V., Beug M.W., & Koljalg U. 2017. Polyozellus multiplex (Thelephorales) is a species complex containing four new species. Mycologia, 109(6): 975\u0096992.", 
-"decision": "INCLUDED", 
-"name": "Imported tree 1", 
-"studyID": "ot_1358", 
-"treeID": "Tr105797"
-}, 
-{
-"SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from Pascual B., El-azaz J., De la torre F., Canas R.A., Avila C., & Canovas F.M. 2016. Biosynthesis and metabolic fate of phenylalanine in conifers. Frontiers in Plant Science, 7: 1030.", 
 "decision": "INCLUDED", 
 "name": "Fig. 2", 
