@@ -276,6 +276,14 @@
 "name": "Additional file 1. Bayesian and ML topology (Ji Hyoun Kang, 2013)", 
 "studyID": "ot_1770", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3. BI analysis of combined data set of mtDNA and nDNA data. Simplification. (Felipe Morcillo, 2016)", 
+"studyID": "ot_1847", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
