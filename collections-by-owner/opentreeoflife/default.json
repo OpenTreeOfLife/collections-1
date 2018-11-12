@@ -3170,14 +3170,6 @@
 "SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from Ando Y., Masuya H., Motohashi K., Linnakoski R., & Yamaoka Y. 2016. Phylogenetic relationship of Japanese isolates belonging to the Grosmannia piceiperda complex (Ophiostomatales). Mycoscience, 57: 123-135.", 
 "decision": "INCLUDED", 
-"name": "Fig. 1", 
-"studyID": "ot_1595", 
-"treeID": "Tr89909"
-}, 
-{
-"SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Ando Y., Masuya H., Motohashi K., Linnakoski R., & Yamaoka Y. 2016. Phylogenetic relationship of Japanese isolates belonging to the Grosmannia piceiperda complex (Ophiostomatales). Mycoscience, 57: 123-135.", 
-"decision": "INCLUDED", 
 "name": "Fig. 2", 
 "studyID": "ot_1595", 
 "treeID": "Tr89910"
