@@ -1,10 +1,24 @@
 {
-"contributors": [], 
+"contributors": [
+{
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}
+], 
 "creator": {
 "login": "wdahdul", 
 "name": "Wasila Dahdul"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree3701) (Zanata A.M., 2005)", 
+"studyID": "pg_1831", 
+"treeID": "tree3701"
+}
+], 
 "description": "Collection developed by Phenoscape for ostariophysan fishes", 
 "name": "Ostariophysi", 
 "queries": []
