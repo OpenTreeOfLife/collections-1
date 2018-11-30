@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "dcblackburn", 
+"name": "dcblackburn"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "TREE1 (Daniel M. Portik, 2016)", 
+"studyID": "ot_1857", 
+"treeID": "tree1"
+}
+], 
+"description": "Collection of Trees for Amphibians", 
+"name": "Amphibia", 
+"queries": []
+}
