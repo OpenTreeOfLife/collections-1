@@ -3381,6 +3381,14 @@
 "name": "Untitled (tree1)", 
 "studyID": "ot_1859", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Y. Franchesco Molina-Henao, Adriana L. Guerrero-Chac\u00f3n, M. Alejandra Jaramillo, 2016, 'Ecological and Geographic Dimensions of Diversification in <I>Piper</I> subgenus <I>Ottonia</I>: A Lineage of Neotropical Rainforest Shrubs', Systematic Botany, vol. 41, no. 2, pp. 253-262", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree6)", 
+"studyID": "ot_1861", 
+"treeID": "tree6"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
