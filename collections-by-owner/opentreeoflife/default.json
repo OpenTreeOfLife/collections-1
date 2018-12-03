@@ -3373,6 +3373,14 @@
 "name": "1", 
 "studyID": "ot_1858", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Shannon C.K. Straub, Michael J. Moore, Pamela S. Soltis, Douglas E. Soltis, Aaron Liston, Tatyana Livshultz, 2014, 'Phylogenetic signal detection from an ancient rapid radiation: Effects of noise reduction, long-branch attraction, and model selection in crown clade Apocynaceae', Molecular Phylogenetics and Evolution, vol. 80, pp. 169-185", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree1)", 
+"studyID": "ot_1859", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
