@@ -3365,6 +3365,14 @@
 "name": "309 taxon chronogram", 
 "studyID": "ot_1164", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Ryan A Folk, Clayton J Visger, Pamela S Soltis, Douglas E Soltis, Robert P Guralnick, 2017, 'Geographic range dynamics drove ancient hybridization in a lineage of angiosperms'", 
+"decision": "INCLUDED", 
+"name": "1", 
+"studyID": "ot_1858", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
