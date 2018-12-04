@@ -3389,6 +3389,14 @@
 "name": "Untitled (tree6)", 
 "studyID": "ot_1861", 
 "treeID": "tree6"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Marianne Espeland, Jesse Breinholt, Keith R. Willmott, Andrew D. Warren, Roger Vila, Emmanuel F.A. Toussaint, Sarah C. Maunsell, Kwaku Aduse-Poku, Gerard Talavera, Rod Eastwood, Marta A. Jarzyna, Robert Guralnick, David J. Lohman, Naomi E. Pierce, Akito Y. Kawahara, 2018, 'A Comprehensive and Dated Phylogenomic Analysis of Butterflies', Current Biology, vol. 28, no. 5, pp. 770-778.e5", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree2)", 
+"studyID": "ot_1862", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
