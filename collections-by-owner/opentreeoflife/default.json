@@ -3397,6 +3397,14 @@
 "name": "Untitled (tree2)", 
 "studyID": "ot_1862", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Kelly M. Harkins, Rachel S. Schwartz, Reed A. Cartwright, Anne C. Stone, 2016, 'Phylogenomic reconstruction supports supercontinent origins for Leishmania', Infection, Genetics and Evolution, vol. 38, pp. 101-109", 
+"decision": "INCLUDED", 
+"name": "Fig. 3", 
+"studyID": "ot_1873", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
