@@ -3405,6 +3405,14 @@
 "name": "Fig. 3", 
 "studyID": "ot_1873", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Castellanos C., Steeves R.A., Bruneau A., & Lewis G.P. 2016. A settled sub-family for the Orphan tree: The phylogenetic position of the endemic Colombian genus Orphanodendron in the Leguminosae. Brittonia, .", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_1828", 
+"treeID": "Tr92823"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
