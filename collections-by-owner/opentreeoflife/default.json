@@ -3413,6 +3413,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_1828", 
 "treeID": "Tr92823"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from A. A. Crowl, N. W. Miles, C. J. Visger, K. Hansen, T. Ayers, R. Haberle, N. Cellinese, 2016, 'A global perspective on Campanulaceae: Biogeographic, genomic, and floral evolution', American Journal of Botany", 
+"decision": "INCLUDED", 
+"name": "Campanulaceae_coding_genes_ML", 
+"studyID": "ot_600", 
+"treeID": "tree10"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
