@@ -3421,6 +3421,14 @@
 "name": "Campanulaceae_coding_genes_ML", 
 "studyID": "ot_600", 
 "treeID": "tree10"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Tiago P. Carvalho, Mariangeles Arce H., Roberto E. Reis, Mark H. Sabaj, 2018, 'Molecular phylogeny of Banjo catfishes (Ostaryophisi: Siluriformes: Aspredinidae): A continental radiation in South American freshwaters', Molecular Phylogenetics and Evolution", 
+"decision": "INCLUDED", 
+"name": "Intergeneric relationships within Aspredinidae (Ostaryophisi: Siluriformes)", 
+"studyID": "ot_1320", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
