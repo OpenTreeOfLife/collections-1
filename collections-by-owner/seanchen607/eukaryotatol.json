@@ -1,19 +1,15 @@
 {
-"contributors": [], 
+"contributors": [
+{
+"login": "lamia-abdelkader", 
+"name": "lamia-abdelkader"
+}
+], 
 "creator": {
 "login": "seanchen607", 
 "name": "seanchen607"
 }, 
-"decisions": [
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Tr47737 (Mcdonald T.R., 2011)", 
-"studyID": "ot_274", 
-"treeID": "Tr47737"
-}
-], 
+"decisions": [], 
 "description": "", 
 "name": "Eukaryota_ToL", 
 "queries": []
