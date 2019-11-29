@@ -3429,6 +3429,14 @@
 "name": "Intergeneric relationships within Aspredinidae (Ostaryophisi: Siluriformes)", 
 "studyID": "ot_1320", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Cardinal-McTeague, W. M., Wurdack, K. J., Sigel, E. M., & Gillespie, L. J. (2019). Seed size evolution and biogeography of Plukenetia (Euphorbiaceae), a pantropical genus with traditionally cultivated oilseed species. BMC Evolutionary Biology, 19(1). doi:10.1186/s12862-018-1308-9\n", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1960", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
