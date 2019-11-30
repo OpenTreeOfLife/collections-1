@@ -3445,6 +3445,14 @@
 "name": "TREE1", 
 "studyID": "pg_2622", 
 "treeID": "tree6137"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Cardinal-McTeague, W. M., Sytsma, K. J., & Hall, J. C. (2016). Biogeography and diversification of Brassicales: A 103 million year tale. Molecular Phylogenetics and Evolution, 99, 204\u2013224. doi:10.1016/j.ympev.2016.02.021\n", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1961", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
