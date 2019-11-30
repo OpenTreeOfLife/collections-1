@@ -3437,6 +3437,14 @@
 "name": "TREE1", 
 "studyID": "ot_1960", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Riser, J. P., Cardinal-McTeague, W. M., Hall, J. C., Hahn, W. J., Sytsma, K. J., & Roalson, E. H. (2013). Phylogenetic relationships among the North American cleomoids (Cleomaceae): A test of Iltis\u2019s reduction series. American Journal of Botany, 100(10), 2102\u20132111. doi:10.3732/ajb.1300096\n", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "pg_2622", 
+"treeID": "tree6137"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
