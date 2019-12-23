@@ -3461,6 +3461,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_1965", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Nogueira, J. M. de M., Fitzhugh, K., & Hutchings, P. (2013). The continuing challenge of phylogenetic relationships in Terebelliformia (Annelida\u202f: Polychaeta). Invertebrate Systematics, 27(2), 186. doi:10.1071/is12062\n", 
+"decision": "INCLUDED", 
+"name": "Fig. 19", 
+"studyID": "ot_1966", 
+"treeID": "tree5"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
