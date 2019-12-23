@@ -3453,6 +3453,14 @@
 "name": "TREE1", 
 "studyID": "ot_1961", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Weigert, A., & Bleidorn, C. (2016). Current status of annelid phylogeny. Organisms Diversity & Evolution, 16(2), 345\u2013362. doi:10.1007/s13127-016-0265-7\n", 
+"decision": "INCLUDED", 
+"name": "Fig. 2", 
+"studyID": "ot_1965", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
