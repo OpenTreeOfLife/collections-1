@@ -3469,6 +3469,14 @@
 "name": "Fig. 19", 
 "studyID": "ot_1966", 
 "treeID": "tree5"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Whelan, N. V., Kocot, K. M., Moroz, T. P., Mukherjee, K., Williams, P., Paulay, G., \u2026 Halanych, K. M. (2017). Ctenophore relationships and their placement as the sister group to all other animals. Nature Ecology & Evolution, 1(11), 1737\u20131746. doi:10.1038/s41559-017-0331-3\n", 
+"decision": "INCLUDED", 
+"name": "Ctenophore_RCFV_LB", 
+"studyID": "ot_1967", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
