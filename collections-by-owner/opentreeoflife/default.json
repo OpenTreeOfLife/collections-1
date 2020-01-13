@@ -3477,6 +3477,14 @@
 "name": "Ctenophore_RCFV_LB", 
 "studyID": "ot_1967", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Burns, M. D., & Sidlauskas, B. L. (2019). Ancient and contingent body shape diversification in a hyperdiverse continental fish radiation. Evolution, 73(3), 569\u2013587. doi:10.1111/evo.13658\n", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1972", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
