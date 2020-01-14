@@ -3485,6 +3485,14 @@
 "name": "TREE1", 
 "studyID": "ot_1972", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Mirande, J. M. (2018). Morphology, molecules and the phylogeny of Characidae (Teleostei, Characiformes). Cladistics, 35(3), 282\u2013300. doi:10.1111/cla.12345\n", 
+"decision": "INCLUDED", 
+"name": "final.new from AppendixS5-TNTfiles", 
+"studyID": "ot_1973", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
