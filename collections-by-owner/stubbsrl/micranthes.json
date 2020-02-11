@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "stubbsrl", 
+"name": "Rebecca Stubbs"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Micranthes_481exons_ASTRAL (Stubbs, 2020)", 
+"studyID": "ot_1977", 
+"treeID": "tree1"
+}
+], 
+"description": "Micranthes (Saxifragaceae)", 
+"name": "Micranthes", 
+"queries": []
+}
