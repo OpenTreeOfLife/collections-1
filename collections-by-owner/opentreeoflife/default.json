@@ -3509,6 +3509,14 @@
 "name": "Untitled (tree1)", 
 "studyID": "ot_1732", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Dominic A. Evangelista, Benjamin Wipfler, Olivier B\u00e9thoux, Alexander Donath, Mari Fujita, Manpreet K. Kohli, Fr\u00e9d\u00e9ric Legendre, Shanlin Liu, Ryuichiro Machida, Bernhard Misof, Ralph S. Peters, Lars Podsiadlowski, Jes Rust, Kai Schuette, Ward Tollenaar, Jessica L. Ware, Torsten Wappler, Xin Zhou, Karen Meusemann, Sabrina Simon, 2019, 'An integrative phylogenomic approach illuminates the evolutionary history of cockroaches and termites (Blattodea)', Proceedings of the Royal Society B: Biological Sciences, vol. 286, no. 1895, p. 20182076", 
+"decision": "INCLUDED", 
+"name": "Blattodea transcriptome 1KITE dated (95% complete data run 1)", 
+"studyID": "ot_1877", 
+"treeID": "tree3"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
