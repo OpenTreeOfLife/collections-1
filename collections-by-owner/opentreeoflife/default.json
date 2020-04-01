@@ -3517,6 +3517,14 @@
 "name": "Blattodea transcriptome 1KITE dated (95% complete data run 1)", 
 "studyID": "ot_1877", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Yao, X., Song, Y., Yang, J., Tan, Y., & Corlett, R. T. (2020). Phylogeny and biogeography of the hollies (\n            Ilex\n            L., Aquifoliaceae). Journal of Systematics and Evolution. doi:10.1111/jse.12567\n", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1984", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
