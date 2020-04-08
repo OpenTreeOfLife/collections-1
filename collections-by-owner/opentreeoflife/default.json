@@ -3525,6 +3525,14 @@
 "name": "TREE1", 
 "studyID": "ot_1984", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Kamei R.G., San mauro D., Gower D., Van bocxlaer I., Sherratt E., Thomas A., Babu S., Bossuyt F., Wilkinson M., & Biju S.D. 2012. Discovery of a new family of amphibians from northeast India with ancient links to Africa. Proceedings of the Royal Society B, 279: 2396?2401.", 
+"decision": "INCLUDED", 
+"name": "General phylogeny", 
+"studyID": "pg_1807", 
+"treeID": "tree3657"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
