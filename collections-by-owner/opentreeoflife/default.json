@@ -3533,6 +3533,14 @@
 "name": "General phylogeny", 
 "studyID": "pg_1807", 
 "treeID": "tree3657"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Wilkie, P., Clark, A., Pennington, R. T., Cheek, M., Bayer, C., & Wilcock, C. C. (2006). Phylogenetic relationships within the subfamily Sterculioideae (Malvaceae/Sterculiaceae-Sterculieae) using the chloroplast gene ndhF. Systematic botany, 31(1), 160-170.", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree5864)", 
+"studyID": "pg_55", 
+"treeID": "tree5864"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
