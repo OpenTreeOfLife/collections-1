@@ -45,6 +45,14 @@
 "name": "Untitled (tree1) (Walter Jetz, 2018)", 
 "studyID": "ot_1732", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Supermatrix phylogeny (Daniel M Portik, 2019)", 
+"studyID": "ot_1969", 
+"treeID": "tree1"
 }
 ], 
 "description": "Collection of Trees for Amphibians", 
