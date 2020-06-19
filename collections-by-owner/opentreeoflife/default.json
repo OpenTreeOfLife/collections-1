@@ -3541,6 +3541,14 @@
 "name": "Untitled (tree5864)", 
 "studyID": "pg_55", 
 "treeID": "tree5864"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Daniel M Portik, Rayna C Bell, David C Blackburn, Aaron M Bauer, Christopher D Barratt, William R Branch, Marius Burger, Alan Channing, Timothy J Colston, Werner Conradie, J Maximilian Dehling, Robert C Drewes, Raffael Ernst, Eli Greenbaum, V\u00e1clav Gvo\u017ed\u00edk, James Harvey, Annika Hillers, Mareike Hirschfeld, Gregory FM Jongsma, Jos Kielgast, Marcel T Kouete, Lucinda P Lawson, Adam D Leach\u00e9, Simon P Loader, Stefan L\u00f6tters, Arie Van Der Meijden, Michele Menegon, Susanne M\u00fcller, Zolt\u00e1n T Nagy, Caleb Ofori-Boateng, Annemarie Ohler, Theodore J Papenfuss, Daniela R\u00f6\u00dfler, Ulrich Sinsch, Mark-Oliver R\u00f6del, Michael Veith, Jens Vindum, Ange-Ghislain Zassi-Boulou, Jimmy A McGuire. (2019). Sexual Dichromatism Drives Diversification within a Major Radiation of African Amphibians. Systematic Biology, 68(6), 859\u2013875. doi:10.1093/sysbio/syz023\n", 
+"decision": "INCLUDED", 
+"name": "Supermatrix phylogeny", 
+"studyID": "ot_1969", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
