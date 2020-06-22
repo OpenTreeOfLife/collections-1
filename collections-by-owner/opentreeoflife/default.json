@@ -3549,6 +3549,14 @@
 "name": "Supermatrix phylogeny", 
 "studyID": "ot_1969", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Sinou, C., Cardinal\u2010McTeague, W., & Bruneau, A. (2020). Testing generic limits in Cercidoideae (Leguminosae): Insights from plastid and duplicated nuclear gene sequences. TAXON, 69(1), 67\u201386. doi:10.1002/tax.12207\n", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule", 
+"studyID": "ot_1987", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
