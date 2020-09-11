@@ -9,6 +9,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "Fig. 2 (Khodami, 2019)", 
+"studyID": "ot_1963", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Fig 2 (Sahar Khodami, 2017)", 
 "studyID": "ot_1215", 
 "treeID": "tree1"
