@@ -3561,6 +3561,14 @@
 "name": "con 50 majrule", 
 "studyID": "ot_1987", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Khodami, S., Mercado-Salas, N. F., Tang, D., & Martinez Arbizu, P. (2019). Molecular evidence for the retention of the Thaumatopsyllidae in the order Cyclopoida (Copepoda) and establishment of four suborders and two families within the Cyclopoida. Molecular Phylogenetics and Evolution, 138, 43\u201352. doi:10.1016/j.ympev.2019.05.019\n", 
+"decision": "INCLUDED", 
+"name": "Fig. 2", 
+"studyID": "ot_1963", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
