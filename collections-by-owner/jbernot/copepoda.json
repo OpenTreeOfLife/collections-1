@@ -161,14 +161,6 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Fig. 5 (Che-Huang Tung, 2014)", 
-"studyID": "ot_1048", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "Fig. 3 (Y. Takenaka, 2012)", 
 "studyID": "ot_1033", 
 "treeID": "tree1"
@@ -187,14 +179,6 @@
 "decision": "INCLUDED", 
 "name": "Fig. 3 (SARAH J. ADAMOWICZ, 2007)", 
 "studyID": "ot_1029", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig 1 (Iole Di Capua, 2017)", 
-"studyID": "ot_1162", 
 "treeID": "tree1"
 }, 
 {
