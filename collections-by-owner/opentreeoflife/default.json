@@ -3569,6 +3569,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_1963", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from JANET M. BRADFORD-GRIEVE, LEOCADIO BLANCO-BERCIAL, GEOFFREY A. BOXSHALL, 2017, 'Revision of Family Megacalanidae (Copepoda: Calanoida)', Zootaxa, vol. 4229, no. 1, p. 1", 
+"decision": "INCLUDED", 
+"name": "Fig. 113", 
+"studyID": "ot_1160", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
