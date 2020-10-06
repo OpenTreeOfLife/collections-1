@@ -3577,6 +3577,14 @@
 "name": "Fig. 113", 
 "studyID": "ot_1160", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Osigus, H.-J., Rolfes, S., Herzog, R., Kamm, K., & Schierwater, B. (2019). Polyplacotoma mediterranea is a new ramified placozoan species. Current Biology, 29(5), R148\u2013R149. doi:10.1016/j.cub.2019.01.068\n", 
+"decision": "INCLUDED", 
+"name": "Fig 1B", 
+"studyID": "ot_1996", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
