@@ -3601,6 +3601,14 @@
 "name": "BEAST MCC", 
 "studyID": "ot_510", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Joel P. Olfelt, William A. Freyman, 2014, ' Relationships of North American members of Rhodiola (Crassulaceae) ', Botany, vol. 92, no. 12, pp. 901-910", 
+"decision": "INCLUDED", 
+"name": "BEAST time calibrated tree", 
+"studyID": "ot_742", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
