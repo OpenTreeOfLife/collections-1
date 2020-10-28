@@ -73,6 +73,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "Fig. 1 (Rony Huys, 2009)", 
+"studyID": "ot_1039", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Fig 2 (Lozano-Fernandez, 2019)", 
 "studyID": "ot_1999", 
 "treeID": "tree1"
@@ -91,14 +99,6 @@
 "decision": "INCLUDED", 
 "name": "Fig. 1 (T. H. Oakley, 2012)", 
 "studyID": "ot_1047", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig. 1 (Rony Huys, 2009)", 
-"studyID": "ot_1039", 
 "treeID": "tree1"
 }, 
 {
