@@ -3609,6 +3609,14 @@
 "name": "BEAST time calibrated tree", 
 "studyID": "ot_742", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Lozano-Fernandez, J., Giacomelli, M., Fleming, J. F., Chen, A., Vinther, J., Thomsen, P. F., \u2026 Olesen, J. (2019). Pancrustacean Evolution Illuminated by Taxon-Rich Genomic-Scale Data Sets with an Expanded Remipede Sampling. Genome Biology and Evolution, 11(8), 2055\u20132070. doi:10.1093/gbe/evz097\n", 
+"decision": "INCLUDED", 
+"name": "Fig 2", 
+"studyID": "ot_1999", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
