@@ -3617,6 +3617,14 @@
 "name": "Fig 2", 
 "studyID": "ot_1999", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Alexandrou, M. A., Swartz, B. A., Matzke, N. J., & Oakley, T. H. (2013). Genome duplication and multiple evolutionary origins of complex migratory behavior in Salmonidae. Molecular Phylogenetics and Evolution, 69(3), 514\u2013523. doi:10.1016/j.ympev.2013.07.026\n", 
+"decision": "INCLUDED", 
+"name": "Salmonidae Time Tree r8s PL", 
+"studyID": "ot_2001", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
