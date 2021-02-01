@@ -3625,6 +3625,14 @@
 "name": "Salmonidae Time Tree r8s PL", 
 "studyID": "ot_2001", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Wiemers, M., Chazot, N., Wheat, C., Schweiger, O., & Wahlberg, N. (2020). A complete time-calibrated multi-gene phylogeny of the European butterflies. ZooKeys, 938, 97\u2013124. doi:10.3897/zookeys.938.50878\n", 
+"decision": "INCLUDED", 
+"name": "Grafted Time Calibrated Tree", 
+"studyID": "ot_2000", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
