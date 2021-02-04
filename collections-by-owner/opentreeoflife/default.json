@@ -3633,6 +3633,14 @@
 "name": "Grafted Time Calibrated Tree", 
 "studyID": "ot_2000", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Madeline B Girard, Damian O Elias, Guilherme Azevedo, Ke Bi, Michael M Kasumovic, Julianne M Waldock, Erica Bree Rosenblum, Marshal Hedin, Phylogenomics of peacock spiders and their kin (Salticidae: Maratus), with implications for the evolution of male courtship displays, Biological Journal of the Linnean Society, 2021", 
+"decision": "INCLUDED", 
+"name": "Maratus_allRAD.IQTcontree", 
+"studyID": "ot_2005", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
