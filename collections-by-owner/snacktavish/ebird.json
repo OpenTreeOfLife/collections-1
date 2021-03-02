@@ -4,7 +4,40 @@
 "login": "snacktavish", 
 "name": "Emily Jane McTavish"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5076 (Anderson F., 2004)", 
+"studyID": "pg_2407", 
+"treeID": "tree5076"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6390 (Anderson F., 2004)", 
+"studyID": "pg_2407", 
+"treeID": "tree6390"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5072 (Townsend T., 2004)", 
+"studyID": "pg_2406", 
+"treeID": "tree5072"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5073 (Townsend T., 2004)", 
+"studyID": "pg_2406", 
+"treeID": "tree5073"
+}
+], 
 "description": "", 
 "name": "eBird", 
 "queries": []
