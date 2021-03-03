@@ -3613,6 +3613,14 @@
 "name": "Maratus_allRAD.IQTcontree (Madeline B Girard, 2021)", 
 "studyID": "ot_2005", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Ruth E Timme, Hugh Rand, Martin Shumway, Eija K Trees, Mustafa Simmons, Richa Agarwala, Steven Davis, Glen Tillman, Stephanie Defibaugh-Chavez, Heather A Carleton, William A Klimke, Lee S Katz, 2017, 'Benchmark datasets for phylogenomic pipeline validation, applications for foodborne pathogen surveillance'", 
+"decision": "INCLUDED", 
+"name": "SalBareilly.tre", 
+"studyID": "ot_301", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
