@@ -3621,6 +3621,14 @@
 "name": "SalBareilly.tre", 
 "studyID": "ot_301", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Earl, C., Belitz, M. W., Laffan, S. W., Barve, V., Barve, N., Soltis, D. E., \u2026 Guralnick, R. (2020). Spatial phylogenetics of butterflies in relation to environmental drivers and angiosperm diversity across North America. doi:10.1101/2020.07.22.216119\n", 
+"decision": "INCLUDED", 
+"name": "Undated_RaXML_tree", 
+"studyID": "ot_2014", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
