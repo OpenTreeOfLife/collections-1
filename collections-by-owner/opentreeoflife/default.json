@@ -3629,6 +3629,14 @@
 "name": "Undated_RaXML_tree", 
 "studyID": "ot_2014", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Oliveros, C. H., Field, D. J., Ksepka, D. T., Barker, F. K., Aleixo, A., Andersen, M. J., \u2026 Faircloth, B. C. (2019). Earth history and the passerine superradiation. Proceedings of the National Academy of Sciences, 116(16), 7916\u20137925. doi:10.1073/pnas.1813206116\n", 
+"decision": "INCLUDED", 
+"name": "Passeriformes Figure 1 BEAST ", 
+"studyID": "ot_2013", 
+"treeID": "tree8"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
