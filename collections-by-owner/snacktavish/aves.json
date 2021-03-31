@@ -14,6 +14,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "Fig. 2 (Bayesian, reduced matrix) (Shakya, 2017)", 
+"studyID": "ot_1170", 
+"treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Fig. 3 MP implied weights (Bertelli, 2004)", 
 "studyID": "pg_2876", 
 "treeID": "tree6670"
@@ -1484,6 +1492,6 @@
 }
 ], 
 "description": "tree collection for Aves synthesis", 
-"name": "Aves", 
+"name": "COL_Aves", 
 "queries": []
 }
