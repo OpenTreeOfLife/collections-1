@@ -76,6 +76,14 @@
 "name": "Fig. 1 (Benz, 2006)", 
 "studyID": "ot_159", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "BEAST (Dufort, 2015)", 
+"studyID": "ot_504", 
+"treeID": "tree3"
 }
 ], 
 "description": "", 
