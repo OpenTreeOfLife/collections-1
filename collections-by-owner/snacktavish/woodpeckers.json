@@ -84,6 +84,14 @@
 "name": "BEAST (Dufort, 2015)", 
 "studyID": "ot_504", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 1A MPRE (Suh, 2015)", 
+"studyID": "ot_314", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
