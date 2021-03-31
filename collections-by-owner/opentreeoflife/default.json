@@ -3637,6 +3637,14 @@
 "name": "Passeriformes Figure 1 BEAST ", 
 "studyID": "ot_2013", 
 "treeID": "tree8"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Kimball, R. T., Oliveros, C. H., Wang, N., White, N. D., Barker, F. K., Field, D. J., \u2026 Braun, E. L. (2019). A Phylogenomic Supertree of Birds. Diversity, 11(7), 109. doi:10.3390/d11070109\n", 
+"decision": "INCLUDED", 
+"name": "Figure 6 TreePL no root constraint", 
+"studyID": "ot_2018", 
+"treeID": "tree8"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
