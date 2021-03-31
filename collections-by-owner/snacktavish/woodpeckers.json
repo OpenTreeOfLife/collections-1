@@ -68,6 +68,14 @@
 "name": "Fig. 1A MPRE (Suh, 2015)", 
 "studyID": "ot_314", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 1 (Benz, 2006)", 
+"studyID": "ot_159", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
