@@ -14,7 +14,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6670 (pg_2876)", 
+"name": "Fig. 3 MP implied weights (Bertelli, 2004)", 
 "studyID": "pg_2876", 
 "treeID": "tree6670"
 }, 
@@ -22,7 +22,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6757 (pg_2926)", 
+"name": "Fig. 1 Bayesian chronogram (mtDNA) (Mitchell, 2014)", 
 "studyID": "pg_2926", 
 "treeID": "tree6757"
 }, 
@@ -30,7 +30,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_120)", 
+"name": "Fig. 5b (Pereira, 2004)", 
 "studyID": "ot_120", 
 "treeID": "tree1"
 }, 
@@ -38,7 +38,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_119)", 
+"name": "Fig. 5 (Pereira, 2002)", 
 "studyID": "ot_119", 
 "treeID": "tree1"
 }, 
@@ -46,7 +46,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_118)", 
+"name": "Fig. 1 (Harris, 2014)", 
 "studyID": "ot_118", 
 "treeID": "tree1"
 }, 
@@ -54,7 +54,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_425)", 
+"name": "Fig. 1 (BEAST) (Stein, 2015)", 
 "studyID": "ot_425", 
 "treeID": "tree1"
 }, 
@@ -62,7 +62,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_753)", 
+"name": "Fig. 1 (BEAST) (Wang, 2016)", 
 "studyID": "ot_753", 
 "treeID": "tree1"
 }, 
@@ -70,7 +70,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6511 (pg_2804)", 
+"name": "ML (partitioned) (Kimball, 2011)", 
 "studyID": "pg_2804", 
 "treeID": "tree6511"
 }, 
@@ -78,7 +78,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_1002)", 
+"name": "Fig. 2 (ML phylogram) (Hosner, 2015)", 
 "studyID": "ot_1002", 
 "treeID": "tree1"
 }, 
@@ -86,7 +86,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree2 (ot_731)", 
+"name": "Fig. 3 (MCMCtree) (Ottenburghs, 2016)", 
 "studyID": "ot_731", 
 "treeID": "tree2"
 }, 
@@ -94,7 +94,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6656 (pg_2866)", 
+"name": "Fig. 1 Bayesian topology (Gonzalez, 2009)", 
 "studyID": "pg_2866", 
 "treeID": "tree6656"
 }, 
@@ -102,7 +102,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6646 (pg_2860)", 
+"name": "Fig. 3 (Fulton, 2012)", 
 "studyID": "pg_2860", 
 "treeID": "tree6646"
 }, 
@@ -110,7 +110,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_1022)", 
+"name": "Fig. 5a (topology only) (Donne-Gouss\u00e9, 2002)", 
 "studyID": "ot_1022", 
 "treeID": "tree1"
 }, 
@@ -118,7 +118,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree3 (ot_150)", 
+"name": "Fig. 5 (den Tex, 2013)", 
 "studyID": "ot_150", 
 "treeID": "tree3"
 }, 
@@ -126,7 +126,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_870)", 
+"name": "Untitled (tree1) (JULIE FEINSTEIN, 2007)", 
 "studyID": "ot_870", 
 "treeID": "tree1"
 }, 
@@ -134,7 +134,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_156)", 
+"name": "Fig. 4a (Moyle, 2004)", 
 "studyID": "ot_156", 
 "treeID": "tree1"
 }, 
@@ -142,7 +142,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_153)", 
+"name": "Fig. 3 (Patel, 2011)", 
 "studyID": "ot_153", 
 "treeID": "tree1"
 }, 
@@ -150,7 +150,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_830)", 
+"name": "Untitled (tree1) (S\u00e9rgio L. Pereira, 2008)", 
 "studyID": "ot_830", 
 "treeID": "tree1"
 }, 
@@ -158,7 +158,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_151)", 
+"name": "Fig. 3 (Armenta, 2005)", 
 "studyID": "ot_151", 
 "treeID": "tree1"
 }, 
@@ -166,7 +166,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_154)", 
+"name": "Fig. 3 (Lutz, 2013)", 
 "studyID": "ot_154", 
 "treeID": "tree1"
 }, 
@@ -174,7 +174,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_155)", 
+"name": "Fig. 2 (Bonaccorso, 2011)", 
 "studyID": "ot_155", 
 "treeID": "tree1"
 }, 
@@ -182,7 +182,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_152)", 
+"name": "Fig. 6 (Patan\u00e9, 2009)", 
 "studyID": "ot_152", 
 "treeID": "tree1"
 }, 
@@ -190,7 +190,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_157)", 
+"name": "Fig. 4 (mtDNA+nuDNA) (Benz, 2011)", 
 "studyID": "ot_157", 
 "treeID": "tree1"
 }, 
@@ -198,7 +198,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_158)", 
+"name": "Fig. 1 (Moore, 2011)", 
 "studyID": "ot_158", 
 "treeID": "tree1"
 }, 
@@ -206,7 +206,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree3 (ot_504)", 
+"name": "BEAST (Dufort, 2015)", 
 "studyID": "ot_504", 
 "treeID": "tree3"
 }, 
@@ -214,7 +214,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_159)", 
+"name": "Fig. 1 (Benz, 2006)", 
 "studyID": "ot_159", 
 "treeID": "tree1"
 }, 
@@ -222,7 +222,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree2 (ot_794)", 
+"name": "Fig. 6 (Bayesian chronogram) (Fuchs, 2007)", 
 "studyID": "ot_794", 
 "treeID": "tree2"
 }, 
@@ -230,7 +230,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_144)", 
+"name": "Fig. 3 (Pereira, 2008)", 
 "studyID": "ot_144", 
 "treeID": "tree1"
 }, 
@@ -238,7 +238,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_136)", 
+"name": "Fig. 1 (Whittingham, 2000)", 
 "studyID": "ot_136", 
 "treeID": "tree1"
 }, 
@@ -246,7 +246,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_289)", 
+"name": "Fig. 1(b) *BEAST (Dos Remedios, 2015)", 
 "studyID": "ot_289", 
 "treeID": "tree1"
 }, 
@@ -254,7 +254,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_873)", 
+"name": "Parsimony bootstrap (Blechschmidt, 1993)", 
 "studyID": "ot_873", 
 "treeID": "tree1"
 }, 
@@ -262,7 +262,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_816)", 
+"name": "Fig. 1 (Bayesian MCC) (Gibson, 2012)", 
 "studyID": "ot_816", 
 "treeID": "tree1"
 }, 
@@ -270,7 +270,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_146)", 
+"name": "Fig. 1 (Baker, 2007)", 
 "studyID": "ot_146", 
 "treeID": "tree1"
 }, 
@@ -278,7 +278,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree4985 (pg_2371)", 
+"name": "Fig. 1 *BEAST (Corl, 2013)", 
 "studyID": "pg_2371", 
 "treeID": "tree4985"
 }, 
@@ -286,7 +286,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_305)", 
+"name": "Figure 2 Species tree (Oatley, 2015)", 
 "studyID": "ot_305", 
 "treeID": "tree1"
 }, 
@@ -294,7 +294,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6628 (pg_2857)", 
+"name": "Fig. 3 Bayesian (topology) (Arshad, 2009)", 
 "studyID": "pg_2857", 
 "treeID": "tree6628"
 }, 
@@ -302,7 +302,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6629 (pg_1887)", 
+"name": "Fig. 1B (mt+bf) BI (Lerner, 2008)", 
 "studyID": "pg_1887", 
 "treeID": "tree6629"
 }, 
@@ -310,7 +310,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree4 (ot_812)", 
+"name": "Cathartidae 5Nuc 2mtDNA.SpeciesTree.MCC (Johnson, 2016)", 
 "studyID": "ot_812", 
 "treeID": "tree4"
 }, 
@@ -318,7 +318,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6620 (pg_2850)", 
+"name": "Fig. 3 Bayesian chronogram (Cibois, 2014)", 
 "studyID": "pg_2850", 
 "treeID": "tree6620"
 }, 
@@ -326,7 +326,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_655)", 
+"name": "Fig. 3B (nucDNA) (Besnard, 2015)", 
 "studyID": "ot_655", 
 "treeID": "tree1"
 }, 
@@ -334,7 +334,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6526 (pg_2444)", 
+"name": "Fig. 2 (Pereira, 2007)", 
 "studyID": "pg_2444", 
 "treeID": "tree6526"
 }, 
@@ -342,7 +342,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree3 (ot_769)", 
+"name": "Fig. 2 (BEAST chronogram) (Sweet, 2015)", 
 "studyID": "ot_769", 
 "treeID": "tree3"
 }, 
@@ -350,7 +350,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6662 (pg_2870)", 
+"name": "Fig. 3 species tree (Fuchs, 2011)", 
 "studyID": "pg_2870", 
 "treeID": "tree6662"
 }, 
@@ -358,7 +358,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6663 (pg_2871)", 
+"name": "Fig. 3 species tree (Fuchs, 2012)", 
 "studyID": "pg_2871", 
 "treeID": "tree6663"
 }, 
@@ -366,7 +366,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_166)", 
+"name": "Fig. 4c ( Quintero, 2012)", 
 "studyID": "ot_166", 
 "treeID": "tree1"
 }, 
@@ -374,7 +374,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_161)", 
+"name": "Fig. 2 (Russello, 2004)", 
 "studyID": "ot_161", 
 "treeID": "tree1"
 }, 
@@ -382,7 +382,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_160)", 
+"name": "Fig. 2 (White, 2011)", 
 "studyID": "ot_160", 
 "treeID": "tree1"
 }, 
@@ -390,7 +390,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_162)", 
+"name": "Fig. 1 (Schweizer, 2012)", 
 "studyID": "ot_162", 
 "treeID": "tree1"
 }, 
@@ -398,7 +398,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_164)", 
+"name": "Fig. 3 (Ribas, 2009)", 
 "studyID": "ot_164", 
 "treeID": "tree1"
 }, 
@@ -406,7 +406,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_165)", 
+"name": "Fig. 3 (Smith, 2012)", 
 "studyID": "ot_165", 
 "treeID": "tree1"
 }, 
@@ -414,7 +414,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_167)", 
+"name": "Fig. 3 (Ribas, 2006)", 
 "studyID": "ot_167", 
 "treeID": "tree1"
 }, 
@@ -422,7 +422,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree2 (ot_313)", 
+"name": "Fig. 3b - *BEAST species, all loci (Shipham, 2015)", 
 "studyID": "ot_313", 
 "treeID": "tree2"
 }, 
@@ -430,7 +430,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6300 (pg_1979)", 
+"name": "Fig. 2 Bayesian mt+nucDNA (Tavares, 2006)", 
 "studyID": "pg_1979", 
 "treeID": "tree6300"
 }, 
@@ -438,7 +438,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_312)", 
+"name": "Fig. 3a (BEAST) (Schweizer, 2015)", 
 "studyID": "ot_312", 
 "treeID": "tree1"
 }, 
@@ -446,7 +446,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6512 (pg_2805)", 
+"name": "Bayesian consensus (Wright, 2008)", 
 "studyID": "pg_2805", 
 "treeID": "tree6512"
 }, 
@@ -454,7 +454,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6529 (pg_2806)", 
+"name": "Fig.1 Bayesian consensus (Joseph, 2011)", 
 "studyID": "pg_2806", 
 "treeID": "tree6529"
 }, 
@@ -462,7 +462,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_112)", 
+"name": "Fig. 2 (P\u00e4ckert, 2012)", 
 "studyID": "ot_112", 
 "treeID": "tree1"
 }, 
@@ -470,7 +470,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6624 (pg_2853)", 
+"name": "Fig. 1 Bayesian chronogram (McGuire, 2014)", 
 "studyID": "pg_2853", 
 "treeID": "tree6624"
 }, 
@@ -478,7 +478,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6654 (pg_2865)", 
+"name": "Fig. 2 (Garc\u00eda-Deras, 2008)", 
 "studyID": "pg_2865", 
 "treeID": "tree6654"
 }, 
@@ -486,7 +486,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_123)", 
+"name": "Fig. 1a (Dumbacher, 2003)", 
 "studyID": "ot_123", 
 "treeID": "tree1"
 }, 
@@ -494,7 +494,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6665 (pg_2872)", 
+"name": "Fig. 2 (Han, 2010)", 
 "studyID": "pg_2872", 
 "treeID": "tree6665"
 }, 
@@ -502,7 +502,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_125)", 
+"name": "Fig. 1 (Ribas, 2011)", 
 "studyID": "ot_125", 
 "treeID": "tree1"
 }, 
@@ -510,7 +510,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_126)", 
+"name": "Fig. 2 complete mtDNA (Krajewski, 2010)", 
 "studyID": "ot_126", 
 "treeID": "tree1"
 }, 
@@ -518,7 +518,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree2 (ot_415)", 
+"name": "Fig. 3 (BEAST) (Garc\u00eda\u2013R, 2014)", 
 "studyID": "ot_415", 
 "treeID": "tree2"
 }, 
@@ -526,7 +526,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree3780 (pg_1872)", 
+"name": "Fig. 2 (Fain, 2007)", 
 "studyID": "pg_1872", 
 "treeID": "tree3780"
 }, 
@@ -534,7 +534,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree2 (ot_806)", 
+"name": "Fig.3 (chronogram: all) (Gavryushkina, 2016)", 
 "studyID": "ot_806", 
 "treeID": "tree2"
 }, 
@@ -542,7 +542,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6497 (pg_2798)", 
+"name": "tree6497 (Subramanian, 2013)", 
 "studyID": "pg_2798", 
 "treeID": "tree6497"
 }, 
@@ -550,7 +550,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Tr53559 (ot_786)", 
+"name": "Fig. 8 (Ksepka D., 2012)", 
 "studyID": "ot_786", 
 "treeID": "Tr53559"
 }, 
@@ -558,7 +558,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6299 (pg_1764)", 
+"name": "Fig.2 (Kennedy, 2013)", 
 "studyID": "pg_1764", 
 "treeID": "tree6299"
 }, 
@@ -566,7 +566,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_137)", 
+"name": "Fig. 3b (Patterson, 2011)", 
 "studyID": "ot_137", 
 "treeID": "tree1"
 }, 
@@ -574,7 +574,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_140)", 
+"name": "Fig. 1 (Kennedy, 2014)", 
 "studyID": "ot_140", 
 "treeID": "tree1"
 }, 
@@ -582,7 +582,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_104)", 
+"name": "21 morphological characters (Boertmann, 1990)", 
 "studyID": "ot_104", 
 "treeID": "tree1"
 }, 
@@ -590,7 +590,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_142)", 
+"name": "Fig. 1 (Chambers, 2009)", 
 "studyID": "ot_142", 
 "treeID": "tree1"
 }, 
@@ -598,7 +598,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_138)", 
+"name": "Fig. 6 (Slikas, 1997)", 
 "studyID": "ot_138", 
 "treeID": "tree1"
 }, 
@@ -606,7 +606,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6651 (pg_2864)", 
+"name": "Fig. 2 (Chesser, 2010)", 
 "studyID": "pg_2864", 
 "treeID": "tree6651"
 }, 
@@ -614,7 +614,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree2 (ot_820)", 
+"name": "Fig. 4 (Zino, 2008)", 
 "studyID": "ot_820", 
 "treeID": "tree2"
 }, 
@@ -622,7 +622,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_139)", 
+"name": "Fig. 3 (Ramirez, 2013)", 
 "studyID": "ot_139", 
 "treeID": "tree1"
 }, 
@@ -630,7 +630,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_862)", 
+"name": "Fig. 3 (Zhou, 2015)", 
 "studyID": "ot_862", 
 "treeID": "tree1"
 }, 
@@ -638,7 +638,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree3 (pg_2416)", 
+"name": "Fig. 2 (parsimony consensus) (Nunn, 1998)", 
 "studyID": "pg_2416", 
 "treeID": "tree3"
 }, 
@@ -646,7 +646,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree2 (ot_533)", 
+"name": "Fig. 2 BEAST (Dantas, 2016)", 
 "studyID": "ot_533", 
 "treeID": "tree2"
 }, 
@@ -654,7 +654,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_773)", 
+"name": "Fig.1 (BEAST MCC) (Wood, 2016)", 
 "studyID": "ot_773", 
 "treeID": "tree1"
 }, 
@@ -662,7 +662,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree2 (ot_867)", 
+"name": "fuchs etal 2008 tree 2 (J\u00e9r\u00f4me Fuchs, 2008)", 
 "studyID": "ot_867", 
 "treeID": "tree2"
 }, 
@@ -670,7 +670,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_116)", 
+"name": "Fig. S4 Strigiformes (Hugall, 2012)", 
 "studyID": "ot_116", 
 "treeID": "tree1"
 }, 
@@ -678,7 +678,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_148)", 
+"name": "Fig. 2b (Marks, 2007)", 
 "studyID": "ot_148", 
 "treeID": "tree1"
 }, 
@@ -686,7 +686,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree4 (ot_149)", 
+"name": "Fig. 6b (Overton, 2004)", 
 "studyID": "ot_149", 
 "treeID": "tree4"
 }, 
@@ -694,7 +694,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_835)", 
+"name": "Untitled (tree1) (Robert G. Moyle, 2007)", 
 "studyID": "ot_835", 
 "treeID": "tree1"
 }, 
@@ -702,7 +702,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_837)", 
+"name": "moyle 2006 tree 1 (Robert G. Moyle, 2006)", 
 "studyID": "ot_837", 
 "treeID": "tree1"
 }, 
@@ -710,7 +710,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_846)", 
+"name": "Untitled (tree1) (MARTIM MELO, 2008)", 
 "studyID": "ot_846", 
 "treeID": "tree1"
 }, 
@@ -718,7 +718,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree7 (ot_121)", 
+"name": "Combined Cuculiformes (Payne, 2005)", 
 "studyID": "ot_121", 
 "treeID": "tree7"
 }, 
@@ -726,7 +726,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6661 (pg_2869)", 
+"name": "Fig. 3 (Gonzalez, 2013)", 
 "studyID": "pg_2869", 
 "treeID": "tree6661"
 }, 
@@ -734,7 +734,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_122)", 
+"name": "Fig. 1 (Torres, 2014)", 
 "studyID": "ot_122", 
 "treeID": "tree1"
 }, 
@@ -742,7 +742,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_864)", 
+"name": "Fig. 2A (chronogram) (Ogawa, 2015)", 
 "studyID": "ot_864", 
 "treeID": "tree1"
 }, 
@@ -750,7 +750,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_124)", 
+"name": "Fig. 2 (Pitra, 2002)", 
 "studyID": "ot_124", 
 "treeID": "tree1"
 }, 
@@ -758,7 +758,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_129)", 
+"name": "Fig. 1 (Njabo, 2009)", 
 "studyID": "ot_129", 
 "treeID": "tree1"
 }, 
@@ -766,7 +766,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_147)", 
+"name": "Fig. 3 (Ornelas, 2009)", 
 "studyID": "ot_147", 
 "treeID": "tree1"
 }, 
@@ -774,7 +774,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_838)", 
+"name": "Untitled (tree1) (ROBERT G. MOYLE, 2005)", 
 "studyID": "ot_838", 
 "treeID": "tree1"
 }, 
@@ -782,7 +782,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree3 (ot_747)", 
+"name": "BEAST (no 3rd, cretaceous max, Kuiornis constraint) (Mitchell, 2016)", 
 "studyID": "ot_747", 
 "treeID": "tree3"
 }, 
@@ -790,7 +790,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6491 (pg_2796)", 
+"name": "Bayesian consensus (Ohlson, 2013)", 
 "studyID": "pg_2796", 
 "treeID": "tree6491"
 }, 
@@ -798,7 +798,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree3977 (pg_1953)", 
+"name": "BEAST (Derryberry, 2011)", 
 "studyID": "pg_1953", 
 "treeID": "tree3977"
 }, 
@@ -806,7 +806,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_866)", 
+"name": "Untitled (tree1) (Javier Gonzalez, 2008)", 
 "studyID": "ot_866", 
 "treeID": "tree1"
 }, 
@@ -814,7 +814,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree5247 (pg_2454)", 
+"name": "Fig. 2f- ML (combined data) (Brumfield, 2007)", 
 "studyID": "pg_2454", 
 "treeID": "tree5247"
 }, 
@@ -822,7 +822,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6701 (pg_2890)", 
+"name": "Fig. 1 ML (Rice, 2005)", 
 "studyID": "pg_2890", 
 "treeID": "tree6701"
 }, 
@@ -830,7 +830,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree2 (ot_815)", 
+"name": "Fig. 1 (Zwiers, 2008)", 
 "studyID": "ot_815", 
 "treeID": "tree2"
 }, 
@@ -838,7 +838,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree4019 (pg_1966)", 
+"name": "BEST species tree (Lee, 2011)", 
 "studyID": "pg_1966", 
 "treeID": "tree4019"
 }, 
@@ -846,7 +846,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_174)", 
+"name": "Fig. 2 (Bayesian) (Ny\u00e1ri, 2009)", 
 "studyID": "ot_174", 
 "treeID": "tree1"
 }, 
@@ -854,7 +854,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_768)", 
+"name": "starBEAST ND2 (Slager, 2014)", 
 "studyID": "ot_768", 
 "treeID": "tree1"
 }, 
@@ -862,7 +862,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_824)", 
+"name": "Untitled (tree1) (Sushma Reddy, 2008)", 
 "studyID": "ot_824", 
 "treeID": "tree1"
 }, 
@@ -870,7 +870,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6668 (pg_2875)", 
+"name": "Fig. 3 Bayesian (topology) (J\u00f8nsson, 2010)", 
 "studyID": "pg_2875", 
 "treeID": "tree6668"
 }, 
@@ -878,7 +878,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_763)", 
+"name": "Fig. 1 (MrBayes consensus) (Irestedt, 2009)", 
 "studyID": "ot_763", 
 "treeID": "tree1"
 }, 
@@ -886,7 +886,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_823)", 
+"name": "Untitled (tree1) (EDWIN SCHOLES III, 2008)", 
 "studyID": "ot_823", 
 "treeID": "tree1"
 }, 
@@ -894,7 +894,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_853)", 
+"name": "Untitled (tree1) (Knud A. J\u00f8nsson, 2008)", 
 "studyID": "ot_853", 
 "treeID": "tree1"
 }, 
@@ -902,7 +902,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6274 (pg_2702)", 
+"name": "BEAST MCC tree (Aggerbeck, 2014)", 
 "studyID": "pg_2702", 
 "treeID": "tree6274"
 }, 
@@ -910,7 +910,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_520)", 
+"name": "BEAST MCC (J\u00f8nsson, 2016)", 
 "studyID": "ot_520", 
 "treeID": "tree1"
 }, 
@@ -918,7 +918,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree2 (ot_863)", 
+"name": "BEAST chronogram (Scofield, 2016)", 
 "studyID": "ot_863", 
 "treeID": "tree2"
 }, 
@@ -926,7 +926,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_172)", 
+"name": "Fig. 4e (Certhia) (P\u00e4ckert, 2011)", 
 "studyID": "ot_172", 
 "treeID": "tree1"
 }, 
@@ -934,7 +934,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6606 (pg_2845)", 
+"name": "Fig. 2 (topology) (Pasquet, 2014)", 
 "studyID": "pg_2845", 
 "treeID": "tree6606"
 }, 
@@ -942,7 +942,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree3743 (pg_1854)", 
+"name": "Fig. 2 ML (Mann, 2006)", 
 "studyID": "pg_1854", 
 "treeID": "tree3743"
 }, 
@@ -950,7 +950,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_882)", 
+"name": "Fig. 2 (MP) (Zink, 1998)", 
 "studyID": "ot_882", 
 "treeID": "tree1"
 }, 
@@ -958,7 +958,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6021 (pg_2599)", 
+"name": "MrBayes consensus (Alstr\u00f6m, 2013)", 
 "studyID": "pg_2599", 
 "treeID": "tree6021"
 }, 
@@ -966,7 +966,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_176)", 
+"name": "Fig. 1 (Cerasale, 2012)", 
 "studyID": "ot_176", 
 "treeID": "tree1"
 }, 
@@ -974,7 +974,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_177)", 
+"name": "Fig. 1b (Dor, 2010)", 
 "studyID": "ot_177", 
 "treeID": "tree1"
 }, 
@@ -982,7 +982,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_834)", 
+"name": "Untitled (tree1) (Robert G. Moyle, 2008)", 
 "studyID": "ot_834", 
 "treeID": "tree1"
 }, 
@@ -990,7 +990,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_178)", 
+"name": "Fig. 7 (Sheldon, 2005)", 
 "studyID": "ot_178", 
 "treeID": "tree1"
 }, 
@@ -998,7 +998,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree4 (ot_103)", 
+"name": "Fig. 4 BEAST (Arbabi, 2014)", 
 "studyID": "ot_103", 
 "treeID": "tree4"
 }, 
@@ -1006,7 +1006,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_914)", 
+"name": "Untitled (tree1) (ALICE CIBOIS, 2008)", 
 "studyID": "ot_914", 
 "treeID": "tree1"
 }, 
@@ -1014,7 +1014,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_832)", 
+"name": "moyle 2006d tree 1 (Robert G. Moyle, 2006)", 
 "studyID": "ot_832", 
 "treeID": "tree1"
 }, 
@@ -1022,7 +1022,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree3208 (pg_1586)", 
+"name": "Phylogram from Phylobayes; 2 calibrations (Moyle, 2012)", 
 "studyID": "pg_1586", 
 "treeID": "tree3208"
 }, 
@@ -1030,7 +1030,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree4912 (pg_2332)", 
+"name": "Fig. 2 (Voelker, 2011)", 
 "studyID": "pg_2332", 
 "treeID": "tree4912"
 }, 
@@ -1038,7 +1038,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree4360 (pg_2105)", 
+"name": "Fig. 7 (Lecroy, 2006)", 
 "studyID": "pg_2105", 
 "treeID": "tree4360"
 }, 
@@ -1046,7 +1046,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_822)", 
+"name": "Untitled (tree1) (Friederike Woog, 2008)", 
 "studyID": "ot_822", 
 "treeID": "tree1"
 }, 
@@ -1054,7 +1054,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_856)", 
+"name": "Untitled (tree1) (Juan Carlos Illera, 2008)", 
 "studyID": "ot_856", 
 "treeID": "tree1"
 }, 
@@ -1062,7 +1062,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_110)", 
+"name": "Fig. 4 (Schweizer, 2013)", 
 "studyID": "ot_110", 
 "treeID": "tree1"
 }, 
@@ -1070,7 +1070,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_894)", 
+"name": "Fig. 2 (Aliabadian, 2007)", 
 "studyID": "ot_894", 
 "treeID": "tree1"
 }, 
@@ -1078,7 +1078,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_749)", 
+"name": "Fig. 1 (Bayesian) (Hooper, 2016)", 
 "studyID": "ot_749", 
 "treeID": "tree1"
 }, 
@@ -1086,7 +1086,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_848)", 
+"name": "lovette etal 2008 tree 1 (Irby J. Lovette, 2008)", 
 "studyID": "ot_848", 
 "treeID": "tree1"
 }, 
@@ -1094,7 +1094,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_180)", 
+"name": "Fig. 4 (Lovette, 2007)", 
 "studyID": "ot_180", 
 "treeID": "tree1"
 }, 
@@ -1102,7 +1102,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_179)", 
+"name": "Fig. 1 (Lovette, 2012)", 
 "studyID": "ot_179", 
 "treeID": "tree1"
 }, 
@@ -1110,7 +1110,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_880)", 
+"name": "Fig. 4 (ML topology) (Zink, 1999)", 
 "studyID": "ot_880", 
 "treeID": "tree1"
 }, 
@@ -1118,7 +1118,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6642 (pg_2858)", 
+"name": "Bayesian (Nylander, 2008)", 
 "studyID": "pg_2858", 
 "treeID": "tree6642"
 }, 
@@ -1126,7 +1126,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_827)", 
+"name": "Fig. 4 (Bayesian, clock enforced) (Parchman, 2007)", 
 "studyID": "ot_827", 
 "treeID": "tree1"
 }, 
@@ -1134,7 +1134,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6667 (pg_2874)", 
+"name": "Fig. 1 (Tietze, 2013)", 
 "studyID": "pg_2874", 
 "treeID": "tree6667"
 }, 
@@ -1142,7 +1142,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree2 (ot_172)", 
+"name": "Fig. 4d (Pinicola+Pyrrhula) (P\u00e4ckert, 2011)", 
 "studyID": "ot_172", 
 "treeID": "tree2"
 }, 
@@ -1150,7 +1150,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6245 (pg_2692)", 
+"name": "Bayesian consensus (Zuccon, 2012)", 
 "studyID": "pg_2692", 
 "treeID": "tree6245"
 }, 
@@ -1158,7 +1158,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_113)", 
+"name": "Fig. 2 (Lerner, 2011)", 
 "studyID": "ot_113", 
 "treeID": "tree1"
 }, 
@@ -1166,7 +1166,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6281 (pg_2707)", 
+"name": "ML majority-rule bootstrap consensus (Powell, 2014)", 
 "studyID": "pg_2707", 
 "treeID": "tree6281"
 }, 
@@ -1174,7 +1174,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6024 (pg_2591)", 
+"name": "r8s chronogram (Lovette, 2010)", 
 "studyID": "pg_2591", 
 "treeID": "tree6024"
 }, 
@@ -1182,7 +1182,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_891)", 
+"name": "Figure 2a (Sangeet Lamichhaney, 2015)", 
 "studyID": "ot_891", 
 "treeID": "tree1"
 }, 
@@ -1190,7 +1190,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6579 (pg_2829)", 
+"name": "Fig. 1 MCC (Burns, 2014)", 
 "studyID": "pg_2829", 
 "treeID": "tree6579"
 }, 
@@ -1198,7 +1198,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_101)", 
+"name": "Simplified topology (Chaves, 2013)", 
 "studyID": "ot_101", 
 "treeID": "tree1"
 }, 
@@ -1206,7 +1206,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_102)", 
+"name": "Fig. 3 topology (Pulgar\u00edn-R, 2013)", 
 "studyID": "ot_102", 
 "treeID": "tree1"
 }, 
@@ -1214,7 +1214,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_169)", 
+"name": "Fig. 3 (multilocus) (Robert W. Bryson, 2014)", 
 "studyID": "ot_169", 
 "treeID": "tree1"
 }, 
@@ -1222,7 +1222,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6755 (pg_2924)", 
+"name": "Fig. 1 ML (mtDNA) (Klicka, 2014)", 
 "studyID": "pg_2924", 
 "treeID": "tree6755"
 }, 
@@ -1230,7 +1230,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_171)", 
+"name": "Fig. 2 (Spellman, 2008)", 
 "studyID": "ot_171", 
 "treeID": "tree1"
 }, 
@@ -1238,7 +1238,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_170)", 
+"name": "Fig. 3 (P\u00e4ckert, 2009)", 
 "studyID": "ot_170", 
 "treeID": "tree1"
 }, 
@@ -1246,7 +1246,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_173)", 
+"name": "Fig. 1 (Harris, 2014)", 
 "studyID": "ot_173", 
 "treeID": "tree1"
 }, 
@@ -1254,7 +1254,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6022 (pg_2600)", 
+"name": "MrBayes consensus (Johansson, 2013)", 
 "studyID": "pg_2600", 
 "treeID": "tree6022"
 }, 
@@ -1262,7 +1262,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_175)", 
+"name": "Fig. 3 (Nguembock, 2008)", 
 "studyID": "ot_175", 
 "treeID": "tree1"
 }, 
@@ -1270,7 +1270,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_783)", 
+"name": "Fig.1 (chronogram) (Moyle, 2016)", 
 "studyID": "ot_783", 
 "treeID": "tree1"
 }, 
@@ -1278,7 +1278,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree3 (ot_843)", 
+"name": "rheindt etal 2008 tree 3 (Rheindt, 2008)", 
 "studyID": "ot_843", 
 "treeID": "tree3"
 }, 
@@ -1286,7 +1286,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_770)", 
+"name": "Fig. 1 (species tree backbone) (Barker, 2015)", 
 "studyID": "ot_770", 
 "treeID": "tree1"
 }, 
@@ -1294,7 +1294,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree5974 (pg_2575)", 
+"name": "MCC species tree chronogram (Barker, 2013)", 
 "studyID": "pg_2575", 
 "treeID": "tree5974"
 }, 
@@ -1302,7 +1302,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6742 (pg_2913)", 
+"name": "Bayesian chronogram (Passeriformes) (Price, 2014)", 
 "studyID": "pg_2913", 
 "treeID": "tree6742"
 }, 
@@ -1310,7 +1310,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_111)", 
+"name": "Fig. S1 (Alstrom, 2014)", 
 "studyID": "ot_111", 
 "treeID": "tree1"
 }, 
@@ -1318,7 +1318,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree3 (ot_172)", 
+"name": "Fig. 4c (Aegithalos+Psaltriparus+Leptopoecile) (P\u00e4ckert, 2011)", 
 "studyID": "ot_172", 
 "treeID": "tree3"
 }, 
@@ -1326,7 +1326,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_290)", 
+"name": "Fig. 2 ML (Selvatti, 2015)", 
 "studyID": "ot_290", 
 "treeID": "tree1"
 }, 
@@ -1334,7 +1334,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree4152 (pg_2015)", 
+"name": "tree4152 (Odeen, 2011)", 
 "studyID": "pg_2015", 
 "treeID": "tree4152"
 }, 
@@ -1342,7 +1342,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_854)", 
+"name": "johansson etal 2008 tree 1_from figure 2 (Ulf S. Johansson, 2008)", 
 "studyID": "ot_854", 
 "treeID": "tree1"
 }, 
@@ -1350,7 +1350,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_855)", 
+"name": "Untitled (tree1) (Martin Irestedt, 2008)", 
 "studyID": "ot_855", 
 "treeID": "tree1"
 }, 
@@ -1358,7 +1358,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_841)", 
+"name": "treplin etal 2008 tree 1 (Simone Treplin, 2008)", 
 "studyID": "ot_841", 
 "treeID": "tree1"
 }, 
@@ -1366,7 +1366,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_836)", 
+"name": "Untitled (tree1) (Robert G. Moyle, 2006)", 
 "studyID": "ot_836", 
 "treeID": "tree1"
 }, 
@@ -1374,7 +1374,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_874)", 
+"name": "Fig. 2 (Zuccon, 2006)", 
 "studyID": "ot_874", 
 "treeID": "tree1"
 }, 
@@ -1382,7 +1382,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree5068 (pg_2404)", 
+"name": "Fig. 1 (Barker, 2004)", 
 "studyID": "pg_2404", 
 "treeID": "tree5068"
 }, 
@@ -1390,7 +1390,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Tr70438 (ot_757)", 
+"name": "Fig. 1 (IGR clock) (Ericson, 2014)", 
 "studyID": "ot_757", 
 "treeID": "Tr70438"
 }, 
@@ -1398,7 +1398,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Tr77157 (ot_412)", 
+"name": "pfinder AGY (Barker, 2014)", 
 "studyID": "ot_412", 
 "treeID": "Tr77157"
 }, 
@@ -1406,7 +1406,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_532)", 
+"name": "Fig. 2 BEAST (Gibb, 2015)", 
 "studyID": "ot_532", 
 "treeID": "tree1"
 }, 
@@ -1414,7 +1414,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Tr48736 (ot_782)", 
+"name": "Fig. 1 (strict parsimony consensus) (Beresford, 2005)", 
 "studyID": "ot_782", 
 "treeID": "Tr48736"
 }, 
@@ -1422,7 +1422,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree2 (ot_831)", 
+"name": "moyle etal 2006b tree 2 (ROBERT G. MOYLE, 2006)", 
 "studyID": "ot_831", 
 "treeID": "tree2"
 }, 
@@ -1430,7 +1430,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_869)", 
+"name": "Untitled (tree1) (Dumbacher, 2008)", 
 "studyID": "ot_869", 
 "treeID": "tree1"
 }, 
@@ -1438,7 +1438,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_847)", 
+"name": "Untitled (tree1) (A. Manegold, 2008)", 
 "studyID": "ot_847", 
 "treeID": "tree1"
 }, 
@@ -1446,7 +1446,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_500)", 
+"name": "BEAST (no Vegavis constraint) (Prum, 2015)", 
 "studyID": "ot_500", 
 "treeID": "tree1"
 }, 
@@ -1454,7 +1454,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_531)", 
+"name": "Fig. 2b (RAG1 + RAG2) (Claramunt, 2015)", 
 "studyID": "ot_531", 
 "treeID": "tree1"
 }, 
@@ -1462,7 +1462,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6741 (pg_2913)", 
+"name": "Bayesian chronogram (Non-Passeriformes) (Price, 2014)", 
 "studyID": "pg_2913", 
 "treeID": "tree6741"
 }, 
@@ -1470,7 +1470,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree2 (ot_809)", 
+"name": "Hackett backbone (genetic data only) (Jetz, 2012)", 
 "studyID": "ot_809", 
 "treeID": "tree2"
 }, 
@@ -1478,7 +1478,7 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (ot_521)", 
+"name": "MLE (Burleigh, 2015)", 
 "studyID": "ot_521", 
 "treeID": "tree1"
 }
