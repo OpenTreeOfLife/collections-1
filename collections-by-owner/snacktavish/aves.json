@@ -1497,6 +1497,14 @@
 "name": "Untitled (tree5959) (Crawford, 2012)", 
 "studyID": "pg_2573", 
 "treeID": "tree5959"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Raxml (Nicholas G. Crawford, 2015)", 
+"studyID": "ot_1490", 
+"treeID": "tree1"
 }
 ], 
 "description": "tree collection for Aves synthesis", 
