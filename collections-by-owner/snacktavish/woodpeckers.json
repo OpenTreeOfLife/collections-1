@@ -92,6 +92,14 @@
 "name": "Fig. 1A MPRE (Suh, 2015)", 
 "studyID": "ot_314", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 6 (Bayesian chronogram) (Fuchs, 2007)", 
+"studyID": "ot_794", 
+"treeID": "tree2"
 }
 ], 
 "description": "", 
