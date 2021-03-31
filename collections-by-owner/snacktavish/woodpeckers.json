@@ -36,6 +36,38 @@
 "name": "Ericson backbone (genetic data only) (Jetz, 2012)", 
 "studyID": "ot_809", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Bayesian chronogram (Non-Passeriformes) (Price, 2014)", 
+"studyID": "pg_2913", 
+"treeID": "tree6741"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Bayesian chronogram (Non-Passeriformes) (Price, 2014)", 
+"studyID": "pg_2913", 
+"treeID": "tree6742"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 2b (RAG1 + RAG2) (Claramunt, 2015)", 
+"studyID": "ot_531", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 1A MPRE (Suh, 2015)", 
+"studyID": "ot_314", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
