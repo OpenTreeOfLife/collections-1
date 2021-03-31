@@ -9,30 +9,6 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6390 (Anderson F., 2004)", 
-"studyID": "pg_2407", 
-"treeID": "tree6390"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "tree5072 (Townsend T., 2004)", 
-"studyID": "pg_2406", 
-"treeID": "tree5072"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "tree5073 (Townsend T., 2004)", 
-"studyID": "pg_2406", 
-"treeID": "tree5073"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "Untitled (tree5074) (Townsend T., 2004)", 
 "studyID": "pg_2406", 
 "treeID": "tree5074"
@@ -59,6 +35,14 @@
 "decision": "INCLUDED", 
 "name": "Ericson backbone (genetic data only) (Jetz, 2012)", 
 "studyID": "ot_809", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Shakya et al Supp File S7 (Shakya, 2017)", 
+"studyID": "ot_2017", 
 "treeID": "tree1"
 }
 ], 
