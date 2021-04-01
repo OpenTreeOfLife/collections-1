@@ -17,24 +17,24 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "BEAST (no Vegavis constraint) (Prum, 2015)", 
-"studyID": "ot_500", 
+"name": "BEAST (Dufort, 2015)", 
+"studyID": "ot_504", 
+"treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 1 (Benz, 2006)", 
+"studyID": "ot_159", 
 "treeID": "tree1"
 }, 
 {
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "MLE (Burleigh, 2015)", 
-"studyID": "ot_521", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Ericson backbone (genetic data only) (Jetz, 2012)", 
-"studyID": "ot_809", 
+"name": "Fig. 6 (Bayesian chronogram) (Fuchs, 2007)", 
+"studyID": "ot_794", 
 "treeID": "tree2"
 }, 
 {
@@ -57,6 +57,30 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "Fig. 1A MPRE (Suh, 2015)", 
+"studyID": "ot_314", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "BEAST (no Vegavis constraint) (Prum, 2015)", 
+"studyID": "ot_500", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "MLE (Burleigh, 2015)", 
+"studyID": "ot_521", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Fig. 2b (RAG1 + RAG2) (Claramunt, 2015)", 
 "studyID": "ot_531", 
 "treeID": "tree1"
@@ -65,40 +89,8 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Fig. 1A MPRE (Suh, 2015)", 
-"studyID": "ot_314", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig. 1 (Benz, 2006)", 
-"studyID": "ot_159", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "BEAST (Dufort, 2015)", 
-"studyID": "ot_504", 
-"treeID": "tree3"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig. 1A MPRE (Suh, 2015)", 
-"studyID": "ot_314", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig. 6 (Bayesian chronogram) (Fuchs, 2007)", 
-"studyID": "ot_794", 
+"name": "Ericson backbone (genetic data only) (Jetz, 2012)", 
+"studyID": "ot_809", 
 "treeID": "tree2"
 }
 ], 
