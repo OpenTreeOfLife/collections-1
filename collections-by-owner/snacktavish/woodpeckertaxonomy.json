@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree2) (eBird Taxonomy draft, [no year])", 
+"studyID": "ot_2019", 
+"treeID": "tree2"
+}
+], 
+"description": "", 
+"name": "woodpeckertaxonomy", 
+"queries": []
+}
