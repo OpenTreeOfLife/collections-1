@@ -3488,14 +3488,6 @@
 }, 
 {
 "SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Laura A. Hug, Brett J. Baker, Karthik Anantharaman, Christopher T. Brown, Alexander J. Probst, Cindy J. Castelle, Cristina N. Butterfield, Alex W. Hernsdorf, Yuki Amano, Kotaro Ise, Yohey Suzuki, Natasha Dudek, David A. Relman, Kari M. Finstad, Ronald Amundson, Brian C. Thomas, Jillian F. Banfield, 2016, 'A new view of the tree of life', Nature Microbiology, p. 16048", 
-"decision": "INCLUDED", 
-"name": "Figs 1 and 2 upload = supplementary dataset 2 (Laura A. Hug, 2016)", 
-"studyID": "ot_700", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from Walter Jetz, R. Alexander Pyron, 2018, 'The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life', Nature Ecology & Evolution, vol. 2, no. 5, pp. 850-858", 
 "decision": "INCLUDED", 
 "name": "Untitled (tree1) (Walter Jetz, 2018)", 
