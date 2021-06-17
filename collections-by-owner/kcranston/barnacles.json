@@ -398,19 +398,6 @@
 "ot:studyYear": 2021, 
 "studyID": "ot_2033", 
 "treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "Thecostraca", 
-"compactRefText": "Alexandra S. Petrunina, 2013", 
-"decision": "INCLUDED", 
-"defaultSortOrder": 28, 
-"name": "Fig. 4 (Alexandra S. Petrunina, 2013)", 
-"ot:studyPublication": "http://dx.doi.org/10.1111/jzs.12045", 
-"ot:studyPublicationReference": "Alexandra S. Petrunina, Tatyana V. Neretina, Nikolay S. Mugue, Gregory A. Kolbasov, 2013, 'Tantulocarida versus Thecostraca: inside or outside? First attempts to resolve phylogenetic position of Tantulocarida using gene sequences', Journal of Zoological Systematics and Evolutionary Research, vol. 52, no. 2, pp. 100-108", 
-"ot:studyYear": 2013, 
-"studyID": "ot_656", 
-"treeID": "tree2"
 }
 ], 
 "description": "barnacles - collection from clade workshop", 
