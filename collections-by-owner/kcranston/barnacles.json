@@ -398,6 +398,14 @@
 "ot:studyYear": 2009, 
 "studyID": "pg_2842", 
 "treeID": "tree6603"
+}, 
+{
+"SHA": "", 
+"comments": "New taxonomy for barnacles", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree1) (Chan, 2021)", 
+"studyID": "ot_2033", 
+"treeID": "tree1"
 }
 ], 
 "description": "barnacles - collection from clade workshop", 
