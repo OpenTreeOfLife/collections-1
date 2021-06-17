@@ -374,23 +374,10 @@
 }, 
 {
 "SHA": "", 
-"comments": "Thecostraca", 
-"compactRefText": "Alexandra S. Petrunina, 2013", 
-"decision": "INCLUDED", 
-"defaultSortOrder": 26, 
-"name": "Fig. 4 (Alexandra S. Petrunina, 2013)", 
-"ot:studyPublication": "http://dx.doi.org/10.1111/jzs.12045", 
-"ot:studyPublicationReference": "Alexandra S. Petrunina, Tatyana V. Neretina, Nikolay S. Mugue, Gregory A. Kolbasov, 2013, 'Tantulocarida versus Thecostraca: inside or outside? First attempts to resolve phylogenetic position of Tantulocarida using gene sequences', Journal of Zoological Systematics and Evolutionary Research, vol. 52, no. 2, pp. 100-108", 
-"ot:studyYear": 2013, 
-"studyID": "ot_656", 
-"treeID": "tree2"
-}, 
-{
-"SHA": "", 
 "comments": "Thecostraca overall phylogenetic picture.", 
 "compactRefText": "P\u00e9rez-Losada, 2009", 
 "decision": "INCLUDED", 
-"defaultSortOrder": 27, 
+"defaultSortOrder": 26, 
 "name": "Untitled (tree6603) (P\u00e9rez-Losada, 2009)", 
 "ot:focalCladeOTTTaxonName": "Thecostraca", 
 "ot:studyPublication": "http://dx.doi.org/10.1186/1741-7007-7-15", 
@@ -402,10 +389,28 @@
 {
 "SHA": "", 
 "comments": "New taxonomy for barnacles", 
+"compactRefText": "Chan, 2021", 
 "decision": "INCLUDED", 
+"defaultSortOrder": 27, 
 "name": "Untitled (tree1) (Chan, 2021)", 
+"ot:studyPublication": "http://dx.doi.org/10.1093/zoolinnean/zlaa160", 
+"ot:studyPublicationReference": "Chan, B. K. K., Dreyer, N., Gale, A. S., Glenner, H., Ewers-Saucedo, C., P\u00e9rez-Losada, M., \u2026 H\u00f8eg, J. T. (2021). The evolutionary diversity of barnacles, with an updated classification of fossil and living forms. Zoological Journal of the Linnean Society. doi:10.1093/zoolinnean/zlaa160\n", 
+"ot:studyYear": 2021, 
 "studyID": "ot_2033", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Thecostraca", 
+"compactRefText": "Alexandra S. Petrunina, 2013", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 28, 
+"name": "Fig. 4 (Alexandra S. Petrunina, 2013)", 
+"ot:studyPublication": "http://dx.doi.org/10.1111/jzs.12045", 
+"ot:studyPublicationReference": "Alexandra S. Petrunina, Tatyana V. Neretina, Nikolay S. Mugue, Gregory A. Kolbasov, 2013, 'Tantulocarida versus Thecostraca: inside or outside? First attempts to resolve phylogenetic position of Tantulocarida using gene sequences', Journal of Zoological Systematics and Evolutionary Research, vol. 52, no. 2, pp. 100-108", 
+"ot:studyYear": 2013, 
+"studyID": "ot_656", 
+"treeID": "tree2"
 }
 ], 
 "description": "barnacles - collection from clade workshop", 
