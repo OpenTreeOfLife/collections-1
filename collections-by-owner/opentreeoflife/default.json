@@ -3637,6 +3637,14 @@
 "name": "Figure 6 TreePL with root constraint", 
 "studyID": "ot_2018", 
 "treeID": "tree9"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Vasconcelos, T. N. C., Alcantara, S., Andrino, C. O., Forest, F., Reginato, M., Simon, M. F., & Pirani, J. R. (2020). Fast diversification through a mosaic of evolutionary histories characterizes the endemic flora of ancient Neotropical mountains. Proceedings of the Royal Society B: Biological Sciences, 287(1923), 20192933. doi:10.1098/rspb.2019.2933\n", 
+"decision": "INCLUDED", 
+"name": "Time calibrated Mimosa tree", 
+"studyID": "ot_2036", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
