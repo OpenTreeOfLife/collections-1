@@ -3645,6 +3645,14 @@
 "name": "Time calibrated Mimosa tree", 
 "studyID": "ot_2036", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Lax, G., Eglit, Y., Eme, L., Bertrand, E. M., Roger, A. J., & Simpson, A. G. B. (2018). Hemimastigophora is a novel supra-kingdom-level lineage of eukaryotes. Nature, 564(7736), 410\u2013414. doi:10.1038/s41586-018-0708-8\n", 
+"decision": "INCLUDED", 
+"name": "CAT_61tax_h0.42_g1.bmge.fas.UFboot", 
+"studyID": "ot_2037", 
+"treeID": "tree13"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
