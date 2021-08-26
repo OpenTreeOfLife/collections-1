@@ -3653,6 +3653,14 @@
 "name": "CAT_61tax_h0.42_g1.bmge.fas.UFboot", 
 "studyID": "ot_2037", 
 "treeID": "tree13"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Fabien Burki, Maia Kaplan, Denis V. Tikhonenkov, Vasily Zlatogursky, Bui Quang Minh, Liudmila V. Radaykina, Alexey Smirnov, Alexander P. Mylnikov, Patrick J. Keeling, 2016, 'Untangling the early diversification of eukaryotes: a phylogenomic study of the evolutionary origins of Centrohelida, Haptophyta and Cryptista', Proceedings of the Royal Society B: Biological Sciences, vol. 283, no. 1823, p. 20152802", 
+"decision": "INCLUDED", 
+"name": "Figure 1", 
+"studyID": "ot_767", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
