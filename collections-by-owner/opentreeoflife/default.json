@@ -3661,6 +3661,14 @@
 "name": "Figure 1", 
 "studyID": "ot_767", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Kayal, E., Bentlage, B., Sabrina Pankey, M., Ohdera, A. H., Medina, M., Plachetzki, D. C., \u2026 Ryan, J. F. (2018). Phylogenomics provides a robust topology of the major cnidarian lineages and insights on the origins of key organismal traits. BMC Evolutionary Biology, 18(1). doi:10.1186/s12862-018-1142-0\n", 
+"decision": "INCLUDED", 
+"name": "Cnidaria", 
+"studyID": "ot_2042", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
