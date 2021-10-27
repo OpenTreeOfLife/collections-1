@@ -3669,6 +3669,14 @@
 "name": "Cnidaria", 
 "studyID": "ot_2042", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Lily C. Hughes, Guillermo Ort\u00ed, Yu Huang, Ying Sun, Carole C. Baldwin, Andrew W. Thompson, Dahiana Arcila, Ricardo Betancur-R., Chenhong Li, Leandro Becker, Nicol\u00e1s Bellora, Xiaomeng Zhao, Xiaofeng Li, Min Wang, Chao Fang, Bing Xie, Zhuocheng Zhou, Hai Huang, Songlin Chen, Byrappa Venkatesh, Qiong Shi, 2018, 'Comprehensive phylogeny of ray-finned fishes (Actinopterygii) based on transcriptomic and genomic data', Proceedings of the National Academy of Sciences, vol. 115, no. 24, pp. 6249-6254", 
+"decision": "INCLUDED", 
+"name": "31Calibrations_Chronogram", 
+"studyID": "ot_1699", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
