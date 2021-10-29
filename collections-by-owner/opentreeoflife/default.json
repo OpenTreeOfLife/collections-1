@@ -3677,6 +3677,14 @@
 "name": "31Calibrations_Chronogram", 
 "studyID": "ot_1699", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from McCord, C. L., Nash, C. M., Cooper, W. J., & Westneat, M. W. (2021). Phylogeny of the damselfishes (Pomacentridae) and patterns of asymmetrical diversification in body size and feeding ecology. PLOS ONE, 16(10), e0258889. doi:10.1371/journal.pone.0258889\n", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_2043", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
