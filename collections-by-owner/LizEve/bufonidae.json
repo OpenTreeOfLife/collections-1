@@ -1,0 +1,36 @@
+{
+"contributors": [], 
+"creator": {
+"login": "LizEve", 
+"name": "Genevieve G. Mount"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2857 (Pyron, 2011)", 
+"studyID": "pg_423", 
+"treeID": "tree2857"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree1) (Walter Jetz, 2018)", 
+"studyID": "ot_1732", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Gondwanan frogs (Yan-Jie Feng, 2017)", 
+"studyID": "ot_1164", 
+"treeID": "tree2"
+}
+], 
+"description": "", 
+"name": "Bufonidae", 
+"queries": []
+}
