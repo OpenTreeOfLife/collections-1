@@ -3693,6 +3693,14 @@
 "name": "BEAST 28S+H3+COIpos12 maximum clade credibility tree with mean node heights\"\"", 
 "studyID": "ot_2045", 
 "treeID": "tree9"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Uit de weerd D., & Gittenberger E. 2004. Re-evaluating Carinigera: molecular data overturn the current classification within the clausiliid subfamily Alopiinae (Gastropoda, Pulmonata). Journal of Molluscan Studies, 70: 305-318.", 
+"decision": "INCLUDED", 
+"name": "strict consensus cladogram", 
+"studyID": "pg_1826", 
+"treeID": "tree3685"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
