@@ -3685,6 +3685,14 @@
 "name": "TREE1", 
 "studyID": "ot_2043", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Uit de Weerd, D. R., Robinson, D. G., & Rosenberg, G. (2016). Evolutionary and biogeographical history of the land snail family Urocoptidae (Gastropoda: Pulmonata) across the Caribbean region. Journal of Biogeography, 43(4), 763\u2013777. doi:10.1111/jbi.12692\n", 
+"decision": "INCLUDED", 
+"name": "BEAST 28S+H3+COIpos12 maximum clade credibility tree with mean node heights\"\"", 
+"studyID": "ot_2045", 
+"treeID": "tree9"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
