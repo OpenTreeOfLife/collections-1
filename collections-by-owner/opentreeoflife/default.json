@@ -3701,6 +3701,14 @@
 "name": "strict consensus cladogram", 
 "studyID": "pg_1826", 
 "treeID": "tree3685"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Irisarri, I., Mauro, D. S., Abascal, F., Ohler, A., Vences, M., & Zardoya, R. (2012). The origin of modern frogs (Neobatrachia) was accompanied by acceleration in mitochondrial and nuclear substitution rates. BMC Genomics, 13(1). doi:10.1186/1471-2164-13-626\n", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_2049", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
