@@ -3725,6 +3725,14 @@
 "name": "TREE1", 
 "studyID": "ot_2054", 
 "treeID": "Tr134000"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Agarwal I., Cer\u00edaco L.M., Metallinou M., Jackman T.R., & Bauer A. 2021. How the African house gecko (Hemidactylus mabouia) conquered the world. Royal Society Open Science, 8(8): 210749.", 
+"decision": "INCLUDED", 
+"name": "Imported tree 1", 
+"studyID": "ot_2054", 
+"treeID": "Tr133998"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
