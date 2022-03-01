@@ -3733,6 +3733,14 @@
 "name": "Imported tree 1", 
 "studyID": "ot_2054", 
 "treeID": "Tr133998"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Poli, A., Bovio, E., Perugini, I., Varese, G. C., & Prigione, V. (2021). Corollospora mediterranea: A Novel Species Complex in the Mediterranean Sea. Applied Sciences, 11(12), 5452. https://doi.org/10.3390/app11125452\n", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_2061", 
+"treeID": "Tr135569"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
