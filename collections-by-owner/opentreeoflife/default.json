@@ -3757,6 +3757,14 @@
 "name": "tree 1", 
 "studyID": "ot_2052", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Harvey, M. G., Bravo, G. A., Claramunt, S., Cuervo, A. M., Derryberry, G. E., Battilana, J., \u2026 Derryberry, E. P. (2020). The evolution of a tropical biodiversity hotspot. Science, 370(6522), 1343\u20131348. doi:10.1126/science.aaz6970\n", 
+"decision": "INCLUDED", 
+"name": "T400F_complete-renamed.tre", 
+"studyID": "ot_2015", 
+"treeID": "tree5"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
