@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "2021 taxonomy (eBird Taxonomy draft, 2021)", 
+"studyID": "ot_2019", 
+"treeID": "tree7"
+}
+], 
+"description": "", 
+"name": "CLO", 
+"queries": []
+}
