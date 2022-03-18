@@ -9,6 +9,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "Hackett backbone (genetic data only) (Jetz, 2012)", 
+"studyID": "ot_809", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "2021 taxonomy (eBird Taxonomy draft, 2021)", 
 "studyID": "ot_2019", 
 "treeID": "tree7"
