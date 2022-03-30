@@ -3765,6 +3765,14 @@
 "name": "T400F_complete-renamed.tre", 
 "studyID": "ot_2015", 
 "treeID": "tree5"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Phutthacharoen K., Chethana T., Stadler M., & Hyde K.D. 2021. Dicephalospora chiangraiensis sp. nov. (Helotiaceae, Helotiales) from Thailand. Mycobiology, .", 
+"decision": "INCLUDED", 
+"name": "Imported tree 1", 
+"studyID": "ot_2068", 
+"treeID": "Tr135895"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
