@@ -17,6 +17,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "Shakya et al Supp File S7 (Shakya, 2017)", 
+"studyID": "ot_2017", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "2021 taxonomy (eBird Taxonomy draft, 2021)", 
 "studyID": "ot_2019", 
 "treeID": "tree7"
