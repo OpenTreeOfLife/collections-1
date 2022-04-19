@@ -13,19 +13,6 @@
 {
 "SHA": "", 
 "comments": "", 
-"compactRefText": "Harvey, 2020", 
-"decision": "INCLUDED", 
-"defaultSortOrder": 0, 
-"name": "T400F_complete-renamed.tre (Harvey, 2020)", 
-"ot:studyPublication": "http://dx.doi.org/10.1126/science.aaz6970", 
-"ot:studyPublicationReference": "Harvey, M. G., Bravo, G. A., Claramunt, S., Cuervo, A. M., Derryberry, G. E., Battilana, J., \u2026 Derryberry, E. P. (2020). The evolution of a tropical biodiversity hotspot. Science, 370(6522), 1343\u20131348. doi:10.1126/science.aaz6970\n", 
-"ot:studyYear": 2020, 
-"studyID": "ot_2015", 
-"treeID": "tree5"
-}, 
-{
-"SHA": "", 
-"comments": "", 
 "compactRefText": "Chen, 2021", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 1, 
@@ -35,6 +22,27 @@
 "ot:studyYear": 2021, 
 "studyID": "ot_2072", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "TREE1 (Johnson, 2021)", 
+"studyID": "ot_2074", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "Harvey, 2020", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 0, 
+"name": "T400F_complete-renamed.tre (Harvey, 2020)", 
+"ot:studyPublication": "http://dx.doi.org/10.1126/science.aaz6970", 
+"ot:studyPublicationReference": "Harvey, M. G., Bravo, G. A., Claramunt, S., Cuervo, A. M., Derryberry, G. E., Battilana, J., \u2026 Derryberry, E. P. (2020). The evolution of a tropical biodiversity hotspot. Science, 370(6522), 1343\u20131348. doi:10.1126/science.aaz6970\n", 
+"ot:studyYear": 2020, 
+"studyID": "ot_2015", 
+"treeID": "tree5"
 }, 
 {
 "SHA": "", 
