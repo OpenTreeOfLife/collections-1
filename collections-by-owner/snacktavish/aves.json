@@ -3,6 +3,10 @@
 {
 "login": "josephwb", 
 "name": "Joseph W. Brown"
+}, 
+{
+"login": "eliotmiller", 
+"name": "eliotmiller"
 }
 ], 
 "creator": {
@@ -29,6 +33,14 @@
 "ot:studyPublicationReference": "Chen, D., Hosner, P. A., Dittmann, D. L., O\u2019Neill, J. P., Birks, S. M., Braun, E. L., & Kimball, R. T. (2021). Divergence time estimation of Galliformes based on the best gene shopping scheme of ultraconserved elements. BMC Ecology and Evolution, 21(1). https://doi.org/10.1186/s12862-021-01935-1\n", 
 "ot:studyYear": 2021, 
 "studyID": "ot_2072", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Epinecrophylla-exabayes-treePL-75p-intree.dated (Fig 2A) (Johnson, 2021)", 
+"studyID": "ot_2074", 
 "treeID": "tree2"
 }, 
 {
