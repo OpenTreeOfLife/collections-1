@@ -60,6 +60,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "ConsensusExtendedMajorityRule (study has no reference)", 
+"studyID": "ot_2085", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "TREE1 (Cai, 2021)", 
 "studyID": "ot_2082", 
 "treeID": "tree1"
