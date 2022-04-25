@@ -242,6 +242,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig 1A (Bryson, 2016)", 
+"studyID": "ot_2084", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "J\u00f8nsson, 2016", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 13, 
