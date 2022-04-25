@@ -115,6 +115,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "Fig. 4 (54 nc loci, 235 taxa, partitioned ML) (Reddy, 2017)", 
+"studyID": "ot_1055", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Shakya et al Supp File S7 (Shakya, 2017)", 
 "studyID": "ot_2017", 
 "treeID": "tree1"
