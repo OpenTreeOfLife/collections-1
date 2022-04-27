@@ -3781,6 +3781,14 @@
 "name": "Time_Calibrated_Tree_2017", 
 "studyID": "ot_2083", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Chen, D., Hosner, P. A., Dittmann, D. L., O\u2019Neill, J. P., Birks, S. M., Braun, E. L., & Kimball, R. T. (2021). Divergence time estimation of Galliformes based on the best gene shopping scheme of ultraconserved elements. BMC Ecology and Evolution, 21(1). https://doi.org/10.1186/s12862-021-01935-1\n", 
+"decision": "INCLUDED", 
+"name": "95%-PF-treelike ", 
+"studyID": "ot_2072", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
