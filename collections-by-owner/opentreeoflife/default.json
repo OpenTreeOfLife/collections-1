@@ -3773,6 +3773,14 @@
 "name": "Imported tree 1", 
 "studyID": "ot_2068", 
 "treeID": "Tr135895"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Yonezawa, T., Segawa, T., Mori, H., Campos, P. F., Hongoh, Y., Endo, H., Akiyoshi, A., Kohno, N., Nishida, S., Wu, J., Jin, H., Adachi, J., Kishino, H., Kurokawa, K., Nogi, Y., Tanabe, H., Mukoyama, H., Yoshida, K., Rasoamiaramanana, A., \u2026 Hasegawa, M. (2017). Phylogenomics and Morphology of Extinct Paleognaths Reveal the Origin and Evolution of the Ratites. Current Biology, 27(1), 68\u201377. https://doi.org/10.1016/j.cub.2016.10.029\n", 
+"decision": "INCLUDED", 
+"name": "Time_Calibrated_Tree_2017", 
+"studyID": "ot_2083", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
