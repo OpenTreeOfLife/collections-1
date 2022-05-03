@@ -3797,6 +3797,14 @@
 "name": "GSK3", 
 "studyID": "ot_2089", 
 "treeID": "Tr65393"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Diepeveen, E. T., Kim, F. D., & Salzburger, W. (2013). Sequence analyses of the distal-less homeobox gene family in East African cichlid fishes reveal signatures of positive selection. BMC Evolutionary Biology, 13(1), 153. https://doi.org/10.1186/1471-2148-13-153\n", 
+"decision": "INCLUDED", 
+"name": "Dlx Consensus tree", 
+"studyID": "ot_2088", 
+"treeID": "Tr64618"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
