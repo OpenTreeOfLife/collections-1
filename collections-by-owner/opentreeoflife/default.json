@@ -3789,6 +3789,14 @@
 "name": "95%-PF-treelike ", 
 "studyID": "ot_2072", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Qi, X., Chanderbali, A. S., Wong, G. K.-S., Soltis, D. E., & Soltis, P. S. (2013). Phylogeny and evolutionary history of glycogen synthase kinase 3/SHAGGY-like kinase genes in land plants. BMC Evolutionary Biology, 13(1). https://doi.org/10.1186/1471-2148-13-143\n", 
+"decision": "INCLUDED", 
+"name": "GSK3", 
+"studyID": "ot_2089", 
+"treeID": "Tr65393"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
