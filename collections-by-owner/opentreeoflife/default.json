@@ -3805,6 +3805,14 @@
 "name": "Dlx Consensus tree", 
 "studyID": "ot_2088", 
 "treeID": "Tr64618"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Brock, K. M., McTavish, E. J., & Edwards, D. L. (2020). Color Polymorphism is a Driver of Diversification in the Lizard Family Lacertidae. https://doi.org/10.1101/2020.08.27.270207\n", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree1)", 
+"studyID": "ot_2092", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
