@@ -3813,6 +3813,14 @@
 "name": "Untitled (tree1)", 
 "studyID": "ot_2092", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Climatic niche conservatism in a clade of disease vectors (Diptera: Phlebotominae). D'Agostino et al. 2022. Evolution", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_2093", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
