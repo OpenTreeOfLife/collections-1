@@ -39,6 +39,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "SetC (Kirchman, 2021)", 
+"studyID": "ot_2097", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "SetA (Kirchman, 2021)", 
 "studyID": "ot_2097", 
 "treeID": "tree1"
