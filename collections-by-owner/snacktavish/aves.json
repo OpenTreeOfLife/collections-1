@@ -38,6 +38,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "SetA (Kirchman, 2021)", 
+"studyID": "ot_2097", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Chen, 2021", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 1, 
