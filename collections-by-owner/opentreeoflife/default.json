@@ -3893,6 +3893,14 @@
 "name": "Fig. 3", 
 "studyID": "ot_2102", 
 "treeID": "Tr7900"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Telleria, M. T., Due\u00f1as, M., Melo, I., Hallenberg, N., & Mart\u00edn, M. P. (2010). A re-evaluation of Hypochnicium (Polyporales) based on morphological and molecular characters. Mycologia, 102(6), 1426\u20131436. https://doi.org/10.3852/09-242\n", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_2103", 
+"treeID": "Tr9027"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
