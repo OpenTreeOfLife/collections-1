@@ -3821,6 +3821,14 @@
 "name": "TREE1", 
 "studyID": "ot_2093", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Bezuidenhout, C. M., Denman, S., Kirk, S. A., Botha, W. J., Mostert, L., & McLeod, A. (2010). <I>Phytophthora</I> taxa associated with cultivated <I>Agathosma</I>, with emphasis on the <I>P. citricola</I> complex and <I>P. capensis</I> sp. nov. Persoonia - Molecular Phylogeny and Evolution of Fungi, 25(1), 32\u201349. https://doi.org/10.3767/003158510x538371\n", 
+"decision": "INCLUDED", 
+"name": "MajRule", 
+"studyID": "ot_2100", 
+"treeID": "Tr25323"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
