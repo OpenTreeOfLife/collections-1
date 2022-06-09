@@ -3877,6 +3877,14 @@
 "name": "PAUP 1", 
 "studyID": "ot_2100", 
 "treeID": "Tr25324"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from WEIGT, L. A., CRAWFORD, A. J., RAND, A. S., & RYAN, M. J. (2005). Biogeography of the t\u00fangara frog, Physalaemus pustulosus: a molecular perspective. Molecular Ecology, 14(12), 3857\u20133876. https://doi.org/10.1111/j.1365-294x.2005.02707.x\n", 
+"decision": "INCLUDED", 
+"name": "NJ Unpublished", 
+"studyID": "ot_2102", 
+"treeID": "Tr7899"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
