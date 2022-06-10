@@ -225,6 +225,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 1 BEAST (Marki, 2017)", 
+"studyID": "ot_1043", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Shakya, 2017", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 11, 
