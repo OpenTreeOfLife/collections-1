@@ -3901,6 +3901,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_2103", 
 "treeID": "Tr9027"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from No matching publication found for this DOI!", 
+"decision": "INCLUDED", 
+"name": "Fig. 3", 
+"studyID": "ot_2105", 
+"treeID": "Tr4213"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
