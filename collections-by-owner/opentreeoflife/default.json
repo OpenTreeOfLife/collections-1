@@ -3925,6 +3925,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_2105", 
 "treeID": "Tr4211"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Shaw, A. J., Cox, C. J., Buck, W. R., Devos, N., Buchanan, A. M., Cave, L., Seppelt, R., Shaw, B., Larra\u00edn, J., Andrus, R., Greilhuber, J., & Temsch, E. M. (2010). Newly resolved relationships in an early land plant lineage: Bryophyta class Sphagnopsida (peat mosses). American Journal of Botany, 97(9), 1511\u20131531. Portico. https://doi.org/10.3732/ajb.1000055\n", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_2106", 
+"treeID": "Tr76249"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
