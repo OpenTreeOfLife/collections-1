@@ -3949,6 +3949,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_2107", 
 "treeID": "Tr6301"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Jung, T., & Burgess, T. I. (2009). Re-evaluation of <I>Phytophthora citricola</I> isolates from multiple woody hosts in Europe and North America reveals a new species, <I>Phytophthora plurivora</I> sp. nov. Persoonia - Molecular Phylogeny and Evolution of Fungi, 22(1), 95\u2013110. https://doi.org/10.3767/003158509x442612\n", 
+"decision": "INCLUDED", 
+"name": "Fig. 3", 
+"studyID": "ot_2114", 
+"treeID": "Tr6580"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
