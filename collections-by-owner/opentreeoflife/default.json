@@ -4037,6 +4037,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_2115", 
 "treeID": "Tr6028"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Scott, P. M., Burgess, T. I., Barber, P. A., Shearer, B. L., Stukely, M. J. C., Hardy, G. E. St. J., & Jung, T. (2009). <I>Phytophthora multivora</I> sp. nov., a new species recovered from declining <I>Eucalyptus</I>, <I>Banksia</I>, <I>Agonis</I> and other plant species in Western Australia. Persoonia - Molecular Phylogeny and Evolution of Fungi, 22(1), 1\u201313. https://doi.org/10.3767/003158509x415450\n", 
+"decision": "INCLUDED", 
+"name": "ITS BS", 
+"studyID": "ot_2115", 
+"treeID": "Tr6029"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
