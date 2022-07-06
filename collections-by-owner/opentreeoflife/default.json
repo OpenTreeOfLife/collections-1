@@ -4061,6 +4061,14 @@
 "name": "COX BS", 
 "studyID": "ot_2115", 
 "treeID": "Tr6108"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Morris, J. L., Puttick, M. N., Clark, J. W., Edwards, D., Kenrick, P., Pressel, S., Wellman, C. H., Yang, Z., Schneider, H., & Donoghue, P. C. J. (2018). The timescale of early land plant evolution. Proceedings of the National Academy of Sciences, 115(10). https://doi.org/10.1073/pnas.1719588115\n", 
+"decision": "INCLUDED", 
+"name": "Bryophyte monophyly", 
+"studyID": "ot_2116", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
