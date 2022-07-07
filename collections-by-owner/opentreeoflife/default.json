@@ -4077,6 +4077,14 @@
 "name": "ITS BAYES", 
 "studyID": "ot_2117", 
 "treeID": "Tr6597"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Burgess, T. I., Webster, J. L., Ciampini, J. A., White, D., Hardy, G. E. StJ., & Stukely, M. J. C. (2009). Re-evaluation of Phytophthora Species Isolated During 30 Years of Vegetation Health Surveys in Western Australia Using Molecular Techniques. Plant Disease, 93(3), 215\u2013223. https://doi.org/10.1094/pdis-93-3-0215\n", 
+"decision": "INCLUDED", 
+"name": "ITS BS", 
+"studyID": "ot_2117", 
+"treeID": "Tr6323"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
