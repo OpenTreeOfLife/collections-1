@@ -4093,6 +4093,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_2117", 
 "treeID": "Tr6322"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Fiore-Donno, A. M., Haskins, E. F., Pawlowski, J., & Cavalier-Smith, T. (2009). Semimorula liquescens is a modified echinostelid myxomycete (Mycetozoa). Mycologia, 101(6), 773\u2013776. https://doi.org/10.3852/08-075\n", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule", 
+"studyID": "ot_2119", 
+"treeID": "Tr6262"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
