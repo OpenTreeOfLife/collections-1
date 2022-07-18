@@ -4101,6 +4101,14 @@
 "name": "con 50 majrule", 
 "studyID": "ot_2119", 
 "treeID": "Tr6262"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Yan, K., Yanling, J., Xianghui, S., Lihui, Z., Wei, L., Hanshou, Y., & Zhiwei, W. (2009). Taxonomy ofNeotyphodiumendophytes of Chinese nativeRoegneriaplants. Mycologia, 101(2), 211\u2013219. https://doi.org/10.3852/08-018\n", 
+"decision": "INCLUDED", 
+"name": "Fig. tub", 
+"studyID": "ot_2120", 
+"treeID": "Tr6326"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
