@@ -141,6 +141,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "Alaudidae CYTB 200316_cytb_HKYGI_BDrelLN_c40Mbi5_mccmed_delim_varRate_10M_minbrAUTO.1584723018.combined (Stervander et al. 2020).tre (Stervander, 2020)", 
+"studyID": "ot_2125", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "(Untitled)", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 4, 
