@@ -4117,6 +4117,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_2123", 
 "treeID": "Tr6396"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Sauer, J., & Hausdorf, B. (2009). SEXUAL SELECTION IS INVOLVED IN SPECIATION IN A LAND SNAIL RADIATION ON CRETE. Evolution, 63(10), 2535\u20132546. https://doi.org/10.1111/j.1558-5646.2009.00751.x\n", 
+"decision": "INCLUDED", 
+"name": "Fig. 3", 
+"studyID": "ot_2131", 
+"treeID": "Tr6189"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
