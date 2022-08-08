@@ -4125,6 +4125,14 @@
 "name": "Fig. 3", 
 "studyID": "ot_2131", 
 "treeID": "Tr6189"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Springer, Y. P. (2009). Do extreme environments provide a refuge from pathogens? A phylogenetic test using serpentine flax. American Journal of Botany, 96(11), 2010\u20132021. Portico. https://doi.org/10.3732/ajb.0900047\n", 
+"decision": "INCLUDED", 
+"name": "Fig. 3", 
+"studyID": "ot_2133", 
+"treeID": "Tr6570"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
