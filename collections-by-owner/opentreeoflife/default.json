@@ -4149,6 +4149,14 @@
 "name": "Fig. 2", 
 "studyID": "ot_2135", 
 "treeID": "Tr6266"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Mayer, V. E., & Voglmayr, H. (2009). Mycelial carton galleries of\n            Azteca brevis\n            (Formicidae) as a multi-species network. Proceedings of the Royal Society B: Biological Sciences, 276(1671), 3265\u20133273. https://doi.org/10.1098/rspb.2009.0768\n", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_2135", 
+"treeID": "Tr6500"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
