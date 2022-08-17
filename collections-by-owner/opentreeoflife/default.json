@@ -4157,6 +4157,14 @@
 "name": "Fig. 1", 
 "studyID": "ot_2135", 
 "treeID": "Tr6500"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Su\u00e1rez-Santiago, V. N., Ortega, A., Peintner, U., & L\u00f3pez-Flores, I. (2009). Study on Cortinarius subgenus Telamonia section Hydrocybe in Europe, with especial emphasis on Mediterranean taxa. Mycological Research, 113(10), 1070\u20131090. https://doi.org/10.1016/j.mycres.2009.07.006\n", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_2136", 
+"treeID": "Tr6427"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
