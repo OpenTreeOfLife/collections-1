@@ -4173,6 +4173,14 @@
 "name": "Table 2", 
 "studyID": "ot_2140", 
 "treeID": "Tr6557"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Phillips, M. J., Bennett, T. H., & Lee, M. S. Y. (2009). Molecules, morphology, and ecology indicate a recent, amphibious ancestry for echidnas. Proceedings of the National Academy of Sciences, 106(40), 17089\u201317094. https://doi.org/10.1073/pnas.0904649106\n", 
+"decision": "INCLUDED", 
+"name": "Fig. 1", 
+"studyID": "ot_2140", 
+"treeID": "Tr6701"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
