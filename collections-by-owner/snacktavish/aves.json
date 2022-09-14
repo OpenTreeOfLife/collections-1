@@ -824,6 +824,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "Manually created this tree (study has no reference)", 
+"studyID": "ot_2147", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Mitchell, 2014", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 59, 
