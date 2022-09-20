@@ -2898,6 +2898,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "Text Wrangler tree (Voelker, 2002)", 
+"studyID": "ot_2149", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Pitra, 2002", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 206, 
