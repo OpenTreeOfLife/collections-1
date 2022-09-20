@@ -323,6 +323,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "Text Wrangler tree (Kennedy, 2019)", 
+"studyID": "ot_2150", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Per Alstr\u00f6m, 2018", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 23, 
