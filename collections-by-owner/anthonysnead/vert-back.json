@@ -1,0 +1,52 @@
+{
+"contributors": [], 
+"creator": {
+"login": "anthonysnead", 
+"name": "anthonysnead"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Strategy 1 run 1 (dos Reis, 2015)", 
+"studyID": "ot_508", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Ctenohystrica (Upham and Patterson 2015) (Upham, 2015)", 
+"studyID": "ot_1129", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree1) (Walter Jetz, 2018)", 
+"studyID": "ot_1732", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tonini et al. (2016) Squamate Phylogeny (Jo\u00e3o Filipe Riva Tonini, 2016)", 
+"studyID": "ot_1332", 
+"treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "actinopt12KtreePL (Daniel L. Rabosky, 2018)", 
+"studyID": "ot_1592", 
+"treeID": "tree1"
+}
+], 
+"description": "Vizualization", 
+"name": "Vert Back", 
+"queries": []
+}
