@@ -402,6 +402,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (Bayesian, reduced matrix) (Shakya, 2017)", 
+"studyID": "ot_1170", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Shakya, 2017", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 27, 
