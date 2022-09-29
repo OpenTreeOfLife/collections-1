@@ -324,6 +324,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "Slight tip label edits in R before curation (Pietersen, 2018)", 
+"studyID": "ot_2151", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Text Wrangler tree (Kennedy, 2019)", 
 "studyID": "ot_2150", 
 "treeID": "tree1"
