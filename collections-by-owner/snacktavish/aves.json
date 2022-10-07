@@ -313,6 +313,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "Set BLs to 1 (McCullough, 2019)", 
+"studyID": "ot_2155", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Oliveros, 2019", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 21, 
