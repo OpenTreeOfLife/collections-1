@@ -317,6 +317,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "BEAST Tree 1 (Vianna, 2020)", 
+"studyID": "ot_2020", 
+"treeID": "tree5"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Mitogene_calibrated Tree 1 (Vianna, 2020)", 
 "studyID": "ot_2020", 
 "treeID": "tree4"
