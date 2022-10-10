@@ -309,6 +309,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "Fig 1 (study has no reference)", 
+"studyID": "ot_2160", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Fig 3/S9 (Batista, 2020)", 
 "studyID": "ot_2159", 
 "treeID": "tree1"
