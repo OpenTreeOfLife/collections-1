@@ -4181,6 +4181,14 @@
 "name": "Untitled (tree1)", 
 "studyID": "ot_2165", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Vacelet, J. (2012). Treatise Online no. 49: Part E, Revised, Volume 4, Chapter 4C: Hypercalcified Extant Calcarea. Treatise Online, 0(0). https://doi.org/10.17161/to.v0i0.4323\n", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree2)", 
+"studyID": "ot_2166", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
