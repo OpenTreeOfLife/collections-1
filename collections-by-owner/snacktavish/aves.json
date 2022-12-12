@@ -1616,6 +1616,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig 7--manually coded topology (Moltesen, 2012)", 
+"studyID": "ot_2168", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Zuccon, 2012", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 107, 
