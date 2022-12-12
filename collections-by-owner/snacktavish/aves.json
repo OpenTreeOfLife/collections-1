@@ -1350,6 +1350,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule (Olsson, 2013)", 
+"studyID": "ot_2169", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Alstr\u00f6m, 2013", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 88, 
