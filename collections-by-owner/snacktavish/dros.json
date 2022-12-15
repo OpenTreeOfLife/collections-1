@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "ML tree (Finet, 2021)", 
+"studyID": "ot_2174", 
+"treeID": "tree4"
+}
+], 
+"description": "", 
+"name": "dros", 
+"queries": []
+}
