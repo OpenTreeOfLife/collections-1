@@ -33,9 +33,9 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "iqtree.tre (Suvorov, 2022)", 
+"name": "SchemeA_dated (Suvorov, 2022)", 
 "studyID": "ot_2175", 
-"treeID": "tree1"
+"treeID": "tree2"
 }
 ], 
 "description": "", 
