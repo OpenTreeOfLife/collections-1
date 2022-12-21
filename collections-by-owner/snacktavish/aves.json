@@ -467,6 +467,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "*Beast_7locus (Brian Tilston Smith, 2018)", 
+"studyID": "ot_1286", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Per Alstr\u00f6m, 2018", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 23, 
