@@ -491,6 +491,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "Text wrangler topology of Fig 3 (Bruxaux, 2018)", 
+"studyID": "ot_2184", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Per Alstr\u00f6m, 2018", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 23, 
