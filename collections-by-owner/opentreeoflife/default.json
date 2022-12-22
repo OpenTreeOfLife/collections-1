@@ -4205,6 +4205,14 @@
 "name": "Untitled (tree3)", 
 "studyID": "ot_2177", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Bridge, E. S., Jones, A. W., & Baker, A. J. (2005). A phylogenetic framework for the terns (Sternini) inferred from mtDNA sequences: implications for taxonomy and plumage evolution. Molecular Phylogenetics and Evolution, 35(2), 459\u2013469. doi:10.1016/j.ympev.2004.12.010\n", 
+"decision": "INCLUDED", 
+"name": "unsmoothed", 
+"studyID": "ot_1997", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
