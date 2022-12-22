@@ -3042,6 +3042,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "unsmoothed (Bridge, 2005)", 
+"studyID": "ot_1997", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Rice, 2005", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 194, 
