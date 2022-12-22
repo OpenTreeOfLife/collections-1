@@ -519,6 +519,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "SVDq (Noor D. White, 2017)", 
+"studyID": "ot_1662", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Shakya, 2017", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 25, 
