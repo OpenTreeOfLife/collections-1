@@ -26,6 +26,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "IQ-TREE2_linked75_67ind (Moncrieff, 2022)", 
+"studyID": "ot_2098", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "75p-trimal-complete-131-raxml.tre (Salter, 2022)", 
 "studyID": "ot_2183", 
 "treeID": "tree1"
