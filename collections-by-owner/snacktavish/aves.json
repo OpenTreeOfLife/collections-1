@@ -932,6 +932,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "Madanga Amaurocichla BEAST CytbShortInkAsprLogNorm2,1% (Alstrom et al. 2015).tre (Alstr\u00f6m, 2015)", 
+"studyID": "ot_2191", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Oatley, 2015", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 45, 
