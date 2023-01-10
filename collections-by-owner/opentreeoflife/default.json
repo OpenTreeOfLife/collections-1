@@ -4213,6 +4213,14 @@
 "name": "unsmoothed", 
 "studyID": "ot_1997", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Uyeno, Teruya & Yabumoto, Yoshitaka. (2007). Origin of extant coelacanths. ", 
+"decision": "INCLUDED", 
+"name": "Fig. 2.  The phylogenetic tree compared to stratigraphy, simplified from Forey (1998)", 
+"studyID": "ot_2196", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
