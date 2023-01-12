@@ -4,7 +4,48 @@
 "login": "mtholder", 
 "name": "Mark T. Holder"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "Pozzi, 2014", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 0, 
+"name": "tree6556 (Pozzi, 2014)", 
+"ot:focalCladeOTTTaxonName": "Primates", 
+"ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2014.02.023", 
+"ot:studyPublicationReference": "Pozzi, Luca, Jason A. Hodgson, Andrew S. Burrell, Kirstin N. Sterner, Ryan L. Raaum, Todd R. Disotell. 2014. Primate phylogenetic relationships and divergence dates inferred from complete mitochondrial genomes. Molecular Phylogenetics and Evolution 75: 165-183.", 
+"ot:studyYear": 2014, 
+"studyID": "pg_2816", 
+"treeID": "tree6556"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "Salunke R., 2018", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 1, 
+"name": "PAUP 1+ (Salunke R., 2018)", 
+"ot:studyPublicationReference": "Salunke R., Mourier T., Banerjee M., Pain A., & Shanmuga D. 2018. Highly diverged novel subunit composition of apicomplexan F-type ATP synthase identified from Toxoplasma gondii. PLoS Biology, .", 
+"ot:studyYear": 2018, 
+"studyID": "ot_1838", 
+"treeID": "Tr112237"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "Springer, 2012", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 2, 
+"name": "Untitled (tree6187) (Springer, 2012)", 
+"ot:focalCladeOTTTaxonName": "Primates", 
+"ot:studyPublication": "http://dx.doi.org/10.1371/journal.pone.0049521", 
+"ot:studyPublicationReference": "Springer, Mark S., Robert W. Meredith, John Gatesy, Christopher A. Emerling, Jong Park, Daniel L. Rabosky, Tanja Stadler, Cynthia Steiner, Oliver A. Ryder, Jan E. Jane\u010dka, Colleen A. Fisher, William J. Murphy. 2012. Macroevolutionary dynamics and historical biogeography of primate diversification inferred from a species supermatrix. PLoS ONE 7 (11): e49521.", 
+"ot:studyYear": 2012, 
+"studyID": "pg_2656", 
+"treeID": "tree6187"
+}
+], 
 "description": "demo collection for custom synth", 
 "name": "Demo-Primates", 
 "queries": []
