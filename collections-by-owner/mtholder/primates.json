@@ -4,7 +4,36 @@
 "login": "mtholder", 
 "name": "Mark T. Holder"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "Springer, 2012", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 0, 
+"name": "Untitled (tree6184) (Springer, 2012)", 
+"ot:focalCladeOTTTaxonName": "Primates", 
+"ot:studyPublication": "http://dx.doi.org/10.1371/journal.pone.0049521", 
+"ot:studyPublicationReference": "Springer, Mark S., Robert W. Meredith, John Gatesy, Christopher A. Emerling, Jong Park, Daniel L. Rabosky, Tanja Stadler, Cynthia Steiner, Oliver A. Ryder, Jan E. Jane\u010dka, Colleen A. Fisher, William J. Murphy. 2012. Macroevolutionary dynamics and historical biogeography of primate diversification inferred from a species supermatrix. PLoS ONE 7 (11): e49521.", 
+"ot:studyYear": 2012, 
+"studyID": "pg_2656", 
+"treeID": "tree6184"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "Perelman, 2011", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 1, 
+"name": "Garli ML tree (Perelman, 2011)", 
+"ot:focalCladeOTTTaxonName": "Primates", 
+"ot:studyPublication": "http://dx.doi.org/10.1371/journal.pgen.1001342 ", 
+"ot:studyPublicationReference": "Perelman, P., Johnson W.E., Roos C., Seu\u00e1nez H.N., Horvath J.E., Moreira M.A., Kessing B.D., Pontius J., Roelke M., Rumpler Y., Schneider M.C., Silva A., O'brien S., & Pecon-slattery J. 2011. A Molecular Phylogeny of Living Primates. PLoS Genetics 7(3): e1001342.", 
+"ot:studyYear": 2011, 
+"studyID": "pg_1600", 
+"treeID": "tree3231"
+}
+], 
 "description": "", 
 "name": "primates", 
 "queries": []
