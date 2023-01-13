@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "AxelArango", 
+"name": "Axel Arango"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Icterus (Test Phylogeny Icterus, [no year])", 
+"studyID": "ot_2218", 
+"treeID": "tree1"
+}
+], 
+"description": "", 
+"name": "Icterus", 
+"queries": []
+}
