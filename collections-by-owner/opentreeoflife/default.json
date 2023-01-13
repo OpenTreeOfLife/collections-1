@@ -7210,6 +7210,14 @@
 "name": "Merianieae_phylogeny", 
 "studyID": "ot_2204", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from K\u00f6hler, M., Reginato, M., Souza-Chies, T. T., & Majure, L. C. (2020). Insights Into Chloroplast Genome Evolution Across Opuntioideae (Cactaceae) Reveals Robust Yet Sometimes Conflicting Phylogenetic Topologies. Frontiers in Plant Science, 11. https://doi.org/10.3389/fpls.2020.00729\n", 
+"decision": "INCLUDED", 
+"name": "Opuntioideae tree", 
+"studyID": "ot_2215", 
+"treeID": "tree4"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
