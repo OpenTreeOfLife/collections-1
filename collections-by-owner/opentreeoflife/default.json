@@ -7194,6 +7194,14 @@
 "ot:studyYear": 2019, 
 "studyID": "ot_2197", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Lopes, F., Oliveira, L. R., Kessler, A., Beux, Y., Crespo, E., C\u00e1rdenas-Alayza, S., Majluf, P., Sep\u00falveda, M., Brownell, R. L., Franco-Trecu, V., P\u00e1ez-Rosas, D., Chaves, J., Loch, C., Robertson, B. C., Acevedo-Whitehouse, K., Elorriaga-Verplancken, F. R., Kirkman, S. P., Peart, C. R., Wolf, J. B. W., & Bonatto, S. L. (2020). Phylogenomic Discordance in the Eared Seals is best explained by Incomplete Lineage Sorting following Explosive Radiation in the Southern Hemisphere. Systematic Biology, 70(4), 786\u2013802. https://doi.org/10.1093/sysbio/syaa099\n", 
+"decision": "INCLUDED", 
+"name": "EaredSeals", 
+"studyID": "ot_2207", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
