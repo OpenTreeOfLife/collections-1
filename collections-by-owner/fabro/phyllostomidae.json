@@ -1,0 +1,36 @@
+{
+"contributors": [], 
+"creator": {
+"login": "fabro", 
+"name": "Fabricio Villalobos"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "Most recent superfamily phylogeny", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (Rojas D., 2016)", 
+"studyID": "ot_1409", 
+"treeID": "Tr87541"
+}, 
+{
+"SHA": "", 
+"comments": "most recent order phylogeny", 
+"decision": "INCLUDED", 
+"name": "Tree1 (Shi, 2015)", 
+"studyID": "ot_254", 
+"treeID": "Tr87680"
+}, 
+{
+"SHA": "", 
+"comments": "tree highlighting phylogenetic incongruence ", 
+"decision": "INCLUDED", 
+"name": "tree4042 (Davalos L.M., 2012)", 
+"studyID": "pg_1976", 
+"treeID": "tree4042"
+}
+], 
+"description": "Synthesis of Phyllostomidae relationships ", 
+"name": "Phyllostomidae", 
+"queries": []
+}
