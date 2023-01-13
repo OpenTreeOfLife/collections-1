@@ -7218,6 +7218,14 @@
 "name": "Opuntioideae tree", 
 "studyID": "ot_2215", 
 "treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Li, C., Olave, M., Hou, Y., Qin, G., Schneider, R. F., Gao, Z., Tu, X., Wang, X., Qi, F., Nater, A., Kautt, A. F., Wan, S., Zhang, Y., Liu, Y., Zhang, H., Zhang, B., Zhang, H., Qu, M., Liu, S., \u2026 Lin, Q. (2021). Genome sequences reveal global dispersal routes and suggest convergent genetic adaptations in seahorse evolution. Nature Communications, 12(1). https://doi.org/10.1038/s41467-021-21379-x\n", 
+"decision": "INCLUDED", 
+"name": "Figshare RAxML_bestTree.139.tre", 
+"studyID": "ot_2217", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
