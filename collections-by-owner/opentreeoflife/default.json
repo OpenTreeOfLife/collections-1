@@ -7202,6 +7202,14 @@
 "name": "EaredSeals", 
 "studyID": "ot_2207", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Michelangeli, F. A., Dellinger, A. S., Goldenberg, R., Almeda, F., Mendoza-Cifuentes, H., Fern\u00e1ndez-Fern\u00e1ndez, D., Ulloa Ulloa, C., & Penneys, D. S. (2022). Phylogenetics and Taxonomy of the Tribe Merianieae. Systematics, Evolution, and Ecology of Melastomataceae, 255\u2013273. https://doi.org/10.1007/978-3-030-99742-7_11\n", 
+"decision": "INCLUDED", 
+"name": "Merianieae_phylogeny", 
+"studyID": "ot_2204", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
