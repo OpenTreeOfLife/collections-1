@@ -4229,6 +4229,14 @@
 "name": "TREE1", 
 "studyID": "ot_2200", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Pinto-Ledezma, J. N., Jahn, A. E., Cueto, V. R., Diniz-Filho, J. A. F., & Villalobos, F. (2019). Drivers of Phylogenetic Assemblage Structure of the Furnariides, a Widespread Clade of Lowland Neotropical Birds. The American Naturalist, 193(2), E41\u2013E56. https://doi.org/10.1086/700696\n", 
+"decision": "INCLUDED", 
+"name": "Furnariides", 
+"studyID": "ot_2197", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
