@@ -7226,6 +7226,14 @@
 "name": "Figshare RAxML_bestTree.139.tre", 
 "studyID": "ot_2217", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Peterson, Rose D., et al. \"Phylogenomics of Bony-Tongue Fishes (Osteoglossomorpha) Shed Light on the Craniofacial Evolution and Biogeography of the Weakly Electric Clade (Mormyridae).\" Systematic Biology (2022).\n", 
+"decision": "INCLUDED", 
+"name": "iqtree timetree (all)", 
+"studyID": "ot_2202", 
+"treeID": "tree2"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
