@@ -851,6 +851,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "*BEAST Zoothera mollissima Strict Cytb HKY+G 2,1% BirthDeath 150827 (50 milj reps).tre (Alstr\u00f6m, 2016)", 
+"studyID": "ot_2220", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Hooper, 2016", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 38, 
