@@ -18,6 +18,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "sunbirdTree2021taxonomy (eBird Taxonomy draft, 2021)", 
+"studyID": "ot_2019", 
+"treeID": "tree8"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "allgenes_concat.ML.treefile from 1-s2.0-S1055790322002597-mmc5.txt (Zhao, 2023)", 
 "studyID": "ot_2167", 
 "treeID": "tree1"
