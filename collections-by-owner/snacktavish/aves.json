@@ -18,6 +18,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "sunbirdTree2021taxonomyV2 (eBird Taxonomy draft, 2021)", 
+"studyID": "ot_2019", 
+"treeID": "tree10"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "weaverTree2021taxonomy (eBird Taxonomy draft, 2021)", 
 "studyID": "ot_2019", 
 "treeID": "tree9"
