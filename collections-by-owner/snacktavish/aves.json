@@ -18,6 +18,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "lbjTree2021taxonomy (eBird Taxonomy draft, 2021)", 
+"studyID": "ot_2019", 
+"treeID": "tree12"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "NADH6 - NADH2 - Cyt_b and 10 other alignments RAxML Tree (Fig 3A) (No matching publication found for this DOI!, [no year])", 
 "studyID": "ot_2221", 
 "treeID": "tree1"
