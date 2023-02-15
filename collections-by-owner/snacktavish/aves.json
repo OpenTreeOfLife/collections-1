@@ -490,9 +490,10 @@
 "compactRefText": "(Untitled)", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 34, 
-"name": "TREE1 ((Untitled))", 
+"name": "TREE1 (Cicero, 2020)", 
 "ot:focalCladeOTTTaxonName": "Passerellidae", 
 "ot:studyPublication": "https://peerj.com/articles/9249/", 
+"ot:studyPublicationReference": "Cicero, C., Mason, N. A., Benedict, L., & Rising, J. D. (2020). Behavioral, morphological, and ecological trait evolution in two clades of New World Sparrows (AimophilaandPeucaea, Passerellidae). PeerJ, 8, e9249. Portico. https://doi.org/10.7717/peerj.9249\n", 
 "ot:studyYear": 2020, 
 "studyID": "ot_2152", 
 "treeID": "tree1"
@@ -503,9 +504,10 @@
 "compactRefText": "(Untitled)", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 35, 
-"name": "TREE1 ((Untitled))", 
+"name": "TREE1 (Olsson, 2020)", 
 "ot:focalCladeOTTTaxonName": "Estrildidae", 
 "ot:studyPublication": "https://www.sciencedirect.com/science/article/pii/S1055790320300294", 
+"ot:studyPublicationReference": "Olsson, U., & Alstr\u00f6m, P. (2020). A comprehensive phylogeny and taxonomic evaluation of the waxbills (Aves: Estrildidae). Molecular Phylogenetics and Evolution, 146, 106757. https://doi.org/10.1016/j.ympev.2020.106757\n", 
 "ot:studyYear": 2020, 
 "studyID": "ot_2222", 
 "treeID": "tree1"
@@ -589,6 +591,7 @@
 "name": "Fig 1 (Garcia-R, 2020)", 
 "ot:focalCladeOTTTaxonName": "Rallidae", 
 "ot:studyPublication": "https://www.mdpi.com/1424-2818/12/2/70/htm", 
+"ot:studyPublicationReference": "Garcia-R, J. C., Lemmon, E. M., Lemmon, A. R., & French, N. (2020). Phylogenomic Reconstruction Sheds Light on New Relationships and Timescale of Rails (Aves: Rallidae) Evolution. Diversity, 12(2), 70. https://doi.org/10.3390/d12020070\n", 
 "ot:studyYear": 2020, 
 "studyID": "ot_2160", 
 "treeID": "tree1"
@@ -1549,9 +1552,10 @@
 "compactRefText": "(Untitled)", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 110, 
-"name": "Manually created this tree ((Untitled))", 
+"name": "Manually created this tree (Sprengelmeyer, 2014)", 
 "ot:focalCladeOTTTaxonName": "Gavia", 
 "ot:studyPublication": "https://commons.nmu.edu/theses/1/", 
+"ot:studyPublicationReference": "Sprengelmeyer, Quentin D. \"A phylogenetic reevaluation of the genus Gavia (Aves: Gaviiformes) using next-generation sequencing.\" (2014).", 
 "ot:studyYear": 2014, 
 "studyID": "ot_2147", 
 "treeID": "tree1"
