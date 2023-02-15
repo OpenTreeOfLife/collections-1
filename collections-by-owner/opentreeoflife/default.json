@@ -7242,6 +7242,14 @@
 "name": "SchemeA_dated_Mya", 
 "studyID": "ot_2175", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Hugall, Andrew F., Devi Stuart-Fox. 2012. Accelerated speciation in colour-polymorphic birds. Nature 485 (7400): 631-634.", 
+"decision": "INCLUDED", 
+"name": "Fig. S6 Falconidae", 
+"studyID": "ot_116", 
+"treeID": "tree4"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
