@@ -7258,6 +7258,14 @@
 "name": "TREE1", 
 "studyID": "ot_1228", 
 "treeID": "Tr109565"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Vanessa Terra,Fl\u00e1via C. P. Garcia,Luciano P. de Queiroz,Michelle van der Bank,Joseph T. Miller, 2017, 'Phylogenetic Relationships in Senegalia (Leguminosae-Mimosoideae) Emphasizing the South American Lineages', Systematic Botany, vol. 42, no. 3, pp. 458-464", 
+"decision": "INCLUDED", 
+"name": "Default symmetrical", 
+"studyID": "ot_1881", 
+"treeID": "tree5"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
