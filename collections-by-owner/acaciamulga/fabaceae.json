@@ -60,6 +60,19 @@
 "ot:studyYear": 2017, 
 "studyID": "ot_1229", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "Achimon F., 2018", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 4, 
+"name": "TREE1 (Achimon F., 2018)", 
+"ot:studyPublication": "https://doi.org/10.1007/s13127-017-0355-1", 
+"ot:studyPublicationReference": "Achimon F., Johnson L., Cocucci A., Sersic A., & Baranzelli M.C. 2018. Species tree phylogeny, character evolution and biogeography of the Patagonian genus Anarthrophyllum Benth. (Fabaceae). Organisms Diversity & Evolution, .", 
+"ot:studyYear": 2018, 
+"studyID": "ot_1228", 
+"treeID": "Tr109565"
 }
 ], 
 "description": "", 
