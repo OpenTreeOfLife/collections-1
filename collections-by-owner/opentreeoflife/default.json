@@ -7250,6 +7250,14 @@
 "name": "Fig. S6 Falconidae", 
 "studyID": "ot_116", 
 "treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Achimon F., Johnson L., Cocucci A., Sersic A., & Baranzelli M.C. 2018. Species tree phylogeny, character evolution and biogeography of the Patagonian genus Anarthrophyllum Benth. (Fabaceae). Organisms Diversity & Evolution, .", 
+"decision": "INCLUDED", 
+"name": "TREE1", 
+"studyID": "ot_1228", 
+"treeID": "Tr109565"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
