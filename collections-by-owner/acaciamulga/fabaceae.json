@@ -32,6 +32,34 @@
 "ot:studyYear": 2011, 
 "studyID": "pg_293", 
 "treeID": "tree201"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "Mishler B., 2014", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 2, 
+"name": "tree 1 (Mishler B., 2014)", 
+"ot:focalCladeOTTTaxonName": "Acacia", 
+"ot:studyPublication": "http://dx.doi.org/10.1038/ncomms5473", 
+"ot:studyPublicationReference": "Mishler B., Knerr N., Gonz?lez-orozco C.E., Thornhill A.H., Laffan S., & Miller J.T. 2014. Phylogenetic Measures of Biodiversity and Neo- and Paleo-Endemism in Australian Acacia. Nature Communications, 5(4473).", 
+"ot:studyYear": 2014, 
+"studyID": "ot_303", 
+"treeID": "Tr62284"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "Joseph T. Miller, 2017", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 3, 
+"name": "Maximum likelihood topology tree based on the combined ITS and plastid dataset. (Joseph T. Miller, 2017)", 
+"ot:focalCladeOTTTaxonName": "Mimosoideae", 
+"ot:studyPublication": "http://dx.doi.org/10.1600/036364417x696140", 
+"ot:studyPublicationReference": "Joseph T. Miller, Vanessa Terra, Chance Riggins, John E. Ebinger, David S. Seigler, 2017, 'Molecular Phylogenetics of Parasenegalia and Pseudosenegalia (Fabaceae: Mimosoideae)', Systematic Botany, vol. 42, no. 3, pp. 465-469", 
+"ot:studyYear": 2017, 
+"studyID": "ot_1229", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
