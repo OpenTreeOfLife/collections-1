@@ -86,6 +86,18 @@
 "ot:studyYear": 2017, 
 "studyID": "ot_1881", 
 "treeID": "tree5"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "le Roux, 2013", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 6, 
+"name": "tree (le Roux, 2013)", 
+"ot:studyPublicationReference": "le Roux, M. M., & van Wyk, B. E. (2013). A Taxonomic Revision of Amphitrichae, a New Section of Crotalaria (Fabaceae). Systematic Botany, 38(3), 638-652.", 
+"ot:studyYear": 2013, 
+"studyID": "pg_2051", 
+"treeID": "tree4226"
 }
 ], 
 "description": "", 
