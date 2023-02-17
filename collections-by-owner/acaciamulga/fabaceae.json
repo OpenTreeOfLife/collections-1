@@ -4,7 +4,22 @@
 "login": "acaciamulga", 
 "name": "Joe Miller"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "LPWG tree, large", 
+"compactRefText": "Azani, 2017", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 0, 
+"name": "Bayesian Majority Rule Phylobayes Consensus Tree (Azani, 2017)", 
+"ot:focalCladeOTTTaxonName": "Fabaceae", 
+"ot:studyPublication": "http://dx.doi.org/10.12705/661.3", 
+"ot:studyPublicationReference": "Azani, Nasim, et al. \"A new subfamily classification of the Leguminosae based on a taxonomically comprehensive phylogeny The Legume Phylogeny Working Group (LPWG).\" Taxon 66.1 (2017): 44-77.", 
+"ot:studyYear": 2017, 
+"studyID": "ot_1050", 
+"treeID": "tree1"
+}
+], 
 "description": "", 
 "name": "Fabaceae", 
 "queries": []
