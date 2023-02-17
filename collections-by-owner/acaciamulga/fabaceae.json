@@ -18,6 +18,20 @@
 "ot:studyYear": 2017, 
 "studyID": "ot_1050", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "Simon, 2011", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 1, 
+"name": "Fig 1 Bayesian tree (Simon, 2011)", 
+"ot:focalCladeOTTTaxonName": "Mimosa", 
+"ot:studyPublication": "http://dx.doi.org/10.3732/ajb.1000520", 
+"ot:studyPublicationReference": "Simon, M. F. [et al. 2011], Grether, R., de Queiroz, L. P., S\u00e4rkinen, T. E., Dutra, V. F., & Hughes, C. E. 2011. The evolutionary history of Mimosa (Leguminosae): Toward a phylogeny of the sensitive plants. American J. Bot. 98: 1201-1221.", 
+"ot:studyYear": 2011, 
+"studyID": "pg_293", 
+"treeID": "tree201"
 }
 ], 
 "description": "", 
