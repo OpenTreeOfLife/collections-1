@@ -98,6 +98,20 @@
 "ot:studyYear": 2013, 
 "studyID": "pg_2051", 
 "treeID": "tree4226"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "A. Delgado-Salinas, 2011", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 7, 
+"name": "tree798 (A. Delgado-Salinas, 2011)", 
+"ot:focalCladeOTTTaxonName": "Fabaceae", 
+"ot:studyPublication": "http://dx.doi.org/10.3732/ajb.1100069", 
+"ot:studyPublicationReference": "A. Delgado-Salinas, M. Thulin, R. Pasquet, N. Weeden, M. Lavin. 2011. Vigna (Leguminosae) sensu lato: The names and identities of the American segregate genera. American Journal of Botany 98(10):1694-1715.", 
+"ot:studyYear": 2011, 
+"studyID": "pg_548", 
+"treeID": "tree798"
 }
 ], 
 "description": "", 
