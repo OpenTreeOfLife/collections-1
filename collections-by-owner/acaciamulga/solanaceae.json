@@ -4,7 +4,60 @@
 "login": "acaciamulga", 
 "name": "Joe Miller"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "largest tree i found", 
+"compactRefText": "S\u00e4rkinen, 2013", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 0, 
+"name": "ML phylogram (S\u00e4rkinen, 2013)", 
+"ot:focalCladeOTTTaxonName": "Solanales", 
+"ot:studyPublication": "http://dx.doi.org/10.1186/1471-2148-13-214", 
+"ot:studyPublicationReference": "S\u00e4rkinen, Tiina , Lynn Bohs, Richard G. Olmstead, Sandra Knapp. 2013. A phylogenetic framework for evolutionary study of the nightshades (Solanaceae): a dated 1000-tip tree. BMC Evolutionary Biology 13: 214.", 
+"ot:studyYear": 2013, 
+"studyID": "ot_1003", 
+"treeID": "Tr100304"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "Olmstead R., 2008", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 1, 
+"name": "tree37 (Olmstead R., 2008)", 
+"ot:focalCladeOTTTaxonName": "Solanaceae", 
+"ot:studyPublication": "http://www.ingentaconnect.com/content/iapt/tax/2008/00000057/00000004/art00010", 
+"ot:studyPublicationReference": "Olmstead R., Bohs L., Abdel-migid H., Santiago-velent\u00edn E., Garcia V., & Collier S. 2008. A molecular phylogeny of the Solanaceae. Taxon, 57(4): 1159-1181.", 
+"ot:studyYear": 2008, 
+"studyID": "pg_21", 
+"treeID": "tree37"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2250 (Poczai, 2011)", 
+"studyID": "pg_1128", 
+"treeID": "tree2250"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2252 (Weese, 2007)", 
+"studyID": "pg_208", 
+"treeID": "tree2252"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2254 (Clarkson, 2004)", 
+"studyID": "pg_1130", 
+"treeID": "tree2254"
+}
+], 
 "description": "Solanaceae", 
 "name": "Solanaceae", 
 "queries": []
