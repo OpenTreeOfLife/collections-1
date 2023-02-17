@@ -73,6 +73,19 @@
 "ot:studyYear": 2018, 
 "studyID": "ot_1228", 
 "treeID": "Tr109565"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "Vanessa Terra, 2017", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 5, 
+"name": "Default symmetrical (Vanessa Terra, 2017)", 
+"ot:studyPublication": "http://dx.doi.org/10.1600/036364417x696122", 
+"ot:studyPublicationReference": "Vanessa Terra,Fl\u00e1via C. P. Garcia,Luciano P. de Queiroz,Michelle van der Bank,Joseph T. Miller, 2017, 'Phylogenetic Relationships in Senegalia (Leguminosae-Mimosoideae) Emphasizing the South American Lineages', Systematic Botany, vol. 42, no. 3, pp. 458-464", 
+"ot:studyYear": 2017, 
+"studyID": "ot_1881", 
+"treeID": "tree5"
 }
 ], 
 "description": "", 
