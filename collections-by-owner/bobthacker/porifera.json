@@ -1,5 +1,10 @@
 {
-"contributors": [], 
+"contributors": [
+{
+"login": "BruceLieberman", 
+"name": "Bruce S Lieberman"
+}
+], 
 "creator": {
 "login": "bobthacker", 
 "name": "bobthacker"
@@ -67,6 +72,14 @@
 "decision": "INCLUDED", 
 "name": "Klautau 2013 Clathrinida ITS (M. Klautau, 2013)", 
 "studyID": "ot_1106", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Stromatoporoidea (Stearn, 2011)", 
+"studyID": "ot_2194", 
 "treeID": "tree1"
 }
 ], 
