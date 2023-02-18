@@ -7266,6 +7266,14 @@
 "name": "Default symmetrical", 
 "studyID": "ot_1881", 
 "treeID": "tree5"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Stearn, C. (2011). Treatise Online, no. 12, Part E, Revised, Volume 4, Chapter 15B: Classification of the Paleozoic Stromatoporoidea. Treatise Online, 0(0). https://doi.org/10.17161/to.v0i0.4082\n", 
+"decision": "INCLUDED", 
+"name": "Stromatoporoidea", 
+"studyID": "ot_2194", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
