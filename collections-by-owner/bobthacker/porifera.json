@@ -134,6 +134,14 @@
 "ot:studyYear": 2011, 
 "studyID": "ot_2194", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Classification of extant Calcarea based on Treatise on Invertebrate Paleontology (Vacelet, 2012)", 
+"studyID": "ot_2166", 
+"treeID": "tree1"
 }
 ], 
 "description": "Collection of Porifera Phylogenies", 
