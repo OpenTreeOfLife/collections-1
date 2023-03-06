@@ -7274,6 +7274,14 @@
 "name": "Stromatoporoidea", 
 "studyID": "ot_2194", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Ringelberg et al. 2023, SCIENCE ADVANCES\n17 Feb 2023\nVol 9, Issue 7\nDOI: 10.1126/sciadv.ade4954", 
+"decision": "INCLUDED", 
+"name": "Metachronogram Fig 1", 
+"studyID": "ot_2227", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
