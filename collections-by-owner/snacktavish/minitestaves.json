@@ -4,7 +4,35 @@
 "login": "snacktavish", 
 "name": "Emily Jane McTavish"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "De Silva, 2019", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 0, 
+"name": "TREE1 (De Silva, 2019)", 
+"ot:focalCladeOTTTaxonName": "Ploceidae", 
+"ot:studyPublication": "http://dx.doi.org/10.1093/auk/ukz041", 
+"ot:studyPublicationReference": "De Silva, T. N., Peterson, A. T., & Perktas, U. (2019). An extensive molecular phylogeny of weaverbirds (Aves: Ploceidae) unveils broad nonmonophyly of traditional genera and new relationships. The Auk, 136(3). https://doi.org/10.1093/auk/ukz041\n", 
+"ot:studyYear": 2019, 
+"studyID": "ot_2172", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "eBird Taxonomy draft, 2021", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 1, 
+"name": "weaverTree2021taxonomy (eBird Taxonomy draft, 2021)", 
+"ot:studyPublication": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"ot:studyPublicationReference": "eBird Taxonomy draft, 2021", 
+"ot:studyYear": 2021, 
+"studyID": "ot_2019", 
+"treeID": "tree9"
+}
+], 
 "description": "", 
 "name": "mini_test_aves", 
 "queries": []
