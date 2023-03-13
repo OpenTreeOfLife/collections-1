@@ -291,6 +291,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "MCC from phangorn (Lapiedra, 2021)", 
+"studyID": "ot_2228", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Kirchman, 2021", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 20, 
