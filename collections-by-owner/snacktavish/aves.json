@@ -98,9 +98,10 @@
 "compactRefText": "(Untitled)", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 6, 
-"name": "TREE1 (study has no reference)", 
+"name": "TREE1 (Alstr\u00f6m, 2023)", 
 "ot:focalCladeOTTTaxonName": "Alaudidae", 
 "ot:studyPublication": "https://doi.org/10.1016/j.avrs.2023.100095", 
+"ot:studyPublicationReference": "Alstr\u00f6m, P., Mohammadi, Z., Enbody, E., Irestedt, M., Engelbrecht, D., Crochet, P.-A., Guillaumet, A., Rancilhac, L., Tieleman, B. I., Olsson, U., Donald, P. F., & Stervander, M. (2023). Systematics of the avian family Alaudidae using multilocus and genomic data. Avian Research, 100095. https://doi.org/10.1016/j.avrs.2023.100095\n", 
 "ot:studyYear": 2023, 
 "studyID": "ot_2230", 
 "treeID": "tree1"
