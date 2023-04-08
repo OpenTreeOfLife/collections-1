@@ -277,6 +277,14 @@
 {
 "SHA": "", 
 "comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig 3 (Jha, 2021)", 
+"studyID": "ot_2231", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
 "compactRefText": "Kirchman, 2021", 
 "decision": "INCLUDED", 
 "defaultSortOrder": 19, 
