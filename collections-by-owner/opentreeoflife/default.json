@@ -7282,6 +7282,14 @@
 "name": "Metachronogram Fig 1", 
 "studyID": "ot_2227", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Evolutionary and taxonomic relationships of Acacia s.l. (Leguminosae: Mimosoideae), Joseph T. Miller,David Seigler, 2012, ', Australian Systematic Botany, vol. 25, no. 3, p. 217", 
+"decision": "INCLUDED", 
+"name": "Default symmetrical", 
+"studyID": "ot_1882", 
+"treeID": "tree3"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
