@@ -126,6 +126,20 @@
 "ot:studyYear": 2011, 
 "studyID": "pg_548", 
 "treeID": "tree798"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "Farruggia, 2011", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 9, 
+"name": "Maximum Parsimony (Farruggia, 2011)", 
+"ot:focalCladeOTTTaxonName": "Fabaceae", 
+"ot:studyPublication": "http://dx.doi.org/10.1007/s12228-011-9189-x", 
+"ot:studyPublicationReference": "Farruggia, F. T., & Howard, J. H. 2011. Examination of five nuclear markers for phylogenetic study of Hologalegina (Leguminosae). Brittonia 63: 489-499.", 
+"ot:studyYear": 2011, 
+"studyID": "pg_590", 
+"treeID": "tree882"
 }
 ], 
 "description": "", 
