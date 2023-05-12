@@ -140,6 +140,20 @@
 "ot:studyYear": 2011, 
 "studyID": "pg_590", 
 "treeID": "tree882"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "Souza E.R., 2013", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 10, 
+"name": "Untitled (tree6740) (Souza E.R., 2013)", 
+"ot:focalCladeOTTTaxonName": "Calliandra", 
+"ot:studyPublication": "http://dx.doi.org/10.12705/626.2", 
+"ot:studyPublicationReference": "Souza E.R., Lewis G.P., Forest F., Schnadelbach A.S., Van den berg C., & Queiroz L.P. 2013. Phylogeny of Calliandra (Leguminosae: Mimosoideae) based on nuclear and plastid molecular markers. TAXON, 62(6): 1201-1220.", 
+"ot:studyYear": 2013, 
+"studyID": "pg_2912", 
+"treeID": "tree6740"
 }
 ], 
 "description": "", 
