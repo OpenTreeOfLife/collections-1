@@ -154,6 +154,20 @@
 "ot:studyYear": 2013, 
 "studyID": "pg_2912", 
 "treeID": "tree6740"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"compactRefText": "Saslis-Lagoudakis, 2008", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 11, 
+"name": "Max Parsimony (tree3760) (Saslis-Lagoudakis, 2008)", 
+"ot:focalCladeOTTTaxonName": "Fabaceae", 
+"ot:studyPublication": "http://dx.doi.org/10.3732/ajb.0800101", 
+"ot:studyPublicationReference": "Saslis-Lagoudakis, C., Chase, M. W., Robinson, D. N., Russell, S. J., & Klitgaard, B. B. (2008). Phylogenetics of neotropical Platymiscium (Leguminosae: Dalbergieae): systematics, divergence times, and biogeography inferred from nuclear ribosomal and plastid DNA sequence data. American Journal of Botany, 95(10), 1270-1286.", 
+"ot:studyYear": 2008, 
+"studyID": "pg_1862", 
+"treeID": "tree3760"
 }
 ], 
 "description": "", 
