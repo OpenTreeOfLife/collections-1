@@ -251,6 +251,19 @@
 "ot:studyYear": 2009, 
 "studyID": "pg_292", 
 "treeID": "tree199"
+}, 
+{
+"SHA": "", 
+"comments": "tribes Trifolieae and Vicieae ", 
+"compactRefText": "Steele K., 2003", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 18, 
+"name": "Untitled (tree5290) (Steele K., 2003)", 
+"ot:studyPublication": "http://books.google.com/books?id=vbBaAAAACAAJ", 
+"ot:studyPublicationReference": "Steele K., & Wojciechowski M. 2003. \"Phylogenetic analyses of tribes Trifolieae and Vicieae based on sequences of the plastid gene matK (Papilionoideae: Leguminosae).\" In: Klitgaard B., & Bruneau A., eds. Advances in Legume Systematics, part 10. pp. 355-370. London, Royal Botanic Gardens, Kew.", 
+"ot:studyYear": 2003, 
+"studyID": "pg_606", 
+"treeID": "tree5290"
 }
 ], 
 "description": "", 
