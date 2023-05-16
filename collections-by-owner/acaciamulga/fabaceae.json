@@ -237,6 +237,20 @@
 "ot:studyYear": 2011, 
 "studyID": "pg_2077", 
 "treeID": "tree4291"
+}, 
+{
+"SHA": "", 
+"comments": "Camptosema, Galactia and Collaea ", 
+"compactRefText": "Sede, 2009", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 17, 
+"name": "tree199 (Sede, 2009)", 
+"ot:focalCladeOTTTaxonName": "Papilionoideae", 
+"ot:studyPublication": "http://dx.doi.org/10.1071/BT08091", 
+"ot:studyPublicationReference": "Sede, S. M., Tosto, D., Talia, P., Luckow, M., Poggio, L., & Fortunato, R. (2009). Phylogenetic relationships among southern South American species of Camptosema, Galactia and Collaea (Diocleinae: Papilionoideae: Leguminosae) on the basis of molecular and morphological data. Australian Journal of Botany, 57(1), 76-86.", 
+"ot:studyYear": 2009, 
+"studyID": "pg_292", 
+"treeID": "tree199"
 }
 ], 
 "description": "", 
