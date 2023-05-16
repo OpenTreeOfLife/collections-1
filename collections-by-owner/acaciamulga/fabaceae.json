@@ -223,6 +223,20 @@
 "ot:studyYear": 2016, 
 "studyID": "ot_1443", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Podalyria", 
+"compactRefText": "Schutte-Vlok, 2011", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 16, 
+"name": "tree4291 (Schutte-Vlok, 2011)", 
+"ot:focalCladeOTTTaxonName": "Podalyria", 
+"ot:studyPublication": "http://dx.doi.org/10.1600/036364411X583628", 
+"ot:studyPublicationReference": "Schutte-Vlok, A. L., & Wyk, B. E. V. (2011). A Taxonomic Revision of Podalyria (Fabaceae). Systematic Botany, 36(3), 631-660.", 
+"ot:studyYear": 2011, 
+"studyID": "pg_2077", 
+"treeID": "tree4291"
 }
 ], 
 "description": "", 
