@@ -195,6 +195,20 @@
 "ot:studyYear": 2012, 
 "studyID": "pg_2055", 
 "treeID": "tree4234"
+}, 
+{
+"SHA": "", 
+"comments": "Tribe Crotalarieae", 
+"compactRefText": "Boatwright J., 2008", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 14, 
+"name": "tree775 (Boatwright J., 2008)", 
+"ot:focalCladeOTTTaxonName": "Crotalarieae", 
+"ot:studyPublication": "http://dx.doi.org/10.1600/036364408786500271", 
+"ot:studyPublicationReference": "Boatwright J., Roux M., Wink M., Morozova T., & Wyk B. 2008. Phylogenetic Relationships of the Tribe Crotalarieae (Fabaceae) Inferred from DNA Sequences and Morphology. Systematic botany, 33(4), 752-761.", 
+"ot:studyYear": 2008, 
+"studyID": "pg_58", 
+"treeID": "tree775"
 }
 ], 
 "description": "", 
