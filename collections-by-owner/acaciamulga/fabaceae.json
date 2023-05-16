@@ -305,6 +305,20 @@
 "ot:studyYear": 2009, 
 "studyID": "pg_270", 
 "treeID": "tree159"
+}, 
+{
+"SHA": "", 
+"comments": "Cercidoideae", 
+"compactRefText": "Sinou, 2020", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 22, 
+"name": "con 50 majrule (Sinou, 2020)", 
+"ot:focalCladeOTTTaxonName": "Cercidoideae", 
+"ot:studyPublication": "http://dx.doi.org/10.1002/tax.12207", 
+"ot:studyPublicationReference": "Sinou, C., Cardinal\u2010McTeague, W., & Bruneau, A. (2020). Testing generic limits in Cercidoideae (Leguminosae): Insights from plastid and duplicated nuclear gene sequences. TAXON, 69(1), 67\u201386. doi:10.1002/tax.12207\n", 
+"ot:studyYear": 2020, 
+"studyID": "ot_1987", 
+"treeID": "tree1"
 }
 ], 
 "description": "", 
