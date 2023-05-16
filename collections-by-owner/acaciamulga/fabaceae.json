@@ -181,6 +181,20 @@
 "ot:studyYear": 2008, 
 "studyID": "pg_1862", 
 "treeID": "tree3760"
+}, 
+{
+"SHA": "", 
+"comments": "Bowdichia clade", 
+"compactRefText": "Cardoso D.B., 2012", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 13, 
+"name": "Untitled (tree4234) (Cardoso D.B., 2012)", 
+"ot:focalCladeOTTTaxonName": "Bowdichia", 
+"ot:studyPublication": "http://www.ingentaconnect.com/content/iapt/tax/2012/00000061/00000005/art00012", 
+"ot:studyPublicationReference": "Cardoso D.B., Cavalcante de lima H., Sch?tz rodrigues R., Queiroz L.P., Pennington R., & Lavin M. 2012. The Bowdichia clade of Genistoid legumes: phylogenetic analysis of combined molecular (ITS, matK and trnL intron) and morphological data and a recircumscription of Diplotropis. Taxon, 61(5): 1074?1087.", 
+"ot:studyYear": 2012, 
+"studyID": "pg_2055", 
+"treeID": "tree4234"
 }
 ], 
 "description": "", 
