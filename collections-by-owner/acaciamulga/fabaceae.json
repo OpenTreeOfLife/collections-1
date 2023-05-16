@@ -291,6 +291,20 @@
 "ot:studyYear": 2016, 
 "studyID": "ot_1390", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "tribe Indigofereae", 
+"compactRefText": "Schrire, 2009", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 21, 
+"name": "tree159 (Schrire, 2009)", 
+"ot:focalCladeOTTTaxonName": "Indigofereae", 
+"ot:studyPublication": "http://dx.doi.org/10.3732/ajb.0800185", 
+"ot:studyPublicationReference": "Schrire, B. D. [et al. 2009], Lavin, M., Barker, N. P., & Forest, F. 2009. Phylogeny of the tribe Indigofereae (Leguminosae-Papilionoideae): Geographically structured more in succulent-rich and temperate settings than in grass-rich environments. American J. Bot. 96: 816-852.", 
+"ot:studyYear": 2009, 
+"studyID": "pg_270", 
+"treeID": "tree159"
 }
 ], 
 "description": "", 
