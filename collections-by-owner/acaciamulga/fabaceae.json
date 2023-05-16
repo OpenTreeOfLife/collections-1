@@ -319,6 +319,20 @@
 "ot:studyYear": 2020, 
 "studyID": "ot_1987", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Pomaria (Caesalpinioideae", 
+"compactRefText": "Simpson, 2006", 
+"decision": "INCLUDED", 
+"defaultSortOrder": 23, 
+"name": "tree5341 (Simpson, 2006)", 
+"ot:focalCladeOTTTaxonName": "Pomaria", 
+"ot:studyPublication": "http://dx.doi.org/10.1600/036364406779695915", 
+"ot:studyPublicationReference": "Simpson, B., Larkin, L., Weeks, A., & McDill, J. (2006). Phylogeny and biogeography of Pomaria (Caesalpinioideae: Leguminosae). Systematic botany, 31(4), 792-804.", 
+"ot:studyYear": 2006, 
+"studyID": "pg_138", 
+"treeID": "tree5341"
 }
 ], 
 "description": "", 
