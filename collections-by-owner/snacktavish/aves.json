@@ -677,6 +677,14 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
+"name": "Anthipes_bipartitions_corrected.tre (Shakya, 2020)", 
+"studyID": "ot_2234", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
 "name": "Alophoixus_bipartitions_corrected.tre (Shakya, 2020)", 
 "studyID": "ot_2234", 
 "treeID": "tree1"
