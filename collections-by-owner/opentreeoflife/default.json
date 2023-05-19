@@ -7298,6 +7298,14 @@
 "name": "Fig. 2.  The phylogenetic tree compared to stratigraphy, simplified from Forey (1998).", 
 "studyID": "ot_2196", 
 "treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Uyeno, Teruya & Yabumoto, Yoshitaka. (2007). Origin of extant coelacanths. ", 
+"decision": "INCLUDED", 
+"name": "Fig. 3. The phylogenetic tree, simplified from Clement (2005; 2006).", 
+"studyID": "ot_2196", 
+"treeID": "tree5"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
