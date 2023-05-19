@@ -7306,6 +7306,14 @@
 "name": "Fig. 3. The phylogenetic tree, simplified from Clement (2005; 2006).", 
 "studyID": "ot_2196", 
 "treeID": "tree5"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Kawahara, A. Y., Storer, C., Carvalho, A. P. S., Plotkin, D. M., Condamine, F. L., Braga, M. P., Ellis, E. A., St Laurent, R. A., Li, X., Barve, V., Cai, L., Earl, C., Frandsen, P. B., Owens, H. L., Valencia-Montoya, W. A., Aduse-Poku, K., Toussaint, E. F. A., Dexter, K. M., Doleck, T., \u2026 Lohman, D. J. (2023). A global phylogeny of butterflies reveals their evolutionary history, ancestral hosts and biogeographic origins. Nature Ecology & Evolution. https://doi.org/10.1038/s41559-023-02041-9\n", 
+"decision": "INCLUDED", 
+"name": "Papilionoidea - Kawahara et al. 2023", 
+"studyID": "ot_2235", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
