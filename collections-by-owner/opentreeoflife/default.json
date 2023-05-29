@@ -5536,20 +5536,6 @@
 }, 
 {
 "SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Amy E. Zanne, David C. Tank, William K. Cornwell, Jonathan M. Eastman, Stephen A. Smith, Richard G. FitzJohn, Daniel J. McGlinn, Brian C. O\u2019Meara, Angela T. Moles, Peter B. Reich, Dana L. Royer, Douglas E. Soltis, Peter F. Stevens, Mark Westoby, Ian J. Wright, Lonnie Aarssen, Robert I. Bertin, Andre Calaminus, Rafa\u00ebl Govaerts, Frank Hemmings, Michelle R. Leishman, Jacek Oleksyn, Pamela S. Soltis, Nathan G. Swenson, Laura Warman, Jeremy M. Beaulieu, 2013, 'Three keys to the radiation of angiosperms into freezing environments', Nature, vol. 506, no. 7486, pp. 89-92", 
-"compactRefText": "Amy E. Zanne, 2013", 
-"decision": "INCLUDED", 
-"defaultSortOrder": 400, 
-"name": "Fig. 1 time-calibrated ML estimate (Amy E. Zanne, 2013)", 
-"ot:focalCladeOTTTaxonName": "Magnoliophyta", 
-"ot:studyPublication": "http://dx.doi.org/10.1038/nature12872", 
-"ot:studyPublicationReference": "Amy E. Zanne, David C. Tank, William K. Cornwell, Jonathan M. Eastman, Stephen A. Smith, Richard G. FitzJohn, Daniel J. McGlinn, Brian C. O\u2019Meara, Angela T. Moles, Peter B. Reich, Dana L. Royer, Douglas E. Soltis, Peter F. Stevens, Mark Westoby, Ian J. Wright, Lonnie Aarssen, Robert I. Bertin, Andre Calaminus, Rafa\u00ebl Govaerts, Frank Hemmings, Michelle R. Leishman, Jacek Oleksyn, Pamela S. Soltis, Nathan G. Swenson, Laura Warman, Jeremy M. Beaulieu, 2013, 'Three keys to the radiation of angiosperms into freezing environments', Nature, vol. 506, no. 7486, pp. 89-92", 
-"ot:studyYear": 2013, 
-"studyID": "ot_311", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
 "comments": "Added via API (include_tree_in_synth) from Siahaan S., Sakamoto H., Shinoda T., & Takamatsu S. 2018. Geographic and temporal distributions of four genotypes found in Erysiphe gracilis, a powdery mildew of evergreen oak (Erysiphales). Mycoscience, 59(2): 110-118.", 
 "compactRefText": "Siahaan S., 2018", 
 "decision": "INCLUDED", 
