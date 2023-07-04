@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "ecotanke", 
+"name": "ecotanke"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "A new lithophilous species of Petrocodon (Gesneriaceae).", 
+"decision": "INCLUDED", 
+"name": "Imported tree 1 (study has no reference)", 
+"studyID": "ot_2237", 
+"treeID": "tree4"
+}
+], 
+"description": "Ke TAN", 
+"name": "ecotanke", 
+"queries": []
+}
