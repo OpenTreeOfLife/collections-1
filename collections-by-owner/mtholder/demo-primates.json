@@ -18,18 +18,6 @@
 "ot:studyYear": 2014,
 "studyID": "pg_2816",
 "treeID": "tree6556"
-},
-{
-"SHA": "",
-"comments": "",
-"compactRefText": "Salunke R., 2018",
-"decision": "INCLUDED",
-"defaultSortOrder": 1,
-"name": "PAUP 1+ (Salunke R., 2018)",
-"ot:studyPublicationReference": "Salunke R., Mourier T., Banerjee M., Pain A., & Shanmuga D. 2018. Highly diverged novel subunit composition of apicomplexan F-type ATP synthase identified from Toxoplasma gondii. PLoS Biology, .",
-"ot:studyYear": 2018,
-"studyID": "ot_1838",
-"treeID": "Tr112237"
 }
 ],
 "description": "demo collection for custom synth",
