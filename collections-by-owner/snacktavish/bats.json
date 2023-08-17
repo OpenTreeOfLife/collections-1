@@ -4,7 +4,16 @@
 "login": "snacktavish",
 "name": "Emily Jane McTavish"
 },
-"decisions": [],
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Untitled (tree6387) (Jones K., 2002)",
+"studyID": "pg_2401",
+"treeID": "tree6387"
+}
+],
 "description": "They're Bats!",
 "name": "bats",
 "queries": []
