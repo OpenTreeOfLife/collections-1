@@ -333,20 +333,6 @@
 "ot:studyYear": 2006,
 "studyID": "pg_138",
 "treeID": "tree5341"
-},
-{
-"SHA": "",
-"comments": "",
-"compactRefText": "Gaynor, 2023",
-"decision": "INCLUDED",
-"defaultSortOrder": 24,
-"name": "Diapensiaceae (Gaynor, 2023)",
-"ot:focalCladeOTTTaxonName": "Diapensiaceae",
-"ot:studyPublication": "https://onlinelibrary.wiley.com/doi/10.1111/jse.12646",
-"ot:studyPublicationReference": "Gaynor, M. L., Fu, C., Gao, L., Lu, L., Soltis, D. E., & Soltis, P. S. (2023). Biogeography and ecological niche evolution in Diapensiaceae inferred from phylogenetic analysis. Journal of Systematics and Evolution, 58(5), 646\u2013662. Portico. https://doi.org/10.1111/jse.12646\n",
-"ot:studyYear": 2023,
-"studyID": "ot_2246",
-"treeID": "tree6"
 }
 ],
 "description": "",
