@@ -7415,6 +7415,14 @@
 "name": "TREE1",
 "studyID": "ot_2230",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from McLeish, M. J., Chapman, T. W., & Schwarz, M. P. (2007). Host-driven diversification of gall-inducing Acacia thrips and the aridification of Australia. BMC Biology, 5(1). https://doi.org/10.1186/1741-7007-5-3\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_2262",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
