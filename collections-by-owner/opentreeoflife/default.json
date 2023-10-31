@@ -7415,6 +7415,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_2262",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Alstr\u00f6m, P., Mohammadi, Z., Enbody, E., Irestedt, M., Engelbrecht, D., Crochet, P.-A., Guillaumet, A., Rancilhac, L., Tieleman, B. I., Olsson, U., Donald, P. F., & Stervander, M. (2023). Systematics of the avian family Alaudidae using multilocus and genomic data. Avian Research, 100095. https://doi.org/10.1016/j.avrs.2023.100095\n",
+"decision": "INCLUDED",
+"name": "TREE1",
+"studyID": "ot_2230",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
