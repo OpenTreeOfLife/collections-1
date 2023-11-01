@@ -7431,6 +7431,14 @@
 "name": "TREE1",
 "studyID": "ot_2240",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Zhao, M., Gordon Burleigh, J., Olsson, U., Alstr\u00f6m, P., & Kimball, R. T. (2023). A near-complete and time-calibrated phylogeny of the Old World flycatchers, robins and chats (Aves, Muscicapidae). Molecular Phylogenetics and Evolution, 178, 107646. https://doi.org/10.1016/j.ympev.2022.107646\n",
+"decision": "INCLUDED",
+"name": "allgenes_concat.ML.treefile from 1-s2.0-S1055790322002597-mmc5.txt",
+"studyID": "ot_2167",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
