@@ -1,0 +1,36 @@
+{
+"contributors": [],
+"creator": {
+"login": "ElenaKochanova",
+"name": "ElenaKochanova"
+},
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig 2 (Sahar Khodami, 2017)",
+"studyID": "ot_1215",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1 (RONY HUYS, 2006)",
+"studyID": "ot_1035",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig 2 (Maxim V. Zagoskin, 2014)",
+"studyID": "ot_1036",
+"treeID": "tree1"
+}
+],
+"description": "test",
+"name": "test",
+"queries": []
+}
