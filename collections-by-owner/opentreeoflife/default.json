@@ -7439,6 +7439,14 @@
 "name": "allgenes_concat.ML.treefile from 1-s2.0-S1055790322002597-mmc5.txt",
 "studyID": "ot_2167",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from test3",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_212",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
