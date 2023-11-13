@@ -104,6 +104,20 @@
 "ot:studyYear": 2011,
 "studyID": "ot_2247",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Shi, 2015",
+"decision": "INCLUDED",
+"defaultSortOrder": 7,
+"name": "Tree1 (Shi, 2015)",
+"ot:focalCladeOTTTaxonName": "Chiroptera",
+"ot:studyPublication": "http://dx.doi.org/10.1111/evo.12681",
+"ot:studyPublicationReference": "Shi, Jeff J., Daniel L. Rabosky. 2015. Speciation dynamics during the global radiation of extant bats. Evolution 69 (6): 1528-1545",
+"ot:studyYear": 2015,
+"studyID": "ot_254",
+"treeID": "Tr87680"
 }
 ],
 "description": "They're Bats!",
