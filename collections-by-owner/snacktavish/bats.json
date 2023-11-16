@@ -118,6 +118,20 @@
 "ot:studyYear": 2015,
 "studyID": "ot_254",
 "treeID": "Tr87680"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Rojas D., 2016",
+"decision": "INCLUDED",
+"defaultSortOrder": 8,
+"name": "Fig. 2 (Rojas D., 2016)",
+"ot:focalCladeOTTTaxonName": "Chiroptera",
+"ot:studyPublication": "http://dx.doi.org/10.1093/sysbio/syw011",
+"ot:studyPublicationReference": "Rojas D., Warsi O., & Davalos L.M. 2016. Bats (Chiroptera: Noctilionoidea) challenge a recent origin of extant neotropical diversity. Systematic Biology, 65(3): 432-448.",
+"ot:studyYear": 2016,
+"studyID": "ot_1409",
+"treeID": "Tr87541"
 }
 ],
 "description": "They're Bats!",
