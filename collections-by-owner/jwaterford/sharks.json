@@ -4,7 +4,50 @@
 "login": "jwaterford",
 "name": "James Waterford"
 },
-"decisions": [],
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "dos Reis, 2015",
+"decision": "INCLUDED",
+"defaultSortOrder": 0,
+"name": "Strategy 1 run 1 (dos Reis, 2015)",
+"ot:focalCladeOTTTaxonName": "Metazoa",
+"ot:studyPublication": "http://dx.doi.org/10.1016/j.cub.2015.09.066",
+"ot:studyPublicationReference": "dos Reis, Mario, Yuttapong Thawornwattana, Konstantinos Angelis, Maximilian J. Telford, Philip C.J. Donoghue, Ziheng Yang. 2015. Uncertainty in the timing of origin of animals and the limits of precision in molecular timescales. Current Biology",
+"ot:studyYear": 2015,
+"studyID": "ot_508",
+"treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Delsuc, 2008",
+"decision": "INCLUDED",
+"defaultSortOrder": 1,
+"name": "Fig. 2b (CAT+G) (Delsuc, 2008)",
+"ot:focalCladeOTTTaxonName": "Chordata",
+"ot:studyPublication": "http://dx.doi.org/10.1002/dvg.20450",
+"ot:studyPublicationReference": "Delsuc, Fr\u00e9d\u00e9ric, Georgia Tsagkogeorga, Nicolas Lartillot, andHerv\u00e9 Philippe. 2008. Additional molecular\nsupport for the new chordate phylogeny. Genesis 46 (11): 592-604.",
+"ot:studyYear": 2008,
+"studyID": "pg_1217",
+"treeID": "tree2455"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "V\u00e9lez-Zuazo, 2011",
+"decision": "INCLUDED",
+"defaultSortOrder": 2,
+"name": "Fig. 3 (V\u00e9lez-Zuazo, 2011)",
+"ot:focalCladeOTTTaxonName": "Selachii",
+"ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2010.11.018",
+"ot:studyPublicationReference": "V\u00e9lez-Zuazo, Ximena, Ingi Agnarsson. 2011. Shark tales: a molecular species-level phylogeny of sharks (Selachimorpha, Chondrichthyes). Molecular Phylogenetics and Evolution 58 (2): 207-217.",
+"ot:studyYear": 2011,
+"studyID": "ot_181",
+"treeID": "tree2"
+}
+],
 "description": "They're sharks!",
 "name": "sharks",
 "queries": []
