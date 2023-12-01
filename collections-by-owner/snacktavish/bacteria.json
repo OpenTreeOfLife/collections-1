@@ -1,0 +1,36 @@
+{
+"contributors": [],
+"creator": {
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Figs 1 and 2 upload = supplementary dataset 2 (Laura A. Hug, 2016)",
+"studyID": "ot_700",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Untitled (tree5471) (Lang, 2013)",
+"studyID": "pg_2542",
+"treeID": "tree5471"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fast Tree (Segata, 2013)",
+"studyID": "pg_2448",
+"treeID": "tree5223"
+}
+],
+"description": "",
+"name": "Bacteria",
+"queries": []
+}
