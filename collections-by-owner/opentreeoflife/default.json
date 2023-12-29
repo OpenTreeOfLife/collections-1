@@ -7439,6 +7439,14 @@
 "name": "allgenes_concat.ML.treefile from 1-s2.0-S1055790322002597-mmc5.txt",
 "studyID": "ot_2167",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Garcia-R., J. C., & Trewick, S. A. (2015). Dispersal and speciation in purple swamphens (Rallidae:Porphyrio). The Auk, 132(1), 140\u2013155. https://doi.org/10.1642/auk-14-114.1\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_2268",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
