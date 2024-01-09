@@ -1,0 +1,44 @@
+{
+"contributors": [],
+"creator": {
+"login": "jimallman",
+"name": "Jim Allman"
+},
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "iqtree.tre (Suvorov, 2022)",
+"studyID": "ot_2175",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "ML tree (Finet, 2021)",
+"studyID": "ot_2174",
+"treeID": "tree4"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "TREE1 (Sarikaya, 2019)",
+"studyID": "ot_2176",
+"treeID": "tree4"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Untitled (tree3) (Oliveira, 2012)",
+"studyID": "ot_2177",
+"treeID": "tree3"
+}
+],
+"description": "Check effects on synth",
+"name": "dros_test",
+"queries": []
+}
