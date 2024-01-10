@@ -17,6 +17,14 @@
 {
 "SHA": "",
 "comments": "",
+"decision": "INCLUDED",
+"name": "Gracupica genus in CLO 2023 (eBird Taxonomy draft, 2021)",
+"studyID": "ot_2019",
+"treeID": "tree16"
+},
+{
+"SHA": "",
+"comments": "",
 "compactRefText": "eBird Taxonomy draft, 2021",
 "decision": "INCLUDED",
 "defaultSortOrder": 0,
@@ -3960,6 +3968,22 @@
 "ot:studyYear": 1990,
 "studyID": "ot_104",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Nesoenas genus in CLO 2023 (eBird Taxonomy draft, 2021)",
+"studyID": "ot_2019",
+"treeID": "tree17"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Heteromyias genus in CLO 2023 (eBird Taxonomy draft, 2021)",
+"studyID": "ot_2019",
+"treeID": "tree18"
 }
 ],
 "description": "tree collection for Aves synthesis",
