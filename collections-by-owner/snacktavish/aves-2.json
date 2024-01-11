@@ -4064,6 +4064,14 @@
 "ot:studyYear": 1990,
 "studyID": "ot_104",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Calivagis in CLO 2023 (eBird Taxonomy draft, 2021)",
+"studyID": "ot_2019",
+"treeID": "tree28"
 }
 ],
 "description": "tree collection for Aves synthesis",
