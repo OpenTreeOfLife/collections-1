@@ -7447,6 +7447,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_2268",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Karanovic, T., Kim, K., & Grygier, M. J. (2015). A new species ofSchizopera(Copepoda: Harpacticoida) from Japan, its phylogeny based on the mtCOI gene and comments on the genusSchizoperopsis. Journal of Natural History, 49(41\u201342), 2493\u20132526. https://doi.org/10.1080/00222933.2015.1028112\n",
+"decision": "INCLUDED",
+"name": "Fig. 8",
+"studyID": "ot_2282",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
