@@ -7463,6 +7463,14 @@
 "name": "Fig.3",
 "studyID": "ot_2283",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bruno, M. C., Cottarelli, V., Marrone, F., Grasso, R., Stefani, E., Vecchioni, L., & Spena, M. T. (2020). Morphological and molecular characterization of three new Parastenocarididae (Copepoda: Harpacticoida) from caves in Southern Italy. European Journal of Taxonomy, 689. https://doi.org/10.5852/ejt.2020.689\n",
+"decision": "INCLUDED",
+"name": "Fig.15",
+"studyID": "ot_2284",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
