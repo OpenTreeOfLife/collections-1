@@ -7455,6 +7455,14 @@
 "name": "Fig. 8",
 "studyID": "ot_2282",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Watson, N., Duggan, I., & Hogg, I. (2015). Assessing the diversity of New Zealand freshwater harpacticoid copepods (Crustacea: Copepoda) using mitochondrial DNA (COI) barcodes. New Zealand Journal of Zoology, 42(2), 57\u201367. https://doi.org/10.1080/03014223.2015.1011592\n",
+"decision": "INCLUDED",
+"name": "Fig.3",
+"studyID": "ot_2283",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
