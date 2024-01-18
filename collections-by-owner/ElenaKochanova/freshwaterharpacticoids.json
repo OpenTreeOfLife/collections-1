@@ -4,7 +4,16 @@
 "login": "ElenaKochanova",
 "name": "ElenaKochanova"
 },
-"decisions": [],
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 8 (Karanovic, 2015)",
+"studyID": "ot_2282",
+"treeID": "tree2"
+}
+],
 "description": "",
 "name": "freshwater_harpacticoids",
 "queries": []
