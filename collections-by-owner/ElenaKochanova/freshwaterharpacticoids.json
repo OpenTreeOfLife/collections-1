@@ -94,6 +94,22 @@
 "name": "Fig.1 (Kochanova, 2021)",
 "studyID": "ot_2288",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig.2 (Kochanova, 2021)",
+"studyID": "ot_2288",
+"treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig.4 (Kochanova, 2021)",
+"studyID": "ot_2288",
+"treeID": "tree3"
 }
 ],
 "description": "",
