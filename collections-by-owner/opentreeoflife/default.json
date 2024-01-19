@@ -7471,6 +7471,14 @@
 "name": "Fig.15",
 "studyID": "ot_2284",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Fefilova, E. B., Alekseeva, T. M., Popova, E. I., Golubev, M. A., Bakashkina, A. S., Velegzhaninov, I. O., & Novikov, A. A. (2023). Identification of Attheyella nordenskioldii (Copepoda: Harpacticoida) in Lake Baikal using molecular genetic methods. Zoosystematica Rossica, 32(1), 124\u2013134. https://doi.org/10.31610/zsr/2023.32.1.124\n",
+"decision": "INCLUDED",
+"name": "Fig.1",
+"studyID": "ot_2285",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
