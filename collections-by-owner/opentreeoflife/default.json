@@ -7503,6 +7503,14 @@
 "name": "Fig.4(\u0433)",
 "studyID": "ot_2286",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from KARANOVIC, T., & COOPER, S. J. B. (2011). Molecular and morphological evidence for short range endemism in the Kinnecaris solitaria complex (Copepoda: Parastenocarididae), with descriptions of seven new species. Zootaxa, 3026(1), 1. https://doi.org/10.11646/zootaxa.3026.1.1\n",
+"decision": "INCLUDED",
+"name": "Fig.23",
+"studyID": "ot_2287",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
