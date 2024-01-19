@@ -7511,6 +7511,14 @@
 "name": "Fig.23",
 "studyID": "ot_2287",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kochanova, E., Nair, A., Sukhikh, N., V\u00e4in\u00f6l\u00e4, R., & Husby, A. (2021). Patterns of Cryptic Diversity and Phylogeography in Four Freshwater Copepod Crustaceans in European Lakes. Diversity, 13(9), 448. https://doi.org/10.3390/d13090448\n",
+"decision": "INCLUDED",
+"name": "Fig.1",
+"studyID": "ot_2288",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
