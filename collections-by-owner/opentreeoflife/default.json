@@ -7535,6 +7535,14 @@
 "name": "Fig.4",
 "studyID": "ot_2288",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Karanovic, T., Eberhard, S., Cooper, S. J. B., & Guzik, M. T. (2015). Morphological and molecular study of the genus Nitokra (Crustacea, Copepoda, Harpacticoida) in a small palaeochannel in Western Australia. Organisms Diversity &amp; Evolution, 15(1), 65\u201399. https://doi.org/10.1007/s13127-014-0193-3\n",
+"decision": "INCLUDED",
+"name": "Fig.13",
+"studyID": "ot_2289",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
