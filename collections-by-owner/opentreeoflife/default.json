@@ -7543,6 +7543,14 @@
 "name": "Fig.13",
 "studyID": "ot_2289",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Fefilova, E. B., Popova, E. I., Mayor, T. Y., Novikov, A. A., Velegzhaninov, I. O., Golubev, M. A., & Bakashkina, A. S. (2023). Morphological and Genetic Identification of Harpacticella inopinata (Harpacticoida, Copepoda) from Lake Baikal and the Yenisei River (Russia). Inland Water Biology, 16(5), 863\u2013872. https://doi.org/10.1134/s1995082923050061\n",
+"decision": "INCLUDED",
+"name": "Fig.3",
+"studyID": "ot_2290",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
