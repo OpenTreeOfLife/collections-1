@@ -7479,6 +7479,14 @@
 "name": "Fig.1",
 "studyID": "ot_2285",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Fefilova E. B., Golubev M. A., Bakashkina A. S., Popova E. I., Dubovskaya O. P., Velegzhaninov I. O.\nIntegrative analysis of harpacticoid copepod fauna (Harpacticoida, Copepoda) in the south of Krasnoyarsk\nKrai: in several Ergaki Nature Park waterbodies and the Yenisei River. J. Sib. Fed. Univ. Biol., 2023, 16(3),\n318\u2013335. EDN: NFHZKG",
+"decision": "INCLUDED",
+"name": "Fig.4(\u0431)",
+"studyID": "ot_2286",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
