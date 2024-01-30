@@ -7559,6 +7559,14 @@
 "name": "Matched tree",
 "studyID": "ot_2291",
 "treeID": "tree4"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Charry, M. P., Wells, J. B. J., Keesing, V., Smith, K. F., Stringer, T. J., & Tremblay, L. A. (2018). Quinquelaophonte Aurantius sp. nov., a new harpacticoid species (Copepoda: Harpacticoida: Laophontidae: Quinquelaophonte) from New Zealand. New Zealand Journal of Zoology, 46(4), 301\u2013320. https://doi.org/10.1080/03014223.2018.1548496\n",
+"decision": "INCLUDED",
+"name": "Fig.10",
+"studyID": "ot_2292",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
