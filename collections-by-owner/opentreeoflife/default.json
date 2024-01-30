@@ -7554,14 +7554,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Kates, H. R., O\u2019Meara, B. C., LaFrance, R., Stull, G. W., James, E. K., Conde, D., Liu, S., Tian, Q., Yi, T., Kirst, M., An\u00e9, J.-M., Soltis, D. E., Guralnick, R. P., Soltis, P. S., & Folk, R. A. (2022). Two shifts in evolutionary lability underlie independent gains and losses of root-nodule symbiosis in a single clade of plants. https://doi.org/10.1101/2022.07.31.502231\n",
-"decision": "INCLUDED",
-"name": "Matched tree",
-"studyID": "ot_2291",
-"treeID": "tree4"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Charry, M. P., Wells, J. B. J., Keesing, V., Smith, K. F., Stringer, T. J., & Tremblay, L. A. (2018). Quinquelaophonte Aurantius sp. nov., a new harpacticoid species (Copepoda: Harpacticoida: Laophontidae: Quinquelaophonte) from New Zealand. New Zealand Journal of Zoology, 46(4), 301\u2013320. https://doi.org/10.1080/03014223.2018.1548496\n",
 "decision": "INCLUDED",
 "name": "Fig.10",
