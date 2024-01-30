@@ -7567,6 +7567,14 @@
 "name": "Fig.10",
 "studyID": "ot_2292",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Easton, E. E., & Thistle, D. (2016). Do some deep\u2010sea, sediment\u2010dwelling species of harpacticoid copepods have 1000\u2010km\u2010scale range sizes? Molecular Ecology, 25(17), 4301\u20134318. Portico. https://doi.org/10.1111/mec.13744\n",
+"decision": "INCLUDED",
+"name": "Fig.2",
+"studyID": "ot_2293",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
