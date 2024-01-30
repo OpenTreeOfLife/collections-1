@@ -7551,6 +7551,14 @@
 "name": "Fig.3",
 "studyID": "ot_2290",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kates, H. R., O\u2019Meara, B. C., LaFrance, R., Stull, G. W., James, E. K., Conde, D., Liu, S., Tian, Q., Yi, T., Kirst, M., An\u00e9, J.-M., Soltis, D. E., Guralnick, R. P., Soltis, P. S., & Folk, R. A. (2022). Two shifts in evolutionary lability underlie independent gains and losses of root-nodule symbiosis in a single clade of plants. https://doi.org/10.1101/2022.07.31.502231\n",
+"decision": "INCLUDED",
+"name": "Matched tree",
+"studyID": "ot_2291",
+"treeID": "tree4"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
