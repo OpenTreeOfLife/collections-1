@@ -189,6 +189,14 @@
 "name": "Fig.2 (Easton, 2016)",
 "studyID": "ot_2293",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig S6 (Sahar Khodami, 2017)",
+"studyID": "ot_1215",
+"treeID": "tree2"
 }
 ],
 "description": "",
