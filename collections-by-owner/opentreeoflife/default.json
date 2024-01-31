@@ -7615,6 +7615,14 @@
 "name": "Fig.2",
 "studyID": "ot_2299",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Vakati, V., Eyun, S., & Lee, W. (2019). Unraveling the intricate biodiversity of the benthic harpacticoid genus Nannopus (Copepoda, Harpacticoida, Nannopodidae) in Korean waters. Molecular Phylogenetics and Evolution, 130, 366\u2013379. https://doi.org/10.1016/j.ympev.2018.10.004\n",
+"decision": "INCLUDED",
+"name": "Fig.2",
+"studyID": "ot_2300",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
