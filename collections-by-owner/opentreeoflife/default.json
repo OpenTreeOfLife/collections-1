@@ -7591,6 +7591,14 @@
 "name": "Fig.13",
 "studyID": "ot_2295",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Karanovic, T., Lee, S., & Lee, W. (2018). Instant taxonomy: choosing adequate characters for species delimitation and description through congruence between molecular data and quantitative shape analysis. Invertebrate Systematics, 32(3), 551. https://doi.org/10.1071/is17002\n",
+"decision": "INCLUDED",
+"name": "Fig.6",
+"studyID": "ot_2296",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
