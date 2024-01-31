@@ -7599,6 +7599,14 @@
 "name": "Fig.6",
 "studyID": "ot_2296",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kim, K., Trebukhova, Y., Lee, W., & Karanovic, T. (2014). A new species ofEnhydrosoma(Copepoda: Harpacticoida: Cletodidae) from Korea, with redescription ofE. intermediaand establishment of a new genus. Proceedings of the Biological Society of Washington, 127(1), 248\u2013283. https://doi.org/10.2988/0006-324x-127.1.248\n",
+"decision": "INCLUDED",
+"name": "Fig.20",
+"studyID": "ot_2297",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
