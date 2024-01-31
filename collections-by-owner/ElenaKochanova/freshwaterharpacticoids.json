@@ -281,6 +281,14 @@
 "name": "Fig.2 (Vakati, 2019)",
 "studyID": "ot_2300",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig.1 (Waiho, 2013)",
+"studyID": "ot_2301",
+"treeID": "tree2"
 }
 ],
 "description": "",
