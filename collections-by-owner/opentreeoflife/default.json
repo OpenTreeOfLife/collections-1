@@ -7607,6 +7607,14 @@
 "name": "Fig.20",
 "studyID": "ot_2297",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Rossel, S., & Mart\u00ednez Arbizu, P. (2019). Revealing higher than expected diversity of Harpacticoida (Crustacea:Copepoda) in the North Sea using MALDI-TOF MS and molecular barcoding. Scientific Reports, 9(1). https://doi.org/10.1038/s41598-019-45718-7\n",
+"decision": "INCLUDED",
+"name": "Fig.2",
+"studyID": "ot_2299",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
