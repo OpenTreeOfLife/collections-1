@@ -7583,6 +7583,14 @@
 "name": "Fig.3",
 "studyID": "ot_2294",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Karanovic, T., Kim, K., & Lee, W. (2014). Morphological and molecular affinities of two East Asian species of Stenhelia (Crustacea, Copepoda, Harpacticoida). ZooKeys, 411, 105\u2013143. https://doi.org/10.3897/zookeys.411.7346\n",
+"decision": "INCLUDED",
+"name": "Fig.13",
+"studyID": "ot_2295",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
