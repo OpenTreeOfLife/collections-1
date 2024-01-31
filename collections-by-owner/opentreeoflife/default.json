@@ -7623,6 +7623,14 @@
 "name": "Fig.2",
 "studyID": "ot_2300",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Waiho, K., Faznah, H., Shahreza, M.S.., Zaleha, K.  (2013). Isolation and Characterization of Partial Mitochondrial CO1 Gene from Harpacticoid Copepod, Leptocaris canariensis (Lang, 1965). Academic Journal,12(50): 6901-6906",
+"decision": "INCLUDED",
+"name": "Fig.1",
+"studyID": "ot_2301",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
