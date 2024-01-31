@@ -7575,6 +7575,14 @@
 "name": "Matched tree duplicates kept",
 "studyID": "ot_2291",
 "treeID": "tree7"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Easton, E. E., Thistle, D., & Spears, T. (2010). Species boundaries in Zausodes-complex species (Copepoda:Harpacticoida:Harpacticidae) from the north-eastern Gulf of Mexico. Invertebrate Systematics, 24(3), 258. https://doi.org/10.1071/is09038\n",
+"decision": "INCLUDED",
+"name": "Fig.3",
+"studyID": "ot_2294",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
