@@ -17,6 +17,38 @@
 {
 "SHA": "",
 "comments": "",
+"decision": "INCLUDED",
+"name": "Nesocharis in CLO 2023 (eBird Taxonomy draft, 2021)",
+"studyID": "ot_2019",
+"treeID": "tree25"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Spelaeornis in CLO 2023 (eBird Taxonomy draft, 2021)",
+"studyID": "ot_2019",
+"treeID": "tree24"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Ketupa in CLO 2023 (eBird Taxonomy draft, 2021)",
+"studyID": "ot_2019",
+"treeID": "tree29"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Calivagis in CLO 2023 (eBird Taxonomy draft, 2021)",
+"studyID": "ot_2019",
+"treeID": "tree28"
+},
+{
+"SHA": "",
+"comments": "",
 "compactRefText": "eBird Taxonomy draft, 2021",
 "decision": "INCLUDED",
 "defaultSortOrder": 0,
@@ -4052,30 +4084,6 @@
 "ot:studyYear": 2012,
 "studyID": "ot_809",
 "treeID": "tree2"
-},
-{
-"SHA": "",
-"comments": "",
-"decision": "INCLUDED",
-"name": "Nesocharis in CLO 2023 (eBird Taxonomy draft, 2021)",
-"studyID": "ot_2019",
-"treeID": "tree25"
-},
-{
-"SHA": "",
-"comments": "",
-"decision": "INCLUDED",
-"name": "Spelaeornis in CLO 2023 (eBird Taxonomy draft, 2021)",
-"studyID": "ot_2019",
-"treeID": "tree24"
-},
-{
-"SHA": "",
-"comments": "",
-"decision": "INCLUDED",
-"name": "Ketupa in CLO 2023 (eBird Taxonomy draft, 2021)",
-"studyID": "ot_2019",
-"treeID": "tree29"
 }
 ],
 "description": "tree collection for Aves synthesis",
