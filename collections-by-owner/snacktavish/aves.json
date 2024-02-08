@@ -4060,6 +4060,14 @@
 "name": "Nesocharis in CLO 2023 (eBird Taxonomy draft, 2021)",
 "studyID": "ot_2019",
 "treeID": "tree25"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Spelaeornis in CLO 2023 (eBird Taxonomy draft, 2021)",
+"studyID": "ot_2019",
+"treeID": "tree24"
 }
 ],
 "description": "tree collection for Aves synthesis",
