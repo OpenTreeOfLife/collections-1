@@ -43,6 +43,14 @@
 {
 "SHA": "",
 "comments": "",
+"decision": "INCLUDED",
+"name": "Rallina in CLO 2023 (eBird Taxonomy draft, 2021)",
+"studyID": "ot_2019",
+"treeID": "tree27"
+},
+{
+"SHA": "",
+"comments": "",
 "compactRefText": "eBird Taxonomy draft, 2021",
 "decision": "INCLUDED",
 "defaultSortOrder": 2,
