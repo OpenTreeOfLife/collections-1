@@ -17,6 +17,14 @@
 {
 "SHA": "",
 "comments": "",
+"decision": "INCLUDED",
+"name": "63k (Stiller, 2024)",
+"studyID": "ot_2312",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
 "compactRefText": "eBird Taxonomy draft, 2021",
 "decision": "INCLUDED",
 "defaultSortOrder": 0,
