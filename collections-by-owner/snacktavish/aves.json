@@ -4065,6 +4065,14 @@
 "ot:studyYear": 2021,
 "studyID": "ot_2019",
 "treeID": "tree7"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "2023 taxonomy (eBird Taxonomy draft, 2021)",
+"studyID": "ot_2019",
+"treeID": "tree33"
 }
 ],
 "description": "tree collection for Aves synthesis",
