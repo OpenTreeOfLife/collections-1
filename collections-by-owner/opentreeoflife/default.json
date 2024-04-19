@@ -5195,20 +5195,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Vinther J., Sperling E.A., Briggs D.E., & Peterson K.J. 2011. A molecular paleobiological hypothesis to the origin of aplacophorans and their derivation from chiton-like ancestors. Proceedings of the Royal Society B, .",
-"compactRefText": "Vinther J., 2011",
-"decision": "INCLUDED",
-"defaultSortOrder": 375,
-"name": "tree 1 (Vinther J., 2011)",
-"ot:focalCladeOTTTaxonName": "Mollusca",
-"ot:studyPublication": "https://doi.org/10.1098/rspb.2011.1773",
-"ot:studyPublicationReference": "Vinther J., Sperling E.A., Briggs D.E., & Peterson K.J. 2011. A molecular paleobiological hypothesis to the origin of aplacophorans and their derivation from chiton-like ancestors. Proceedings of the Royal Society B, .",
-"ot:studyYear": 2011,
-"studyID": "ot_1627",
-"treeID": "Tr46103"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Toussaint E.F., Condamine F., Hawlitschek O., Watts C., Porch N., Hendrich L., & Balke M. 2014. Unveiling the Diversification Dynamics of Australasian Predaceous Diving Beetles in the Cenozoic. Systematic Biology, .",
 "compactRefText": "Toussaint E.F., 2014",
 "decision": "INCLUDED",
