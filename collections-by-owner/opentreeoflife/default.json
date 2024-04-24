@@ -7625,6 +7625,14 @@
 "name": "global",
 "studyID": "ot_2304",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Zuntini, A.R., Carruthers, T., Maurin, O. et al. Phylogenomics and the rise of the angiosperms. Nature (2024). https://doi.org/10.1038/s41586-024-07324-0",
+"decision": "INCLUDED",
+"name": "backbone",
+"studyID": "ot_2304",
+"treeID": "tree4"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
