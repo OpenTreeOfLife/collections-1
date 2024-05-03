@@ -8241,6 +8241,14 @@
 "ot:studyYear": 2024,
 "studyID": "ot_2304",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Romain Derelle, Guifr\u00e9 Torruella, Vladim\u00edr Klime\u0161, Henner Brinkmann, Eunsoo Kim, \u010cestm\u00edr Vl\u010dek, B. Franz Lang, Marek Eli\u00e1\u0161, 2015, 'Bacterial proteins pinpoint a single eukaryotic root', Proceedings of the National Academy of Sciences, vol. 112, no. 7, pp. E693-E699",
+"decision": "INCLUDED",
+"name": "Fig. 1L",
+"studyID": "ot_766",
+"treeID": "Tr85440"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
