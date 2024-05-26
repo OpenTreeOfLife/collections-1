@@ -8249,6 +8249,14 @@
 "name": "Fig. 1L",
 "studyID": "ot_766",
 "treeID": "Tr85440"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kvist S., Laumer C.E., Junoy J., & Giribet G. 2013. A further contribution to the phylogeny and systematics of Nemertea: increased sampling for Hubrechtidae and Plectonemertidae, and phylum-wide barcoding gap detection. Invertebrate Systematics, .",
+"decision": "INCLUDED",
+"name": "TNT gblocks.tre",
+"studyID": "ot_654",
+"treeID": "Tr69161"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
