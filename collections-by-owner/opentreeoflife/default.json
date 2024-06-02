@@ -8257,6 +8257,14 @@
 "name": "TNT gblocks.tre",
 "studyID": "ot_654",
 "treeID": "Tr69161"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Nelsen, M. P., Ree, R. H., & Moreau, C. S. (2018). Ant\u2013plant interactions evolved through increasing interdependence. Proceedings of the National Academy of Sciences, 115(48), 12253\u201312258. https://doi.org/10.1073/pnas.1719794115\n",
+"decision": "INCLUDED",
+"name": "RAxML_bipartitions.result.ladderized.dropped.tre",
+"studyID": "ot_2316",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
