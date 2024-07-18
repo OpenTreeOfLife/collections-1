@@ -8273,6 +8273,14 @@
 "name": "Simulated-SalBareilly.tre",
 "studyID": "ot_301",
 "treeID": "tree4"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Evaluating UCE data adequacy and integrating uncertainty in a comprehensive phylogeny of ants\nMarek L. Borowiec, Y. Miles Zhang, Karen Neves, Manuela O. Ramalho, Brian L. Fisher, Andrea Lucky, Corrie S. Moreau\nbioRxiv 2024.07.03.601921;",
+"decision": "INCLUDED",
+"name": "root-prior-129to158Ma-independent.tre",
+"studyID": "ot_2317",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
