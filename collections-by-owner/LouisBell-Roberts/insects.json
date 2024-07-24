@@ -4,7 +4,36 @@
 "login": "LouisBell-Roberts",
 "name": "LouisBell-Roberts"
 },
-"decisions": [],
+"decisions": [
+{
+"SHA": "",
+"comments": "Bombus",
+"compactRefText": "Hines H. , 2008",
+"decision": "INCLUDED",
+"defaultSortOrder": 0,
+"name": "Figure 2-4 Chronogram (Hines H. , 2008)",
+"ot:focalCladeOTTTaxonName": "Bombus",
+"ot:studyPublication": "http://dx.doi.org/10.1080/10635150801898912",
+"ot:studyPublicationReference": "Hines H. 2008. Historical biogeography, divergence times, and diversification patterns of bumble bees (Hymenoptera: Apidae: Bombus). Systematic Biology 57(1): 58-75.",
+"ot:studyYear": 2008,
+"studyID": "pg_2387",
+"treeID": "tree5015"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Benjamin D. Blanchard, 2016",
+"decision": "INCLUDED",
+"defaultSortOrder": 1,
+"name": "TREE1 (Benjamin D. Blanchard, 2016)",
+"ot:focalCladeOTTTaxonName": "Formicidae",
+"ot:studyPublication": "https://doi.org/10.1111/evo.13117",
+"ot:studyPublicationReference": "Benjamin D. Blanchard, Corrie S. Moreau, 2016, 'Defensive traits exhibit an evolutionary trade-off and drive diversification in ants', Evolution, vol. 71, no. 2, pp. 315-328",
+"ot:studyYear": 2016,
+"studyID": "ot_1615",
+"treeID": "Tr99625"
+}
+],
 "description": "Tree of all insects",
 "name": "Insects",
 "queries": []
