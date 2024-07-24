@@ -8281,6 +8281,14 @@
 "name": "root-prior-129to158Ma-independent.tre",
 "studyID": "ot_2317",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Hines H. 2008. Historical biogeography, divergence times, and diversification patterns of bumble bees (Hymenoptera: Apidae: Bombus). Systematic Biology 57(1): 58-75.",
+"decision": "INCLUDED",
+"name": "tree5015",
+"studyID": "pg_2387",
+"treeID": "tree5015"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
