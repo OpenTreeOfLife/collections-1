@@ -8289,6 +8289,14 @@
 "name": "tree5015",
 "studyID": "pg_2387",
 "treeID": "tree5015"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kudo, S., Harano, T., Tsai, J.-F., Yoshizawa, K., & Kutsukake, N. (2024). Maternal Care under Large Clutches with Small Eggs: The Evolution of Life History Traits in Shield Bugs. The American Naturalist, 204(1), 30\u201342. https://doi.org/10.1086/730145\n",
+"decision": "INCLUDED",
+"name": "Figure 1",
+"studyID": "ot_2319",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
