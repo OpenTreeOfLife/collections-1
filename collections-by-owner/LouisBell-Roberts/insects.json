@@ -32,6 +32,14 @@
 "ot:studyYear": 2016,
 "studyID": "ot_1615",
 "treeID": "Tr99625"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Figure 1 (Kudo, 2024)",
+"studyID": "ot_2319",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
