@@ -8297,6 +8297,14 @@
 "name": "Figure 1",
 "studyID": "ot_2319",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Hay, E. M., McGee, M. D., & Chown, S. L. (2022). Geographic range size and speciation in honeyeaters. BMC Ecology and Evolution, 22(1). https://doi.org/10.1186/s12862-022-02041-6\n",
+"decision": "INCLUDED",
+"name": "tree 1",
+"studyID": "ot_2320",
+"treeID": "tree5"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
