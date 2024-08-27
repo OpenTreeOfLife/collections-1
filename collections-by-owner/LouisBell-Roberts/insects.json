@@ -86,6 +86,19 @@
 "ot:studyYear": 2022,
 "studyID": "ot_2321",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Freitas, 2020",
+"decision": "INCLUDED",
+"defaultSortOrder": 6,
+"name": "75p-all-species_tree (Freitas, 2020)",
+"ot:studyPublication": "http://dx.doi.org/10.1093/molbev/msaa277",
+"ot:studyPublicationReference": "Freitas, F. V., Branstetter, M. G., Griswold, T., & Almeida, E. A. B. (2020). Partitioned Gene-Tree Analyses and Gene-Based Topology Testing Help Resolve Incongruence in a Phylogenomic Study of Host-Specialist Bees (Apidae: Eucerinae). Molecular Biology and Evolution, 38(3), 1090\u20131100. https://doi.org/10.1093/molbev/msaa277\n",
+"ot:studyYear": 2020,
+"studyID": "ot_2323",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
