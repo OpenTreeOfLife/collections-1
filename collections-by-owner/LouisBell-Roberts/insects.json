@@ -64,10 +64,28 @@
 {
 "SHA": "",
 "comments": "",
+"compactRefText": "Bossert, 2019",
 "decision": "INCLUDED",
+"defaultSortOrder": 4,
 "name": "Apidae phylobayes (Bossert, 2019)",
+"ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2018.10.012",
+"ot:studyPublicationReference": "Bossert, S., Murray, E. A., Almeida, E. A. B., Brady, S. G., Blaimer, B. B., & Danforth, B. N. (2019). Combining transcriptomes and ultraconserved elements to illuminate the phylogeny of Apidae. Molecular Phylogenetics and Evolution, 130, 121\u2013131. https://doi.org/10.1016/j.ympev.2018.10.012\n",
+"ot:studyYear": 2019,
 "studyID": "ot_2322",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Pisanty, 2022",
+"decision": "INCLUDED",
+"defaultSortOrder": 5,
+"name": "232T-F75,RAxML,rcluster.tree (Pisanty, 2022)",
+"ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2021.107151",
+"ot:studyPublicationReference": "Pisanty, G., Richter, R., Martin, T., Dettman, J., & Cardinal, S. (2022). Molecular phylogeny, historical biogeography and revised classification of andrenine bees (Hymenoptera: Andrenidae). Molecular Phylogenetics and Evolution, 170, 107151. https://doi.org/10.1016/j.ympev.2021.107151\n",
+"ot:studyYear": 2022,
+"studyID": "ot_2321",
+"treeID": "tree2"
 }
 ],
 "description": "Tree of all insects",
