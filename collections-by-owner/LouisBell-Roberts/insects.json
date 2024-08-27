@@ -36,10 +36,30 @@
 {
 "SHA": "",
 "comments": "",
+"compactRefText": "Kudo, 2024",
 "decision": "INCLUDED",
+"defaultSortOrder": 2,
 "name": "Figure 1 (Kudo, 2024)",
+"ot:focalCladeOTTTaxonName": "Acanthosomatidae",
+"ot:studyPublication": "http://dx.doi.org/10.1086/730145",
+"ot:studyPublicationReference": "Kudo, S., Harano, T., Tsai, J.-F., Yoshizawa, K., & Kutsukake, N. (2024). Maternal Care under Large Clutches with Small Eggs: The Evolution of Life History Traits in Shield Bugs. The American Naturalist, 204(1), 30\u201342. https://doi.org/10.1086/730145\n",
+"ot:studyYear": 2024,
 "studyID": "ot_2319",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "John M. Heraty, 2013",
+"decision": "INCLUDED",
+"defaultSortOrder": 3,
+"name": "Fig. 10 \"Best RaxML' (John M. Heraty, 2013)",
+"ot:focalCladeOTTTaxonName": "Chalcidoidea",
+"ot:studyPublication": "http://dx.doi.org/10.1111/cla.12006",
+"ot:studyPublicationReference": "John M. Heraty, Roger A. Burks, Astrid Cruaud, Gary A. P. Gibson, Johan Liljeblad, James Munro, Jean-Yves Rasplus, Gerard Delvare, Peter Jan\u0161ta, Alex Gumovsky, John Huber, James B. Woolley, Lars Krogmann, Steve Heydon, Andrew Polaszek, Stefan Schmidt, D. Chris Darling, Michael W. Gates, Jason Mottern, Elizabeth Murray, Ana Dal Molin, Serguei Triapitsyn, Hannes Baur, John D. Pinto, Simon van Noort, Jeremiah George, Matthew Yoder, 2013, 'A phylogenetic analysis of the megadiverse Chalcidoidea (Hymenoptera)', Cladistics, vol. 29, no. 5, pp. 466-542",
+"ot:studyYear": 2013,
+"studyID": "ot_1093",
+"treeID": "tree2"
 }
 ],
 "description": "Tree of all insects",
