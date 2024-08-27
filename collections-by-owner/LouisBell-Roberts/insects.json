@@ -60,6 +60,14 @@
 "ot:studyYear": 2013,
 "studyID": "ot_1093",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Apidae phylobayes (Bossert, 2019)",
+"studyID": "ot_2322",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
