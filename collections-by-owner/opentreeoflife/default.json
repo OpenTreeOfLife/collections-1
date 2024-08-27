@@ -8305,6 +8305,14 @@
 "name": "tree 1",
 "studyID": "ot_2320",
 "treeID": "tree5"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Pisanty, G., Richter, R., Martin, T., Dettman, J., & Cardinal, S. (2022). Molecular phylogeny, historical biogeography and revised classification of andrenine bees (Hymenoptera: Andrenidae). Molecular Phylogenetics and Evolution, 170, 107151. https://doi.org/10.1016/j.ympev.2021.107151\n",
+"decision": "INCLUDED",
+"name": "232T-F75,RAxML,rcluster.tree",
+"studyID": "ot_2321",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
