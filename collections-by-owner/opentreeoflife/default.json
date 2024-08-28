@@ -8313,6 +8313,14 @@
 "name": "232T-F75,RAxML,rcluster.tree",
 "studyID": "ot_2321",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Henr\u00edquez-Piskulich, P., Hugall, A. F., & Stuart-Fox, D. (2024). A supermatrix phylogeny of the world\u2019s bees (Hymenoptera: Anthophila). Molecular Phylogenetics and Evolution, 190, 107963. https://doi.org/10.1016/j.ympev.2023.107963\n",
+"decision": "INCLUDED",
+"name": "Bee supermatrix tree",
+"studyID": "ot_2324",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
