@@ -99,6 +99,14 @@
 "ot:studyYear": 2020,
 "studyID": "ot_2323",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Bee supermatrix tree (Henr\u00edquez-Piskulich, 2024)",
+"studyID": "ot_2324",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
