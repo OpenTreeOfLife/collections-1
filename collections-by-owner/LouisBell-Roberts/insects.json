@@ -107,6 +107,14 @@
 "name": "Bee supermatrix tree (Henr\u00edquez-Piskulich, 2024)",
 "studyID": "ot_2324",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Bethylidae S6 (Santos, 2024)",
+"studyID": "ot_2325",
+"treeID": "tree4"
 }
 ],
 "description": "Tree of all insects",
