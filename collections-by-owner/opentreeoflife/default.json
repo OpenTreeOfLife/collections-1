@@ -8329,6 +8329,14 @@
 "name": "Apidae Fig. 2",
 "studyID": "ot_2328",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Wang, Y., Zhang, J., Lo, N., Bourguignon, T., Guo, L., Li, B., Che, Y., & Wang, Z. (2023). Phylogenetic analysis of Blaberoidea reveals non\u2010monophyly of taxa and supports the creation of multiple new subfamilies. Cladistics, 39(3), 198\u2013214. Portico. https://doi.org/10.1111/cla.12535\n",
+"decision": "INCLUDED",
+"name": "Blaberoidea Fig. 2",
+"studyID": "ot_2329",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
