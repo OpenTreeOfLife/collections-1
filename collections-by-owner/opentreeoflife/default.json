@@ -8321,6 +8321,14 @@
 "name": "Bee supermatrix tree",
 "studyID": "ot_2324",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Orr, M. C., Branstetter, M. G., Straka, J., Yuan, F., Leijs, R., Zhang, D., Zhou, Q., & Zhu, C.-D. (2022). Phylogenomic Interrogation Revives an Overlooked Hypothesis for the Early Evolution of the Bee Family Apidae (Hymenoptera: Apoidea), With a Focus on the Subfamily Anthophorinae. Insect Systematics and Diversity, 6(4). https://doi.org/10.1093/isd/ixac022\n",
+"decision": "INCLUDED",
+"name": "Apidae Fig. 2",
+"studyID": "ot_2328",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
