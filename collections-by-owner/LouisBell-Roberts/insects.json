@@ -115,6 +115,14 @@
 "name": "Bethylidae S6 (Santos, 2024)",
 "studyID": "ot_2325",
 "treeID": "tree4"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Euborellia (Kalaentzis, 2021)",
+"studyID": "ot_2326",
+"treeID": "tree7"
 }
 ],
 "description": "Tree of all insects",
