@@ -8337,6 +8337,14 @@
 "name": "Blaberoidea Fig. 2",
 "studyID": "ot_2329",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Djern\u00e6s, M., Varadinova, Z., Kotyl, M., Eulitz, U. and Klass, K., 2020. Phylogeny and life history evolution of Blaberoidea (Blattodea). Arthropod Systematics & Phylogeny, 78, pp.29-67.",
+"decision": "INCLUDED",
+"name": "bestREP1",
+"studyID": "ot_2330",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
