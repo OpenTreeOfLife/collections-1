@@ -120,28 +120,28 @@
 {
 "SHA": "",
 "comments": "",
-"compactRefText": "Stiller, 2024",
-"decision": "INCLUDED",
-"defaultSortOrder": 7,
-"name": "63k (Stiller, 2024)",
-"ot:studyPublication": "https://doi.org/10.1038/s41586-024-07323-1",
-"ot:studyPublicationReference": "Stiller, J., Feng, S., Chowdhury, AA. et al. Complexity of avian evolution revealed by family-level genomes. Nature (2024). https://doi.org/10.1038/s41586-024-07323-1",
-"ot:studyYear": 2024,
-"studyID": "ot_2312",
-"treeID": "tree1"
-},
-{
-"SHA": "",
-"comments": "",
 "compactRefText": "Wu, 2024",
 "decision": "INCLUDED",
-"defaultSortOrder": 8,
+"defaultSortOrder": 7,
 "name": "A3_raxml_intron_inter_cds_100%_contree.tre (Wu, 2024)",
 "ot:studyPublication": "http://dx.doi.org/10.1073/pnas.2319696121",
 "ot:studyPublicationReference": "Wu, S., Rheindt, F. E., Zhang, J., Wang, J., Zhang, L., Quan, C., Li, Z., Wang, M., Wu, F., Qu, Y., Edwards, S. V., Zhou, Z., & Liu, L. (2024). Genomes, fossils, and the concurrent rise of modern birds and flowering plants in the Late Cretaceous. Proceedings of the National Academy of Sciences, 121(8). https://doi.org/10.1073/pnas.2319696121\n",
 "ot:studyYear": 2024,
 "studyID": "ot_2307",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Stiller, 2024",
+"decision": "INCLUDED",
+"defaultSortOrder": 8,
+"name": "63k (Stiller, 2024)",
+"ot:studyPublication": "https://doi.org/10.1038/s41586-024-07323-1",
+"ot:studyPublicationReference": "Stiller, J., Feng, S., Chowdhury, AA. et al. Complexity of avian evolution revealed by family-level genomes. Nature (2024). https://doi.org/10.1038/s41586-024-07323-1",
+"ot:studyYear": 2024,
+"studyID": "ot_2312",
+"treeID": "tree1"
 },
 {
 "SHA": "",
