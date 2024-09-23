@@ -8353,6 +8353,14 @@
 "name": "Geoscapheinae tree",
 "studyID": "ot_2331",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Djern\u00e6s, M., & Murienne, J. (2022). Phylogeny of Blattoidea (Dictyoptera: Blattodea) with a revised classification of Blattidae. Arthropod Systematics &amp; Phylogeny, 80, 209\u2013228. https://doi.org/10.3897/asp.80.e75819\n",
+"decision": "INCLUDED",
+"name": "Fig. 1",
+"studyID": "ot_2333",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
