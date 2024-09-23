@@ -212,6 +212,20 @@
 "ot:studyYear": 2020,
 "studyID": "ot_2330",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Djern\u00e6s, 2022",
+"decision": "INCLUDED",
+"defaultSortOrder": 15,
+"name": "Fig. 1 (Djern\u00e6s, 2022)",
+"ot:focalCladeOTTTaxonName": "Blattodea",
+"ot:studyPublication": "http://dx.doi.org/10.3897/asp.80.e75819",
+"ot:studyPublicationReference": "Djern\u00e6s, M., & Murienne, J. (2022). Phylogeny of Blattoidea (Dictyoptera: Blattodea) with a revised classification of Blattidae. Arthropod Systematics &amp; Phylogeny, 80, 209\u2013228. https://doi.org/10.3897/asp.80.e75819\n",
+"ot:studyYear": 2022,
+"studyID": "ot_2333",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
