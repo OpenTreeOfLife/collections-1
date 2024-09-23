@@ -198,6 +198,20 @@
 "ot:studyYear": 2021,
 "studyID": "ot_2331",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Djern\u00e6s, 2020",
+"decision": "INCLUDED",
+"defaultSortOrder": 14,
+"name": "bestREP1 (Djern\u00e6s, 2020)",
+"ot:focalCladeOTTTaxonName": "Blaberoidea",
+"ot:studyPublication": "http://www.doi.org/10.26049/ASP78-1-2020-03",
+"ot:studyPublicationReference": "Djern\u00e6s, M., Varadinova, Z., Kotyl, M., Eulitz, U. and Klass, K., 2020. Phylogeny and life history evolution of Blaberoidea (Blattodea). Arthropod Systematics & Phylogeny, 78, pp.29-67.",
+"ot:studyYear": 2020,
+"studyID": "ot_2330",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
