@@ -226,6 +226,20 @@
 "ot:studyYear": 2022,
 "studyID": "ot_2333",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Deng, 2023",
+"decision": "INCLUDED",
+"defaultSortOrder": 16,
+"name": "Fig. 4 (Deng, 2023)",
+"ot:focalCladeOTTTaxonName": "Blattoidea (superfamily ncbi:1049657)",
+"ot:studyPublication": "http://dx.doi.org/10.1111/syen.12560",
+"ot:studyPublicationReference": "Deng, W., Luo, X., Ho, S. Y. W., Liao, S., Wang, Z., & Che, Y. (2023). Inclusion of rare taxa from Blattidae and Anaplectidae improves phylogenetic resolution in the cockroach superfamily Blattoidea. Systematic Entomology, 48(1), 23\u201339. Portico. https://doi.org/10.1111/syen.12560\n",
+"ot:studyYear": 2023,
+"studyID": "ot_2334",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
