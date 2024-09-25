@@ -8393,6 +8393,14 @@
 "name": "Fig. 3",
 "studyID": "ot_2337",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Outomuro, D., Adams, D. C., & Johansson, F. (2013). Wing shape allometry and aerodynamics in calopterygid damselflies: a comparative approach. BMC Evolutionary Biology, 13(1), 118. https://doi.org/10.1186/1471-2148-13-118\n",
+"decision": "INCLUDED",
+"name": "Fig. 7",
+"studyID": "ot_2338",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
