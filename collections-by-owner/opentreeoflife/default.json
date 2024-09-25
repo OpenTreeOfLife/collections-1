@@ -8385,6 +8385,14 @@
 "name": "Fig. 1",
 "studyID": "ot_2336",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Vasilikopoulos, A., Balke, M., Kukowka, S., Pflug, J. M., Martin, S., Meusemann, K., Hendrich, L., Mayer, C., Maddison, D. R., Niehuis, O., Beutel, R. G., & Misof, B. (2021). Phylogenomic analyses clarify the pattern of evolution of Adephaga (Coleoptera) and highlight phylogenetic artefacts due to model misspecification and excessive data trimming. Systematic Entomology, 46(4), 991\u20131018. Portico. https://doi.org/10.1111/syen.12508\n",
+"decision": "INCLUDED",
+"name": "Fig. 3",
+"studyID": "ot_2337",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
