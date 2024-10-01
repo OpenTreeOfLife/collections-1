@@ -8401,6 +8401,14 @@
 "name": "Fig. 7",
 "studyID": "ot_2338",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Leoc\u00e1dio, M., Sim\u00f5es, M. V. P., Sekerka, L., Schrago, C. G., Mermudes, J. R. M., & Windsor, D. M. (2020). Molecular systematics reveals the origins of subsociality in tortoise beetles (Coleoptera, Chrysomelidae, Cassidinae). Systematic Entomology, 45(4), 894\u2013910. Portico. https://doi.org/10.1111/syen.12434\n",
+"decision": "INCLUDED",
+"name": "Fig. 4",
+"studyID": "ot_2339",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
