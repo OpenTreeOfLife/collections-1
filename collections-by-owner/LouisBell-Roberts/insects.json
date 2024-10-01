@@ -12,6 +12,7 @@
 "decision": "INCLUDED",
 "defaultSortOrder": 0,
 "name": "Fig. 1 (Rainford, 2014)",
+"ot:focalCladeOTTTaxonName": "Insecta",
 "ot:studyPublication": "http://dx.doi.org/10.1371/journal.pone.0109085",
 "ot:studyPublicationReference": "Rainford, J. L., Hofreiter, M., Nicholson, D. B., & Mayhew, P. J. (2014). Phylogenetic Distribution of Extant Richness Suggests Metamorphosis Is a Key Innovation Driving Diversification in Insects. PLoS ONE, 9(10), e109085. https://doi.org/10.1371/journal.pone.0109085\n",
 "ot:studyYear": 2014,
@@ -255,6 +256,20 @@
 "ot:studyYear": 2008,
 "studyID": "pg_2387",
 "treeID": "tree5015"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Leoc\u00e1dio, 2020",
+"decision": "INCLUDED",
+"defaultSortOrder": 18,
+"name": "Fig. 4 (Leoc\u00e1dio, 2020)",
+"ot:focalCladeOTTTaxonName": "Cassidinae",
+"ot:studyPublication": "http://dx.doi.org/10.1111/syen.12434",
+"ot:studyPublicationReference": "Leoc\u00e1dio, M., Sim\u00f5es, M. V. P., Sekerka, L., Schrago, C. G., Mermudes, J. R. M., & Windsor, D. M. (2020). Molecular systematics reveals the origins of subsociality in tortoise beetles (Coleoptera, Chrysomelidae, Cassidinae). Systematic Entomology, 45(4), 894\u2013910. Portico. https://doi.org/10.1111/syen.12434\n",
+"ot:studyYear": 2020,
+"studyID": "ot_2339",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
