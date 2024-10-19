@@ -270,6 +270,19 @@
 "ot:studyYear": 2020,
 "studyID": "ot_2339",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Chesters, 2016",
+"decision": "INCLUDED",
+"defaultSortOrder": 19,
+"name": "Fig. 4 but pruned to my species (Chesters, 2016)",
+"ot:studyPublication": "http://dx.doi.org/10.1093/sysbio/syw099",
+"ot:studyPublicationReference": "Chesters, D. (2016). Construction of a Species-Level Tree of Life for the Insects and Utility in Taxonomic Profiling. Systematic Biology, syw099. https://doi.org/10.1093/sysbio/syw099\n",
+"ot:studyYear": 2016,
+"studyID": "ot_2348",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
