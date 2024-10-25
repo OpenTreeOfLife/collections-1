@@ -300,6 +300,19 @@
 "ot:studyYear": 2016,
 "studyID": "ot_2348",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Chesters, 2019",
+"decision": "INCLUDED",
+"defaultSortOrder": 21,
+"name": "Fig. 3 but pruned to my species (Chesters, 2019)",
+"ot:studyPublication": "http://dx.doi.org/10.1111/syen.12414",
+"ot:studyPublicationReference": "Chesters, D. (2019). The phylogeny of insects in the data\u2010driven era. Systematic Entomology, 45(3), 540\u2013551. Portico. https://doi.org/10.1111/syen.12414\n",
+"ot:studyYear": 2019,
+"studyID": "ot_2349",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
