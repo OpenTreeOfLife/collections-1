@@ -8417,6 +8417,14 @@
 "name": "Dryad_Supplementary_File_7_ML_TREE_treepl_185.tre",
 "studyID": "ot_2316",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Sless, T., & Rehan, S. (2023). Phylogeny of the carpenter bees (Apidae: Xylocopinae) highlights repeated evolution of sociality. Biology Letters, 19(8). https://doi.org/10.1098/rsbl.2023.0252\n",
+"decision": "INCLUDED",
+"name": "Tree 1",
+"studyID": "ot_2350",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
