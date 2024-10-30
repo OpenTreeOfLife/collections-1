@@ -8425,6 +8425,14 @@
 "name": "Tree 1",
 "studyID": "ot_2350",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Revely, L., Eggleton, P., Clement, R., Zhou, C., & Bishop, T. R. (2024). The diversity of social complexity in termites. Proceedings of the Royal Society B: Biological Sciences, 291(2024). https://doi.org/10.1098/rspb.2023.2791\n",
+"decision": "INCLUDED",
+"name": "Fig. 2",
+"studyID": "ot_2351",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
