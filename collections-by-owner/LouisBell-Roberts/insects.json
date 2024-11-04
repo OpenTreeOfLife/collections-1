@@ -327,6 +327,34 @@
 "ot:studyYear": 2019,
 "studyID": "ot_2349",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Gonz\u00e1lez Vaquero, 2017",
+"decision": "INCLUDED",
+"defaultSortOrder": 23,
+"name": "Fig. 2a (Gonz\u00e1lez Vaquero, 2017)",
+"ot:focalCladeOTTTaxonName": "Augochlorini",
+"ot:studyPublication": "http://dx.doi.org/10.3897/asp.75.e31917",
+"ot:studyPublicationReference": "Gonz\u00e1lez Vaquero, R. A., & Roig Alsina, A. H. (2017). Phylogeny of the Corynura group, an endemic southern South American clade sister to all other Augochlorini bees (Hymenoptera: Halictidae), and a revision of Corynura.",
+"ot:studyYear": 2017,
+"studyID": "ot_2352",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Celis, 2017",
+"decision": "INCLUDED",
+"defaultSortOrder": 24,
+"name": "Fig. 1 (Celis, 2017)",
+"ot:focalCladeOTTTaxonName": "Augochloropsis",
+"ot:studyPublication": "http://dx.doi.org/10.15517/rbt.v65i4.26549",
+"ot:studyPublicationReference": "Celis, C. J., & Cure, J. R. (2017). Filogenia y clasificaci\u00f3n taxon\u00f3mica de los subg\u00e9neros de Augochloropsis (Hymenoptera: Halictidae). Revista de Biolog\u00eda Tropical, 65(4), 1277. https://doi.org/10.15517/rbt.v65i4.26549\n",
+"ot:studyYear": 2017,
+"studyID": "ot_2353",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
