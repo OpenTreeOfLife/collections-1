@@ -355,6 +355,19 @@
 "ot:studyYear": 2017,
 "studyID": "ot_2353",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Lepeco, 2022",
+"decision": "INCLUDED",
+"defaultSortOrder": 25,
+"name": "Fig. 2 (Lepeco, 2022)",
+"ot:studyPublication": "http://dx.doi.org/10.3897/asp.80.e71943",
+"ot:studyPublicationReference": "Lepeco, A., & Gon\u00e7alves, R. B. (2022). Bayesian and parsimony phylogeny of Augochlora bees (Hymenoptera: Apoidea) based on morphology: insights for their biogeography and natural history. Arthropod Systematics &amp; Phylogeny, 80, 99\u2013115. https://doi.org/10.3897/asp.80.e71943\n",
+"ot:studyYear": 2022,
+"studyID": "ot_2354",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
