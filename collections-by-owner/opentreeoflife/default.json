@@ -8433,6 +8433,14 @@
 "name": "Fig. 2",
 "studyID": "ot_2351",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from S\u00e1nchez-Guill\u00e9n, R. A., Ceccarelli, S., Villalobos, F., Neupane, S., Rivas-Torres, A., Sanmart\u00edn-Villar, I., ... & Cordero-Rivera, A. (2020). The evolutionary history of colour polymorphism in Ischnura damselflies (Odonata: Coenagrionidae). Odonatologica, 49(3-4), 333-370.",
+"decision": "INCLUDED",
+"name": "Fig. 3",
+"studyID": "ot_2355",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
