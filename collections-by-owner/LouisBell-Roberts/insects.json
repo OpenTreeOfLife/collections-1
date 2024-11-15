@@ -363,10 +363,38 @@
 "decision": "INCLUDED",
 "defaultSortOrder": 25,
 "name": "Fig. 2 (Lepeco, 2022)",
+"ot:focalCladeOTTTaxonName": "Augochlora",
 "ot:studyPublication": "http://dx.doi.org/10.3897/asp.80.e71943",
 "ot:studyPublicationReference": "Lepeco, A., & Gon\u00e7alves, R. B. (2022). Bayesian and parsimony phylogeny of Augochlora bees (Hymenoptera: Apoidea) based on morphology: insights for their biogeography and natural history. Arthropod Systematics &amp; Phylogeny, 80, 99\u2013115. https://doi.org/10.3897/asp.80.e71943\n",
 "ot:studyYear": 2022,
 "studyID": "ot_2354",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Marchal, 2015",
+"decision": "INCLUDED",
+"defaultSortOrder": 26,
+"name": "Fig. 3 (Marchal, 2015)",
+"ot:studyPublication": "http://dx.doi.org/10.1111/zsc.12157",
+"ot:studyPublicationReference": "Marchal, L., & Guilbert, E. (2015). Cladistic analysis of <scp>A</scp>radidae (<scp>I</scp>nsecta, <scp>H</scp>eteroptera) based on morphological and molecular characters. Zoologica Scripta, 45(3), 273\u2013285. Portico. https://doi.org/10.1111/zsc.12157\n",
+"ot:studyYear": 2016,
+"studyID": "ot_2358",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Sano, 2014",
+"decision": "INCLUDED",
+"defaultSortOrder": 27,
+"name": "Fig. 5 (Sano, 2014)",
+"ot:focalCladeOTTTaxonName": "Eriosomatinae",
+"ot:studyPublication": "http://dx.doi.org/10.1080/09397140.2014.985871",
+"ot:studyPublicationReference": "Sano, M., Barjadze, S., & Akimoto, S. (2014). Descriptions of little-known and unknown morphs ofZelkovaphis caucasica(Hemiptera: Aphididae: Eriosomatinae), with an analysis of its phylogenetic position. Zoology in the Middle East, 61(1), 55\u201363. https://doi.org/10.1080/09397140.2014.985871\n",
+"ot:studyYear": 2014,
+"studyID": "ot_2357",
 "treeID": "tree1"
 }
 ],
