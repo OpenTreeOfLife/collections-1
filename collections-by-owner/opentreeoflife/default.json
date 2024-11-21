@@ -8441,6 +8441,14 @@
 "name": "Fig. 3",
 "studyID": "ot_2355",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ji, L., Jia, Z., & Bai, X. (2024). Comparative Analysis of the Mitochondrial Genomes of Three Species of Yangiella (Hemiptera: Aradidae) and the Phylogenetic Implications of Aradidae. Insects, 15(7), 533. https://doi.org/10.3390/insects15070533\n",
+"decision": "INCLUDED",
+"name": "Fig. 10",
+"studyID": "ot_2359",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
