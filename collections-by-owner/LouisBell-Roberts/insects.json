@@ -433,10 +433,25 @@
 "decision": "INCLUDED",
 "defaultSortOrder": 30,
 "name": "Fig. 2 abbreviated (Ramos, 2020)",
+"ot:focalCladeOTTTaxonName": "Bethylinae",
 "ot:studyPublication": "http://dx.doi.org/10.1163/1876312x-00002202",
 "ot:studyPublicationReference": "Ramos, M. S., & Azevedo, C. O. (2020). Revisited phylogeny of Bethylinae (Hymenoptera, Bethylidae) solves basal polytomy. Insect Systematics &amp; Evolution, 51(3), 296\u2013346. https://doi.org/10.1163/1876312x-00002202\n",
 "ot:studyYear": 2020,
 "studyID": "ot_2361",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Vargas R. JM, 2020",
+"decision": "INCLUDED",
+"defaultSortOrder": 31,
+"name": "Fig. 1 (Vargas R. JM, 2020)",
+"ot:focalCladeOTTTaxonName": "Scleroderminae",
+"ot:studyPublication": "https://doi.org/10.26049/ASP78-2-2020-02",
+"ot:studyPublicationReference": "Vargas R. JM, Dondoni Colombo W, Azevedo CO (2020) Revisited phylogeny of Scleroderminae (Hymenoptera: Bethylidae) reveals a plastic evolutionary history. Arthropod Systematics & Phylogeny 78(2): 217-243. https://doi.org/10.26049/ASP78-2-2020-02",
+"ot:studyYear": 2020,
+"studyID": "ot_2363",
 "treeID": "tree1"
 }
 ],
