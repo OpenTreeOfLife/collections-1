@@ -495,6 +495,20 @@
 "ot:studyYear": 2020,
 "studyID": "ot_2363",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Gohli, 2017",
+"decision": "INCLUDED",
+"defaultSortOrder": 35,
+"name": "Fig. 2 (Gohli, 2017)",
+"ot:focalCladeOTTTaxonName": "Scolytinae",
+"ot:studyPublication": "http://dx.doi.org/10.1111/evo.13219",
+"ot:studyPublicationReference": "Gohli, J., Kirkendall, L. R., Smith, S. M., Cognato, A. I., Hulcr, J., & Jordal, B. H. (2017). Biological factors contributing to bark and ambrosia beetle species diversification. Evolution, 71(5), 1258\u20131272. Portico. https://doi.org/10.1111/evo.13219\n",
+"ot:studyYear": 2017,
+"studyID": "ot_2366",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
