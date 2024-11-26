@@ -8449,6 +8449,14 @@
 "name": "Fig. 10",
 "studyID": "ot_2359",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gohli, J., Kirkendall, L. R., Smith, S. M., Cognato, A. I., Hulcr, J., & Jordal, B. H. (2017). Biological factors contributing to bark and ambrosia beetle species diversification. Evolution, 71(5), 1258\u20131272. Portico. https://doi.org/10.1111/evo.13219\n",
+"decision": "INCLUDED",
+"name": "Fig. 2",
+"studyID": "ot_2366",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
