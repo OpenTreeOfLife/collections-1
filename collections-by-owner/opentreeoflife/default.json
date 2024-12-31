@@ -8457,6 +8457,14 @@
 "name": "Fig. 2",
 "studyID": "ot_2366",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from de Abreu-Jr, E. F., Pavan, S. E., Tsuchiya, M. T. N., Wilson, D. E., Percequillo, A. R., & Maldonado, J. E. (2020). Museomics of tree squirrels: a dense taxon sampling of mitogenomes reveals hidden diversity, phenotypic convergence, and the need of a taxonomic overhaul. BMC Evolutionary Biology, 20(1). https://doi.org/10.1186/s12862-020-01639-y\n",
+"decision": "INCLUDED",
+"name": "Dataset-5-43 OTUs",
+"studyID": "ot_2369",
+"treeID": "tree5"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
