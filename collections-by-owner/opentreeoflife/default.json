@@ -8465,6 +8465,14 @@
 "name": "Dataset-5-43 OTUs",
 "studyID": "ot_2369",
 "treeID": "tree5"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Zhao, C., Zhang, H., Liu, G., Yang, X., & Zhang, J. (2016). The complete mitochondrial genome of the Tibetan fox (Vulpes ferrilata) and implications for the phylogeny of Canidae. Comptes Rendus. Biologies, 339(2), 68\u201377. https://doi.org/10.1016/j.crvi.2015.11.005\n",
+"decision": "INCLUDED",
+"name": "3.2 Phylogenetic reconstruction of Canidae species",
+"studyID": "ot_2370",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
