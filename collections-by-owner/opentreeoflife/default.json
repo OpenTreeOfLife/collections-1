@@ -8473,6 +8473,14 @@
 "name": "3.2 Phylogenetic reconstruction of Canidae species",
 "studyID": "ot_2370",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Heckeberg, N. S. (2020). The systematics of the Cervidae: a total evidence approach. PeerJ, 8, e8114. Portico. https://doi.org/10.7717/peerj.8114\n",
+"decision": "INCLUDED",
+"name": "Tree C",
+"studyID": "ot_2368",
+"treeID": "tree7"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
