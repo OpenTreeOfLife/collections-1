@@ -8481,6 +8481,14 @@
 "name": "Tree C",
 "studyID": "ot_2368",
 "treeID": "tree7"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Musser, G., & Clarke, J. A. (2024). A new Paleogene fossil and a new dataset for waterfowl (Aves: Anseriformes) clarify phylogeny, ecological evolution, and avian evolution at the K-Pg Boundary. PLOS ONE, 19(7), e0278737. https://doi.org/10.1371/journal.pone.0278737\n",
+"decision": "INCLUDED",
+"name": "Figure 5- Consensus tree",
+"studyID": "ot_2371",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
