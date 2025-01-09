@@ -8489,6 +8489,14 @@
 "name": "Figure 5- Consensus tree",
 "studyID": "ot_2371",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cai, L., Cardoso, D., Tressel, L. G., Lee, C., Shrestha, B., Choi, I.-S., de Lima, H. C., de Queiroz, L. P., Ruhlman, T. A., Jansen, R. K., & Wojciechowski, M. F. (2024). Well-resolved phylogeny reveals multiple origins of keel flowers during the diversification of papilionoid legumes. https://doi.org/10.1101/2024.10.07.617045\n",
+"decision": "INCLUDED",
+"name": "Fabales_treePL",
+"studyID": "ot_2372",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
