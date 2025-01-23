@@ -8513,6 +8513,14 @@
 "name": "Papilioinoideae_ASTRAL",
 "studyID": "ot_2372",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Lopez-Osorio, F., Perrard, A., Pickett, K. M., Carpenter, J. M., & Agnarsson, I. (2015). Phylogenetic tests reject Emery\u2019s rule in the evolution of social parasitism in yellowjackets and hornets (Hymenoptera: Vespidae, Vespinae). Royal Society Open Science, 2(9), 150159. https://doi.org/10.1098/rsos.150159\n",
+"decision": "INCLUDED",
+"name": "Figure 1c - con 50 majrule",
+"studyID": "ot_2377",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
