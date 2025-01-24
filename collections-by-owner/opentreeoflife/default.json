@@ -8521,6 +8521,14 @@
 "name": "Figure 1c - con 50 majrule",
 "studyID": "ot_2377",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Piekarski, P. K., Carpenter, J. M., Lemmon, A. R., Moriarty Lemmon, E., & Sharanowski, B. J. (2018). Phylogenomic Evidence Overturns Current Conceptions of Social Evolution in Wasps (Vespidae). Molecular Biology and Evolution, 35(9), 2097\u20132109. https://doi.org/10.1093/molbev/msy124\n",
+"decision": "INCLUDED",
+"name": "Fig 2",
+"studyID": "ot_2380",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
