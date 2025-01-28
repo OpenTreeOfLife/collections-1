@@ -8529,6 +8529,14 @@
 "name": "Fig 2",
 "studyID": "ot_2380",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Menezes, R. S. T., Lloyd, M. W., & Brady, S. G. (2020). Phylogenomics indicates Amazonia as the major source of Neotropical swarm-founding social wasp diversity. Proceedings of the Royal Society B: Biological Sciences, 287(1928), 20200480. https://doi.org/10.1098/rspb.2020.0480\n",
+"decision": "INCLUDED",
+"name": "Figure 1",
+"studyID": "ot_2382",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
