@@ -8537,6 +8537,14 @@
 "name": "Figure 1",
 "studyID": "ot_2382",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Menezes, R. S. T., Noll, F. B., Arag\u00e3o, M., Hermes, M. G., & Brady, S. G. (2024). Phylomitogenomics reveals mito\u2010nuclear concordance in social wasps: The performance of mitochondrial markers and gene order for hymenopteran systematics. Systematic Entomology, 49(1), 15\u201327. Portico. https://doi.org/10.1111/syen.12604\n",
+"decision": "INCLUDED",
+"name": "Figure 3",
+"studyID": "ot_2383",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
