@@ -8545,6 +8545,14 @@
 "name": "Figure 3",
 "studyID": "ot_2383",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Pike, N., Whitfield, J. A., & Foster, W. A. (2007). Ecological correlates of sociality in Pemphigus aphids, with a partial phylogeny of the genus. BMC Evolutionary Biology, 7(1), 185. https://doi.org/10.1186/1471-2148-7-185\n",
+"decision": "INCLUDED",
+"name": "Fig 3",
+"studyID": "ot_2393",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
