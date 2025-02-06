@@ -422,8 +422,9 @@
 "name": "Fig. 3 (Marchal, 2015)",
 "ot:focalCladeOTTTaxonName": "Aradidae",
 "ot:studyPublication": "http://dx.doi.org/10.1111/zsc.12157",
+"ot:studyPublicationReferenc": "Marchal, L., & Guilbert, E. (2015). Cladistic analysis of <scp>A</scp>radidae (<scp>I</scp>nsecta, <scp>H</scp>eteroptera) based on morphological and molecular characters. Zoologica Scripta, 45(3), 273\u2013285. Portico. https://doi.org/10.1111/zsc.12157\n",
 "ot:studyPublicationReference": "Marchal, L., & Guilbert, E. (2015). Cladistic analysis of <scp>A</scp>radidae (<scp>I</scp>nsecta, <scp>H</scp>eteroptera) based on morphological and molecular characters. Zoologica Scripta, 45(3), 273\u2013285. Portico. https://doi.org/10.1111/zsc.12157\n",
-"ot:studyYear": 2016,
+"ot:studyYear": 2015,
 "studyID": "ot_2358",
 "treeID": "tree1"
 },
@@ -504,7 +505,9 @@
 "decision": "INCLUDED",
 "defaultSortOrder": 35,
 "name": "Figure 3 (Menezes, 2024)",
+"ot:focalCladeOTTTaxonName": "",
 "ot:studyPublication": "https://doi.org/10.1111/syen.12604",
+"ot:studyPublicationReferenc": "Menezes, R. S. T., Noll, F. B., Arag\u00e3o, M., Hermes, M. G., & Brady, S. G. (2024). Phylomitogenomics reveals mito\u2010nuclear concordance in social wasps: The performance of mitochondrial markers and gene order for hymenopteran systematics. Systematic Entomology, 49(1), 15\u201327. Portico. https://doi.org/10.1111/syen.12604\n",
 "ot:studyPublicationReference": "Menezes, R. S. T., Noll, F. B., Arag\u00e3o, M., Hermes, M. G., & Brady, S. G. (2024). Phylomitogenomics reveals mito\u2010nuclear concordance in social wasps: The performance of mitochondrial markers and gene order for hymenopteran systematics. Systematic Entomology, 49(1), 15\u201327. Portico. https://doi.org/10.1111/syen.12604\n",
 "ot:studyYear": 2024,
 "studyID": "ot_2383",
@@ -615,7 +618,9 @@
 "decision": "INCLUDED",
 "defaultSortOrder": 43,
 "name": "Fig. 3 but pruned to my species (Chesters, 2019)",
+"ot:focalCladeOTTTaxonName": "",
 "ot:studyPublication": "http://dx.doi.org/10.1111/syen.12414",
+"ot:studyPublicationReferenc": "Chesters, D. (2019). The phylogeny of insects in the data\u2010driven era. Systematic Entomology, 45(3), 540\u2013551. Portico. https://doi.org/10.1111/syen.12414\n",
 "ot:studyPublicationReference": "Chesters, D. (2019). The phylogeny of insects in the data\u2010driven era. Systematic Entomology, 45(3), 540\u2013551. Portico. https://doi.org/10.1111/syen.12414\n",
 "ot:studyYear": 2019,
 "studyID": "ot_2349",
@@ -652,15 +657,11 @@
 {
 "SHA": "",
 "comments": "",
-"compactRefText": "McLeish, 2007",
 "decision": "INCLUDED",
 "defaultSortOrder": 46,
-"name": "Untitled (tree1) (McLeish, 2007)",
-"ot:studyPublication": "http://dx.doi.org/10.1186/1741-7007-5-3",
-"ot:studyPublicationReference": "McLeish, M. J., Chapman, T. W., & Schwarz, M. P. (2007). Host-driven diversification of gall-inducing Acacia thrips and the aridification of Australia. BMC Biology, 5(1). https://doi.org/10.1186/1741-7007-5-3\n",
-"ot:studyYear": 2007,
+"name": "Fig 2 (McLeish, 2007)",
 "studyID": "ot_2262",
-"treeID": "tree1"
+"treeID": "tree2"
 }
 ],
 "description": "Tree of all insects",
