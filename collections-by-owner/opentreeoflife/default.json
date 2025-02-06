@@ -8553,6 +8553,14 @@
 "name": "Fig 3",
 "studyID": "ot_2393",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Uematsu, K., Kutsukake, M., Shigenobu, S., Yang, M.-M., Shibao, H., & Fukatsu, T. (2022). Seasonal polyphenism underlies the origin of a sterile caste in aphids. https://doi.org/10.1101/2022.08.19.501651\n",
+"decision": "INCLUDED",
+"name": "Fig S2",
+"studyID": "ot_2394",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
