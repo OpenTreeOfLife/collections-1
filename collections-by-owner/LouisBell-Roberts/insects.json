@@ -628,6 +628,7 @@
 "decision": "INCLUDED",
 "defaultSortOrder": 44,
 "name": "Fig 6 (MOUND, 2007)",
+"ot:focalCladeOTTTaxonName": "Thysanoptera",
 "ot:studyPublication": "https://doi.org/10.11646/zootaxa.1668.1.21",
 "ot:studyPublicationReference": "MOUND, L. A., & MORRIS, D. C. (2007). The insect Order Thysanoptera: Classification versus Systematics*. Zootaxa, 1668(1). https://doi.org/10.11646/zootaxa.1668.1.21\n",
 "ot:studyYear": 2007,
@@ -646,6 +647,19 @@
 "ot:studyPublicationReference": "Morris, D. C., Mound, L. A., Schwarz, M. P., & Crespi, B. J. (1999). Morphological phylogenetics of Australian gall\u2010inducing thrips and their allies: the evolution of host\u2010plant affiliations, domicile use and social behaviour. Systematic Entomology, 24(3), 289\u2013299. Portico. https://doi.org/10.1046/j.1365-3113.1999.00083.x\n",
 "ot:studyYear": 1999,
 "studyID": "ot_2388",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "McLeish, 2007",
+"decision": "INCLUDED",
+"defaultSortOrder": 46,
+"name": "Untitled (tree1) (McLeish, 2007)",
+"ot:studyPublication": "http://dx.doi.org/10.1186/1741-7007-5-3",
+"ot:studyPublicationReference": "McLeish, M. J., Chapman, T. W., & Schwarz, M. P. (2007). Host-driven diversification of gall-inducing Acacia thrips and the aridification of Australia. BMC Biology, 5(1). https://doi.org/10.1186/1741-7007-5-3\n",
+"ot:studyYear": 2007,
+"studyID": "ot_2262",
 "treeID": "tree1"
 }
 ],
