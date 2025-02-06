@@ -680,6 +680,20 @@
 "ot:studyYear": 2007,
 "studyID": "ot_2262",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Kranz, 2005",
+"decision": "INCLUDED",
+"defaultSortOrder": 48,
+"name": "Fig 1 (Kranz, 2005)",
+"ot:focalCladeOTTTaxonName": "Kladothrips",
+"ot:studyPublication": "https://doi.org/10.1093/beheco/ari053",
+"ot:studyPublicationReference": "Kranz, B. D. (2005). Egg size and reproductive allocation in eusocial thrips. Behavioral Ecology, 16(4), 779\u2013787. https://doi.org/10.1093/beheco/ari053\n",
+"ot:studyYear": 2005,
+"studyID": "ot_2391",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
