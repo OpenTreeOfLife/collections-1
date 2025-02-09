@@ -1333,6 +1333,14 @@
 {
 "SHA": "",
 "comments": "",
+"decision": "INCLUDED",
+"name": "Fig S1 in part (Johansson, 2016)",
+"studyID": "ot_2395",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
 "compactRefText": "Wang, 2016",
 "decision": "INCLUDED",
 "defaultSortOrder": 88,
