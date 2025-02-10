@@ -8561,6 +8561,14 @@
 "name": "Fig S2",
 "studyID": "ot_2394",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Lepeco, A., Branstetter, M. G., Melo, G. A. R., Freitas, F. V., Tobin, K. B., Gan, J., Jensen, J., & Almeida, E. A. B. (2024). Phylogenomic insights into the worldwide evolutionary relationships of the stingless bees (Apidae, Meliponini). Molecular Phylogenetics and Evolution, 201, 108219. https://doi.org/10.1016/j.ympev.2024.108219\n",
+"decision": "INCLUDED",
+"name": "Fig 2",
+"studyID": "ot_2397",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
