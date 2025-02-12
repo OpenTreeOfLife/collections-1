@@ -8569,6 +8569,14 @@
 "name": "Fig 2",
 "studyID": "ot_2397",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from ACOSTA, R., & MORRONE, J. J. (2013). Phylogenetics of the tribe Phalacropsyllini (Siphonaptera: Ctenophthalmidae: Neopsyllinae) based on molecular and morphological evidence. Zootaxa, 3630(2). https://doi.org/10.11646/zootaxa.3630.2.8\n",
+"decision": "INCLUDED",
+"name": "Figure 3",
+"studyID": "ot_2400",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
