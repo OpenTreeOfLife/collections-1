@@ -8577,6 +8577,14 @@
 "name": "Figure 3",
 "studyID": "ot_2400",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bocak L, Barton C, Crampton-Platt A, Chesters D, Ahrens D, Vogler AP (2014) Building the Coleoptera tree-of-life for >8000 species: composition of public DNA data and fit with Linnaean classification. Syst Entomol, 39, 97-110.\n https://doi.org/10.1111/syen.12037\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_2399",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
