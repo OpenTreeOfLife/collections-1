@@ -8593,6 +8593,14 @@
 "name": "MP Morphology",
 "studyID": "ot_628",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Anderson, A. M., Stur, E., & Ekrem, T. (2013). Molecular and morphological methods reveal cryptic diversity and three new species of NearcticMicropsectra(Diptera:Chironomidae). Freshwater Science, 32(3), 892\u2013921. https://doi.org/10.1899/12-026.1\n",
+"decision": "INCLUDED",
+"name": "Fig. S2",
+"studyID": "ot_2413",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
