@@ -8609,6 +8609,14 @@
 "name": "Fig. 6",
 "studyID": "ot_2416",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ashman, L. G., Hartley, D., Jin, M., Rowell, D. M., Teasdale, L., \u015alipi\u0144ski, A., & Zwick, A. (2022). Rhytiphora: a phylogenetic and morphological study of Australia\u2019s largest longhorn beetle genus (Coleoptera: Cerambycidae). Invertebrate Systematics, 36(6), 493. https://doi.org/10.1071/is21071\n",
+"decision": "INCLUDED",
+"name": "Rhyt_WGS_exp_aa.tree processed",
+"studyID": "ot_2417",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
