@@ -8585,6 +8585,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_2399",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Robert S. Anderson, 2005, 'New Oxycoryninae from Central and South America: phylogenetic and biogeographical implications (Coleoptera: Belidae)', Systematic Entomology, vol. 30, no. 4, pp. 644-652",
+"decision": "INCLUDED",
+"name": "MP Morphology",
+"studyID": "ot_628",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
