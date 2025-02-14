@@ -8601,6 +8601,14 @@
 "name": "Fig. S2",
 "studyID": "ot_2413",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ashe, J. S. (2004). Phylogeny of the tachyporine group subfamilies and \u2018basal\u2019 lineages of the Aleocharinae (Coleoptera: Staphylinidae) based on larval and adult characteristics. Systematic Entomology, 30(1), 3\u201337. Portico. https://doi.org/10.1111/j.1365-3113.2004.00258.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 6",
+"studyID": "ot_2416",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
