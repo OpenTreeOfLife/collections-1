@@ -8625,6 +8625,14 @@
 "name": "Fig. 5",
 "studyID": "ot_2420",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Astruc, C., Julien, J. F., Errard, C., & Lenoir, A. (2004). Phylogeny of ants (Formicidae) based on morphology and DNA sequence data. Molecular Phylogenetics and Evolution, 31(3), 880\u2013893. https://doi.org/10.1016/j.ympev.2003.10.024\n",
+"decision": "INCLUDED",
+"name": "Fig. 3",
+"studyID": "ot_2421",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
