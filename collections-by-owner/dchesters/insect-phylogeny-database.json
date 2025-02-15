@@ -164,6 +164,14 @@
 "name": "Fig. 3a (Allegrucci, 2010)",
 "studyID": "ot_2409",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3 (\u00c1CS, 2006)",
+"studyID": "ot_2401",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
