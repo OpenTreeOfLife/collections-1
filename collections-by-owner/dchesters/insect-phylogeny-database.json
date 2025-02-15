@@ -180,6 +180,14 @@
 "name": "Fig. 7 (AHRENS, 2007)",
 "studyID": "ot_2405",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 17 (Ahrens, 2005)",
+"studyID": "ot_2404",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
