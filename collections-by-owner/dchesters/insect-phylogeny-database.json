@@ -20,6 +20,14 @@
 "name": "Fig. 3 (Astruc, 2004)",
 "studyID": "ot_2421",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3 (Auger\u2010Rozenberg, 2005)",
+"studyID": "ot_2422",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
