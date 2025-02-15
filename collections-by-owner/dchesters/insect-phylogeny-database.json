@@ -68,6 +68,14 @@
 "name": "Fig. 2 (Arag\u00e3o, 2019)",
 "studyID": "ot_2414",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1 (Ali MB, 2017)",
+"studyID": "ot_2407",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
