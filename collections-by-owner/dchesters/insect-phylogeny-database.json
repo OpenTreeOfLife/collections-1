@@ -132,6 +132,14 @@
 "name": "Fig. 1 (Almeida, 2011)",
 "studyID": "ot_2410",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 9 (AGRAIN, 2011)",
+"studyID": "ot_2402",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
