@@ -8641,6 +8641,14 @@
 "name": "Fig. 3",
 "studyID": "ot_2422",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ayivi, S. P. G., Tong, Y., Storey, K. B., Yu, D.-N., & Zhang, J.-Y. (2021). The Mitochondrial Genomes of 18 New Pleurosticti (Coleoptera: Scarabaeidae) Exhibit a Novel trnQ-NCR-trnI-trnM Gene Rearrangement and Clarify Phylogenetic Relationships of Subfamilies within Scarabaeidae. Insects, 12(11), 1025. https://doi.org/10.3390/insects12111025\n",
+"decision": "INCLUDED",
+"name": "Fig. 3 Left",
+"studyID": "ot_2423",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
