@@ -8617,6 +8617,14 @@
 "name": "Rhyt_WGS_exp_aa.tree processed",
 "studyID": "ot_2417",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Assmar, A. C., Pires Machado, R. J., & Calor, A. R. (2022). Taxonomic revision and first phylogeny of Climacia McLachlan, 1869 (Neuroptera: Sisyridae), with new species and identification key. Zoologischer Anzeiger, 299, 128\u2013175. https://doi.org/10.1016/j.jcz.2022.05.004\n",
+"decision": "INCLUDED",
+"name": "Fig. 5",
+"studyID": "ot_2420",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
