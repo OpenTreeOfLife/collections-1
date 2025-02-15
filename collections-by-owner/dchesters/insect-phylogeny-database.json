@@ -196,6 +196,14 @@
 "name": "Fig. 6 (Ashe, 2004)",
 "studyID": "ot_2416",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 12 (Archangelsky, 2004)",
+"studyID": "ot_2415",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
