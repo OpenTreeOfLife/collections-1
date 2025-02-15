@@ -44,6 +44,14 @@
 "name": "Untitled (tree1) (Chesters, 2023)",
 "studyID": "ot_2398",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Rhyt_WGS_exp_aa.tree processed (Ashman, 2022)",
+"studyID": "ot_2417",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
