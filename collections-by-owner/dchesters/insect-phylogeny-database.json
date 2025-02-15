@@ -84,6 +84,14 @@
 "name": "Fig. 18 (Asp\u00f6ck, 2017)",
 "studyID": "ot_2419",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2 (Ament, 2017)",
+"studyID": "ot_2411",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
