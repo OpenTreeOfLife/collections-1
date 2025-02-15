@@ -4,7 +4,16 @@
 "login": "dchesters",
 "name": "dchesters"
 },
-"decisions": [],
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 5 (Assmar, 2022)",
+"studyID": "ot_2420",
+"treeID": "tree1"
+}
+],
 "description": "Insect Phylogeny Database",
 "name": "Insect Phylogeny Database",
 "queries": []
