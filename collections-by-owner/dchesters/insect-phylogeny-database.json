@@ -76,6 +76,14 @@
 "name": "Fig. 1 (Ali MB, 2017)",
 "studyID": "ot_2407",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 18 (Asp\u00f6ck, 2017)",
+"studyID": "ot_2419",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
