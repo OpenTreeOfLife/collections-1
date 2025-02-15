@@ -60,6 +60,14 @@
 "name": "Fig. 1 (An, 2022)",
 "studyID": "ot_2412",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2 (Arag\u00e3o, 2019)",
+"studyID": "ot_2414",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
