@@ -28,6 +28,14 @@
 "name": "Fig. 3 (Auger\u2010Rozenberg, 2005)",
 "studyID": "ot_2422",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3 Left (Ayivi, 2021)",
+"studyID": "ot_2423",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
