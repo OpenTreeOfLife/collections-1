@@ -8633,6 +8633,14 @@
 "name": "Fig. 3",
 "studyID": "ot_2421",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Auger\u2010Rozenberg, M., Kerdelhu\u00e9, C., Magnoux, E., Turgeon, J., Rasplus, J., & Roques, A. (2005). Molecular phylogeny and evolution of host\u2010plant use in conifer seed chalcids in the genus Megastigmus (Hymenoptera: Torymidae). Systematic Entomology, 31(1), 47\u201364. Portico. https://doi.org/10.1111/j.1365-3113.2005.00310.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 3",
+"studyID": "ot_2422",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
