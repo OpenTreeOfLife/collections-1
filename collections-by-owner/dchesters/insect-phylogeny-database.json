@@ -116,6 +116,14 @@
 "name": "Figure 3 (ACOSTA, 2013)",
 "studyID": "ot_2400",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S2 (Anderson, 2013)",
+"studyID": "ot_2413",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
