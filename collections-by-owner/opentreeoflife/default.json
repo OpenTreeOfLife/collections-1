@@ -8769,6 +8769,14 @@
 "name": "Fig. 3",
 "studyID": "ot_2440",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bell-Roberts, L., Douglas, A. E., & Werner, G. D. A. (2019). Match and mismatch between dietary switches and microbial partners in plant sap-feeding insects. Proceedings of the Royal Society B: Biological Sciences, 286(1902), 20190065. https://doi.org/10.1098/rspb.2019.0065\n",
+"decision": "INCLUDED",
+"name": "aucho_till_subfamily_boosterweb_dated.phy",
+"studyID": "ot_2441",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
