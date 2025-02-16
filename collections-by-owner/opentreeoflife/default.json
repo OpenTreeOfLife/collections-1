@@ -8657,6 +8657,14 @@
 "name": "Fig. 2",
 "studyID": "ot_2424",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BADANO, D., ASP\u00d6CK, U., ASP\u00d6CK, H., & CERRETTI, P. (2016). Phylogeny of <scp>M</scp>yrmeleontiformia based on larval morphology (<scp>N</scp>europterida: <scp>N</scp>europtera). Systematic Entomology, 42(1), 94\u2013117. Portico. https://doi.org/10.1111/syen.12200\n",
+"decision": "INCLUDED",
+"name": "Fig. 4",
+"studyID": "ot_2426",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
