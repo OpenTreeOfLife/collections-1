@@ -292,6 +292,14 @@
 "name": "Fig. 1 (Barber-James, 2009)",
 "studyID": "ot_2434",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2 (Barker, 2003)",
+"studyID": "ot_2435",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
