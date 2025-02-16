@@ -348,6 +348,14 @@
 "name": "aucho_till_subfamily_boosterweb_dated.phy (Bell-Roberts, 2019)",
 "studyID": "ot_2441",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S1 (Bellini, 2022)",
+"studyID": "ot_2442",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
