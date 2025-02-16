@@ -8777,6 +8777,14 @@
 "name": "aucho_till_subfamily_boosterweb_dated.phy",
 "studyID": "ot_2441",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bellini, B. C., Zhang, F., de Souza, P. G. C., dos Santos-Costa, R. C., Medeiros, G. da S., & Godeiro, N. N. (2022). The Evolution of Collembola Higher Taxa (Arthropoda, Hexapoda) Based on Mitogenome Data. Diversity, 15(1), 7. https://doi.org/10.3390/d15010007\n",
+"decision": "INCLUDED",
+"name": "Fig. S1",
+"studyID": "ot_2442",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
