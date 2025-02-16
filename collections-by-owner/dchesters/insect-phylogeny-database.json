@@ -252,6 +252,14 @@
 "name": "Fig. 1 (Balke, 2004)",
 "studyID": "ot_2429",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "File.S3.nex.txt (Bank, 2022)",
+"studyID": "ot_2430",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
