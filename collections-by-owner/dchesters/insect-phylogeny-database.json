@@ -316,6 +316,14 @@
 "name": "Fig. S11 (Basso, 2016)",
 "studyID": "ot_2437",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1 (Bauer, 2012)",
+"studyID": "ot_2438",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
