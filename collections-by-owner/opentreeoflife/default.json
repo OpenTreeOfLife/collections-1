@@ -8697,6 +8697,14 @@
 "name": "Fig. 2, 1-s2.0-S1055790317303305-mmc30.new",
 "studyID": "ot_2431",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bank, S., Cumming, R. T., Li, Y., Henze, K., Le Tirant, S., & Bradler, S. (2021). A tree of leaves: Phylogeny and historical biogeography of the leaf insects (Phasmatodea: Phylliidae). Communications Biology, 4(1). https://doi.org/10.1038/s42003-021-02436-z\n",
+"decision": "INCLUDED",
+"name": "42003_2021_2436_MOESM7_ESM.txt",
+"studyID": "ot_2432",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
