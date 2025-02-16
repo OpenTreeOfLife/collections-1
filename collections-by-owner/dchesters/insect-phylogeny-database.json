@@ -212,6 +212,14 @@
 "name": "Fig. 2 (Baca, 2020)",
 "studyID": "ot_2424",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig 3 (Baca, 2017)",
+"studyID": "ot_2425",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
