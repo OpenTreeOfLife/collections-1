@@ -8745,6 +8745,14 @@
 "name": "Fig. S11",
 "studyID": "ot_2437",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bauer, F., St\u00fcbner, A., Neinhuis, C., & Nuss, M. (2012). Molecular phylogeny, larval case architecture, host\u2013plant associations and classification of European Coleophoridae (Lepidoptera). Zoologica Scripta, 41(3), 248\u2013265. Portico. https://doi.org/10.1111/j.1463-6409.2012.00532.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1",
+"studyID": "ot_2438",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
