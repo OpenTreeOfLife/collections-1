@@ -8737,6 +8737,14 @@
 "name": "Fig. 1",
 "studyID": "ot_2436",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Basso, A., Negrisolo, E., Zilli, A., Battisti, A., & Cerretti, P. (2016). A total evidence phylogeny for the processionary moths of the genus Thaumetopoea (Lepidoptera: Notodontidae: Thaumetopoeinae). Cladistics, 33(6), 557\u2013573. Portico. https://doi.org/10.1111/cla.12181\n",
+"decision": "INCLUDED",
+"name": "Fig. S11",
+"studyID": "ot_2437",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
