@@ -8649,6 +8649,14 @@
 "name": "Fig. 3 Left",
 "studyID": "ot_2423",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Baca, S. M., & Short, A. E. Z. (2020). Molecular Phylogeny of the Notomicrine Water Beetles (Coleoptera: Noteridae) Reveals Signatures of Gondwanan Vicariance and Ecological Plasticity. Insect Systematics and Diversity, 4(6). https://doi.org/10.1093/isd/ixaa015\n",
+"decision": "INCLUDED",
+"name": "Fig. 2",
+"studyID": "ot_2424",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
