@@ -8705,6 +8705,14 @@
 "name": "42003_2021_2436_MOESM7_ESM.txt",
 "studyID": "ot_2432",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bank, S., Buckley, T. R., B\u00fcscher, T. H., Bresseel, J., Constant, J., de Haan, M., Dittmar, D., Dr\u00e4ger, H., Kahar, R. S., Kang, A., Kneub\u00fchler, B., Langton\u2010Myers, S. S., & Bradler, S. (2021). Reconstructing the nonadaptive radiation of an ancient lineage of ground\u2010dwelling stick insects (Phasmatodea: Heteropterygidae). Systematic Entomology, 46(3), 487\u2013507. Portico. https://doi.org/10.1111/syen.12472\n",
+"decision": "INCLUDED",
+"name": "syen12472-sup-0014-files3.nex",
+"studyID": "ot_2433",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
