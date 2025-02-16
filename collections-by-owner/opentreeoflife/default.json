@@ -8761,6 +8761,14 @@
 "name": "Fig. 1",
 "studyID": "ot_2439",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BELL, K. L., & PHILIPS, T. K. (2012). Molecular systematics and evolution of the Ptinidae (Coleoptera: Bostrichoidea) and related families. Zoological Journal of the Linnean Society, 165(1), 88\u2013108. https://doi.org/10.1111/j.1096-3642.2011.00792.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 3",
+"studyID": "ot_2440",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
