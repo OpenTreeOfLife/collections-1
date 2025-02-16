@@ -300,6 +300,14 @@
 "name": "Fig. 2 (Barker, 2003)",
 "studyID": "ot_2435",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1 (Bas\u00edlio, 2023)",
+"studyID": "ot_2436",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
