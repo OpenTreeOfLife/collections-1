@@ -236,6 +236,14 @@
 "name": "Fig. 3 (BAKHOUM, 2017)",
 "studyID": "ot_2427",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1 (Balke, 2004)",
+"studyID": "ot_2428",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
