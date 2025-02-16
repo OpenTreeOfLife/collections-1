@@ -8689,6 +8689,14 @@
 "name": "File.S3.nex.txt",
 "studyID": "ot_2430",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bank, S., Sann, M., Mayer, C., Meusemann, K., Donath, A., Podsiadlowski, L., Kozlov, A., Petersen, M., Krogmann, L., Meier, R., Rosa, P., Schmitt, T., Wurdack, M., Liu, S., Zhou, X., Misof, B., Peters, R. S., & Niehuis, O. (2017). Transcriptome and target DNA enrichment sequence data provide new insights into the phylogeny of vespid wasps (Hymenoptera: Aculeata: Vespidae). Molecular Phylogenetics and Evolution, 116, 213\u2013226. https://doi.org/10.1016/j.ympev.2017.08.020\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, 1-s2.0-S1055790317303305-mmc30.new",
+"studyID": "ot_2431",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
