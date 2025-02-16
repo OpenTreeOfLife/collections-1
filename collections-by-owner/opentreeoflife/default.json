@@ -8665,6 +8665,14 @@
 "name": "Fig. 4",
 "studyID": "ot_2426",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Balke, M., Watts, C. H. S., Cooper, S. J. B., Humphreys, W. F., & Vogler, A. P. (2004). A highly modified stygobiont diving beetle of the genus Copelatus (Coleoptera, Dytiscidae): taxonomy and cladistic analysis based on mitochondrial DNA sequences. Systematic Entomology, 29(1), 59\u201367. Portico. https://doi.org/10.1111/j.1365-3113.2004.00229.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1",
+"studyID": "ot_2428",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
