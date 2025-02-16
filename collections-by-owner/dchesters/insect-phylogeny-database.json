@@ -260,6 +260,14 @@
 "name": "File.S3.nex.txt (Bank, 2022)",
 "studyID": "ot_2430",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, 1-s2.0-S1055790317303305-mmc30.new (Bank, 2017)",
+"studyID": "ot_2431",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
