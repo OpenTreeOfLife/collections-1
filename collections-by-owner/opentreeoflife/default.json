@@ -8681,6 +8681,14 @@
 "name": "Fig. 1",
 "studyID": "ot_2429",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bank, S., & Bradler, S. (2022). A second view on the evolution of flight in stick and leaf insects (Phasmatodea). BMC Ecology and Evolution, 22(1). https://doi.org/10.1186/s12862-022-02018-5\n",
+"decision": "INCLUDED",
+"name": "File.S3.nex.txt",
+"studyID": "ot_2430",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
