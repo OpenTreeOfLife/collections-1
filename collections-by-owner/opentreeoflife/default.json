@@ -8713,6 +8713,14 @@
 "name": "syen12472-sup-0014-files3.nex",
 "studyID": "ot_2433",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Barber-James, H. M. (2009). A preliminary phylogeny of Prosopistomatidae (Ephemeroptera) based on morphological characters of the larvae, and an assessment of their distribution. Aquatic Insects, 31(sup1), 149\u2013166. https://doi.org/10.1080/01650420903020502\n",
+"decision": "INCLUDED",
+"name": "Fig. 1",
+"studyID": "ot_2434",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
