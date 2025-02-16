@@ -8753,6 +8753,14 @@
 "name": "Fig. 1",
 "studyID": "ot_2438",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bayless, K. M., Trautwein, M. D., Meusemann, K., Shin, S., Petersen, M., Donath, A., Podsiadlowski, L., Mayer, C., Niehuis, O., Peters, R. S., Meier, R., Kutty, S. N., Liu, S., Zhou, X., Misof, B., Yeates, D. K., & Wiegmann, B. M. (2021). Beyond Drosophila: resolving the rapid radiation of schizophoran flies with phylotranscriptomics. BMC Biology, 19(1). https://doi.org/10.1186/s12915-020-00944-8\n",
+"decision": "INCLUDED",
+"name": "Fig. 1",
+"studyID": "ot_2439",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
