@@ -8721,6 +8721,14 @@
 "name": "Fig. 1",
 "studyID": "ot_2434",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Barker, S. C., Whiting, M., Johnson, K. P., & Murrell, A. (2003). Phylogeny of the lice (Insecta, Phthiraptera) inferred from small subunit rRNA. Zoologica Scripta, 32(5), 407\u2013414. Portico. https://doi.org/10.1046/j.1463-6409.2003.00120.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2",
+"studyID": "ot_2435",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
