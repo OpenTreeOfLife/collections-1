@@ -8809,6 +8809,14 @@
 "name": "Fig. 17",
 "studyID": "ot_2445",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bennett, A. M. R., Cardinal, S., Gauld, I. D., & Wahl, D. B. (2019). Phylogeny of the subfamilies of Ichneumonidae (Hymenoptera). Journal of Hymenoptera Research, 71, 1\u2013156. https://doi.org/10.3897/jhr.71.32375\n",
+"decision": "INCLUDED",
+"name": "Fig. 124",
+"studyID": "ot_2446",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
