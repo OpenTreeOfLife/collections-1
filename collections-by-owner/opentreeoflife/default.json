@@ -8825,6 +8825,14 @@
 "name": "Fig. 4",
 "studyID": "ot_2447",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from L\u00f3pez Berrizbeitia, M. F., Hastriter, M. W., Barquez, R. M., & D\u00edaz, M. M. (2019). Fleas of the genus Tetrapsyllus (Siphonaptera:Rhopalopsyllidae) associated with rodents from Northwestern Argentina. International Journal for Parasitology: Parasites and Wildlife, 9, 80\u201389. https://doi.org/10.1016/j.ijppaw.2019.03.001\n",
+"decision": "INCLUDED",
+"name": "Fig. 4a",
+"studyID": "ot_2448",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
