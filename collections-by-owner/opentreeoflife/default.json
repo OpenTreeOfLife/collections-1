@@ -8793,6 +8793,14 @@
 "name": "Fig. 12",
 "studyID": "ot_2443",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Belshaw, R., & Quicke, D. L. J. (1997). A Molecular Phylogeny of the Aphidiinae (Hymenoptera: Braconidae). Molecular Phylogenetics and Evolution, 7(3), 281\u2013293. https://doi.org/10.1006/mpev.1996.0400\n",
+"decision": "INCLUDED",
+"name": "Fig. 4",
+"studyID": "ot_2444",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
