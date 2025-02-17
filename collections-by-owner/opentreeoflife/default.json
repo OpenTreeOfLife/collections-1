@@ -8785,6 +8785,14 @@
 "name": "Fig. S1",
 "studyID": "ot_2442",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BELOKOBYLSKIJ, S. A., ZALDIVAR-RIVER\u00d3N, A., & QUICKE, D. L. J. (2004). Phylogeny of the genera of the parasitic wasps subfamily Doryctinae (Hymenoptera: Braconidae) based on morphological evidence. Zoological Journal of the Linnean Society, 142(3), 369\u2013404. https://doi.org/10.1111/j.1096-3642.2004.00133.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 12",
+"studyID": "ot_2443",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
