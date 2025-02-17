@@ -356,6 +356,14 @@
 "name": "Fig. S1 (Bellini, 2022)",
 "studyID": "ot_2442",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 12 (BELOKOBYLSKIJ, 2004)",
+"studyID": "ot_2443",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
