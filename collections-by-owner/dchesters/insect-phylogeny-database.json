@@ -380,6 +380,14 @@
 "name": "Fig. 17 (Bennett, 2001)",
 "studyID": "ot_2445",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 124 (Bennett, 2019)",
+"studyID": "ot_2446",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
