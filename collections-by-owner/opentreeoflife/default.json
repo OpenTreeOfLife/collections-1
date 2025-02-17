@@ -8801,6 +8801,14 @@
 "name": "Fig. 4",
 "studyID": "ot_2444",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bennett, A. M. R. (2001). Phylogeny of Agriotypinae (Hymenoptera: Ichneumonidae), with comments on the subfamily relationships of the basal Ichneumonidae. Systematic Entomology, 26(3), 329\u2013356. Portico. https://doi.org/10.1046/j.0307-6970.2001.00155.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 17",
+"studyID": "ot_2445",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
