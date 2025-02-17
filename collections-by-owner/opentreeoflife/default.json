@@ -8833,6 +8833,14 @@
 "name": "Fig. 4a",
 "studyID": "ot_2448",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Deng, J., Stroi\u0144ski, A., Szwedo, J., Ghanavi, H. R., Yapar, E., Franco, D. C., Prus\u2010Frankowska, M., Michalik, A., Wahlberg, N., & \u0141ukasik, P. (2024). Phylogenomic insights into the relationship and the evolutionary history of planthoppers (Insecta: Hemiptera: Fulgoromorpha). Systematic Entomology. Portico. https://doi.org/10.1111/syen.12666\n",
+"decision": "INCLUDED",
+"name": "fulgo_aa_285sp.contree",
+"studyID": "ot_2449",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
