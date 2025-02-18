@@ -8841,6 +8841,14 @@
 "name": "fulgo_aa_285sp.contree",
 "studyID": "ot_2449",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from de Oliveira, J. V. L. C., & Zeppelini, D. (2024). A New Perspective to Oncopodura (Collembola: Oncopoduridae) Groups Based on Appendicular Morphology. Neotropical Entomology, 53(6), 1220\u20131259. https://doi.org/10.1007/s13744-024-01203-z\n",
+"decision": "INCLUDED",
+"name": "Fig. 31 left, MP",
+"studyID": "ot_2452",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
