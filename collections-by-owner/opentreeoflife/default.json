@@ -8849,6 +8849,14 @@
 "name": "Fig. 31 left, MP",
 "studyID": "ot_2452",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Beutel, R. G., & H\u00f6rnschemeyer, T. (2002). Larval morphology and phylogenetic position of Micromalthus debilis LeConte (Coleoptera: Micromalthidae). Systematic Entomology, 27(2), 169\u2013190. Portico. https://doi.org/10.1046/j.1365-3113.2002.00172.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 13",
+"studyID": "ot_2453",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
