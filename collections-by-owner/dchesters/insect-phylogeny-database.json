@@ -468,6 +468,14 @@
 "name": "Fig. 4 (Beza-Beza CF, 2020)",
 "studyID": "ot_2458",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 59 (Blahnik, 2002)",
+"studyID": "ot_2460",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
