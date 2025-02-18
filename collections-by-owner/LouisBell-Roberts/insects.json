@@ -865,6 +865,20 @@
 "ot:studyYear": 2019,
 "studyID": "ot_2349",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Field J., 2011",
+"decision": "INCLUDED",
+"defaultSortOrder": 61,
+"name": "Fig 1 (Field J., 2011)",
+"ot:focalCladeOTTTaxonName": "Sphecidae",
+"ot:studyPublication": "http://dx.doi.org/10.1111/j.1365-3113.2011.00591.x",
+"ot:studyPublicationReference": "Field J., Ohl M., & Kennedy M. 2011. A molecular phylogeny for digger wasps in the tribe Ammophilini (Hymenoptera, Apoidea, Sphecidae). Systematic Entomology, 36(4): 732-740.",
+"ot:studyYear": 2011,
+"studyID": "pg_2325",
+"treeID": "tree4903"
 }
 ],
 "description": "Tree of all insects",
