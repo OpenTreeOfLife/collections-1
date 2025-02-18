@@ -484,6 +484,14 @@
 "name": "Addit. File 9; Fig. A (Blaimer, 2015)",
 "studyID": "ot_2461",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "ML_tree_for_ASR.tre (Masonick, 2024)",
+"studyID": "ot_2462",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
