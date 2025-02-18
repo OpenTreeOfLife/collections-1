@@ -8913,6 +8913,14 @@
 "name": "Addit. File 9; Fig. A",
 "studyID": "ot_2461",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Masonick, P. K., Knyshov, A., Gordon, E. R. L., Forero, D., Hwang, W. S., Hoey\u2010Chamberlain, R., Bush, T., Castillo, S., Hernandez, M., Ramirez, J., Standring, S., Zhang, J., & Weirauch, C. (2024). A revised classification of the assassin bugs (Hemiptera: Heteroptera: Reduviidae) based on combined analysis of phylogenomic and morphological data. Systematic Entomology, 50(1), 102\u2013138. Portico. https://doi.org/10.1111/syen.12646\n",
+"decision": "INCLUDED",
+"name": "ML_tree_for_ASR.tre",
+"studyID": "ot_2462",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
