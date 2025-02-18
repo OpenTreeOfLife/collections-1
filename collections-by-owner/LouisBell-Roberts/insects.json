@@ -879,6 +879,19 @@
 "ot:studyYear": 2011,
 "studyID": "pg_2325",
 "treeID": "tree4903"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Sabadini, 2020",
+"decision": "INCLUDED",
+"defaultSortOrder": 62,
+"name": "Fig 2 (Sabadini, 2020)",
+"ot:studyPublication": "https://doi.org/10.1080/14772000.2020.1758824",
+"ot:studyPublicationReference": "Sabadini, C. P., Machado, C. B., Vilhena, P. D. S., Gar\u00f3falo, C. A., & Del Lama, M. A. (2020). Species delimitation and phylogenetic relationships in the genusTrypoxylon(Hymenoptera: Crabronidae) using molecular markers: an alternative to taxonomic impediment. Systematics and Biodiversity, 18(4), 315\u2013327. https://doi.org/10.1080/14772000.2020.1758824\n",
+"ot:studyYear": 2020,
+"studyID": "ot_2463",
+"treeID": "tree2"
 }
 ],
 "description": "Tree of all insects",
