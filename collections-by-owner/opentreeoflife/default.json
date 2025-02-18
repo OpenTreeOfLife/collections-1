@@ -8921,6 +8921,14 @@
 "name": "ML_tree_for_ASR.tre",
 "studyID": "ot_2462",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Yu, D., Deharveng, L., Luki\u0107, M., Wei, Y., Hu, F., & Liu, M. (2021). Molecular phylogeny and trait evolution in an ancient terrestrial arthropod lineage: Systematic revision and implications for ecological divergence (Collembola, Tomocerinae). Molecular Phylogenetics and Evolution, 154, 106995. https://doi.org/10.1016/j.ympev.2020.106995\n",
+"decision": "INCLUDED",
+"name": "Fig. S1",
+"studyID": "ot_2467",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
