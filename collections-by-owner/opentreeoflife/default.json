@@ -8857,6 +8857,14 @@
 "name": "Fig. 13",
 "studyID": "ot_2453",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Beutel, R. G., & Leschen, R. A. B. (2005). Phylogenetic analysis of Staphyliniformia (Coleoptera) based on characters of larvae and adults. Systematic Entomology, 30(4), 510\u2013548. Portico. https://doi.org/10.1111/j.1365-3113.2005.00293.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 15",
+"studyID": "ot_2454",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
