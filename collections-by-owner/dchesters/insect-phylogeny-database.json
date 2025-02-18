@@ -476,6 +476,14 @@
 "name": "Fig. 59 (Blahnik, 2002)",
 "studyID": "ot_2460",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Addit. File 9; Fig. A (Blaimer, 2015)",
+"studyID": "ot_2461",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
