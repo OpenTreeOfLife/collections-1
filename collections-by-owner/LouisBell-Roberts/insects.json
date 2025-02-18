@@ -872,6 +872,7 @@
 "decision": "INCLUDED",
 "defaultSortOrder": 61,
 "name": "Fig 4 (Rosa, 2024)",
+"ot:focalCladeOTTTaxonName": "Pemphredoninae",
 "ot:studyPublication": "https://doi.org/10.1590/s1984-4689.v41.e23091",
 "ot:studyPublicationReference": "Rosa, B. B., & Melo, G. A. R. (2024). Bayesian and parsimony analyses based on morphological data reveal a new genus of spilomenine wasps (Hymenoptera: Crabronidae: Pemphredoninae) from Australia. Zoologia (Curitiba), 41. https://doi.org/10.1590/s1984-4689.v41.e23091\n",
 "ot:studyYear": 2024,
@@ -906,6 +907,33 @@
 "ot:studyYear": 2019,
 "studyID": "ot_2349",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Sann, 2021",
+"decision": "INCLUDED",
+"defaultSortOrder": 64,
+"name": "BEST_TREE_ML_r_nt12_00 (Sann, 2021)",
+"ot:focalCladeOTTTaxonName": "Apoidea",
+"ot:studyPublication": "https://doi.org/10.1111/syen.12475",
+"ot:studyPublicationReference": "Sann, M., Meusemann, K., Niehuis, O., Escalona, H. E., Mokrousov, M., Ohl, M., Pauli, T., & Schmid\u2010Egger, C. (2021). Reanalysis of the apoid wasp phylogeny with additional taxa and sequence data confirms the placement of Ammoplanidae as sister to bees. Systematic Entomology, 46(3), 558\u2013569. Portico. https://doi.org/10.1111/syen.12475\n",
+"ot:studyYear": 2021,
+"studyID": "ot_2465",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Sann, 2018",
+"decision": "INCLUDED",
+"defaultSortOrder": 65,
+"name": "Time calibration run 1 (Sann, 2018)",
+"ot:studyPublication": "https://doi.org/10.1186/s12862-018-1155-8",
+"ot:studyPublicationReference": "Sann, M., Niehuis, O., Peters, R. S., Mayer, C., Kozlov, A., Podsiadlowski, L., Bank, S., Meusemann, K., Misof, B., Bleidorn, C., & Ohl, M. (2018). Phylogenomic analysis of Apoidea sheds new light on the sister group of bees. BMC Evolutionary Biology, 18(1). https://doi.org/10.1186/s12862-018-1155-8\n",
+"ot:studyYear": 2018,
+"studyID": "ot_2466",
+"treeID": "tree2"
 }
 ],
 "description": "Tree of all insects",
