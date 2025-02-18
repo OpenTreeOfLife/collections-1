@@ -420,6 +420,14 @@
 "name": "Fig. 31 left, MP (de Oliveira, 2024)",
 "studyID": "ot_2452",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 13 (Beutel, 2002)",
+"studyID": "ot_2453",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
