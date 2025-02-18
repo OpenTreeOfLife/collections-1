@@ -8889,6 +8889,14 @@
 "name": "Fig. 11",
 "studyID": "ot_2457",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Beza-Beza CF, Jim\u00e9nez-Ferbans L, McKenna DD (2020) Phylogeny and Systematics of Wood-Degrading Neotro\u00adpical Bess Beetles (Coleoptera: Passalidae: Passalinae). Arthropod Systematics & Phylogeny, 78, 287-308.\n\n",
+"decision": "INCLUDED",
+"name": "Fig. 4",
+"studyID": "ot_2458",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
