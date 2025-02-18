@@ -452,6 +452,14 @@
 "name": "Fig. 34 (Beutel, 1999)",
 "studyID": "ot_2456",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 11 (BEUTEL, 2010)",
+"studyID": "ot_2457",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
