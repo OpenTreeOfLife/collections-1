@@ -8881,6 +8881,14 @@
 "name": "Fig. 34",
 "studyID": "ot_2456",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BEUTEL, R. G., FRIEDRICH, F., & ASP\u00d6CK, U. (2010). The larval head of Nevrorthidae and the phylogeny of Neuroptera (Insecta). Zoological Journal of the Linnean Society, 158(3), 533\u2013562. https://doi.org/10.1111/j.1096-3642.2009.00560.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 11",
+"studyID": "ot_2457",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
