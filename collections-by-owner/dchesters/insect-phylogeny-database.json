@@ -492,6 +492,14 @@
 "name": "ML_tree_for_ASR.tre (Masonick, 2024)",
 "studyID": "ot_2462",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S1 (Yu, 2021)",
+"studyID": "ot_2467",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
