@@ -8961,6 +8961,14 @@
 "name": "Fig. S1",
 "studyID": "ot_2472",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bocak, L., & Bocakova, M. (2008). Phylogeny and Classification of the Family Lycidae (Insecta: Coleoptera). Annales Zoologici, 58(4), 695\u2013720. https://doi.org/10.3161/000345408x396639\n",
+"decision": "INCLUDED",
+"name": "Fig. 2",
+"studyID": "ot_2473",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
