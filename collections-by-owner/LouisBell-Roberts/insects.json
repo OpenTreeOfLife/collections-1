@@ -976,6 +976,34 @@
 "ot:studyYear": 2013,
 "studyID": "ot_2338",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Guanyang Zhang, 2017",
+"decision": "INCLUDED",
+"defaultSortOrder": 69,
+"name": "TREE1 (Guanyang Zhang, 2017)",
+"ot:focalCladeOTTTaxonName": "Entiminae",
+"ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2016.12.039",
+"ot:studyPublicationReference": "Guanyang Zhang, Usmaan Basharat, Nicholas Matzke, Nico M. Franz, 2017, 'Model selection in statistical historical biogeography of Neotropical insects\u2014The  Exophthalmus  genus complex (Curculionidae: Entiminae)', Molecular Phylogenetics and Evolution, vol. 109, pp. 226-239",
+"ot:studyYear": 2017,
+"studyID": "ot_1063",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Shin, 2017",
+"decision": "INCLUDED",
+"defaultSortOrder": 70,
+"name": "Fig 1 (Shin, 2017)",
+"ot:focalCladeOTTTaxonName": "Curculionoidea",
+"ot:studyPublication": "https://doi.org/10.1093/molbev/msx324",
+"ot:studyPublicationReference": "Shin, S., Clarke, D. J., Lemmon, A. R., Moriarty Lemmon, E., Aitken, A. L., Haddad, S., Farrell, B. D., Marvaldi, A. E., Oberprieler, R. G., & McKenna, D. D. (2017). Phylogenomic Data Yield New and Robust Insights into the Phylogeny and Evolution of Weevils. Molecular Biology and Evolution, 35(4), 823\u2013836. https://doi.org/10.1093/molbev/msx324\n",
+"ot:studyYear": 2017,
+"studyID": "ot_2478",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
