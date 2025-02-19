@@ -8977,6 +8977,14 @@
 "name": "Fig. 2",
 "studyID": "ot_2474",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BOCEK, M., FANCELLO, L., MOTYKA, M., BOCAKOVA, M., & BOCAK, L. (2017). The molecular phylogeny of Omalisidae (Coleoptera) defines the family limits and demonstrates low dispersal propensity and ancient vicariance patterns. Systematic Entomology, 43(2), 250\u2013261. Portico. https://doi.org/10.1111/syen.12271\n",
+"decision": "INCLUDED",
+"name": "Fig. 1",
+"studyID": "ot_2475",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
