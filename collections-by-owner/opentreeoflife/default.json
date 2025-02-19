@@ -8937,6 +8937,14 @@
 "name": "Fig. 2, RAxML_Besttree_Acropyga_UCE-944.tre",
 "studyID": "ot_2469",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Blaimer, B. B., Gotzek, D., Brady, S. G., & Buffington, M. L. (2020). Comprehensive phylogenomic analyses re-write the evolution of parasitism within cynipoid wasps. BMC Evolutionary Biology, 20(1). https://doi.org/10.1186/s12862-020-01716-2\n",
+"decision": "INCLUDED",
+"name": "125_70_unpart.tre",
+"studyID": "ot_2470",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
