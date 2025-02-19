@@ -8929,6 +8929,14 @@
 "name": "Fig. S1",
 "studyID": "ot_2467",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Blaimer, B. B., LaPolla, J. S., Branstetter, M. G., Lloyd, M. W., & Brady, S. G. (2016). Phylogenomics, biogeography and diversification of obligate mealybug-tending ants in the genus Acropyga. Molecular Phylogenetics and Evolution, 102, 20\u201329. https://doi.org/10.1016/j.ympev.2016.05.030\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, RAxML_Besttree_Acropyga_UCE-944.tre",
+"studyID": "ot_2469",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
