@@ -540,6 +540,14 @@
 "name": "Fig. 2 (Bocak, 2008)",
 "studyID": "ot_2473",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2 (Bocakova, 2011)",
+"studyID": "ot_2474",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
