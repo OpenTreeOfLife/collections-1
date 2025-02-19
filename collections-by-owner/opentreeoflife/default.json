@@ -8945,6 +8945,14 @@
 "name": "125_70_unpart.tre",
 "studyID": "ot_2470",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Blaimer, B. B., Santos, B. F., Cruaud, A., Gates, M. W., Kula, R. R., Mik\u00f3, I., Rasplus, J.-Y., Smith, D. R., Talamas, E. J., Brady, S. G., & Buffington, M. L. (2023). Key innovations and the diversification of Hymenoptera. Nature Communications, 14(1). https://doi.org/10.1038/s41467-023-36868-4\n",
+"decision": "INCLUDED",
+"name": "HYM-Prot-AA-50percent.tre",
+"studyID": "ot_2471",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
