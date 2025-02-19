@@ -9001,6 +9001,14 @@
 "name": "Fig 3",
 "studyID": "ot_2477",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Shin, S., Clarke, D. J., Lemmon, A. R., Moriarty Lemmon, E., Aitken, A. L., Haddad, S., Farrell, B. D., Marvaldi, A. E., Oberprieler, R. G., & McKenna, D. D. (2017). Phylogenomic Data Yield New and Robust Insights into the Phylogeny and Evolution of Weevils. Molecular Biology and Evolution, 35(4), 823\u2013836. https://doi.org/10.1093/molbev/msx324\n",
+"decision": "INCLUDED",
+"name": "Fig 1",
+"studyID": "ot_2478",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
