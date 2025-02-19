@@ -508,6 +508,14 @@
 "name": "Fig. 2, RAxML_Besttree_Acropyga_UCE-944.tre (Blaimer, 2016)",
 "studyID": "ot_2469",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "125_70_unpart.tre (Blaimer, 2020)",
+"studyID": "ot_2470",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
