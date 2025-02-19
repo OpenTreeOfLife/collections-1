@@ -83,6 +83,7 @@
 "decision": "INCLUDED",
 "defaultSortOrder": 5,
 "name": "Time calibration run 1 (Sann, 2018)",
+"ot:focalCladeOTTTaxonName": "Apoidea",
 "ot:studyPublication": "https://doi.org/10.1186/s12862-018-1155-8",
 "ot:studyPublicationReference": "Sann, M., Niehuis, O., Peters, R. S., Mayer, C., Kozlov, A., Podsiadlowski, L., Bank, S., Meusemann, K., Misof, B., Bleidorn, C., & Ohl, M. (2018). Phylogenomic analysis of Apoidea sheds new light on the sister group of bees. BMC Evolutionary Biology, 18(1). https://doi.org/10.1186/s12862-018-1155-8\n",
 "ot:studyYear": 2018,
@@ -933,6 +934,33 @@
 "ot:studyPublicationReference": "Chesters, D. (2019). The phylogeny of insects in the data\u2010driven era. Systematic Entomology, 45(3), 540\u2013551. Portico. https://doi.org/10.1111/syen.12414\n",
 "ot:studyYear": 2019,
 "studyID": "ot_2349",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Zhang, 2018",
+"decision": "INCLUDED",
+"defaultSortOrder": 66,
+"name": "Fig 3 (Zhang, 2018)",
+"ot:focalCladeOTTTaxonName": "Coleoptera",
+"ot:studyPublication": "https://doi.org/10.1038/s41467-017-02644-4",
+"ot:studyPublicationReference": "Zhang, S.-Q., Che, L.-H., Li, Y., Dan Liang, Pang, H., \u015alipi\u0144ski, A., & Zhang, P. (2018). Evolutionary history of Coleoptera revealed by extensive sampling of genes and species. Nature Communications, 9(1). https://doi.org/10.1038/s41467-017-02644-4\n",
+"ot:studyYear": 2018,
+"studyID": "ot_2477",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "EMMANUEL F. A. TOUSSAINT, 2016",
+"decision": "INCLUDED",
+"defaultSortOrder": 67,
+"name": "S5. Maximum Clade Credibility Tree of Toussaint et al. fully annotated. (EMMANUEL F. A. TOUSSAINT, 2016)",
+"ot:studyPublication": "http://dx.doi.org/10.1111/syen.12198",
+"ot:studyPublicationReference": "EMMANUEL F. A. TOUSSAINT, MATTHIAS SEIDEL, EMMANUEL ARRIAGA-VARELA, JI\u0158\u00cd H\u00c1JEK, DAVID KR\u00c1L, LUKA\u0160 SEKERKA, ANDREW E. Z. SHORT, MARTIN FIK\u00c1\u010cEK, 2016, 'The peril of dating beetles', Systematic Entomology",
+"ot:studyYear": 2016,
+"studyID": "ot_764",
 "treeID": "tree1"
 }
 ],
