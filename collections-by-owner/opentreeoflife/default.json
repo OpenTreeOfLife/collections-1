@@ -8969,6 +8969,14 @@
 "name": "Fig. 2",
 "studyID": "ot_2473",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bocakova, M., Constantin, R., & Bocak, L. (2011). Molecular phylogenetics of the melyrid lineage (Coleoptera: Cleroidea). Cladistics, 28(2), 117\u2013129. Portico. https://doi.org/10.1111/j.1096-0031.2011.00368.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2",
+"studyID": "ot_2474",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
