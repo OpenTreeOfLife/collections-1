@@ -8985,6 +8985,14 @@
 "name": "Fig. 1",
 "studyID": "ot_2475",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bologna, M. A., & Pinto, J. D. (2001). Phylogenetic studies of Meloidae (Coleoptera), with emphasis on the evolution of phoresy. Systematic Entomology, 26(1), 33\u201372. Portico. https://doi.org/10.1046/j.1365-3113.2001.00132.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 10",
+"studyID": "ot_2476",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
