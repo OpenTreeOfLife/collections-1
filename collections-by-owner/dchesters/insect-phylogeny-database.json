@@ -516,6 +516,14 @@
 "name": "125_70_unpart.tre (Blaimer, 2020)",
 "studyID": "ot_2470",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "HYM-Prot-AA-50percent.tre (Blaimer, 2023)",
+"studyID": "ot_2471",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
