@@ -8953,6 +8953,14 @@
 "name": "HYM-Prot-AA-50percent.tre",
 "studyID": "ot_2471",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BLASCHKE, J. D., STIREMAN, J. O., O\u2019HARA, J. E., CERRETTI, P., & MOULTON, J. K. (2018). Molecular phylogenetics and piercer evolution in the bug\u2010killing flies (Diptera: Tachinidae: Phasiinae). Systematic Entomology, 43(1), 218\u2013238. Portico. https://doi.org/10.1111/syen.12272\n",
+"decision": "INCLUDED",
+"name": "Fig. S1",
+"studyID": "ot_2472",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
