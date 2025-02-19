@@ -962,6 +962,20 @@
 "ot:studyYear": 2016,
 "studyID": "ot_764",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Outomuro, 2013",
+"decision": "INCLUDED",
+"defaultSortOrder": 68,
+"name": "Fig. 7 (Outomuro, 2013)",
+"ot:focalCladeOTTTaxonName": "Calopterygidae",
+"ot:studyPublication": "http://dx.doi.org/10.1186/1471-2148-13-118",
+"ot:studyPublicationReference": "Outomuro, D., Adams, D. C., & Johansson, F. (2013). Wing shape allometry and aerodynamics in calopterygid damselflies: a comparative approach. BMC Evolutionary Biology, 13(1), 118. https://doi.org/10.1186/1471-2148-13-118\n",
+"ot:studyYear": 2013,
+"studyID": "ot_2338",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
