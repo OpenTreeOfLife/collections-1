@@ -500,6 +500,14 @@
 "name": "Fig. S1 (Yu, 2021)",
 "studyID": "ot_2467",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, RAxML_Besttree_Acropyga_UCE-944.tre (Blaimer, 2016)",
+"studyID": "ot_2469",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
