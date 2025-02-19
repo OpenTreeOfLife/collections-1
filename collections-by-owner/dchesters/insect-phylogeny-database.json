@@ -524,6 +524,14 @@
 "name": "HYM-Prot-AA-50percent.tre (Blaimer, 2023)",
 "studyID": "ot_2471",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S1 (BLASCHKE, 2018)",
+"studyID": "ot_2472",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
