@@ -1143,6 +1143,20 @@
 "ot:studyYear": 2013,
 "studyID": "pg_2629",
 "treeID": "tree6162"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Nattier, 2011",
+"decision": "INCLUDED",
+"defaultSortOrder": 81,
+"name": "Fig 3 (Nattier, 2011)",
+"ot:focalCladeOTTTaxonName": "Grylloidea",
+"ot:studyPublication": "https://doi.org/10.1111/j.1365-2699.2011.02563.x",
+"ot:studyPublicationReference": "Nattier, R., Robillard, T., Desutter-Grandcolas, L., Couloux, A., & Grandcolas, P. (2011). Older than New Caledonia emergence? A molecular phylogenetic study of the eneopterine crickets (Orthoptera: Grylloidea). Journal of Biogeography, 38(11), 2195\u20132209. https://doi.org/10.1111/j.1365-2699.2011.02563.x\n",
+"ot:studyYear": 2011,
+"studyID": "ot_2494",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
