@@ -628,6 +628,14 @@
 "name": "Fig. S17 (Borowiec, 2019)",
 "studyID": "ot_2488",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "MB_100_most_informative_consensus.tre (Bossert, 2021)",
+"studyID": "ot_2489",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
