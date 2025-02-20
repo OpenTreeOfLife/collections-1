@@ -612,6 +612,14 @@
 "name": "Figs. 80,81 (BORKENT, 2014)",
 "studyID": "ot_2486",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 10 (Borkent, 2019)",
+"studyID": "ot_2487",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
