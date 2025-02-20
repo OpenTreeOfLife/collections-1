@@ -1101,6 +1101,20 @@
 "ot:studyYear": 2024,
 "studyID": "ot_2317",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Boudinot, 2022",
+"decision": "INCLUDED",
+"defaultSortOrder": 78,
+"name": "Fig. S6 (Boudinot, 2022)",
+"ot:focalCladeOTTTaxonName": "Lasiini",
+"ot:studyPublication": "https://doi.org/10.1111/syen.12522",
+"ot:studyPublicationReference": "Boudinot, B. E., Borowiec, M. L., & Prebus, M. M. (2022). Phylogeny, evolution, and classification of the ant genus Lasius, the tribe Lasiini and the subfamily Formicinae (Hymenoptera: Formicidae). Systematic Entomology, 47(1), 113\u2013151. Portico. https://doi.org/10.1111/syen.12522\n",
+"ot:studyYear": 2022,
+"studyID": "ot_2490",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
