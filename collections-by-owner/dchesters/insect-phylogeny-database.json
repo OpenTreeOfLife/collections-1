@@ -636,6 +636,14 @@
 "name": "MB_100_most_informative_consensus.tre (Bossert, 2021)",
 "studyID": "ot_2489",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S6 (Boudinot, 2022)",
+"studyID": "ot_2490",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
