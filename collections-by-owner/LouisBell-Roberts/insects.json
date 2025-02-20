@@ -1157,6 +1157,19 @@
 "ot:studyYear": 2011,
 "studyID": "ot_2494",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Song, 2015",
+"decision": "INCLUDED",
+"defaultSortOrder": 82,
+"name": "Fig 5 (partial) (Song, 2015)",
+"ot:studyPublication": "https://doi.org/10.1111/cla.12116",
+"ot:studyPublicationReference": "Song, H., Am\u00e9d\u00e9gnato, C., Cigliano, M. M., Desutter\u2010Grandcolas, L., Heads, S. W., Huang, Y., Otte, D., & Whiting, M. F. (2015). 300 million years of diversification: elucidating the patterns of orthopteran evolution based on comprehensive taxon and gene sampling. Cladistics, 31(6), 621\u2013651. Portico. https://doi.org/10.1111/cla.12116\n",
+"ot:studyYear": 2015,
+"studyID": "ot_2495",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
