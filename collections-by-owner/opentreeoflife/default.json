@@ -9057,6 +9057,14 @@
 "name": "Fig. 10",
 "studyID": "ot_2487",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Borowiec, M. L., Rabeling, C., Brady, S. G., Fisher, B. L., Schultz, T. R., & Ward, P. S. (2019). Compositional heterogeneity and outgroup choice influence the internal phylogeny of the ants. Molecular Phylogenetics and Evolution, 134, 111\u2013121. https://doi.org/10.1016/j.ympev.2019.01.024\n",
+"decision": "INCLUDED",
+"name": "Fig. S17",
+"studyID": "ot_2488",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
