@@ -9033,6 +9033,14 @@
 "name": "Fig. 5b",
 "studyID": "ot_2483",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Borissov, S. B., Heller, K., \u00c7\u0131plak, B., & Chobanov, D. P. (2023). Origin, evolution and systematics of the genusPoecilimon(Orthoptera: Tettigoniidae)\u2014An outburst of diversification in the Aegean area. Systematic Entomology, 48(1), 198\u2013220. Portico. https://doi.org/10.1111/syen.12580\n",
+"decision": "INCLUDED",
+"name": "Poecilimon_concatenation_phylogeny_BayesianInference.tre",
+"studyID": "ot_2484",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
