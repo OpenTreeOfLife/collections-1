@@ -9025,6 +9025,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2482",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bologna, M. A., Oliverio, M., Pitzalis, M., & Mariottini, P. (2008). Phylogeny and evolutionary history of the blister beetles (Coleoptera, Meloidae). Molecular Phylogenetics and Evolution, 48(2), 679\u2013693. https://doi.org/10.1016/j.ympev.2008.04.019\n",
+"decision": "INCLUDED",
+"name": "Fig. 5b",
+"studyID": "ot_2483",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
