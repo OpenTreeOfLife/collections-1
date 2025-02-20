@@ -596,6 +596,14 @@
 "name": "Poecilimon_concatenation_phylogeny_BayesianInference.tre (Borissov, 2023)",
 "studyID": "ot_2484",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "figure unknown (Borkent, 2000)",
+"studyID": "ot_2485",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
