@@ -564,6 +564,14 @@
 "name": "Fig. 10 (Bologna, 2001)",
 "studyID": "ot_2476",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S25, ML (Zhang F, 2019)",
+"studyID": "ot_2481",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
