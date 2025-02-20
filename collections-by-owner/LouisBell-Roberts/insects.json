@@ -1129,6 +1129,20 @@
 "ot:studyYear": 2022,
 "studyID": "ot_2490",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Letsch, 2013",
+"decision": "INCLUDED",
+"defaultSortOrder": 80,
+"name": "tree6162 (Letsch, 2013)",
+"ot:focalCladeOTTTaxonName": "Insecta",
+"ot:studyPublication": "http://dx.doi.org/10.1111/syen.12028",
+"ot:studyPublicationReference": "Letsch, H. and S. Simon. 2013. Insect phylogenomics: new insights on the relationships of lower neopteran orders (Polyneoptera). Systematic Entomology 38 (4): 783-793.",
+"ot:studyYear": 2013,
+"studyID": "pg_2629",
+"treeID": "tree6162"
 }
 ],
 "description": "Tree of all insects",
