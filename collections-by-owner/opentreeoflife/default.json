@@ -9009,6 +9009,14 @@
 "name": "Fig 1",
 "studyID": "ot_2478",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Zhang F, Bellini BC, Soto-Adames FN (2019) New insights into the systematics of Entomobryoidea (Collembola: Entomobryomorpha): First instar chaetotaxy, homology and classification. Zoological Systematics, 44, 249-278. ",
+"decision": "INCLUDED",
+"name": "Fig. S25, ML",
+"studyID": "ot_2481",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
