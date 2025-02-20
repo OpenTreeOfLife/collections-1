@@ -1087,6 +1087,20 @@
 "ot:studyYear": 2018,
 "studyID": "ot_1419",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Borowiec, 2024",
+"decision": "INCLUDED",
+"defaultSortOrder": 77,
+"name": "root-prior-129to158Ma-independent.tre (Borowiec, 2024)",
+"ot:focalCladeOTTTaxonName": "Formicidae",
+"ot:studyPublication": "http://dx.doi.org/10.1101/2024.07.03.601921",
+"ot:studyPublicationReference": "Borowiec, M. L., Miles Zhang, Y., Neves, K., Ramalho, M. O., Fisher, B. L., Lucky, A., & Moreau, C. S. (2024). Evaluating UCE data adequacy and integrating uncertainty in a comprehensive phylogeny of ants. \n",
+"ot:studyYear": 2024,
+"studyID": "ot_2317",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
