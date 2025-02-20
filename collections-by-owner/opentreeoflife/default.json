@@ -9041,6 +9041,14 @@
 "name": "Poecilimon_concatenation_phylogeny_BayesianInference.tre",
 "studyID": "ot_2484",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BORKENT, A. (2014). The Pupae of the Biting Midges of the World (Diptera: Ceratopogonidae), With a Generic Key and Analysis of the Phylogenetic Relationships Between Genera. Zootaxa, 3879(1). https://doi.org/10.11646/zootaxa.3879.1.1\n",
+"decision": "INCLUDED",
+"name": "Figs. 80,81",
+"studyID": "ot_2486",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
