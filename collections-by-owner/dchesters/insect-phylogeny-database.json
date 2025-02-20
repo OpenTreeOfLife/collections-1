@@ -604,6 +604,14 @@
 "name": "figure unknown (Borkent, 2000)",
 "studyID": "ot_2485",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Figs. 80,81 (BORKENT, 2014)",
+"studyID": "ot_2486",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
