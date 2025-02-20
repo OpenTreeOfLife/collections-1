@@ -9065,6 +9065,14 @@
 "name": "Fig. S17",
 "studyID": "ot_2488",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bossert, S., Wood, T. J., Patiny, S., Michez, D., Almeida, E. A. B., Minckley, R. L., Packer, L., Neff, J. L., Copeland, R. S., Straka, J., Pauly, A., Griswold, T., Brady, S. G., Danforth, B. N., & Murray, E. A. (2021). Phylogeny, biogeography and diversification of the mining bee family Andrenidae. Systematic Entomology, 47(2), 283\u2013302. Portico. https://doi.org/10.1111/syen.12530\n",
+"decision": "INCLUDED",
+"name": "MB_100_most_informative_consensus.tre",
+"studyID": "ot_2489",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
