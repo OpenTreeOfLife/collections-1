@@ -1018,6 +1018,47 @@
 "ot:studyYear": 2019,
 "studyID": "ot_2349",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Ganbaatar, 2024",
+"decision": "INCLUDED",
+"defaultSortOrder": 72,
+"name": "Fig 2 (Ganbaatar, 2024)",
+"ot:focalCladeOTTTaxonName": "Eulophidae",
+"ot:studyPublication": "https://doi.org/10.3390/insects15060406",
+"ot:studyPublicationReference": "Ganbaatar, B., Li, Q., Xi, O., Cao, H., & Zhu, C. (2024). One Step beyond Species Description: Unveiling a Fine-Scale Diversity within the Genus Dzhanokmenia Kostjukov (Hymenoptera: Eulophidae). Insects, 15(6), 406. https://doi.org/10.3390/insects15060406\n",
+"ot:studyYear": 2024,
+"studyID": "ot_2491",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Gauthier, 2000",
+"decision": "INCLUDED",
+"defaultSortOrder": 73,
+"name": "Fig 1 (Gauthier, 2000)",
+"ot:studyPublication": "https://doi.org/10.1046/j.1365-3113.2000.00134.x",
+"ot:studyPublicationReference": "Gauthier, N., Lasalle, J., Quicke, D. L. J., & Godfray, H. C. J. (2000). Phylogeny of Eulophidae (Hymenoptera: Chalcidoidea), with a reclassification of Eulophinae and the recognition that Elasmidae are derived eulophids. Systematic Entomology, 25(4), 521\u2013539. Portico. https://doi.org/10.1046/j.1365-3113.2000.00134.x\n",
+"ot:studyYear": 2000,
+"studyID": "ot_2493",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Rasplus, 2020",
+"decision": "INCLUDED",
+"defaultSortOrder": 74,
+"name": "Fig S1 (Rasplus, 2020)",
+"ot:focalCladeOTTTaxonName": "Eulophidae",
+"ot:studyPublication": "https://doi.org/10.1080/00222933.2020.1762941",
+"ot:studyPublicationReference": "Rasplus, J.-Y., Blaimer, B. B., Brady, S. G., Burks, R. A., Delvare, G., Fisher, N., Gates, M., Gauthier, N., Gumovsky, A. V., Hansson, C., Heraty, J. M., Fusu, L., Nidelet, S., Pereira, R. A. S., Saun\u00e9, L., Ubaidillah, R., & Cruaud, A. (2020). A first phylogenomic hypothesis for Eulophidae (Hymenoptera, Chalcidoidea). Journal of Natural History, 54(9\u201312), 597\u2013609. https://doi.org/10.1080/00222933.2020.1762941\n",
+"ot:studyYear": 2020,
+"studyID": "ot_2492",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
