@@ -9073,6 +9073,14 @@
 "name": "MB_100_most_informative_consensus.tre",
 "studyID": "ot_2489",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Boudinot, B. E., Borowiec, M. L., & Prebus, M. M. (2022). Phylogeny, evolution, and classification of the ant genus Lasius, the tribe Lasiini and the subfamily Formicinae (Hymenoptera: Formicidae). Systematic Entomology, 47(1), 113\u2013151. Portico. https://doi.org/10.1111/syen.12522\n",
+"decision": "INCLUDED",
+"name": "Fig. S6",
+"studyID": "ot_2490",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
