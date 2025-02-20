@@ -9049,6 +9049,14 @@
 "name": "Figs. 80,81",
 "studyID": "ot_2486",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Borkent, A. (2019). The Phylogenetic Relationships of Cretaceous Biting Midges, with a Key to All Known Genera (Diptera: Ceratopogonidae). American Museum Novitates, 2019(3921), 1. https://doi.org/10.1206/3921.1\n",
+"decision": "INCLUDED",
+"name": "Fig. 10",
+"studyID": "ot_2487",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
