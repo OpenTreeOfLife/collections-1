@@ -588,6 +588,14 @@
 "name": "Fig. 5b (Bologna, 2008)",
 "studyID": "ot_2483",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Poecilimon_concatenation_phylogeny_BayesianInference.tre (Borissov, 2023)",
+"studyID": "ot_2484",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
