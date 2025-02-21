@@ -1185,6 +1185,33 @@
 "ot:studyYear": 2023,
 "studyID": "ot_2503",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Braswell, 2006",
+"decision": "INCLUDED",
+"defaultSortOrder": 84,
+"name": "Fig 2 (Braswell, 2006)",
+"ot:focalCladeOTTTaxonName": "Allonemobius",
+"ot:studyPublication": "https://doi.org/10.1603/0013-8746(2006)99[449:asancs]2.0.co;2",
+"ot:studyPublicationReference": "Braswell, W. E., Birge, L. M., & Howard, D. J. (2006). &lt;I&gt;Allonemobius shalontaki&lt;/I&gt;, a New Cryptic Species of Ground Cricket (Orthoptera: Gryllidae: Nemobiinae) from the Southwestern United States. Annals of the Entomological Society of America, 99(3), 449\u2013456. https://doi.org/10.1603/0013-8746(2006)99[449:asancs]2.0.co;2\n",
+"ot:studyYear": 2006,
+"studyID": "ot_2504",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Chintauan\u2010Marquier, 2016",
+"decision": "INCLUDED",
+"defaultSortOrder": 85,
+"name": "Fig 3 (Chintauan\u2010Marquier, 2016)",
+"ot:studyPublication": "https://doi.org/10.1111/cla.12114",
+"ot:studyPublicationReference": "Chintauan\u2010Marquier, I. C., Legendre, F., Hugel, S., Robillard, T., Grandcolas, P., Nel, A., Zuccon, D., & Desutter\u2010Grandcolas, L. (2016). Laying the foundations of evolutionary and systematic studies in crickets (Insecta, Orthoptera): a multilocus phylogenetic analysis. Cladistics, 32(1), 54\u201381. Portico. https://doi.org/10.1111/cla.12114\n",
+"ot:studyYear": 2016,
+"studyID": "ot_2505",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
