@@ -9105,6 +9105,14 @@
 "name": "Fig. 4b",
 "studyID": "ot_2498",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BRABY, M. F., VILA, R., & PIERCE, N. E. (2006). Molecular phylogeny and systematics of the Pieridae (Lepidoptera: Papilionoidea): higher classification and biogeography. Zoological Journal of the Linnean Society, 147(2), 239\u2013275. https://doi.org/10.1111/j.1096-3642.2006.00218.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 6, ML",
+"studyID": "ot_2499",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
