@@ -676,6 +676,14 @@
 "name": "Fig. 6, ML (BRABY, 2006)",
 "studyID": "ot_2499",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S3, BI (Bradford, 2022)",
+"studyID": "ot_2500",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
