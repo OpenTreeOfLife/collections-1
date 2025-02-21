@@ -9137,6 +9137,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2502",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Zheng, Y.-N., Gu, J.-J., He, Z.-Q., Huang, H., & Ma, L.-B. (2023). On a taxonomic feature that has been overestimated in classification practice: an integrative taxonomic revision of Stephoblemmus Saussure, 1877 based on morphology and molecular phylogeny (Orthoptera: Grylloidea; Gryllidae; Gryllinae). Arthropod Systematics &amp; Phylogeny, 81, 761\u2013779. https://doi.org/10.3897/asp.81.e104772\n",
+"decision": "INCLUDED",
+"name": "Fig 2",
+"studyID": "ot_2503",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
