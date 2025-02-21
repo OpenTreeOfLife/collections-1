@@ -9129,6 +9129,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_2501",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bradler, S., Cliquennois, N., & Buckley, T. R. (2015). Single origin of the Mascarene stick insects: ancient radiation on sunken islands? BMC Evolutionary Biology, 15(1). https://doi.org/10.1186/s12862-015-0478-y\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2502",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
