@@ -9097,6 +9097,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2497",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BRABY, M. F., & PIERCE, N. E. (2006). Systematics, biogeography and diversification of the Indo\u2010Australian genusDeliasH\u00fcbner (Lepidoptera: Pieridae): phylogenetic evidence supports an \u2018out\u2010of\u2010Australia\u2019 origin. Systematic Entomology, 32(1), 2\u201325. Portico. https://doi.org/10.1111/j.1365-3113.2006.00349.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 4b",
+"studyID": "ot_2498",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
