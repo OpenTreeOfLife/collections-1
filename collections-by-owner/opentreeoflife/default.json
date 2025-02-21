@@ -9113,6 +9113,14 @@
 "name": "Fig. 6, ML",
 "studyID": "ot_2499",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bradford, T. M., Ruta, R., Cooper, S. J. B., Libonatti, M. L., & Watts, C. H. S. (2022). Evolutionary history of the Australasian Scirtinae (Scirtidae; Coleoptera) inferred from ultraconserved elements. Invertebrate Systematics, 36(4), 291\u2013305. https://doi.org/10.1071/is21053\n",
+"decision": "INCLUDED",
+"name": "Fig. S3, BI",
+"studyID": "ot_2500",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
