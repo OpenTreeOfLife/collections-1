@@ -9121,6 +9121,14 @@
 "name": "Fig. S3, BI",
 "studyID": "ot_2500",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BRADLER, S., ROBERTSON, J. A., & WHITING, M. F. (2014). A molecular phylogeny of <scp>P</scp>hasmatodea with emphasis on <scp>N</scp>ecrosciinae, the most species\u2010rich subfamily of stick insects. Systematic Entomology, 39(2), 205\u2013222. Portico. https://doi.org/10.1111/syen.12055\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2501",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
