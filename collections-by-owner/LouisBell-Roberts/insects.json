@@ -1165,10 +1165,25 @@
 "decision": "INCLUDED",
 "defaultSortOrder": 82,
 "name": "Fig 5 (partial) (Song, 2015)",
+"ot:focalCladeOTTTaxonName": "Gryllidae",
 "ot:studyPublication": "https://doi.org/10.1111/cla.12116",
 "ot:studyPublicationReference": "Song, H., Am\u00e9d\u00e9gnato, C., Cigliano, M. M., Desutter\u2010Grandcolas, L., Heads, S. W., Huang, Y., Otte, D., & Whiting, M. F. (2015). 300 million years of diversification: elucidating the patterns of orthopteran evolution based on comprehensive taxon and gene sampling. Cladistics, 31(6), 621\u2013651. Portico. https://doi.org/10.1111/cla.12116\n",
 "ot:studyYear": 2015,
 "studyID": "ot_2495",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Zheng, 2023",
+"decision": "INCLUDED",
+"defaultSortOrder": 83,
+"name": "Fig 2 (Zheng, 2023)",
+"ot:focalCladeOTTTaxonName": "Gryllidae",
+"ot:studyPublication": "https://doi.org/10.3897/asp.81.e104772",
+"ot:studyPublicationReference": "Zheng, Y.-N., Gu, J.-J., He, Z.-Q., Huang, H., & Ma, L.-B. (2023). On a taxonomic feature that has been overestimated in classification practice: an integrative taxonomic revision of Stephoblemmus Saussure, 1877 based on morphology and molecular phylogeny (Orthoptera: Grylloidea; Gryllidae; Gryllinae). Arthropod Systematics &amp; Phylogeny, 81, 761\u2013779. https://doi.org/10.3897/asp.81.e104772\n",
+"ot:studyYear": 2023,
+"studyID": "ot_2503",
 "treeID": "tree1"
 }
 ],
