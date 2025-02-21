@@ -652,6 +652,14 @@
 "name": "S6_Bayesian_Consensus_tree_file.tre (Viana, 2025)",
 "studyID": "ot_2496",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (BOYLE, 2014)",
+"studyID": "ot_2497",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
