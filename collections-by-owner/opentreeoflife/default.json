@@ -9089,6 +9089,14 @@
 "name": "S6_Bayesian_Consensus_tree_file.tre",
 "studyID": "ot_2496",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BOYLE, J. H., KALISZEWSKA, Z. A., ESPELAND, M., SUDERMAN, T. R., FLEMING, J., HEATH, A., & PIERCE, N. E. (2014). Phylogeny of the <scp>A</scp>phnaeinae: myrmecophilous <scp>A</scp>frican butterflies with carnivorous and herbivorous life histories. Systematic Entomology, 40(1), 169\u2013182. Portico. https://doi.org/10.1111/syen.12098\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2497",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
