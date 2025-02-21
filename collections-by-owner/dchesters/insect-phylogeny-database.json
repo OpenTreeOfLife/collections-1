@@ -644,6 +644,14 @@
 "name": "Fig. S6 (Boudinot, 2022)",
 "studyID": "ot_2490",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "S6_Bayesian_Consensus_tree_file.tre (Viana, 2025)",
+"studyID": "ot_2496",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
