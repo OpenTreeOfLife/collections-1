@@ -708,6 +708,14 @@
 "name": "Fig. A1 left, BI (Zhang, 2017)",
 "studyID": "ot_2506",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP (Brady, 2005)",
+"studyID": "ot_2507",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
