@@ -9161,6 +9161,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_2507",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BRAKE, I., & MATHIS, W. N. (2007). Revision of the genus Australimyza Harrison (Diptera: Australimyzidae). Systematic Entomology, 32(2), 252\u2013275. Portico. https://doi.org/10.1111/j.1365-3113.2006.00363.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 17, MP",
+"studyID": "ot_2508",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
