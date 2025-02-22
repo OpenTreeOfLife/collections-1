@@ -9153,6 +9153,14 @@
 "name": "Fig. A1 left, BI",
 "studyID": "ot_2506",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Brady, S. G., & Ward, P. S. (2005). Morphological phylogeny of army ants and other dorylomorphs (Hymenoptera: Formicidae). Systematic Entomology, 30(4), 593\u2013618. Portico. https://doi.org/10.1111/j.1365-3113.2005.00290.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_2507",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
