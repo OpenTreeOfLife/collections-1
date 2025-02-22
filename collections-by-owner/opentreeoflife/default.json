@@ -9145,6 +9145,14 @@
 "name": "Fig 2",
 "studyID": "ot_2503",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Zhang, F., Ma, Y., & Greenslade, P. (2017). New Australian Paronellidae (Collembola) reveal anomalies in existing tribal diagnoses. Invertebrate Systematics, 31(4), 375. https://doi.org/10.1071/is16073\n",
+"decision": "INCLUDED",
+"name": "Fig. A1 left, BI",
+"studyID": "ot_2506",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
