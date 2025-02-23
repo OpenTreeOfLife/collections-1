@@ -9169,6 +9169,14 @@
 "name": "Fig. 17, MP",
 "studyID": "ot_2508",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Breitkreuz, L. C. V., Garz\u00f3n-Ordu\u00f1a, I. J., Winterton, S. L., & Engel, M. S. (2021). Phylogeny of Chrysopidae (Neuroptera), with emphasis on morphological trait evolution. Zoological Journal of the Linnean Society, 194(4), 1374\u20131395. https://doi.org/10.1093/zoolinnean/zlab024\n",
+"decision": "INCLUDED",
+"name": "Fig. 5, BI",
+"studyID": "ot_2510",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
