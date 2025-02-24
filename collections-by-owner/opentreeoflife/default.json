@@ -9193,6 +9193,14 @@
 "name": "Fig. 2, MP",
 "studyID": "ot_2512",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Brown, B., Dugdale, J. S., Emberson, R. M., & Paterson, A. M. (2000). Phylogeny of New Zealand hepialid moths (Lepidoptera: Hepialidae) inferred from a cladistic analysis of morphological data. Systematic Entomology, 25(1), 1\u201314. Portico. https://doi.org/10.1046/j.1365-3113.2000.00089.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, MP",
+"studyID": "ot_2513",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
