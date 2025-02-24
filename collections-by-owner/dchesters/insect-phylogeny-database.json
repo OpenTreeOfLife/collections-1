@@ -732,6 +732,14 @@
 "name": "Fig. 5, BI (Breitkreuz, 2021)",
 "studyID": "ot_2510",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP (PACKER, 2007)",
+"studyID": "ot_2511",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
