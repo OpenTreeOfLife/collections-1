@@ -756,6 +756,14 @@
 "name": "Fig. 3, MP (Brown, 2000)",
 "studyID": "ot_2513",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, MP (Br\u00fcstle, 2010)",
+"studyID": "ot_2514",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
