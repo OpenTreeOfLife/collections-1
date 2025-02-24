@@ -9185,6 +9185,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_2511",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Brower, A. V. Z., Freitas, A. V. L., Lee, M., Silva\u2010Brand\u00e3o, K. L., Whinnett, A., & Willmott, K. R. (2006). Phylogenetic relationships among the Ithomiini (Lepidoptera: Nymphalidae) inferred from one mitochondrial and two nuclear gene regions. Systematic Entomology, 31(2), 288\u2013301. Portico. https://doi.org/10.1111/j.1365-3113.2006.00321.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP",
+"studyID": "ot_2512",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
