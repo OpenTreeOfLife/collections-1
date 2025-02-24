@@ -9201,6 +9201,14 @@
 "name": "Fig. 3, MP",
 "studyID": "ot_2513",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Br\u00fcstle, L., Alaruikka, D., Muona, J., & Ter\u00e4v\u00e4inen, M. (2010). The phylogeny of the Pantropical genus Arrhipis Bonvouloir (Coleoptera, Eucnemidae). Cladistics, 26(1), 14\u201322. Portico. https://doi.org/10.1111/j.1096-0031.2009.00268.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, MP",
+"studyID": "ot_2514",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
