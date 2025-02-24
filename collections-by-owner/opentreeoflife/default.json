@@ -9177,6 +9177,14 @@
 "name": "Fig. 5, BI",
 "studyID": "ot_2510",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from PACKER, L. (2007). Phylogeny and classification of the Xeromelissinae (Hymenoptera: Apoidea, Colletidae) with special emphasis on the genus Chilicola. Systematic Entomology, 33(1), 72\u201396. Portico. https://doi.org/10.1111/j.1365-3113.2007.00398.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_2511",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
