@@ -740,6 +740,14 @@
 "name": "Fig. 1, MP (PACKER, 2007)",
 "studyID": "ot_2511",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP (Brower, 2006)",
+"studyID": "ot_2512",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
