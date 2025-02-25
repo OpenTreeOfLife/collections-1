@@ -1240,6 +1240,19 @@
 "ot:studyYear": 2006,
 "studyID": "ot_2516",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Almeida, 2023",
+"decision": "INCLUDED",
+"defaultSortOrder": 88,
+"name": "MrBayes_20_MCL (Almeida, 2023)",
+"ot:studyPublication": "https://doi.org/10.1016/j.cub.2023.07.005",
+"ot:studyPublicationReference": "Almeida, E. A. B., Bossert, S., Danforth, B. N., Porto, D. S., Freitas, F. V., Davis, C. C., Murray, E. A., Blaimer, B. B., Spasojevic, T., Str\u00f6her, P. R., Orr, M. C., Packer, L., Brady, S. G., Kuhlmann, M., Branstetter, M. G., & Pie, M. R. (2023). The evolutionary history of bees in time and space. Current Biology, 33(16), 3409-3422.e6. https://doi.org/10.1016/j.cub.2023.07.005\n",
+"ot:studyYear": 2023,
+"studyID": "ot_2517",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
