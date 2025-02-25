@@ -764,6 +764,14 @@
 "name": "Fig. 3, MP (Br\u00fcstle, 2010)",
 "studyID": "ot_2514",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Appendix+3+-+IQ-TREE+best+scoring+ML+topology.tre (Cosandey, 2024)",
+"studyID": "ot_2518",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
