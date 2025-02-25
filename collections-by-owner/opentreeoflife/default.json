@@ -9209,6 +9209,14 @@
 "name": "Fig. 3, MP",
 "studyID": "ot_2514",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Tierney, S. M., Sanjur, O., Grajales, G. G., Santos, L. M., Bermingham, E., & Wcislo, W. T. (2011). Photic niche invasions: phylogenetic history of the dim-light foraging augochlorine bees (Halictidae). Proceedings of the Royal Society B: Biological Sciences, 279(1729), 794\u2013803. https://doi.org/10.1098/rspb.2011.1355\n",
+"decision": "INCLUDED",
+"name": "Fig 1a",
+"studyID": "ot_2515",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
