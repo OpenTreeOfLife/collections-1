@@ -1207,10 +1207,38 @@
 "decision": "INCLUDED",
 "defaultSortOrder": 85,
 "name": "Fig 3 (Chintauan\u2010Marquier, 2016)",
+"ot:focalCladeOTTTaxonName": "Trigonidiidae",
 "ot:studyPublication": "https://doi.org/10.1111/cla.12114",
 "ot:studyPublicationReference": "Chintauan\u2010Marquier, I. C., Legendre, F., Hugel, S., Robillard, T., Grandcolas, P., Nel, A., Zuccon, D., & Desutter\u2010Grandcolas, L. (2016). Laying the foundations of evolutionary and systematic studies in crickets (Insecta, Orthoptera): a multilocus phylogenetic analysis. Cladistics, 32(1), 54\u201381. Portico. https://doi.org/10.1111/cla.12114\n",
 "ot:studyYear": 2016,
 "studyID": "ot_2505",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Tierney, 2011",
+"decision": "INCLUDED",
+"defaultSortOrder": 86,
+"name": "Fig 1a (Tierney, 2011)",
+"ot:focalCladeOTTTaxonName": "Augochlorini",
+"ot:studyPublication": "https://doi.org/10.1098/rspb.2011.1355",
+"ot:studyPublicationReference": "Tierney, S. M., Sanjur, O., Grajales, G. G., Santos, L. M., Bermingham, E., & Wcislo, W. T. (2011). Photic niche invasions: phylogenetic history of the dim-light foraging augochlorine bees (Halictidae). Proceedings of the Royal Society B: Biological Sciences, 279(1729), 794\u2013803. https://doi.org/10.1098/rspb.2011.1355\n",
+"ot:studyYear": 2011,
+"studyID": "ot_2515",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Brady, 2006",
+"decision": "INCLUDED",
+"defaultSortOrder": 87,
+"name": "Fig 1 (Brady, 2006)",
+"ot:studyPublication": "https://doi.org/10.1098/rspb.2006.3496",
+"ot:studyPublicationReference": "Brady, S. G., Sipes, S., Pearson, A., & Danforth, B. N. (2006). Recent and simultaneous origins of eusociality in halictid bees. Proceedings of the Royal Society B: Biological Sciences, 273(1594), 1643\u20131649. https://doi.org/10.1098/rspb.2006.3496\n",
+"ot:studyYear": 2006,
+"studyID": "ot_2516",
 "treeID": "tree1"
 }
 ],
