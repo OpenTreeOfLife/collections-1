@@ -9225,6 +9225,14 @@
 "name": "Appendix+3+-+IQ-TREE+best+scoring+ML+topology.tre",
 "studyID": "ot_2518",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Almeida, E. A. B., Bossert, S., Danforth, B. N., Porto, D. S., Freitas, F. V., Davis, C. C., Murray, E. A., Blaimer, B. B., Spasojevic, T., Str\u00f6her, P. R., Orr, M. C., Packer, L., Brady, S. G., Kuhlmann, M., Branstetter, M. G., & Pie, M. R. (2023). The evolutionary history of bees in time and space. Current Biology, 33(16), 3409-3422.e6. https://doi.org/10.1016/j.cub.2023.07.005\n",
+"decision": "INCLUDED",
+"name": "MrBayes_20_MCL",
+"studyID": "ot_2517",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
