@@ -9217,6 +9217,14 @@
 "name": "Fig 1a",
 "studyID": "ot_2515",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cosandey, V., Konvi\u010dka, O., & Toussaint, E. F. A. (2024). Legacy molecular phylogenetics suggests restricting the concept of Melandryidae and resurrecting Osphyidae (Coleoptera: Tenebrionoidea). Arthropod Systematics &amp; Phylogeny, 82, 621\u2013627. https://doi.org/10.3897/asp.82.e131738\n",
+"decision": "INCLUDED",
+"name": "Appendix+3+-+IQ-TREE+best+scoring+ML+topology.tre",
+"studyID": "ot_2518",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
