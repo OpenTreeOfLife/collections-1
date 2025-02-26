@@ -820,6 +820,14 @@
 "name": "Fig. 13 (Buder, 2008)",
 "studyID": "ot_2524",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4b (Budrys, 2023)",
+"studyID": "ot_2525",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
