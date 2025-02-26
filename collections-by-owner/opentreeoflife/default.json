@@ -9289,6 +9289,14 @@
 "name": "Fig. 4b",
 "studyID": "ot_2525",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Buenaventura, E. (2021). Museomics and phylogenomics with protein-encoding ultraconserved elements illuminate the evolution of life history and phallic morphology of flesh flies (Diptera: Sarcophagidae). BMC Ecology and Evolution, 21(1). https://doi.org/10.1186/s12862-021-01797-7\n",
+"decision": "INCLUDED",
+"name": "Fig. 1a",
+"studyID": "ot_2526",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
