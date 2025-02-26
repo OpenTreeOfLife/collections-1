@@ -796,6 +796,14 @@
 "name": "IQTREE_REV2.nwk (Bu\u010dek, 2022)",
 "studyID": "ot_2521",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 13a (Buck, 2006)",
+"studyID": "ot_2522",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
