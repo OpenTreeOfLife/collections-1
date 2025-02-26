@@ -812,6 +812,14 @@
 "name": "Fig. 3, ML (BUCKMAN, 2012)",
 "studyID": "ot_2523",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 13 (Buder, 2008)",
+"studyID": "ot_2524",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
