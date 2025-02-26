@@ -9281,6 +9281,14 @@
 "name": "Fig. 13",
 "studyID": "ot_2524",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Budrys, E., Orlovskyt\u0117, S., Lazauskait\u0117, M., & Budrien\u0117, A. (2023). Ancistroceruswasps (Hymenoptera, Vespidae) from the Centre of Europe: Phylogeny, cryptic species, neutral and non\u2010neutral markers. Zoologica Scripta, 52(5), 454\u2013474. Portico. https://doi.org/10.1111/zsc.12599\n",
+"decision": "INCLUDED",
+"name": "Fig. 4b",
+"studyID": "ot_2525",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
