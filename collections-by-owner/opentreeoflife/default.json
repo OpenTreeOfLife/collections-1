@@ -9249,6 +9249,14 @@
 "name": "Fig. S2F, ML",
 "studyID": "ot_2520",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bu\u010dek, A., Wang, M., \u0160obotn\u00edk, J., Hellemans, S., Sillam-Duss\u00e8s, D., Mizumoto, N., Stibl\u00edk, P., Clitheroe, C., Lu, T., Gonz\u00e1lez Plaza, J. J., Mohagan, A., Rafanomezantsoa, J.-J., Fisher, B., Engel, M. S., Roisin, Y., Evans, T. A., Scheffrahn, R., & Bourguignon, T. (2022). Molecular Phylogeny Reveals the Past Transoceanic Voyages of Drywood Termites (Isoptera, Kalotermitidae). Molecular Biology and Evolution, 39(5). https://doi.org/10.1093/molbev/msac093\n",
+"decision": "INCLUDED",
+"name": "IQTREE_REV2.nwk",
+"studyID": "ot_2521",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
