@@ -828,6 +828,14 @@
 "name": "Fig. 4b (Budrys, 2023)",
 "studyID": "ot_2525",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1a (Buenaventura, 2021)",
+"studyID": "ot_2526",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
