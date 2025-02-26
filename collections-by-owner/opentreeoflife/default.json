@@ -9257,6 +9257,14 @@
 "name": "IQTREE_REV2.nwk",
 "studyID": "ot_2521",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Buck, M. (2006). A new family and genus of acalypterate flies from the Neotropical region, with a phylogenetic analysis of Carnoidea family relationships (Diptera, Schizophora). Systematic Entomology, 31(3), 377\u2013404. Portico. https://doi.org/10.1111/j.1365-3113.2006.00328.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 13a",
+"studyID": "ot_2522",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
