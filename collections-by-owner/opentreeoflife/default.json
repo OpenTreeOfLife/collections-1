@@ -9241,6 +9241,14 @@
 "name": "Fig. 15, MP",
 "studyID": "ot_2519",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bucek, A., \u0160obotn\u00edk, J., He, S., Shi, M., McMahon, D. P., Holmes, E. C., Roisin, Y., Lo, N., & Bourguignon, T. (2019). Evolution of Termite Symbiosis Informed by Transcriptome-Based Phylogenies. Current Biology, 29(21), 3728-3734.e4. https://doi.org/10.1016/j.cub.2019.08.076\n",
+"decision": "INCLUDED",
+"name": "Fig. S2F, ML",
+"studyID": "ot_2520",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
