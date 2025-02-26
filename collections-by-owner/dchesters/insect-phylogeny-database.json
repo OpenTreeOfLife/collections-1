@@ -788,6 +788,14 @@
 "name": "Fig. S2F, ML (Bucek, 2019)",
 "studyID": "ot_2520",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "IQTREE_REV2.nwk (Bu\u010dek, 2022)",
+"studyID": "ot_2521",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
