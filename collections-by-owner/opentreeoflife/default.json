@@ -9297,6 +9297,14 @@
 "name": "Fig. 1a",
 "studyID": "ot_2526",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Buenaventura, E., Lloyd, M. W., Perilla L\u00f3pez, J. M., Gonz\u00e1lez, V. L., Thomas\u2010Cabianca, A., & Dikow, T. (2020). Protein\u2010encoding ultraconserved elements provide a new phylogenomic perspective of Oestroidea flies (Diptera: Calyptratae). Systematic Entomology, 46(1), 5\u201327. Portico. https://doi.org/10.1111/syen.12443\n",
+"decision": "INCLUDED",
+"name": "oest_50per_RAxML.tre",
+"studyID": "ot_2527",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
