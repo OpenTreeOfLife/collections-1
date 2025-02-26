@@ -772,6 +772,14 @@
 "name": "Appendix+3+-+IQ-TREE+best+scoring+ML+topology.tre (Cosandey, 2024)",
 "studyID": "ot_2518",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 15, MP (MIC\u00d3, 2007)",
+"studyID": "ot_2519",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
