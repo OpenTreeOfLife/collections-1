@@ -780,6 +780,14 @@
 "name": "Fig. 15, MP (MIC\u00d3, 2007)",
 "studyID": "ot_2519",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S2F, ML (Bucek, 2019)",
+"studyID": "ot_2520",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
