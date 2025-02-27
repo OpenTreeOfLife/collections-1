@@ -9377,6 +9377,14 @@
 "name": "Fig. 2a, ML",
 "studyID": "ot_2535",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from REGIER, J. C., COOK, C. P., MITTER, C., & HUSSEY, A. (2008). A phylogenetic study of the \u2018bombycoid complex\u2019 (Lepidoptera) using five protein\u2010coding nuclear genes, with comments on the problem of macrolepidopteran phylogeny. Systematic Entomology, 33(1), 175\u2013189. Portico. https://doi.org/10.1111/j.1365-3113.2007.00409.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2536",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
