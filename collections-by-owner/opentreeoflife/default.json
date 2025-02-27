@@ -9337,6 +9337,14 @@
 "name": "Fig. 2, NJ",
 "studyID": "ot_2530",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BURCKHARDT, D., & OUVRARD, D. (2006). The taxonomy, biogeography and host plant relationships of jumping plant\u2010lice (Hemiptera: Psyllidae) associated with creosote bushes (Larrea spp., Zygophyllaceae). Systematic Entomology, 32(1), 136\u2013155. Portico. https://doi.org/10.1111/j.1365-3113.2006.00352.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 9, MP",
+"studyID": "ot_2531",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
