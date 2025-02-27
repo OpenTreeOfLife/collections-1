@@ -9425,6 +9425,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2541",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cao, Y., Dietrich, C. H., Zahniser, J. N., & Dmitriev, D. A. (2022). Dense sampling of taxa and characters improves phylogenetic resolution among deltocephaline leafhoppers (Hemiptera: Cicadellidae: Deltocephalinae). Systematic Entomology, 47(3), 430\u2013444. Portico. https://doi.org/10.1111/syen.12540\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_2542",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
