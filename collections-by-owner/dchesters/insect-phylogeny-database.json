@@ -860,6 +860,14 @@
 "name": "Figs. 1,2 (Bueter, 2009)",
 "studyID": "ot_2529",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, NJ (Bugrov, 2005)",
+"studyID": "ot_2530",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
