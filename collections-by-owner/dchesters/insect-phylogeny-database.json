@@ -956,6 +956,14 @@
 "name": "Fig. 1, BI (Cao, 2021)",
 "studyID": "ot_2541",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Untitled (tree1) (Cao, 2022)",
+"studyID": "ot_2542",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
