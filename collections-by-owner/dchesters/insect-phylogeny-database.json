@@ -884,6 +884,14 @@
 "name": "Fig. 46, BI (Burks, 2011)",
 "studyID": "ot_2532",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4, ML (Bybee, 2004)",
+"studyID": "ot_2533",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
