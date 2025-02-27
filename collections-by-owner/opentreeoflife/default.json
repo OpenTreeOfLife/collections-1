@@ -9409,6 +9409,14 @@
 "name": "bpcomp.con.tre",
 "studyID": "ot_2539",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from CAMERON, S. L., LAMBKIN, C. L., BARKER, S. C., & WHITING, M. F. (2006). A mitochondrial genome phylogeny of Diptera: whole genome sequence data accurately resolve relationships over broad timescales with high precision. Systematic Entomology, 32(1), 40\u201359. Portico. https://doi.org/10.1111/j.1365-3113.2006.00355.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI",
+"studyID": "ot_2540",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
