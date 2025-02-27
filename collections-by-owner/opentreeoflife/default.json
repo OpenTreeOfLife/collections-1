@@ -9329,6 +9329,14 @@
 "name": "Figs. 1,2",
 "studyID": "ot_2529",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bugrov, A., Novikova, O., Mayorov, V., Adkison, L., & Blinov, A. (2005). Molecular phylogeny of Palaearctic genera of Gomphocerinae grasshoppers (Orthoptera, Acrididae). Systematic Entomology, 31(2), 362\u2013368. Portico. https://doi.org/10.1111/j.1365-3113.2005.00317.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, NJ",
+"studyID": "ot_2530",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
