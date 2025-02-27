@@ -852,6 +852,14 @@
 "name": "Fig. 3, MP (ARNEDO, 2007)",
 "studyID": "ot_2528",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Figs. 1,2 (Bueter, 2009)",
+"studyID": "ot_2529",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
