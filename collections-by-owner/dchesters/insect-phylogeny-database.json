@@ -844,6 +844,14 @@
 "name": "oest_50per_RAxML.tre (Buenaventura, 2020)",
 "studyID": "ot_2527",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, MP (ARNEDO, 2007)",
+"studyID": "ot_2528",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
