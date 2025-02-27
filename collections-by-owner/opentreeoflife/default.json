@@ -9449,6 +9449,14 @@
 "name": "Fig. S1, BI",
 "studyID": "ot_2545",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cardinal, S., Buchmann, S. L., & Russell, A. L. (2018). The evolution of floral sonication, a pollen foraging behavior used by bees (Anthophila). Evolution, 72(3), 590\u2013600. Portico. https://doi.org/10.1111/evo.13446\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2546",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
