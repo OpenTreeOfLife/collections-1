@@ -9313,6 +9313,14 @@
 "name": "Fig. 3, MP",
 "studyID": "ot_2528",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Buenaventura E., & Pape T. 2015. Phylogeny of the Peckia-genus group: evolution of male genitalia in the major necrophagous guild of Neotropical flesh flies (Diptera: Sarcophagidae). Organism, Diversity and Evolution, : 1-31.",
+"decision": "INCLUDED",
+"name": "Figs. 8 and S1  ",
+"studyID": "ot_1535",
+"treeID": "Tr85876"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
