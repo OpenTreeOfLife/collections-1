@@ -9393,6 +9393,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2537",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cai, C.-Y., Wang, Y.-L., Liang, L., Yin, Z.-W., Thayer, M. K., Newton, A. F., & Zhou, Y.-L. (2019). Congruence of morphological and molecular phylogenies of the rove beetle subfamily Staphylininae (Coleoptera: Staphylinidae). Scientific Reports, 9(1). https://doi.org/10.1038/s41598-019-51408-1\n",
+"decision": "INCLUDED",
+"name": "Fig. S1, ML",
+"studyID": "ot_2538",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
