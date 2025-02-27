@@ -924,6 +924,14 @@
 "name": "Fig. 1, ML (Cabrero-Sa\u00f1udo, 2004)",
 "studyID": "ot_2537",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S1, ML (Cai, 2019)",
+"studyID": "ot_2538",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
