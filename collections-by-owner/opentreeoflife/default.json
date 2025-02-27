@@ -9441,6 +9441,14 @@
 "name": "Fig. 4, BI",
 "studyID": "ot_2544",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cardinal, S., Straka, J., & Danforth, B. N. (2010). Comprehensive phylogeny of apid bees reveals the evolutionary origins and antiquity of cleptoparasitism. Proceedings of the National Academy of Sciences, 107(37), 16207\u201316211. https://doi.org/10.1073/pnas.1006299107\n",
+"decision": "INCLUDED",
+"name": "Fig. S1, BI",
+"studyID": "ot_2545",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
