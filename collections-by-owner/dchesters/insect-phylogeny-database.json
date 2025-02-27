@@ -980,6 +980,14 @@
 "name": "Fig. 4, BI (Callahan, 2016)",
 "studyID": "ot_2544",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S1, BI (Cardinal, 2010)",
+"studyID": "ot_2545",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
