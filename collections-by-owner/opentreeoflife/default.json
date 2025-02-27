@@ -9353,6 +9353,14 @@
 "name": "Fig. 46, BI",
 "studyID": "ot_2532",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bybee, S. M., Taylor, S. D., Riley Nelson, C., & Whiting, M. F. (2004). A phylogeny of robber flies (Diptera: Asilidae) at the subfamilial level: molecular evidence. Molecular Phylogenetics and Evolution, 30(3), 789\u2013797. https://doi.org/10.1016/s1055-7903(03)00253-7\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, ML",
+"studyID": "ot_2533",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
