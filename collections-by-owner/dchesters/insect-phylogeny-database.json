@@ -932,6 +932,14 @@
 "name": "Fig. S1, ML (Cai, 2019)",
 "studyID": "ot_2538",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "bpcomp.con.tre (Cai, 2022)",
+"studyID": "ot_2539",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
