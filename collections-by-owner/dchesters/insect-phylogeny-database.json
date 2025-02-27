@@ -972,6 +972,14 @@
 "name": "Fig. 6, MP (Caldara R, 2002)",
 "studyID": "ot_2543",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI (Callahan, 2016)",
+"studyID": "ot_2544",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
