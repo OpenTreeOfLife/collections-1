@@ -988,6 +988,14 @@
 "name": "Fig. S1, BI (Cardinal, 2010)",
 "studyID": "ot_2545",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (Cardinal, 2018)",
+"studyID": "ot_2546",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
