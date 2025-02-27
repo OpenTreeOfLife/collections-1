@@ -9385,6 +9385,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_2536",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cabrero-Sa\u00f1udo, F.-J., & Zardoya, R. (2004). Phylogenetic relationships of Iberian Aphodiini (Coleoptera: Scarabaeidae) based on morphological and molecular data. Molecular Phylogenetics and Evolution, 31(3), 1084\u20131100. https://doi.org/10.1016/j.ympev.2003.10.019\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2537",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
