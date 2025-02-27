@@ -900,6 +900,14 @@
 "name": "Fig. 4, MP (Bybee, 2008)",
 "studyID": "ot_2534",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2a, ML (Bybee, 2021)",
+"studyID": "ot_2535",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
