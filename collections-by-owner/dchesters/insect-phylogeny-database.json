@@ -940,6 +940,14 @@
 "name": "bpcomp.con.tre (Cai, 2022)",
 "studyID": "ot_2539",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI (CAMERON, 2006)",
+"studyID": "ot_2540",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
