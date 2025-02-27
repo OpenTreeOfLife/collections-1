@@ -9321,6 +9321,14 @@
 "name": "Figs. 8 and S1  ",
 "studyID": "ot_1535",
 "treeID": "Tr85876"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bueter, C., Weckstein, J., Johnson, K. P., Bates, J. M., & Gordon, C. E. (2009). Comparative Phylogenetic Histories of Two Louse Genera Found on Catharus Thrushes and Other Birds. Journal of Parasitology, 95(2), 295\u2013307. https://doi.org/10.1645/ge-1642.1\n",
+"decision": "INCLUDED",
+"name": "Figs. 1,2",
+"studyID": "ot_2529",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
