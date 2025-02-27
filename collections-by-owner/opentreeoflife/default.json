@@ -9361,6 +9361,14 @@
 "name": "Fig. 4, ML",
 "studyID": "ot_2533",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bybee, S. M., Ogden, T. H., Branham, M. A., & Whiting, M. F. (2008). Molecules, morphology and fossils: a comprehensive approach to odonate phylogeny and the evolution of the odonate wing. Cladistics, 24(4), 477\u2013514. Portico. https://doi.org/10.1111/j.1096-0031.2007.00191.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, MP",
+"studyID": "ot_2534",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
