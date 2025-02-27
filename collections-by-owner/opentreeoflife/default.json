@@ -9345,6 +9345,14 @@
 "name": "Fig. 9, MP",
 "studyID": "ot_2531",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Burks, R. A., Heraty, J. M., Gebiola, M., & Hansson, C. (2011). Combined molecular and morphological phylogeny of Eulophidae (Hymenoptera: Chalcidoidea), with focus on the subfamily Entedoninae. Cladistics, 27(6), 581\u2013605. https://doi.org/10.1111/j.1096-0031.2011.00358.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 46, BI",
+"studyID": "ot_2532",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
