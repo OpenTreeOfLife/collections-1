@@ -9369,6 +9369,14 @@
 "name": "Fig. 4, MP",
 "studyID": "ot_2534",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bybee, S. M., Kalkman, V. J., Erickson, R. J., Frandsen, P. B., Breinholt, J. W., Suvorov, A., Dijkstra, K.-D. B., Cordero-Rivera, A., Skevington, J. H., Abbott, J. C., Sanchez Herrera, M., Lemmon, A. R., Moriarty Lemmon, E., & Ware, J. L. (2021). Phylogeny and classification of Odonata using targeted genomics. Molecular Phylogenetics and Evolution, 160, 107115. https://doi.org/10.1016/j.ympev.2021.107115\n",
+"decision": "INCLUDED",
+"name": "Fig. 2a, ML",
+"studyID": "ot_2535",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
