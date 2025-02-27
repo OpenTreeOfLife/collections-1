@@ -9305,6 +9305,14 @@
 "name": "oest_50per_RAxML.tre",
 "studyID": "ot_2527",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from ARNEDO, M. A., OROM\u00cd, P., MART\u00cdN DE ABREU, S., & RIBERA, C. (2007). Biogeographical and evolutionary patterns in the Macaronesian shield\u2010backed katydid genus Calliphona Krauss, 1892 (Orthoptera: Tettigoniidae) and allies as inferred from phylogenetic analyses of multiple mitochondrial genes. Systematic Entomology, 33(1), 145\u2013158. Portico. https://doi.org/10.1111/j.1365-3113.2007.00393.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, MP",
+"studyID": "ot_2528",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
