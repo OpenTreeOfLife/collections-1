@@ -916,6 +916,14 @@
 "name": "Fig. 2, ML (REGIER, 2008)",
 "studyID": "ot_2536",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML (Cabrero-Sa\u00f1udo, 2004)",
+"studyID": "ot_2537",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
