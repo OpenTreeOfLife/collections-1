@@ -1028,6 +1028,14 @@
 "name": "Fig. 44, MP (Ceotto, 2004)",
 "studyID": "ot_2550",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "File S4, MP (CERRETTI, 2014)",
+"studyID": "ot_2551",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
