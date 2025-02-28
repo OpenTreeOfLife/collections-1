@@ -9489,6 +9489,14 @@
 "name": "File S4, MP",
 "studyID": "ot_2551",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chamorro, M. L., & Holzenthal, R. W. (2011). Phylogeny of Polycentropodidae Ulmer, 1903 (Trichoptera:Annulipalpia:Psychomyioidea) inferred from larval, pupal and adult characters. Invertebrate Systematics, 25(3), 219. https://doi.org/10.1071/is10024\n",
+"decision": "INCLUDED",
+"name": "Fig. 15, MP",
+"studyID": "ot_2552",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
