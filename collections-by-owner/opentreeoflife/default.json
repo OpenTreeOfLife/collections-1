@@ -9457,6 +9457,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2546",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from ZWICK, A. (2008). Molecular phylogeny of Anthelidae and other bombycoid taxa (Lepidoptera: Bombycoidea). Systematic Entomology, 33(1), 190\u2013209. Portico. https://doi.org/10.1111/j.1365-3113.2007.00410.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, ML",
+"studyID": "ot_2547",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
