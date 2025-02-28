@@ -1036,6 +1036,14 @@
 "name": "File S4, MP (CERRETTI, 2014)",
 "studyID": "ot_2551",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 15, MP (Chamorro, 2011)",
+"studyID": "ot_2552",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
