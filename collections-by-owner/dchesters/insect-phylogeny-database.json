@@ -1004,6 +1004,14 @@
 "name": "Fig. 4, ML (ZWICK, 2008)",
 "studyID": "ot_2547",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2C (CASTRO, 2006)",
+"studyID": "ot_2548",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
