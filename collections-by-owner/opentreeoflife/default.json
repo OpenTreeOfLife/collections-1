@@ -9481,6 +9481,14 @@
 "name": "Fig. 44, MP",
 "studyID": "ot_2550",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from CERRETTI, P., O\u2019HARA, J. E., WOOD, D. M., SHIMA, H., INCLAN, D. J., & STIREMAN, J. O. (2014). Signal through the noise? Phylogeny of the <scp>T</scp>achinidae (<scp>D</scp>iptera) as inferred from morphological evidence. Systematic Entomology, 39(2), 335\u2013353. Portico. https://doi.org/10.1111/syen.12062\n",
+"decision": "INCLUDED",
+"name": "File S4, MP",
+"studyID": "ot_2551",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
