@@ -1012,6 +1012,14 @@
 "name": "Fig. 2C (CASTRO, 2006)",
 "studyID": "ot_2548",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1a, MP (Caterino, 2006)",
+"studyID": "ot_2549",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
