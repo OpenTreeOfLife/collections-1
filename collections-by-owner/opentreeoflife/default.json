@@ -9553,6 +9553,14 @@
 "name": "Fig. 2, MP",
 "studyID": "ot_2560",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chen, B., Butlin, R. K., & Harbach, R. E. (2003). Molecular phylogenetics of the Oriental members of \u2028the Myzomyia Series of Anopheles subgenus Cellia (Diptera: Culicidae) inferred from nuclear and mitochondrial DNA sequences. Systematic Entomology, 28(1), 57\u201369. Portico. https://doi.org/10.1046/j.1365-3113.2003.00200.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2561",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
