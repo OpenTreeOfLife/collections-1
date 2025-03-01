@@ -9537,6 +9537,14 @@
 "name": "Fig. S2",
 "studyID": "ot_2558",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chen, Z.-T. (2022). \ufeffComparative mitogenomic analysis of two earwigs (Insecta, Dermaptera) and the preliminary phylogenetic implications. ZooKeys, 1087, 105\u2013122. https://doi.org/10.3897/zookeys.1087.78998\n",
+"decision": "INCLUDED",
+"name": "Fig. 10 left, BI",
+"studyID": "ot_2559",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
