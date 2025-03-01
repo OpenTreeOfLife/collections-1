@@ -1044,6 +1044,14 @@
 "name": "Fig. 15, MP (Chamorro, 2011)",
 "studyID": "ot_2552",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (HARDY, 2008)",
+"studyID": "ot_2553",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
