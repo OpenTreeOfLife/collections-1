@@ -9569,6 +9569,14 @@
 "name": "Fig. 1B, MP",
 "studyID": "ot_2562",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chen, Z., Zhou, S. Y., Ye, D., Chen, Y., & Lu, C. (2013). Molecular Phylogeny of the Ant Subfamily Formicinae (Hymenoptera, Formicidae) from China Based on Mitochondrial Genes. Sociobiology, 60(2), 135\u2013144. https://doi.org/10.13102/sociobiology.v60i2.135-144\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI",
+"studyID": "ot_2563",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
