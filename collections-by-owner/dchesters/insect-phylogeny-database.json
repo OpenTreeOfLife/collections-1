@@ -1092,6 +1092,14 @@
 "name": "Fig. S2 (Che, 2021)",
 "studyID": "ot_2558",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 10 left, BI (Chen, 2022)",
+"studyID": "ot_2559",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
