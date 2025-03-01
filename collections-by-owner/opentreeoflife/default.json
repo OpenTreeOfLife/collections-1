@@ -9505,6 +9505,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2553",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chang, H., & Huang, Y. (2016). The complete mitochondrial genome of the Hieroglyphus tonkinensis (Orthoptera: Acrididae). Mitochondrial DNA Part B, 1(1), 534\u2013535. https://doi.org/10.1080/23802359.2016.1197067\n",
+"decision": "INCLUDED",
+"name": "Fig. 1",
+"studyID": "ot_2554",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
