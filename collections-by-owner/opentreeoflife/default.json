@@ -9593,6 +9593,14 @@
 "name": "Fig. 1",
 "studyID": "ot_2565",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chen, Z.-T., L\u00fc, L., Lu, M.-X., & Du, Y.-Z. (2017). Comparative mitogenomic analysis of Aposthonia borneensis and Aposthonia japonica (Embioptera: Oligotomidae) reveals divergent evolution of webspinners. Scientific Reports, 7(1). https://doi.org/10.1038/s41598-017-09003-9\n",
+"decision": "INCLUDED",
+"name": "Fig. 7, BI",
+"studyID": "ot_2566",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
