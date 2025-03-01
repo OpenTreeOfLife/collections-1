@@ -9521,6 +9521,14 @@
 "name": "Fig. 3",
 "studyID": "ot_2555",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Che, Y., Wang, D., Shi, Y., Du, X., Zhao, Y., Lo, N., & Wang, Z. (2016). A global molecular phylogeny and timescale of evolution for Cryptocercus woodroaches. Molecular Phylogenetics and Evolution, 98, 201\u2013209. https://doi.org/10.1016/j.ympev.2016.02.005\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, ML",
+"studyID": "ot_2557",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
