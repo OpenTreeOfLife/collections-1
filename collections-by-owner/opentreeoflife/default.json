@@ -9545,6 +9545,14 @@
 "name": "Fig. 10 left, BI",
 "studyID": "ot_2559",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chen, Y., Giles, K. L., & Greenstone, M. H. (2002). Molecular Evidence for a Species Complex in the Genus &lt;I&gt;Aphelinus&lt;/I&gt; (Hymenoptera: Aphelinidae), with Additional Data on Aphidiine Phylogeny (Hymenoptera: Braconidae). Annals of the Entomological Society of America, 95(1), 29\u201334. https://doi.org/10.1603/0013-8746(2002)095[0029:mefasc]2.0.co;2\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP",
+"studyID": "ot_2560",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
