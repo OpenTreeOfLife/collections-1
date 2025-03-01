@@ -1116,6 +1116,14 @@
 "name": "Fig. 2, ML (Chen, 2003)",
 "studyID": "ot_2561",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1B, MP (Chen, 2004)",
+"studyID": "ot_2562",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
