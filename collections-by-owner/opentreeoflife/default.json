@@ -9529,6 +9529,14 @@
 "name": "Fig. 3, ML",
 "studyID": "ot_2557",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Che, L., Zhang, P., Deng, S., Escalona, H. E., Wang, X., Li, Y., Pang, H., Vandenberg, N., \u015alipi\u0144ski, A., Tomaszewska, W., & Liang, D. (2021). New insights into the phylogeny and evolution of lady beetles (Coleoptera: Coccinellidae) by extensive sampling of genes and species. Molecular Phylogenetics and Evolution, 156, 107045. https://doi.org/10.1016/j.ympev.2020.107045\n",
+"decision": "INCLUDED",
+"name": "Fig. S2",
+"studyID": "ot_2558",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
