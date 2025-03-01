@@ -9585,6 +9585,14 @@
 "name": "Fig. 1",
 "studyID": "ot_2564",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chen, Y., Shi, X., Li, D., Chen, B., Zhang, P., Wu, N., & Xu, Z. (2016). The complete nucleotide sequence of the mitochondrial genome of Calliphora chinghaiensis (Diptera: Calliphoridae). Mitochondrial DNA Part B, 1(1), 397\u2013398. https://doi.org/10.1080/23802359.2016.1174088\n",
+"decision": "INCLUDED",
+"name": "Fig. 1",
+"studyID": "ot_2565",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
