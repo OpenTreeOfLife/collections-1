@@ -9561,6 +9561,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_2561",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chen, Y., Xiao, H., Fu, J., & Huang, D.-W. (2004). A molecular phylogeny of eurytomid wasps inferred from DNA sequence data of 28S, 18S, 16S, and COI genes. Molecular Phylogenetics and Evolution, 31(1), 300\u2013307. https://doi.org/10.1016/s1055-7903(03)00282-3\n",
+"decision": "INCLUDED",
+"name": "Fig. 1B, MP",
+"studyID": "ot_2562",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
