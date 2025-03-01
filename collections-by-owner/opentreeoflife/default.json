@@ -9497,6 +9497,14 @@
 "name": "Fig. 15, MP",
 "studyID": "ot_2552",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from HARDY, N. B., GULLAN, P. J., & HODGSON, C. J. (2008). A subfamily\u2010level classification of mealybugs (Hemiptera: Pseudococcidae) based on integrated molecular and morphological data. Systematic Entomology, 33(1), 51\u201371. Portico. https://doi.org/10.1111/j.1365-3113.2007.00408.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2553",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
