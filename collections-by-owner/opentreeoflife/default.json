@@ -9513,6 +9513,14 @@
 "name": "Fig. 1",
 "studyID": "ot_2554",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chatzimanolis, S. (2005). Phylogeny of the neotropical rove beetle genus Nordus (Coleoptera: Staphylinidae) with a special reference to the evolution of coloration and secondary sexual characters. Systematic Entomology, 30(2), 267\u2013280. Portico. https://doi.org/10.1111/j.1365-3113.2004.00274.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 3",
+"studyID": "ot_2555",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
