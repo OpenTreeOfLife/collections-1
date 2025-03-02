@@ -1236,6 +1236,14 @@
 "name": "Fig. 1, MP (CIGLIANO, 2006)",
 "studyID": "ot_2576",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 21, MP (\u00c7 \u0131plak, 2000)",
+"studyID": "ot_2577",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
