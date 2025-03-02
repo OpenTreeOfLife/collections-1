@@ -1196,6 +1196,14 @@
 "name": "platy_all_molecular_partitions_bnni_SITE_no_encyrto.iqtree (Chen, 2021)",
 "studyID": "ot_2571",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 5 (Chen, 2023)",
+"studyID": "ot_2572",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
