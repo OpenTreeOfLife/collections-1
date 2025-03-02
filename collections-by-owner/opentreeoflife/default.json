@@ -9657,6 +9657,14 @@
 "name": "Fig. 1",
 "studyID": "ot_2575",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from CIGLIANO, M. M. (2006). Review of the South American genus Eurotettix Bruner (Orthoptera, Acridoidea, Melanoplinae). Systematic Entomology, 32(1), 176\u2013195. Portico. https://doi.org/10.1111/j.1365-3113.2006.00353.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_2576",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
