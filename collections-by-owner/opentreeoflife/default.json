@@ -9689,6 +9689,14 @@
 "name": "Fig. 3, MP",
 "studyID": "ot_2579",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Clement, R. A., Saxton, N. A., Standring, S., Arnold, P. R., Johnson, K. K., Bybee, D. R., & Bybee, S. M. (2021). Phylogeny, migration and geographic range size evolution ofAnaxdragonflies (Anisoptera: Aeshnidae). Zoological Journal of the Linnean Society, 194(3), 858\u2013878. https://doi.org/10.1093/zoolinnean/zlab046\n",
+"decision": "INCLUDED",
+"name": "Fig. S1, BI",
+"studyID": "ot_2580",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
