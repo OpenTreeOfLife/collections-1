@@ -9673,6 +9673,14 @@
 "name": "Fig. 21, MP",
 "studyID": "ot_2577",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from \u010ckrki\u0107, J., Petrovi\u0107, A., Koci\u0107, K., Mitrovi\u0107, M., Kavallieratos, N. G., van Achterberg, C., Hebert, P. D. N., & Tomanovi\u0107, \u017d. (2020). Phylogeny of the Subtribe Monoctonina (Hymenoptera, Braconidae, Aphidiinae). Insects, 11(3), 160. https://doi.org/10.3390/insects11030160\n",
+"decision": "INCLUDED",
+"name": "Fig. 6, BI",
+"studyID": "ot_2578",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
