@@ -9705,6 +9705,14 @@
 "name": "Fig. 4, BI",
 "studyID": "ot_2581",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Clouse, R. M., Janda, M., Blanchard, B., Sharma, P., Hoffmann, B. D., Andersen, A. N., Czekanski\u2010Moir, J. E., Krushelnycky, P., Rabeling, C., Wilson, E. O., Economo, E. P., Sarnat, E. M., General, D. M., Alpert, G. D., & Wheeler, W. C. (2014). Molecular phylogeny of<scp>I</scp>ndo\u2010<scp>P</scp>acific carpenter ants (<scp>H</scp>ymenoptera:<scp>F</scp>ormicidae,<scp>C</scp>amponotus) reveals waves of dispersal and colonization from diverse source areas. Cladistics, 31(4), 424\u2013437. Portico. https://doi.org/10.1111/cla.12099\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2582",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
