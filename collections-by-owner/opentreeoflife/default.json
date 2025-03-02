@@ -9681,6 +9681,14 @@
 "name": "Fig. 6, BI",
 "studyID": "ot_2578",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from CLARKE, D. J., & GREBENNIKOV, V. V. (2009). Monophyly of Euaesthetinae (Coleoptera: Staphylinidae): phylogenetic evidence from adults and larvae, review of austral genera, and new larval descriptions. Systematic Entomology, 34(2), 346\u2013397. Portico. https://doi.org/10.1111/j.1365-3113.2009.00472.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, MP",
+"studyID": "ot_2579",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
