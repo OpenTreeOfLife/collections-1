@@ -9617,6 +9617,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2568",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chen, Z.-T., Zhao, M.-Y., Xu, C., & Du, Y.-Z. (2018). Molecular phylogeny of Systellognatha (Plecoptera: Arctoperlaria) inferred from mitochondrial genome sequences. International Journal of Biological Macromolecules, 111, 542\u2013547. https://doi.org/10.1016/j.ijbiomac.2018.01.065\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2569",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
