@@ -1268,6 +1268,14 @@
 "name": "Fig. S1, BI (Clement, 2021)",
 "studyID": "ot_2580",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI (CLINE, 2014)",
+"studyID": "ot_2581",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
