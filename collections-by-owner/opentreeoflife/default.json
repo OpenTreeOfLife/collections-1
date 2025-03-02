@@ -9609,6 +9609,14 @@
 "name": "Fig. 25, MP",
 "studyID": "ot_2567",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from CHEN, Y.-Z., DENG, W.-A., WANG, J.-M., LIN, L.-L., & ZHOU, S.-Y. (2018). Phylogenetic relationships of Scelimeninae genera (Orthoptera: Tetrigoidea) based on COI, 16S rRNA and 18S rRNA gene sequences. Zootaxa, 4482(2). https://doi.org/10.11646/zootaxa.4482.2.11\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2568",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
