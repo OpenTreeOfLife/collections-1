@@ -9633,6 +9633,14 @@
 "name": "platy_all_molecular_partitions_bnni_SITE_no_encyrto.iqtree",
 "studyID": "ot_2571",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chen, B., Liu, Y., Lu, X., Jiang, D., Wang, X., Zhang, Q., Yang, G., & Yang, X. (2023). Complete mitochondrial genome of Ctenophthalmus quadratus and Stenischia humilis in China provides insights into fleas phylogeny. Frontiers in Veterinary Science, 10. https://doi.org/10.3389/fvets.2023.1255017\n",
+"decision": "INCLUDED",
+"name": "Fig. 5",
+"studyID": "ot_2572",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
