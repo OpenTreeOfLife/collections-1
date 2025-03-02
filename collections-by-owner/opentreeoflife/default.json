@@ -9625,6 +9625,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2569",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chen, H., Lahey, Z., Talamas, E. J., Valerio, A. A., Popovici, O. A., Musetti, L., Klompen, H., Polaszek, A., Masner, L., Austin, A. D., & Johnson, N. F. (2021). An integrated phylogenetic reassessment of the parasitoid superfamily Platygastroidea (Hymenoptera: Proctotrupomorpha) results in a revised familial classification. Systematic Entomology, 46(4), 1088\u20131113. Portico. https://doi.org/10.1111/syen.12511\n",
+"decision": "INCLUDED",
+"name": "platy_all_molecular_partitions_bnni_SITE_no_encyrto.iqtree",
+"studyID": "ot_2571",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
