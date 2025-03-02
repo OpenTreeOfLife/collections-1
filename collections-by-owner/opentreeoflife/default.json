@@ -9649,6 +9649,14 @@
 "name": "Fig. 3c, ML",
 "studyID": "ot_2574",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chu, H., Wu, Z., Zhang, H., Li, C., Wang, G., Zhou, M., & Zhao, T. (2016). Sequencing and analysis of the complete mitochondrial genome of Culex tritaeniorhynchus (Dipera: Culicidae) in China. Mitochondrial DNA Part B, 1(1), 365\u2013366. https://doi.org/10.1080/23802359.2016.1168719\n",
+"decision": "INCLUDED",
+"name": "Fig. 1",
+"studyID": "ot_2575",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
