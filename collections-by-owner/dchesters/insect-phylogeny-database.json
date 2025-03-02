@@ -1252,6 +1252,14 @@
 "name": "Fig. 6, BI (\u010ckrki\u0107, 2020)",
 "studyID": "ot_2578",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, MP (CLARKE, 2009)",
+"studyID": "ot_2579",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
