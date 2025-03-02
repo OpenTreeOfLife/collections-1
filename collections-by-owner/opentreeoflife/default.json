@@ -9641,6 +9641,14 @@
 "name": "Fig. 5",
 "studyID": "ot_2572",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chiotis, M., Jermiin, L. S., & Crozier, R. H. (2000). A Molecular Framework for the Phylogeny of the Ant Subfamily Dolichoderinae. Molecular Phylogenetics and Evolution, 17(1), 108\u2013116. https://doi.org/10.1006/mpev.2000.0821\n",
+"decision": "INCLUDED",
+"name": "Fig. 3c, ML",
+"studyID": "ot_2574",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
