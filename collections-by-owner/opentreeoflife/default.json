@@ -9601,6 +9601,14 @@
 "name": "Fig. 7, BI",
 "studyID": "ot_2566",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from WEIRAUCH, C. (2008). Cladistic analysis of Reduviidae (Heteroptera: Cimicomorpha) based on morphological characters. Systematic Entomology, 33(2), 229\u2013274. Portico. https://doi.org/10.1111/j.1365-3113.2007.00417.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 25, MP",
+"studyID": "ot_2567",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
