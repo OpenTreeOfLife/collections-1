@@ -9665,6 +9665,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_2576",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from \u00c7 \u0131plak, B. (2000). Systematics and phylogeny of Parapholidoptera (Orthoptera: Tettigoniidae: Tettigoniinae). Systematic Entomology, 25(4), 411\u2013436. Portico. https://doi.org/10.1111/j.1365-3113.2000.00112.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 21, MP",
+"studyID": "ot_2577",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
