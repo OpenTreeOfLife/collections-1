@@ -1244,6 +1244,14 @@
 "name": "Fig. 21, MP (\u00c7 \u0131plak, 2000)",
 "studyID": "ot_2577",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 6, BI (\u010ckrki\u0107, 2020)",
+"studyID": "ot_2578",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
