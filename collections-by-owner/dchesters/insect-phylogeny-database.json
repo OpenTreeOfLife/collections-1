@@ -1220,6 +1220,14 @@
 "name": "Fig. 3c, ML (Chiotis, 2000)",
 "studyID": "ot_2574",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1 (Chu, 2016)",
+"studyID": "ot_2575",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
