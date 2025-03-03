@@ -9761,6 +9761,14 @@
 "name": "12862_2012_2075_MOESM3_ESM.txt, Fig. 1, BI",
 "studyID": "ot_2588",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from CONTRERAS-RAMOS, A. (2011). Phylogenetic review of dobsonflies of the subfamily Corydalinae and the genus Corydalus Latreille (Megaloptera: Corydalidae). Zootaxa, 2862(1). https://doi.org/10.11646/zootaxa.2862.1.1\n",
+"decision": "INCLUDED",
+"name": "Figs. 9,12, MP",
+"studyID": "ot_2589",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
