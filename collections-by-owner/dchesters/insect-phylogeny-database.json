@@ -1308,6 +1308,14 @@
 "name": "Fig. 2, BI (Coeur d\u2019acier, 2007)",
 "studyID": "ot_2585",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, MP (Cognato, 2022)",
+"studyID": "ot_2586",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
