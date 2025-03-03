@@ -1316,6 +1316,14 @@
 "name": "Fig. 3, MP (Cognato, 2022)",
 "studyID": "ot_2586",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "10p_astral_results.txt (Cohen, 2021)",
+"studyID": "ot_2587",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
