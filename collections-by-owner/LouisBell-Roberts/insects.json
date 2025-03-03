@@ -1267,6 +1267,19 @@
 "ot:studyYear": 2002,
 "studyID": "ot_2593",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Belshaw, 1997",
+"decision": "INCLUDED",
+"defaultSortOrder": 90,
+"name": "Fig. 4 (Belshaw, 1997)",
+"ot:studyPublication": "https://doi.org/10.1006/mpev.1996.0400",
+"ot:studyPublicationReference": "Belshaw, R., & Quicke, D. L. J. (1997). A Molecular Phylogeny of the Aphidiinae (Hymenoptera: Braconidae). Molecular Phylogenetics and Evolution, 7(3), 281\u2013293. https://doi.org/10.1006/mpev.1996.0400\n",
+"ot:studyYear": 1997,
+"studyID": "ot_2444",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
