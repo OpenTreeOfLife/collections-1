@@ -9769,6 +9769,14 @@
 "name": "Figs. 9,12, MP",
 "studyID": "ot_2589",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Couri, M. S., & Pont, A. C. (2000). Cladistic analysis of Coenosiini (Diptera: Muscidae: Coenosiinae). Systematic Entomology, 25(3), 373\u2013392. Portico. https://doi.org/10.1046/j.1365-3113.2000.00125.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 75, MP",
+"studyID": "ot_2590",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
