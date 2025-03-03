@@ -1340,6 +1340,14 @@
 "name": "Figs. 9,12, MP (CONTRERAS-RAMOS, 2011)",
 "studyID": "ot_2589",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 75, MP (Couri, 2000)",
+"studyID": "ot_2590",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
