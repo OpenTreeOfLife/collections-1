@@ -1348,6 +1348,14 @@
 "name": "Fig. 75, MP (Couri, 2000)",
 "studyID": "ot_2590",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S5 (Crampton-Platt, 2015)",
+"studyID": "ot_2591",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
