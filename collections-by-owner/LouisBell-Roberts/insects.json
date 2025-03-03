@@ -1248,10 +1248,24 @@
 "decision": "INCLUDED",
 "defaultSortOrder": 88,
 "name": "MrBayes_20_MCL (Almeida, 2023)",
+"ot:focalCladeOTTTaxonName": "Apoidea",
 "ot:studyPublication": "https://doi.org/10.1016/j.cub.2023.07.005",
 "ot:studyPublicationReference": "Almeida, E. A. B., Bossert, S., Danforth, B. N., Porto, D. S., Freitas, F. V., Davis, C. C., Murray, E. A., Blaimer, B. B., Spasojevic, T., Str\u00f6her, P. R., Orr, M. C., Packer, L., Brady, S. G., Kuhlmann, M., Branstetter, M. G., & Pie, M. R. (2023). The evolutionary history of bees in time and space. Current Biology, 33(16), 3409-3422.e6. https://doi.org/10.1016/j.cub.2023.07.005\n",
 "ot:studyYear": 2023,
 "studyID": "ot_2517",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Belshaw, 2002",
+"decision": "INCLUDED",
+"defaultSortOrder": 89,
+"name": "Fig 8 (partial) (Belshaw, 2002)",
+"ot:studyPublication": "https://doi.org/10.1080/10635150290069896",
+"ot:studyPublicationReference": "Belshaw, R., & Quicke, D. L. J. (2002). Robustness of Ancestral State Estimates: Evolution of Life History Strategy in Ichneumonoid Parasitoids. Systematic Biology, 51(3), 450\u2013477. https://doi.org/10.1080/10635150290069896\n",
+"ot:studyYear": 2002,
+"studyID": "ot_2593",
 "treeID": "tree1"
 }
 ],
