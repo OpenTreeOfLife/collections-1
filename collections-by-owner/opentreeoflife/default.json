@@ -9737,6 +9737,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2585",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cognato, A. I., Taft, W., Osborn, R. K., & Rubinoff, D. (2022). Multi\u2010gene phylogeny of North American clear\u2010winged moths (Lepidoptera: Sesiidae): a foundation for future evolutionary study of a speciose mimicry complex. Cladistics, 39(1), 1\u201317. Portico. https://doi.org/10.1111/cla.12515\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, MP",
+"studyID": "ot_2586",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
