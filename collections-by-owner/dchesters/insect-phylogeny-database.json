@@ -1284,6 +1284,14 @@
 "name": "Fig. 2, ML (Clouse, 2014)",
 "studyID": "ot_2582",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI (HARUYAMA, 2008)",
+"studyID": "ot_2583",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
