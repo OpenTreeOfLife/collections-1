@@ -9777,6 +9777,14 @@
 "name": "Fig. 75, MP",
 "studyID": "ot_2590",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Crampton-Platt, A., Timmermans, M. J. T. N., Gimmel, M. L., Kutty, S. N., Cockerill, T. D., Vun Khen, C., & Vogler, A. P. (2015). Soup to Tree: The Phylogeny of Beetles Inferred by Mitochondrial Metagenomics of a Bornean Rainforest Sample. Molecular Biology and Evolution, 32(9), 2302\u20132316. https://doi.org/10.1093/molbev/msv111\n",
+"decision": "INCLUDED",
+"name": "Fig. S5",
+"studyID": "ot_2591",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
