@@ -9753,6 +9753,14 @@
 "name": "10p_astral_results.txt",
 "studyID": "ot_2587",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Condamine, F. L., Silva-Brand\u00e3o, K. L., Kergoat, G. J., & Sperling, F. A. (2012). Biogeographic and diversification patterns of Neotropical Troidini butterflies (Papilionidae) support a museum model of diversity dynamics for Amazonia. BMC Evolutionary Biology, 12(1), 82. https://doi.org/10.1186/1471-2148-12-82\n",
+"decision": "INCLUDED",
+"name": "12862_2012_2075_MOESM3_ESM.txt, Fig. 1, BI",
+"studyID": "ot_2588",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
