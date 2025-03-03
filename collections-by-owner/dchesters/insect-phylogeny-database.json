@@ -1300,6 +1300,14 @@
 "name": "Fig. 14, MP (Coelho, 2004)",
 "studyID": "ot_2584",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI (Coeur d\u2019acier, 2007)",
+"studyID": "ot_2585",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
