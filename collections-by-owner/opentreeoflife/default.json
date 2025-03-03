@@ -9785,6 +9785,14 @@
 "name": "Fig. S5",
 "studyID": "ot_2591",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from CRANSTON, P. S., HARDY, N. B., MORSE, G. E., PUSLEDNIK, L., & McCLUEN, S. R. (2010). When molecules and morphology concur: the \u2018Gondwanan\u2019 midges (Diptera: Chironomidae). Systematic Entomology, 35(4), 636\u2013648. Portico. https://doi.org/10.1111/j.1365-3113.2010.00531.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 3",
+"studyID": "ot_2592",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
