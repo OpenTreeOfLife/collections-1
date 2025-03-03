@@ -9745,6 +9745,14 @@
 "name": "Fig. 3, MP",
 "studyID": "ot_2586",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cohen, C. M., Noble, K., Jeffrey Cole, T., & Brewer, M. S. (2021). The phylogeny of robber flies (Asilidae) inferred from ultraconserved elements. Systematic Entomology, 46(4), 812\u2013826. Portico. https://doi.org/10.1111/syen.12490\n",
+"decision": "INCLUDED",
+"name": "10p_astral_results.txt",
+"studyID": "ot_2587",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
