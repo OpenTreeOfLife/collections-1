@@ -9729,6 +9729,14 @@
 "name": "Fig. 14, MP",
 "studyID": "ot_2584",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Coeur d\u2019acier, A., Jousselin, E., Martin, J.-F., & Rasplus, J.-Y. (2007). Phylogeny of the Genus Aphis Linnaeus, 1758 (Homoptera: Aphididae) inferred from mitochondrial DNA sequences. Molecular Phylogenetics and Evolution, 42(3), 598\u2013611. https://doi.org/10.1016/j.ympev.2006.10.006\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2585",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
