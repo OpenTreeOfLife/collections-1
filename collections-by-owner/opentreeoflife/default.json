@@ -9865,6 +9865,14 @@
 "name": "Fig. 4, BI",
 "studyID": "ot_2600",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cunha, R. L., Verd\u00fa, J. R., Lobo, J. M., & Zardoya, R. (2011). Ancient origin of endemic Iberian earth-boring dung beetles (Geotrupidae). Molecular Phylogenetics and Evolution, 59(3), 578\u2013586. https://doi.org/10.1016/j.ympev.2011.03.028\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2601",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
