@@ -9817,6 +9817,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2596",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cruaud, A., Jabbour\u2010Zahab, R., Genson, G., Cruaud, C., Couloux, A., Kjellberg, F., Van Noort, S., & Rasplus, J. (2010). Laying the foundations for a new classification of Agaonidae (Hymenoptera: Chalcidoidea), a multilocus phylogenetic approach. Cladistics, 26(4), 359\u2013387. Portico. https://doi.org/10.1111/j.1096-0031.2009.00291.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 4",
+"studyID": "ot_2597",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
