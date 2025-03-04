@@ -1380,6 +1380,14 @@
 "name": "Fig. 2, BI (CRANSTON, 2011)",
 "studyID": "ot_2596",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4 (Cruaud, 2010)",
+"studyID": "ot_2597",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
