@@ -9857,6 +9857,14 @@
 "name": "Fig 3. MP strict consensus",
 "studyID": "pg_2581",
 "treeID": "tree5987"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cucini, C., Fanciulli, P. P., Frati, F., Convey, P., Nardi, F., & Carapelli, A. (2020). Re-Evaluating the Internal Phylogenetic Relationships of Collembola by Means of Mitogenome Data. Genes, 12(1), 44. https://doi.org/10.3390/genes12010044\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI",
+"studyID": "ot_2600",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
