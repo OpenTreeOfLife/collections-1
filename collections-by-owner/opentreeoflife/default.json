@@ -9825,6 +9825,14 @@
 "name": "Fig. 4",
 "studyID": "ot_2597",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cruaud, A., Delvare, G., Nidelet, S., Saun\u00e9, L., Ratnasingham, S., Chartois, M., Blaimer, B. B., Gates, M., Brady, S. G., Faure, S., van Noort, S., Rossi, J., & Rasplus, J. (2020). Ultra\u2010Conserved Elements and morphology reciprocally illuminate conflicting phylogenetic hypotheses in Chalcididae (Hymenoptera, Chalcidoidea). Cladistics, 37(1), 1\u201335. Portico. https://doi.org/10.1111/cla.12416\n",
+"decision": "INCLUDED",
+"name": "trees_chalcididae_cladistics2020.nex",
+"studyID": "ot_2598",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
