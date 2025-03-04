@@ -9873,6 +9873,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2601",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Silva, F. L. da, & Ferrington, L. C. (2018). Systematics of the new world genus Pentaneura Phillip (Diptera: Chironomidae: Tanypodinae): Historical review, new species and phylogeny. Zoologischer Anzeiger, 274, 60\u201389. https://doi.org/10.1016/j.jcz.2017.11.010\n",
+"decision": "INCLUDED",
+"name": "Fig. 18, MP",
+"studyID": "ot_2602",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
