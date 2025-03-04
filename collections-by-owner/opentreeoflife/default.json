@@ -9801,6 +9801,14 @@
 "name": "Degeneracy_coded_nt_partitioned_tree",
 "studyID": "ot_2594",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from KERGOAT, G. J., & ALVAREZ, N. (2008). Assessing the phylogenetic usefulness of a previously neglected morphological structure through elliptic Fourier analyses: a case study in Bruchus seed\u2010beetles (Coleoptera: Chrysomelidae: Bruchinae). Systematic Entomology, 33(2), 289\u2013300. Portico. https://doi.org/10.1111/j.1365-3113.2007.00405.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 7, BI",
+"studyID": "ot_2595",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
