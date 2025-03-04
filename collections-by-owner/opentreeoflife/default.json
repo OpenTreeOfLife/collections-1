@@ -9937,6 +9937,14 @@
 "name": "Fig. 7, MP",
 "studyID": "ot_2608",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Damgaard, J., Andersen, N. M., & Meier, R. (2005). Combining molecular and morphological analyses of water strider phylogeny (Hemiptera\u2013Heteroptera, Gerromorpha): effects of alignment and taxon sampling. Systematic Entomology, 30(2), 289\u2013309. Portico. https://doi.org/10.1111/j.1365-3113.2004.00275.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 4D, MP",
+"studyID": "ot_2609",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
