@@ -9913,6 +9913,14 @@
 "name": "Fig. 4",
 "studyID": "ot_2606",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Damgaard J. 2012. Phylogeny of the semiaquatic bugs (Hemiptera-Heteroptera, Gerromorpha). Insect Systematics & Evolution, 39(4): 431-460.",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP",
+"studyID": "pg_1375",
+"treeID": "tree2746"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
