@@ -9849,6 +9849,14 @@
 "name": "Fig. 2, MP",
 "studyID": "pg_1561",
 "treeID": "tree3123"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cryan, J., Wiegmann B., Deitz L., Dietrich C., & Whiting M. 2004. Treehopper trees: phylogeny of Membracidae (Hemiptera: Cicadomorpha: Membracoidea) based on molecules and morphology. Systematic Entomology 29 (4): 441-454.",
+"decision": "INCLUDED",
+"name": "Fig 3. MP strict consensus",
+"studyID": "pg_2581",
+"treeID": "tree5987"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
