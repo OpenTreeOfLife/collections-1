@@ -9833,6 +9833,14 @@
 "name": "trees_chalcididae_cladistics2020.nex",
 "studyID": "ot_2598",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cruaud, A., Rasplus, J., Zhang, J., Burks, R., Delvare, G., Fusu, L., Gumovsky, A., Huber, J. T., Jan\u0161ta, P., Mitroiu, M., Noyes, J. S., van Noort, S., Baker, A., B\u00f6hmov\u00e1, J., Baur, H., Blaimer, B. B., Brady, S. G., Buben\u00edkov\u00e1, K., Chartois, M., \u2026 Heraty, J. M. (2023). The Chalcidoidea bush of life: evolutionary history of a massive radiation of minute wasps. Cladistics, 40(1), 34\u201363. Portico. https://doi.org/10.1111/cla.12561\n",
+"decision": "INCLUDED",
+"name": "cla12561-sup-0001-appendixs1.nex",
+"studyID": "ot_2599",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
