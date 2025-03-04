@@ -1396,6 +1396,14 @@
 "name": "trees_chalcididae_cladistics2020.nex (Cruaud, 2020)",
 "studyID": "ot_2598",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "cla12561-sup-0001-appendixs1.nex (Cruaud, 2023)",
+"studyID": "ot_2599",
+"treeID": "tree3"
 }
 ],
 "description": "Insect Phylogeny Database",
