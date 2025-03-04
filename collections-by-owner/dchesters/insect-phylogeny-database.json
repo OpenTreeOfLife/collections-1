@@ -1388,6 +1388,14 @@
 "name": "Fig. 4 (Cruaud, 2010)",
 "studyID": "ot_2597",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "trees_chalcididae_cladistics2020.nex (Cruaud, 2020)",
+"studyID": "ot_2598",
+"treeID": "tree3"
 }
 ],
 "description": "Insect Phylogeny Database",
