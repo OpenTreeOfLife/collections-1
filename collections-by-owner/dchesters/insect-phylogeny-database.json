@@ -1412,6 +1412,14 @@
 "name": "Fig. 4, BI (Cucini, 2020)",
 "studyID": "ot_2600",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML (Cunha, 2011)",
+"studyID": "ot_2601",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
