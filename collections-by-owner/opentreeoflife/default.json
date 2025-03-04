@@ -9897,6 +9897,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2604",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from FORSHAGE, M., NORDLANDER, G., & RONQUIST, F. (2008). Quasimodoana, a new Holarctic genus of eucoiline wasps (Hymenoptera, Cynipoidea, Figitidae), with a phylogenetic analysis of related genera. Systematic Entomology, 33(2), 301\u2013318. Portico. https://doi.org/10.1111/j.1365-3113.2007.00415.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 12, MP",
+"studyID": "ot_2605",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
