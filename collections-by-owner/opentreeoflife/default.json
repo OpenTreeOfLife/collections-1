@@ -9921,6 +9921,14 @@
 "name": "Fig. 2, MP",
 "studyID": "pg_1375",
 "treeID": "tree2746"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Damgaard, J., & Cognato, A. I. (2005). Phylogeny and reclassification of species groups in Aquarius Schellenberg, Limnoporus St\u00e5l and Gerris Fabricius (Insecta: Hemiptera\u2010Heteroptera, Gerridae). Systematic Entomology, 31(1), 93\u2013112. Portico. https://doi.org/10.1111/j.1365-3113.2005.00302.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP",
+"studyID": "ot_2607",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
