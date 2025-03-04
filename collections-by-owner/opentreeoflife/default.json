@@ -9889,6 +9889,14 @@
 "name": "Fig. S4",
 "studyID": "ot_2603",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Silva, F. L. da, de Medeiros, B. A. S., & Farrell, B. D. (2024). Once upon a fly: The biogeographical odyssey of Labrundinia (Chironomidae, Tanypodinae), an aquatic non-biting midge towards diversification. Molecular Phylogenetics and Evolution, 194, 108025. https://doi.org/10.1016/j.ympev.2024.108025\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2604",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
