@@ -9929,6 +9929,14 @@
 "name": "Fig. 2, MP",
 "studyID": "ot_2607",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Damgaard, J., & Sperling, F. A. H. (2001). Phylogeny of the water strider genus Gerris Fabricius (Heteroptera: Gerridae) based on COI mtDNA, EF\u20101\u03b1 nuclear DNA and morphology. Systematic Entomology, 26(2), 241\u2013254. Portico. https://doi.org/10.1046/j.1365-3113.2001.00141.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 7, MP",
+"studyID": "ot_2608",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
