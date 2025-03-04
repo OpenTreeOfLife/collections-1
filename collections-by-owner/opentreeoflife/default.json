@@ -9881,6 +9881,14 @@
 "name": "Fig. 18, MP",
 "studyID": "ot_2602",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from da Silva, A. F., Machado, L. C., de Paula, M. B., da Silva Pessoa Vieira, C. J., de Morais Bronzoni, R. V., de Melo Santos, M. A. V., & Wallau, G. L. (2020). Culicidae evolutionary history focusing on the Culicinae subfamily based on mitochondrial phylogenomics. Scientific Reports, 10(1). https://doi.org/10.1038/s41598-020-74883-3\n",
+"decision": "INCLUDED",
+"name": "Fig. S4",
+"studyID": "ot_2603",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
