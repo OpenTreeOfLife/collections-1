@@ -1460,6 +1460,14 @@
 "name": "Fig. 4 (Dai, 2023)",
 "studyID": "ot_2606",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP (Damgaard, 2005)",
+"studyID": "ot_2607",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
