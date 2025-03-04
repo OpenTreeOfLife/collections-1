@@ -1436,6 +1436,14 @@
 "name": "Fig. S4 (da Silva, 2020)",
 "studyID": "ot_2603",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (Silva, 2024)",
+"studyID": "ot_2604",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
