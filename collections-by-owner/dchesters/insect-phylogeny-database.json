@@ -1452,6 +1452,14 @@
 "name": "Fig. 12, MP (FORSHAGE, 2008)",
 "studyID": "ot_2605",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4 (Dai, 2023)",
+"studyID": "ot_2606",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
