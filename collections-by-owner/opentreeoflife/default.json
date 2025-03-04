@@ -9841,6 +9841,14 @@
 "name": "cla12561-sup-0001-appendixs1.nex",
 "studyID": "ot_2599",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cryan J. 2004. Molecular Phylogeny of Cicadomorpha (Insecta: Hemiptera: Cicadoidea, Cercopoidea, and Membracoidea): Adding Evidence to the Controversy. Systematic Entomology, null.",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP",
+"studyID": "pg_1561",
+"treeID": "tree3123"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
