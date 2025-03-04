@@ -9905,6 +9905,14 @@
 "name": "Fig. 12, MP",
 "studyID": "ot_2605",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dai, M., He, S.-L., Chen, B., & Li, T.-J. (2023). Phylogeny of Rhynchium and Its Related Genera (Hymenoptera: Eumeninae) Based on Universal Single-Copy Orthologs and Ultraconserved Elements. Insects, 14(9), 775. https://doi.org/10.3390/insects14090775\n",
+"decision": "INCLUDED",
+"name": "Fig. 4",
+"studyID": "ot_2606",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
