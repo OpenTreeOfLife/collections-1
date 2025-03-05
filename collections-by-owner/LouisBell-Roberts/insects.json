@@ -1295,6 +1295,34 @@
 "ot:studyYear": 2020,
 "studyID": "ot_2594",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Cryan, 2004",
+"decision": "INCLUDED",
+"defaultSortOrder": 92,
+"name": "Fig 3. MP strict consensus (Cryan, 2004)",
+"ot:focalCladeOTTTaxonName": "Membracidae",
+"ot:studyPublication": "http://dx.doi.org/10.1111/j.0307-6970.2004.00260.x",
+"ot:studyPublicationReference": "Cryan, J., Wiegmann B., Deitz L., Dietrich C., & Whiting M. 2004. Treehopper trees: phylogeny of Membracidae (Hemiptera: Cicadomorpha: Membracoidea) based on molecules and morphology. Systematic Entomology 29 (4): 441-454.",
+"ot:studyYear": 2004,
+"studyID": "pg_2581",
+"treeID": "tree5987"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Lin C., 2004",
+"decision": "INCLUDED",
+"defaultSortOrder": 93,
+"name": "tree3669 (Lin C., 2004)",
+"ot:focalCladeOTTTaxonName": "Membracidae",
+"ot:studyPublication": "http://dx.doi.org/10.1080/10635150490445869",
+"ot:studyPublicationReference": "Lin C., Danforth B., & Wood T. 2004. Molecular phylogenetics and evolution of maternal care in membracine treehoppers. Systematic Biology, 53(3): 400-421.",
+"ot:studyYear": 2004,
+"studyID": "pg_1814",
+"treeID": "tree3669"
 }
 ],
 "description": "Tree of all insects",
