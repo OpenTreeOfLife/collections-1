@@ -1337,6 +1337,19 @@
 "ot:studyYear": 2019,
 "studyID": "ot_2349",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Raychoudhury, 2010",
+"decision": "INCLUDED",
+"defaultSortOrder": 95,
+"name": "Fig 1 (Raychoudhury, 2010)",
+"ot:studyPublication": "https://doi.org/10.1038/hdy.2009.147",
+"ot:studyPublicationReference": "Raychoudhury, R., Desjardins, C. A., Buellesbach, J., Loehlin, D. W., Grillenberger, B. K., Beukeboom, L., Schmitt, T., & Werren, J. H. (2010). Behavioral and genetic characteristics of a new species of Nasonia. Heredity, 104(3), 278\u2013288. https://doi.org/10.1038/hdy.2009.147\n",
+"ot:studyYear": 2010,
+"studyID": "ot_2613",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
