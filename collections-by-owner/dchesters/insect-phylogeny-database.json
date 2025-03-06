@@ -1532,6 +1532,14 @@
 "name": "Fig. 13, MP (Daugeron, 2003)",
 "studyID": "ot_2619",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML (Day, 2016)",
+"studyID": "ot_2620",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
