@@ -10033,6 +10033,14 @@
 "name": "Fig. 5",
 "studyID": "ot_2624",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from DE JONG, H., & CILIBERTI, P. (2014). How cold\u2010adapted flightless flies dispersed over the northern hemisphere: phylogeny and biogeography of the snow fly genus Chionea<scp>D</scp>alman (<scp>D</scp>iptera: <scp>L</scp>imoniidae). Systematic Entomology, 39(3), 563\u2013589. Portico. https://doi.org/10.1111/syen.12075\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, MP",
+"studyID": "ot_2625",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
