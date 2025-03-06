@@ -1556,6 +1556,14 @@
 "name": "Fig. 2, BI (Dellicour, 2014)",
 "studyID": "ot_2622",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, ML (Deng, 2023)",
+"studyID": "ot_2623",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
