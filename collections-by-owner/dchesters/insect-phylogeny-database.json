@@ -1500,6 +1500,14 @@
 "name": "Fig. 4, ML (Danforth, 2003)",
 "studyID": "ot_2615",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML (Dang, 2021)",
+"studyID": "ot_2616",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
