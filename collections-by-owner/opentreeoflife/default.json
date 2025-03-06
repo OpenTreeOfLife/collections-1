@@ -9961,6 +9961,14 @@
 "name": "Fig. 4, ML",
 "studyID": "ot_2615",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dang, L., Wang, X., Xie, D., Gao, Y., & Zhao, L. (2021). Complete mitochondrial genome ofGynaikothrips ficorum(Thysanoptera: Phlaeothripidae). Mitochondrial DNA Part B, 6(7), 2033\u20132034. https://doi.org/10.1080/23802359.2021.1923412\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2616",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
