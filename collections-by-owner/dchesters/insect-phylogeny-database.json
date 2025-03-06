@@ -1580,6 +1580,14 @@
 "name": "Fig. 3, MP (DE JONG, 2014)",
 "studyID": "ot_2625",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S1, BI (de Moya, 2022)",
+"studyID": "ot_2626",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
