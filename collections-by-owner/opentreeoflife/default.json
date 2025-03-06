@@ -9953,6 +9953,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_2614",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Danforth, B. N., Conway, L., & Ji, S. (2003). Phylogeny of Eusocial Lasioglossum Reveals Multiple Losses of Eusociality within a Primitively Eusocial Clade of Bees (Hymenoptera: Halictidae). Systematic Biology, 52(1), 23\u201336. https://doi.org/10.1080/10635150390132687\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, ML",
+"studyID": "ot_2615",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
