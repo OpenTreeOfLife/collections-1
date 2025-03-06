@@ -10001,6 +10001,14 @@
 "name": "Fig. 5, BI",
 "studyID": "ot_2621",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Debevec A.H., Cardinal S., & Danforth B. 2012. Identifying the sister group to the bees: a molecular phylogeny of Aculeata with an emphasis on the superfamily Apoidea. Zoologica Scripta, 41, 527-535.",
+"decision": "INCLUDED",
+"name": "Fig. 2 / S1",
+"studyID": "pg_1774",
+"treeID": "tree3579"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
