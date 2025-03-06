@@ -1516,6 +1516,14 @@
 "name": "RAXML_tree (Daniel, 2020)",
 "studyID": "ot_2617",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Figs. 2,3, ML (Darlington, 2008)",
+"studyID": "ot_2618",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
