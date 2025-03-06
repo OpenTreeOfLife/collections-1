@@ -1596,6 +1596,14 @@
 "name": "Psocodea_degen_concatenated_ML.nexus (de Moya, 2020)",
 "studyID": "ot_2627",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP (Oliveira, 2019)",
+"studyID": "ot_2628",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
