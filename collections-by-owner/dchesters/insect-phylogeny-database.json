@@ -1484,6 +1484,14 @@
 "name": "Fig. 4D, MP (Damgaard, 2005)",
 "studyID": "ot_2609",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP (HERMES, 2008)",
+"studyID": "ot_2614",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
