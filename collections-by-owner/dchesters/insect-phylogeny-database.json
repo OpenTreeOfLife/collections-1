@@ -1548,6 +1548,14 @@
 "name": "Fig. 5, BI (Deans, 2006)",
 "studyID": "ot_2621",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI (Dellicour, 2014)",
+"studyID": "ot_2622",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
