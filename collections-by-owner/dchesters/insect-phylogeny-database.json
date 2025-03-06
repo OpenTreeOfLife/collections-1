@@ -1540,6 +1540,14 @@
 "name": "Fig. 1, ML (Day, 2016)",
 "studyID": "ot_2620",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 5, BI (Deans, 2006)",
+"studyID": "ot_2621",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
