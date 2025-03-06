@@ -10041,6 +10041,14 @@
 "name": "Fig. 3, MP",
 "studyID": "ot_2625",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from de Moya, R. S. (2022). Phylogenomics and host-switching patterns of Philopteridae (Psocodea: Phthiraptera) feather lice. International Journal for Parasitology, 52(8), 525\u2013537. https://doi.org/10.1016/j.ijpara.2022.03.005\n",
+"decision": "INCLUDED",
+"name": "Fig. S1, BI",
+"studyID": "ot_2626",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
