@@ -10017,6 +10017,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2622",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Deng, Y.-P., Wang, W., Fu, Y.-T., Nie, Y., Xie, Y., & Liu, G.-H. (2023). Morphological and molecular evidence reveals a new species of chewing louse Pancola ailurus n. sp. (Phthiraptera: Trichodectidae) from the endangered Chinese red panda Ailurus styani. International Journal for Parasitology: Parasites and Wildlife, 20, 31\u201338. https://doi.org/10.1016/j.ijppaw.2022.12.004\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, ML",
+"studyID": "ot_2623",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
