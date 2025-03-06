@@ -9977,6 +9977,14 @@
 "name": "RAXML_tree",
 "studyID": "ot_2617",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Daugeron, C., & Grootaert, P. (2003). Assessment of monophyly of species\u2010groups within Afrotropical Empidini (Diptera: Empididae: Empidinae), with a cladistic analysis of the Empis setitarsus\u2010group. Systematic Entomology, 28(3), 339\u2013360. Portico. https://doi.org/10.1046/j.1365-3113.2003.00214.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 13, MP",
+"studyID": "ot_2619",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
