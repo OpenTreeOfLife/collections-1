@@ -9945,6 +9945,14 @@
 "name": "Fig. 4D, MP",
 "studyID": "ot_2609",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from HERMES, M. G., & MELO, G. A. R. (2008). Revision and cladistic analysis of the eumenine wasp genusPseudodynerusde Saussure (Hymenoptera, Vespidae, Eumeninae). Systematic Entomology, 33(2), 361\u2013394. Portico. https://doi.org/10.1111/j.1365-3113.2008.00421.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_2614",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
