@@ -9993,6 +9993,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2620",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Deans, A. R., Gillespie, J. J., & Yoder, M. J. (2006). An evaluation of ensign wasp classification (Hymenoptera: Evaniidae) based on molecular data and insights from ribosomal RNA secondary structure. Systematic Entomology, 31(3), 517\u2013528. Portico. https://doi.org/10.1111/j.1365-3113.2006.00327.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 5, BI",
+"studyID": "ot_2621",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
