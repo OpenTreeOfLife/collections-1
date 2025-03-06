@@ -10025,6 +10025,14 @@
 "name": "Fig. 3, ML",
 "studyID": "ot_2623",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from De Jes\u00fas-Bonilla, V. S., Meza-L\u00e1zaro, R. N., & Zald\u00edvar-River\u00f3n, A. (2019). 3RAD-based systematics of the transitional Nearctic-Neotropical lubber grasshopper genus Taeniopoda (Orthoptera: Romaleidae). Molecular Phylogenetics and Evolution, 137, 64\u201375. https://doi.org/10.1016/j.ympev.2019.04.019\n",
+"decision": "INCLUDED",
+"name": "Fig. 5",
+"studyID": "ot_2624",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
