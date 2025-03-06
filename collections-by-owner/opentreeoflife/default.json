@@ -10057,6 +10057,14 @@
 "name": "Psocodea_degen_concatenated_ML.nexus",
 "studyID": "ot_2627",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Oliveira, L. A. de, Inez, T. G., Ferreira, W. D., & Hermes, M. G. (2019). A phylogenetic investigation of the Neotropical genus Alphamenes van der Vecht, 1977 (Hymenoptera, Vespidae, Eumeninae). Revista Brasileira de Entomologia, 63(1), 73\u201379. https://doi.org/10.1016/j.rbe.2018.11.006\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_2628",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
