@@ -10009,6 +10009,14 @@
 "name": "Fig. 2 / S1",
 "studyID": "pg_1774",
 "treeID": "tree3579"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dellicour, S., Lecocq, T., Kuhlmann, M., Mardulyn, P., & Michez, D. (2014). Molecular phylogeny, biogeography, and host plant shifts in the bee genus Melitta (Hymenoptera: Anthophila). Molecular Phylogenetics and Evolution, 70, 412\u2013419. https://doi.org/10.1016/j.ympev.2013.08.013\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2622",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
