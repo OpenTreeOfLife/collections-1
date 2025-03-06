@@ -9969,6 +9969,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2616",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Daniel, G. M., Davis, A. L. V., Sole, C. L., & Scholtz, C. H. (2020). Evolutionary history and eco\u2010climatic diversification in southern African dung beetle Sisyphus. Journal of Biogeography, 47(12), 2698\u20132713. Portico. https://doi.org/10.1111/jbi.13974\n",
+"decision": "INCLUDED",
+"name": "RAXML_tree",
+"studyID": "ot_2617",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
