@@ -1612,6 +1612,14 @@
 "name": "Fig. 3, MP (JOHANSON, 2008)",
 "studyID": "ot_2629",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 5, BI (CEOTTO, 2008)",
+"studyID": "ot_2630",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
