@@ -1628,6 +1628,14 @@
 "name": "Fig. 2, ML (de Paula, 2023)",
 "studyID": "ot_2631",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 23, MP (de Santis, 2022)",
+"studyID": "ot_2632",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
