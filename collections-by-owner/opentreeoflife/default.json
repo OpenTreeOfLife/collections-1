@@ -10113,6 +10113,14 @@
 "name": "Fig. 7, MP",
 "studyID": "ot_2634",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from D\u2019Haese, C. A. (2003). Morphological appraisal of Collembola phylogeny with special emphasis on Poduromorpha and a test of the aquatic origin hypothesis. Zoologica Scripta, 32(6), 563\u2013586. Portico. https://doi.org/10.1046/j.1463-6409.2003.00134.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 8, MP",
+"studyID": "ot_2635",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
