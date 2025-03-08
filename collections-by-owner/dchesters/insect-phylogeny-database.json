@@ -1620,6 +1620,14 @@
 "name": "Fig. 5, BI (CEOTTO, 2008)",
 "studyID": "ot_2630",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML (de Paula, 2023)",
+"studyID": "ot_2631",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
