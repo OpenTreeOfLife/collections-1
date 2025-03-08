@@ -10121,6 +10121,14 @@
 "name": "Fig. 8, MP",
 "studyID": "ot_2635",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dias, L. G., Molineri, C., Takiya, D., Benavides, P., & Bacca, T. (2019). Phylogeny of Tricorythodes Ulmer (Leptohyphidae: Ephemeroptera) based on molecular and morphological evidence. Zoologischer Anzeiger, 278, 38\u201345. https://doi.org/10.1016/j.jcz.2018.10.008\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI",
+"studyID": "ot_2636",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
