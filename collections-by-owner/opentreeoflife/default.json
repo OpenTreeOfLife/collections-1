@@ -10105,6 +10105,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_2633",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Desutter\u2010Grandcolas, L., & Robillard, T. (2005). Phylogenetic systematics and evolution of Agnotecous in New Caledonia (Orthoptera: Grylloidea, Eneopteridae). Systematic Entomology, 31(1), 65\u201392. Portico. https://doi.org/10.1111/j.1365-3113.2005.00299.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 7, MP",
+"studyID": "ot_2634",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
