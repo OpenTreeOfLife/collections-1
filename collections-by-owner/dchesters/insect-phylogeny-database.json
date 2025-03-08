@@ -1660,6 +1660,14 @@
 "name": "Fig. 8, MP (D\u2019Haese, 2003)",
 "studyID": "ot_2635",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI (Dias, 2019)",
+"studyID": "ot_2636",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
