@@ -10089,6 +10089,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_2631",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from de Santis, M. D., & Nihei, S. S. (2022). Phylogenetic analysis of the tribe Dufouriini (Diptera: Tachinidae) using a total evidence approach based on adult and immature stages. Arthropod Systematics &amp; Phylogeny, 80, 1\u201338. https://doi.org/10.3897/asp.80.e69618\n",
+"decision": "INCLUDED",
+"name": "Fig. 23, MP",
+"studyID": "ot_2632",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
