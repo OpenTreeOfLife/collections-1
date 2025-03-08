@@ -1636,6 +1636,14 @@
 "name": "Fig. 23, MP (de Santis, 2022)",
 "studyID": "ot_2632",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML (Desjardins, 2007)",
+"studyID": "ot_2633",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
