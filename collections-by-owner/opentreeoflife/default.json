@@ -10137,6 +10137,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_2637",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dietrich, C. H., Mckamey, S. H., & Deitz, L. L. (2001). Morphology\u2010based phylogeny of the treehopper family Membracidae (Hemiptera: Cicadomorpha: Membracoidea). Systematic Entomology, 26(2), 213\u2013239. Portico. https://doi.org/10.1046/j.1365-3113.2001.00140.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 10, MP",
+"studyID": "ot_2638",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
