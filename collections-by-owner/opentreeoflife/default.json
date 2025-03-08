@@ -10081,6 +10081,14 @@
 "name": "Fig. 5, BI",
 "studyID": "ot_2630",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from de Paula, L. C. B., Dios, R. de V. P., Gudin, F. M., de Santis, M. D., Alvarez\u2010Garcia, D. M., Antunes J\u00fanior, M., Freire, B. V., Marques, F. P. de L., Lahr, D. J. G., & Nihei, S. S. (2023). Phylogenomic analysis of Tachinidae (Diptera: Calyptratae: Oestroidea): a transcriptomic approach to understanding the subfamily relationships. Cladistics, 40(1), 64\u201381. Portico. https://doi.org/10.1111/cla.12562\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2631",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
