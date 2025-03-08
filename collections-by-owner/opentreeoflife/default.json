@@ -10097,6 +10097,14 @@
 "name": "Fig. 23, MP",
 "studyID": "ot_2632",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Desjardins, C. A., Regier, J. C., & Mitter, C. (2007). Phylogeny of pteromalid parasitic wasps (Hymenoptera: Pteromalidae): Initial evidence from four protein-coding nuclear genes. Molecular Phylogenetics and Evolution, 45(2), 454\u2013469. https://doi.org/10.1016/j.ympev.2007.08.004\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2633",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
