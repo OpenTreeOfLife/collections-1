@@ -10209,6 +10209,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2646",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dong, Y., Zhao, M., & Shao, R. (2022). Fragmented mitochondrial genomes of seal lice (family Echinophthiriidae) and gorilla louse (family Pthiridae): frequent minichromosomal splits and a host switch of lice between seals. BMC Genomics, 23(1). https://doi.org/10.1186/s12864-022-08530-8\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI",
+"studyID": "ot_2647",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
