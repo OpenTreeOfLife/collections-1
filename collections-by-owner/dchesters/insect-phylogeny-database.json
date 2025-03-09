@@ -1724,6 +1724,14 @@
 "name": "Fig. 5 upper, BI (Ding, 2019)",
 "studyID": "ot_2643",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML (Dong, 2016)",
+"studyID": "ot_2644",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
