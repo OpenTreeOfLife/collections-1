@@ -10177,6 +10177,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_2642",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ding, S., Li, W., Wang, Y., Cameron, S. L., Mur\u00e1nyi, D., & Yang, D. (2019). The phylogeny and evolutionary timescale of stoneflies (Insecta: Plecoptera) inferred from mitochondrial genomes. Molecular Phylogenetics and Evolution, 135, 123\u2013135. https://doi.org/10.1016/j.ympev.2019.03.005\n",
+"decision": "INCLUDED",
+"name": "Fig. 5 upper, BI",
+"studyID": "ot_2643",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
