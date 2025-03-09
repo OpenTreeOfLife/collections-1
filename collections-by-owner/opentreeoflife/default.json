@@ -10169,6 +10169,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2641",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dijkstra, E., Rubio, J. M., & Post, R. J. (2003). Resolving relationships over a wide taxonomic range in Delphacidae (Homoptera) using the COI gene. Systematic Entomology, 28(1), 89\u2013100. Portico. https://doi.org/10.1046/j.1365-3113.2003.00203.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_2642",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
