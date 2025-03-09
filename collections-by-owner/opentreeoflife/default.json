@@ -10217,6 +10217,14 @@
 "name": "Fig. 4, BI",
 "studyID": "ot_2647",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dong, Z., Liu, X., Mao, C., He, J., & Li, X. (2022). \ufeffXenos yangi sp. nov.: A new twisted-wing parasite species (Strepsiptera, Xenidae) from Gaoligong Mountains, Southwest China. ZooKeys, 1085, 11\u201327. https://doi.org/10.3897/zookeys.1085.76484\n",
+"decision": "INCLUDED",
+"name": "Fig. 6, MP",
+"studyID": "ot_2648",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
