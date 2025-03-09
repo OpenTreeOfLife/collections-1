@@ -1700,6 +1700,14 @@
 "name": "Fig. 5, MP (Di Giulio, 2003)",
 "studyID": "ot_2640",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI (DIJKSTRA, 2013)",
+"studyID": "ot_2641",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
