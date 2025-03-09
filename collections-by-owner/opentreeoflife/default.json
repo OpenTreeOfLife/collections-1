@@ -10145,6 +10145,14 @@
 "name": "Fig. 10, MP",
 "studyID": "ot_2638",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from ANG, Y., PUNIAMOORTHY, N., & MEIER, R. (2008). Secondarily reduced foreleg armature in Perochaeta dikowi sp.n. (Diptera: Cyclorrhapha: Sepsidae) due to a novel mounting technique. Systematic Entomology, 33(3), 552\u2013559. Portico. https://doi.org/10.1111/j.1365-3113.2008.00422.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, MP",
+"studyID": "ot_2639",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
