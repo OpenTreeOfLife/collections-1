@@ -10201,6 +10201,14 @@
 "name": "Fig. 8, MP",
 "studyID": "ot_2645",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dong, X., Wang, K., Tang, Z., Zhang, Y., Yi, W., Xue, H., Zheng, C., & Bu, W. (2022). Phylogeny of Coreoidea based on mitochondrial genomes show the paraphyly of Coreidae and Alydidae. Archives of Insect Biochemistry and Physiology, 110(1). Portico. https://doi.org/10.1002/arch.21878\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2646",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
