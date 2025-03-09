@@ -10153,6 +10153,14 @@
 "name": "Fig. 4, MP",
 "studyID": "ot_2639",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Di Giulio, A., Fattorini, S., Kaupp, A., Taglianti, A. V., & Nagel, P. (2003). Review of competing hypotheses of phylogenetic relationships of Paussinae (Coleoptera: Carabidae) based on larval characters. Systematic Entomology, 28(4), 509\u2013537. Portico. https://doi.org/10.1046/j.1365-3113.2003.00227.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 5, MP",
+"studyID": "ot_2640",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
