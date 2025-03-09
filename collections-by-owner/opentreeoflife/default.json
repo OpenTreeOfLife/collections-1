@@ -10193,6 +10193,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2644",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from LIU, X., HAYASHI, F., & YANG, D. (2008). Systematics and biogeography of the fishfly genus Parachauliodes (Megaloptera: Corydalidae) endemic to the east Asian islands. Systematic Entomology, 33(3), 560\u2013578. Portico. https://doi.org/10.1111/j.1365-3113.2008.00429.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 8, MP",
+"studyID": "ot_2645",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
