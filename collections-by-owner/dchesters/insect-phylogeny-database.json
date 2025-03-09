@@ -1708,6 +1708,14 @@
 "name": "Fig. 2, BI (DIJKSTRA, 2013)",
 "studyID": "ot_2641",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP (Dijkstra, 2003)",
+"studyID": "ot_2642",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
