@@ -10241,6 +10241,14 @@
 "name": "Figs. 4,5, MP",
 "studyID": "ot_2651",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from CHO, S., MITCHELL, A., MITTER, C., REGIER, J., MATTHEWS, M., & ROBERTSON, R. (2008). Molecular phylogenetics of heliothine moths (Lepidoptera: Noctuidae: Heliothinae), with comments on the evolution of host range and pest status. Systematic Entomology, 33(4), 581\u2013594. Portico. https://doi.org/10.1111/j.1365-3113.2008.00427.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2652",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
