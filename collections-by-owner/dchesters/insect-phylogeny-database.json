@@ -1796,6 +1796,14 @@
 "name": "Fig. S1, BI (DOORENWEERD, 2016)",
 "studyID": "ot_2653",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2a, MP (Dorchin, 2004)",
+"studyID": "ot_2654",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
