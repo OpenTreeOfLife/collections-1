@@ -10289,6 +10289,14 @@
 "name": "Figs. 2,3, ML",
 "studyID": "ot_2657",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Douglas, H. B., Konstantinov, A. S., Brunke, A. J., Moseyko, A. G., Chapados, J. T., Eyres, J., Richter, R., Savard, K., Sears, E., Prathapan, K. D., Ruan, Y., & Dettman, J. R. (2023). Phylogeny of the flea beetles (Galerucinae: Alticini) and the position ofAulacothoraxelucidated through anchored phylogenomics (Coleoptera: Chrysomelidae: Alticini). Systematic Entomology, 48(3), 361\u2013386. Portico. https://doi.org/10.1111/syen.12582\n",
+"decision": "INCLUDED",
+"name": "50AA_mapping_4.nex",
+"studyID": "ot_2658",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
