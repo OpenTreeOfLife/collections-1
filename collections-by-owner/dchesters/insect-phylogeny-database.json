@@ -1836,6 +1836,14 @@
 "name": "50AA_mapping_4.nex (Douglas, 2023)",
 "studyID": "ot_2658",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP (Downie, 2004)",
+"studyID": "ot_2659",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
