@@ -1764,6 +1764,14 @@
 "name": "Fig. 6, MP (Dong, 2022)",
 "studyID": "ot_2648",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4, ML (Dong, 2023)",
+"studyID": "ot_2650",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
