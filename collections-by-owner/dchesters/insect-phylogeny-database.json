@@ -1828,6 +1828,14 @@
 "name": "Figs. 2,3, ML (Douglas, 2021)",
 "studyID": "ot_2657",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "50AA_mapping_4.nex (Douglas, 2023)",
+"studyID": "ot_2658",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
