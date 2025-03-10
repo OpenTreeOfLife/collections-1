@@ -10233,6 +10233,14 @@
 "name": "Fig. 4, ML",
 "studyID": "ot_2650",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dom\u00ednguez, M. C., & Roig-Ju\u00f1ent, S. A. (2008). A phylogeny of the family Fanniidae Schnabl (Insecta:Diptera:Calyptratae) based on adult morphological characters, with special reference to the Austral species of the genus Fannia. Invertebrate Systematics, 22(5), 563. https://doi.org/10.1071/is08003\n",
+"decision": "INCLUDED",
+"name": "Figs. 4,5, MP",
+"studyID": "ot_2651",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
