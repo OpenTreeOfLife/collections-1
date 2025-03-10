@@ -10273,6 +10273,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_2655",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dorchin, A., Shafir, A., Neumann, F. H., Langgut, D., Vereecken, N. J., & Mayrose, I. (2021). Bee flowers drive macroevolutionary diversification in long-horned bees. Proceedings of the Royal Society B: Biological Sciences, 288(1959). https://doi.org/10.1098/rspb.2021.0533\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2656",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
