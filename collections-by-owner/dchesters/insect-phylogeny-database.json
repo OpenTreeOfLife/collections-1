@@ -1820,6 +1820,14 @@
 "name": "Fig. 1, BI (Dorchin, 2021)",
 "studyID": "ot_2656",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Figs. 2,3, ML (Douglas, 2021)",
+"studyID": "ot_2657",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
