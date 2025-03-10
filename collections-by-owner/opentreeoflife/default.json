@@ -10257,6 +10257,14 @@
 "name": "Fig. S1, BI",
 "studyID": "ot_2653",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dorchin, N., Freidberg, A., & Mokady, O. (2004). Phylogeny of the Baldratiina (Diptera: Cecidomyiidae) inferred from morphological, ecological and molecular data sources, and evolutionary patterns in plant\u2013galler relationships. Molecular Phylogenetics and Evolution, 30(3), 503\u2013515. https://doi.org/10.1016/s1055-7903(03)00232-x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2a, MP",
+"studyID": "ot_2654",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
