@@ -10265,6 +10265,14 @@
 "name": "Fig. 2a, MP",
 "studyID": "ot_2654",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dorchin, N., Harris, K. M., & Stireman, J. O. (2019). Phylogeny of the gall midges (Diptera, Cecidomyiidae, Cecidomyiinae): Systematics, evolution of feeding modes and diversification rates. Molecular Phylogenetics and Evolution, 140, 106602. https://doi.org/10.1016/j.ympev.2019.106602\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2655",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
