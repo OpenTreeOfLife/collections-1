@@ -10225,6 +10225,14 @@
 "name": "Fig. 6, MP",
 "studyID": "ot_2648",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dong, Y., Jelocnik, M., Gillett, A., Valenza, L., Conroy, G., Potvin, D., & Shao, R. (2023). Mitochondrial Genome Fragmentation Occurred Multiple Times Independently in Bird Lice of the Families Menoponidae and Laemobothriidae. Animals, 13(12), 2046. https://doi.org/10.3390/ani13122046\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, ML",
+"studyID": "ot_2650",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
