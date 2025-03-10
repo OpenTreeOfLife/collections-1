@@ -10297,6 +10297,14 @@
 "name": "50AA_mapping_4.nex",
 "studyID": "ot_2658",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Downie, D. A., & Gullan, P. J. (2004). Phylogenetic analysis of mealybugs (Hemiptera: Coccoidea: Pseudococcidae) based on DNA sequences from three nuclear genes, and a review of the higher classification. Systematic Entomology, 29(2), 238\u2013260. Portico. https://doi.org/10.1111/j.0307-6970.2004.00241.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP",
+"studyID": "ot_2659",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
