@@ -10249,6 +10249,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_2652",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from DOORENWEERD, C., VAN NIEUKERKEN, E. J., & HOARE, R. J. B. (2016). Phylogeny, classification and divergence times of pygmy leaf\u2010mining moths (<scp>L</scp>epidoptera: <scp>N</scp>epticulidae): the earliest lepidopteran radiation on <scp>A</scp>ngiosperms? Systematic Entomology, 42(1), 267\u2013287. Portico. https://doi.org/10.1111/syen.12212\n",
+"decision": "INCLUDED",
+"name": "Fig. S1, BI",
+"studyID": "ot_2653",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
