@@ -10281,6 +10281,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2656",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Douglas, H. B., Kundrata, R., Brunke, A. J., Escalona, H. E., Chapados, J. T., Eyres, J., Richter, R., Savard, K., \u015alipi\u0144ski, A., McKenna, D., & Dettman, J. R. (2021). Anchored Phylogenomics, Evolution and Systematics of Elateridae: Are All Bioluminescent Elateroidea Derived Click Beetles? Biology, 10(6), 451. https://doi.org/10.3390/biology10060451\n",
+"decision": "INCLUDED",
+"name": "Figs. 2,3, ML",
+"studyID": "ot_2657",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
