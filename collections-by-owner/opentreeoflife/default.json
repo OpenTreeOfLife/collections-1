@@ -10345,6 +10345,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2665",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dumans, A. T. N., Grimaldi, D. B., Furtado, C., Machado, E. de A., & Prosdocimi, F. (2017). The complete mitochondrial genome of the subsocial cockroachNauphoeta cinereaand phylogenomic analyses of Blattodea mitogenomes suggest reclassification of superfamilies. Mitochondrial DNA Part B, 2(1), 76\u201378. https://doi.org/10.1080/23802359.2017.1285207\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2666",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
