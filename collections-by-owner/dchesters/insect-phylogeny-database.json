@@ -1908,6 +1908,14 @@
 "name": "Fig. 3, BI (DUMONT, 2010)",
 "studyID": "ot_2668",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML (DYER, 2008)",
+"studyID": "ot_2669",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
