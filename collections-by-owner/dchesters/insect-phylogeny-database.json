@@ -1860,6 +1860,14 @@
 "name": "Fig. 5b, MP (Dowton, 1998)",
 "studyID": "ot_2662",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML (Duan, 2017)",
+"studyID": "ot_2663",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
