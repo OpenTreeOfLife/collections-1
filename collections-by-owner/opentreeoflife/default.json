@@ -10305,6 +10305,14 @@
 "name": "Fig. 2, MP",
 "studyID": "ot_2659",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from LEE, S., & BROWN, R. L. (2008). Phylogenetic relationships of Holarctic Teleiodini (Lepidoptera: Gelechiidae) based on analysis of morphological and molecular data. Systematic Entomology, 33(4), 595\u2013612. Portico. https://doi.org/10.1111/j.1365-3113.2008.00430.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP",
+"studyID": "ot_2661",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
