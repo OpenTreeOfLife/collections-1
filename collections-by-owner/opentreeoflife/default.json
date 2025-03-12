@@ -10337,6 +10337,14 @@
 "name": "Fig. 6, MP",
 "studyID": "ot_2664",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Duelli, P., Henry, C. S., Hayashi, M., Nomura, M., & Mochizuki, A. (2016). Molecular phylogeny and morphology of Pseudomallada (Neuroptera: Chrysopidae), one of the largest genera within Chrysopidae. Zoological Journal of the Linnean Society, 180(3), 556\u2013569. https://doi.org/10.1093/zoolinnean/zlw008\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2665",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
