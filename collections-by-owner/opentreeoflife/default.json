@@ -10353,6 +10353,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2666",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dumont, H. J., Vanfleteren, J. R., De Jonckheere, J. F., & Weekers, P. H. H. (2005). Phylogenetic Relationships, Divergence Time Estimation, and Global Biogeographic Patterns of Calopterygoid Damselflies (Odonata, Zygoptera) Inferred from Ribosomal DNA Sequences. Systematic Biology, 54(3), 347\u2013362. https://doi.org/10.1080/10635150590949869\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2667",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
