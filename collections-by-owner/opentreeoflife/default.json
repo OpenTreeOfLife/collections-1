@@ -10369,6 +10369,14 @@
 "name": "Fig. 3, BI",
 "studyID": "ot_2668",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from DYER, N., LAWTON, S., RAVEL, S., CHOI, K., LEHANE, M., ROBINSON, A., OKEDI, L., HALL, M., SOLANO, P., & DONNELLY, M. (2008). Molecular phylogenetics of tsetse flies (Diptera: Glossinidae) based on mitochondrial (COI, 16S, ND2) and nuclear ribosomal DNA sequences, with an emphasis on the palpalis group. Molecular Phylogenetics and Evolution, 49(1), 227\u2013239. https://doi.org/10.1016/j.ympev.2008.07.011\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2669",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
