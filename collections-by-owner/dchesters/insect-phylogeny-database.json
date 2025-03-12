@@ -1900,6 +1900,14 @@
 "name": "Fig. 1, ML (Dumont, 2005)",
 "studyID": "ot_2667",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI (DUMONT, 2010)",
+"studyID": "ot_2668",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
