@@ -10329,6 +10329,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2663",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from DUBITZKY, A. (2007). Phylogeny of the World Anthophorini (Hymenoptera: Apoidea: Apidae). Systematic Entomology, 32(4), 585\u2013600. Portico. https://doi.org/10.1111/j.1365-3113.2007.00397.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 6, MP",
+"studyID": "ot_2664",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
