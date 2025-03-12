@@ -10321,6 +10321,14 @@
 "name": "Fig. 5b, MP",
 "studyID": "ot_2662",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Duan, J., Quan, G., Mittapalli, O., Cusson, M., Krell, P. J., & Doucet, D. (2017). The complete mitogenome of the Emerald Ash Borer (EAB), Agrilus planipennis (Insecta: Coleoptera: Buprestidae). Mitochondrial DNA Part B, 2(1), 134\u2013135. https://doi.org/10.1080/23802359.2017.1292476\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2663",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
