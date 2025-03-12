@@ -10377,6 +10377,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2669",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Edgerly, J. S., Sandel, B., Regoli, I., & Okolo, O. (2020). Silk Spinning Behavior Varies from Species-Specific to Individualistic in Embioptera: Do Environmental Correlates Account for this Diversity? Insect Systematics and Diversity, 4(2). https://doi.org/10.1093/isd/ixaa007\n",
+"decision": "INCLUDED",
+"name": "Fig. 5A, BI",
+"studyID": "ot_2670",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
