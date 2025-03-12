@@ -10313,6 +10313,14 @@
 "name": "Fig. 2, MP",
 "studyID": "ot_2661",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dowton, M., & Austin, A. D. (1998). Phylogenetic Relationships among the Microgastroid Wasps (Hymenoptera: Braconidae): Combined Analysis of 16S and 28S rDNA Genes and Morphological Data. Molecular Phylogenetics and Evolution, 10(3), 354\u2013366. https://doi.org/10.1006/mpev.1998.0533\n",
+"decision": "INCLUDED",
+"name": "Fig. 5b, MP",
+"studyID": "ot_2662",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
