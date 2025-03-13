@@ -10417,6 +10417,14 @@
 "name": "Fig. 8, ML",
 "studyID": "ot_2673",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from ESCALONA, H. E., LAWRENCE, J. F., WANAT, M., & \u015aLIPI\u0143SKI, A. (2015). Phylogeny and placement of Boganiidae (Coleoptera, Cucujoidea) with a review of Australian and New Caledonian taxa. Systematic Entomology, 40(3), 628\u2013651. Portico. https://doi.org/10.1111/syen.12126\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_2674",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
