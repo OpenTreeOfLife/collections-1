@@ -10473,6 +10473,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_2678",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Faille, A., Ribera, I., Deharveng, L., Bourdeau, C., Garnery, L., Qu\u00e9innec, E., & Deuve, T. (2010). A molecular phylogeny shows the single origin of the Pyrenean subterranean Trechini ground beetles (Coleoptera: Carabidae). Molecular Phylogenetics and Evolution, 54(1), 97\u2013106. https://doi.org/10.1016/j.ympev.2009.10.008\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI",
+"studyID": "ot_2679",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
