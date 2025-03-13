@@ -1972,6 +1972,14 @@
 "name": "Fig. 1B, MP (Espinasa, 2007)",
 "studyID": "ot_2676",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI (EVANGELISTA, 2016)",
+"studyID": "ot_2677",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
