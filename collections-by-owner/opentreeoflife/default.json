@@ -10401,6 +10401,14 @@
 "name": "Fig. 6A, MP",
 "studyID": "ot_2672",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ekrem T., Willassen E., & Stur E. 2010. Phylogenetic utility of five genes for dipteran phylogeny: a test case in the Chironomidae leads to generic synonymies. Molecular Phylogenetics and Evolution, 57: 561-571.",
+"decision": "INCLUDED",
+"name": "Fig. 3",
+"studyID": "pg_1946",
+"treeID": "tree3964"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
