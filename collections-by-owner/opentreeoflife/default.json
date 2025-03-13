@@ -10425,6 +10425,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_2674",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Escalona, H. E., Zwick, A., Li, H.-S., Li, J., Wang, X., Pang, H., Hartley, D., Jermiin, L. S., Nedv\u011bd, O., Misof, B., Niehuis, O., \u015alipi\u0144ski, A., & Tomaszewska, W. (2017). Molecular phylogeny reveals food plasticity in the evolution of true ladybird beetles (Coleoptera: Coccinellidae: Coccinellini). BMC Evolutionary Biology, 17(1). https://doi.org/10.1186/s12862-017-1002-3\n",
+"decision": "INCLUDED",
+"name": "Fig. S2, BI",
+"studyID": "ot_2675",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
