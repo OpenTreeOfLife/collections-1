@@ -1924,6 +1924,14 @@
 "name": "Fig. 5A, BI (Edgerly, 2020)",
 "studyID": "ot_2670",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML (Eimanifar, 2017)",
+"studyID": "ot_2671",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
