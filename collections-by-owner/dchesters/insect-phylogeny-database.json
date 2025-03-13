@@ -1956,6 +1956,14 @@
 "name": "Fig. 1, MP (ESCALONA, 2015)",
 "studyID": "ot_2674",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S2, BI (Escalona, 2017)",
+"studyID": "ot_2675",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
