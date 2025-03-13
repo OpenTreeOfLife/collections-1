@@ -10385,6 +10385,14 @@
 "name": "Fig. 5A, BI",
 "studyID": "ot_2670",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Eimanifar, A., Kimball, R. T., Braun, E. L., Fuchs, S., Gr\u00fcnewald, B., & Ellis, J. D. (2017). The complete mitochondrial genome and phylogenetic placement of Apis nigrocincta Smith (Insecta: Hymenoptera: Apidae), an Asian, cavity-nesting honey bee. Mitochondrial DNA Part B, 2(1), 249\u2013250. https://doi.org/10.1080/23802359.2017.1318683\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2671",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
