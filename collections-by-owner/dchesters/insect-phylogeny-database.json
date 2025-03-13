@@ -1964,6 +1964,14 @@
 "name": "Fig. S2, BI (Escalona, 2017)",
 "studyID": "ot_2675",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1B, MP (Espinasa, 2007)",
+"studyID": "ot_2676",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
