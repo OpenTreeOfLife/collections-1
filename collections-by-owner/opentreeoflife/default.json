@@ -10465,6 +10465,14 @@
 "name": "Blattodea tree 6 markers revised from Legendre et al. 2015",
 "studyID": "ot_1878",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from EVANS, A. M., MCKENNA, D. D., BELLAMY, C. L., & FARRELL, B. D. (2014). Large\u2010scale molecular phylogeny of metallic wood\u2010boring beetles (<scp>C</scp>oleoptera: <scp>B</scp>uprestoidea) provides new insights into relationships and reveals multiple evolutionary origins of the larval leaf\u2010mining habit. Systematic Entomology, 40(2), 385\u2013400. Portico. https://doi.org/10.1111/syen.12108\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2678",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
