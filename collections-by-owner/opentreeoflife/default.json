@@ -10457,6 +10457,14 @@
 "name": "Fig. 4, BI",
 "studyID": "ot_2677",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dominic Evangelista, France Thouz\u00e9, Manpreet Kaur Kohli, Philippe Lopez, Fr\u00e9d\u00e9ric Legendre, 2018, 'Topological support and data quality can only be assessed through multiple tests in reviewing Blattodea phylogeny', Molecular Phylogenetics and Evolution, vol. 128, pp. 112-122",
+"decision": "INCLUDED",
+"name": "Blattodea tree 6 markers revised from Legendre et al. 2015",
+"studyID": "ot_1878",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
