@@ -10433,6 +10433,14 @@
 "name": "Fig. S2, BI",
 "studyID": "ot_2675",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Marianne Espeland, Jason P.W. Hall, Philip J. DeVries, David C. Lees, Mark Cornwall, Yu-Feng Hsu, Li-Wei Wu, Dana L. Campbell, Gerard Talavera, Roger Vila, Shayla Salzman, Sophie Ruehr, David J. Lohman, Naomi E. Pierce, 2015, 'Ancient Neotropical origin and recent recolonisation: Phylogeny, biogeography and diversification of the Riodinidae (Lepidoptera: Papilionoidea)', Molecular Phylogenetics and Evolution, vol. 93, pp. 296-306",
+"decision": "INCLUDED",
+"name": "Dated Bayesian",
+"studyID": "ot_524",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
