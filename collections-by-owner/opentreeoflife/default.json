@@ -10449,6 +10449,14 @@
 "name": "Fig. 1B, MP",
 "studyID": "ot_2676",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from EVANGELISTA, O., SAKAKIBARA, A. M., CRYAN, J. R., & URBAN, J. M. (2016). A phylogeny of the treehopper subfamily Heteronotinae reveals convergent pronotal traits (Hemiptera: Auchenorrhyncha: Membracidae). Systematic Entomology, 42(2), 410\u2013428. Portico. https://doi.org/10.1111/syen.12221\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI",
+"studyID": "ot_2677",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
