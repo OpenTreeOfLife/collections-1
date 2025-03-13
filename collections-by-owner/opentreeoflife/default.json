@@ -10393,6 +10393,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2671",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from SCHMIDT, B. C., & SPERLING, F. A. H. (2008). Widespread decoupling of mtDNA variation and species integrity in Grammia tiger moths (Lepidoptera: Noctuidae). Systematic Entomology, 33(4), 613\u2013634. Portico. https://doi.org/10.1111/j.1365-3113.2008.00433.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 6A, MP",
+"studyID": "ot_2672",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
