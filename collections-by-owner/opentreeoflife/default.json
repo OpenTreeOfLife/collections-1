@@ -10441,6 +10441,14 @@
 "name": "Dated Bayesian",
 "studyID": "ot_524",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Espinasa, L., Flick, C., & Giribet, G. (2007). Phylogeny of the American silverfish Cubacubaninae (Hexapoda: Zygentoma: Nicoletiidae): a combined approach using morphology and five molecular loci. Cladistics, 23(1), 22\u201340. Portico. https://doi.org/10.1111/j.1096-0031.2006.00127.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1B, MP",
+"studyID": "ot_2676",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
