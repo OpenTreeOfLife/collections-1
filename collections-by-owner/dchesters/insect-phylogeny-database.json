@@ -1980,6 +1980,14 @@
 "name": "Fig. 4, BI (EVANGELISTA, 2016)",
 "studyID": "ot_2677",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML (EVANS, 2014)",
+"studyID": "ot_2678",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
