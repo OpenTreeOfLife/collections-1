@@ -1948,6 +1948,14 @@
 "name": "Fig. 8, ML (Elsayed, 2023)",
 "studyID": "ot_2673",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP (ESCALONA, 2015)",
+"studyID": "ot_2674",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
