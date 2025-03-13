@@ -1932,6 +1932,14 @@
 "name": "Fig. 1, ML (Eimanifar, 2017)",
 "studyID": "ot_2671",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 6A, MP (SCHMIDT, 2008)",
+"studyID": "ot_2672",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
