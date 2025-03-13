@@ -10409,6 +10409,14 @@
 "name": "Fig. 3",
 "studyID": "pg_1946",
 "treeID": "tree3964"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Elsayed, A. K. (2023). Integrative taxonomy reveals a new gall midge genus and species (Diptera: Cecidomyiidae) developing in the flower buds of Pongamia pinnata (Fabaceae) in Japan. Zoological Journal of the Linnean Society, 202(1). https://doi.org/10.1093/zoolinnean/zlad152\n",
+"decision": "INCLUDED",
+"name": "Fig. 8, ML",
+"studyID": "ot_2673",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
