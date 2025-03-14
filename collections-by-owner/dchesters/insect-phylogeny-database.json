@@ -2004,6 +2004,14 @@
 "name": "Fig. 4, BI (Faille, 2010)",
 "studyID": "ot_2679",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML (Faircloth, 2014)",
+"studyID": "ot_2681",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
