@@ -10529,6 +10529,14 @@
 "name": "Fig. 8, BI",
 "studyID": "ot_2686",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BERTONE, M. A., COURTNEY, G. W., & WIEGMANN, B. M. (2008). Phylogenetics and temporal diversification of the earliest true flies (Insecta: Diptera) based on multiple nuclear genes. Systematic Entomology, 33(4), 668\u2013687. Portico. https://doi.org/10.1111/j.1365-3113.2008.00437.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI",
+"studyID": "ot_2687",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
