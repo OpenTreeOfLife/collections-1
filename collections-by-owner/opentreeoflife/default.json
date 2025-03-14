@@ -10489,6 +10489,14 @@
 "name": "Fig. 10, MP",
 "studyID": "ot_2680",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Faircloth, B. C., Branstetter, M. G., White, N. D., & Brady, S. G. (2014). Target enrichment of ultraconserved elements from arthropods provides a genomic perspective on relationships among <scp>H</scp>ymenoptera. Molecular Ecology Resources, 15(3), 489\u2013501. Portico. https://doi.org/10.1111/1755-0998.12328\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2681",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
