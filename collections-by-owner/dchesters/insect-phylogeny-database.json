@@ -2012,6 +2012,14 @@
 "name": "Fig. 1, ML (Faircloth, 2014)",
 "studyID": "ot_2681",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 8, ML (Fang, 2023)",
+"studyID": "ot_2682",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
