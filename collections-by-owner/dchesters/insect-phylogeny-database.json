@@ -2044,6 +2044,14 @@
 "name": "Fig. 8, BI (Ferreira, 2020)",
 "studyID": "ot_2686",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI (BERTONE, 2008)",
+"studyID": "ot_2687",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
