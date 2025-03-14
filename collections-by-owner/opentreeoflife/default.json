@@ -10481,6 +10481,14 @@
 "name": "Fig. 4, BI",
 "studyID": "ot_2679",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from ARCHANGELSKY, M. (2008). Phylogeny of Berosini (Coleoptera: Hydrophilidae, Hydrophilinae) based on larval and adult characters, and evolutionary scenarios related to habitat shift in larvae. Systematic Entomology, 33(4), 635\u2013650. Portico. https://doi.org/10.1111/j.1365-3113.2008.00425.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 10, MP",
+"studyID": "ot_2680",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
