@@ -1996,6 +1996,14 @@
 "name": "Fig. 10, MP (ARCHANGELSKY, 2008)",
 "studyID": "ot_2680",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI (Faille, 2010)",
+"studyID": "ot_2679",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
