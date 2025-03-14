@@ -10505,6 +10505,14 @@
 "name": "Fig. 8, ML",
 "studyID": "ot_2682",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Feindt, W., Osigus, H.-J., Herzog, R., Mason, C. E., & Hadrys, H. (2016). The complete mitochondrial genome of the neotropical helicopter damselflyMegaloprepus caerulatus(Odonata: Zygoptera) assembled from next generation sequencing data. Mitochondrial DNA Part B, 1(1), 497\u2013499. https://doi.org/10.1080/23802359.2016.1192504\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_2683",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
