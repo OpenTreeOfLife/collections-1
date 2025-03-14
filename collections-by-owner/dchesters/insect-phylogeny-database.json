@@ -1988,6 +1988,14 @@
 "name": "Fig. 2, ML (EVANS, 2014)",
 "studyID": "ot_2678",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 10, MP (ARCHANGELSKY, 2008)",
+"studyID": "ot_2680",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
