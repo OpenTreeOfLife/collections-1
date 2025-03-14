@@ -2020,6 +2020,14 @@
 "name": "Fig. 8, ML (Fang, 2023)",
 "studyID": "ot_2682",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP (Feindt, 2016)",
+"studyID": "ot_2683",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
