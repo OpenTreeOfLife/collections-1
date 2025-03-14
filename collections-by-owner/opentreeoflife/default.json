@@ -10513,6 +10513,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_2683",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Feindt, W., Herzog, R., Osigus, H.-J., Schierwater, B., & Hadrys, H. (2016). Short read sequencing assembly revealed the complete mitochondrial genome of Ischnura elegans Vander Linden, 1820 (Odonata: Zygoptera). Mitochondrial DNA Part B, 1(1), 574\u2013576. https://doi.org/10.1080/23802359.2016.1192510\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_2684",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
