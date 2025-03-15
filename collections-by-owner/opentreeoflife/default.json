@@ -10601,6 +10601,14 @@
 "name": "Fig. 3, BI",
 "studyID": "ot_2694",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Fu, Y.-T., Xun, Y., Peng, Y.-Y., Zhang, Y., & Wu, X. (2024). The complete mitochondrial genome of the rodent flea Nosopsyllus laeviceps: genome description, comparative analysis, and phylogenetic implications. Parasites &amp; Vectors, 17(1). https://doi.org/10.1186/s13071-024-06329-y\n",
+"decision": "INCLUDED",
+"name": "Fig. 5, ML",
+"studyID": "ot_2695",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
