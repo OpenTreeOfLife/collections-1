@@ -10569,6 +10569,14 @@
 "name": "Fig. 2, MP",
 "studyID": "ot_2691",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Forgie, S. A., Philips, T. K., & Scholtz, C. H. (2004). Evolution of the Scarabaeini (Scarabaeidae: Scarabaeinae). Systematic Entomology, 30(1), 60\u201396. Portico. https://doi.org/10.1111/j.1365-3113.2004.00273.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP",
+"studyID": "ot_2692",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
