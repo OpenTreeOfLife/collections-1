@@ -10545,6 +10545,14 @@
 "name": "Fig. 3, BI",
 "studyID": "ot_2688",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ferreira, V. S., Roza, A. S., Barbosa, F. F., Vega-Badillo, V., Zaragoza-Caballero, S., Mermudes, J. R. M., Ivie, M. A., Hansen, A. K., Brunke, A. J., Douglas, H. B., Solodovnikov, A., & Kundrata, R. (2024). Phylogenomics of Phengodidae (Coleoptera: Elateroidea): towards a natural classification of a bioluminescent and paedomorphic beetle lineage, with recognition of a new subfamily. Zoological Journal of the Linnean Society, 201(4). https://doi.org/10.1093/zoolinnean/zlae093\n",
+"decision": "INCLUDED",
+"name": "3-ML-45CPP-NT.txt",
+"studyID": "ot_2689",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
