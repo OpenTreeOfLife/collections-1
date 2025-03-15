@@ -10585,6 +10585,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_605",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from FRESNEDA, J., SALGADO, J., & RIBERA, I. (2007). Phylogeny of western Mediterranean Leptodirini, with an emphasis on genital characters (Coleoptera: Leiodidae: Cholevinae). Systematic Entomology, 32(2), 332\u2013358. Portico. https://doi.org/10.1111/j.1365-3113.2006.00366.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 15, MP",
+"studyID": "ot_2693",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
