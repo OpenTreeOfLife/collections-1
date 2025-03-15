@@ -2108,6 +2108,14 @@
 "name": "Fig. 15, MP (FRESNEDA, 2007)",
 "studyID": "ot_2693",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI (FRIC, 2007)",
+"studyID": "ot_2694",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
