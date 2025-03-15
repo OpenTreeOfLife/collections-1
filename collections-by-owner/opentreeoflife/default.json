@@ -10593,6 +10593,14 @@
 "name": "Fig. 15, MP",
 "studyID": "ot_2693",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from FRIC, Z., WAHLBERG, N., PECH, P., & ZRZAV\u00dd, J. (2007). Phylogeny and classification of the Phengaris\u2013Maculinea clade (Lepidoptera: Lycaenidae): total evidence and phylogenetic species concepts. Systematic Entomology, 32(3), 558\u2013567. Portico. https://doi.org/10.1111/j.1365-3113.2007.00387.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI",
+"studyID": "ot_2694",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
