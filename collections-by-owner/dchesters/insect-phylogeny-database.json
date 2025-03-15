@@ -2100,6 +2100,14 @@
 "name": "Fig. 1, MP (Nico M. Franz, 2006)",
 "studyID": "ot_605",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 15, MP (FRESNEDA, 2007)",
+"studyID": "ot_2693",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
