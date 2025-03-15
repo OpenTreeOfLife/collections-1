@@ -2060,6 +2060,14 @@
 "name": "Fig. 3, BI (CHENOWETH, 2008)",
 "studyID": "ot_2688",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "3-ML-45CPP-NT.txt (Ferreira, 2024)",
+"studyID": "ot_2689",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
