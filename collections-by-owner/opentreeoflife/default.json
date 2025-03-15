@@ -10561,6 +10561,14 @@
 "name": "Fig 1",
 "studyID": "pg_2325",
 "treeID": "tree4903"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Rocha Filho, L. C. D., & Packer, L. (2016). Phylogeny of the cleptoparasitic Megachilini generaCoelioxysandRadoszkowskiana, with the description of six new subgenera inCoelioxys(Hymenoptera: Megachilidae). Zoological Journal of the Linnean Society. Portico. https://doi.org/10.1111/zoj.12484\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP",
+"studyID": "ot_2691",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
