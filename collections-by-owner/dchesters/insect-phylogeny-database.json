@@ -2092,6 +2092,14 @@
 "name": "Fig. 2, MP (Forgie, 2004)",
 "studyID": "ot_2692",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP (Nico M. Franz, 2006)",
+"studyID": "ot_605",
+"treeID": "tree2"
 }
 ],
 "description": "Insect Phylogeny Database",
