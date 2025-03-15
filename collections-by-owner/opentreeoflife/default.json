@@ -10577,6 +10577,14 @@
 "name": "Fig. 2, MP",
 "studyID": "ot_2692",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Nico M. Franz, 2006, 'Towards a phylogenetic system of derelomine flower weevils (Coleoptera: Curculionidae)', Systematic Entomology, vol. 31, no. 2, pp. 220-287",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_605",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
