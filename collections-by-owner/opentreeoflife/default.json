@@ -10553,6 +10553,14 @@
 "name": "3-ML-45CPP-NT.txt",
 "studyID": "ot_2689",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Field J., Ohl M., & Kennedy M. 2011. A molecular phylogeny for digger wasps in the tribe Ammophilini (Hymenoptera, Apoidea, Sphecidae). Systematic Entomology, 36(4): 732-740.",
+"decision": "INCLUDED",
+"name": "Fig 1",
+"studyID": "pg_2325",
+"treeID": "tree4903"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
