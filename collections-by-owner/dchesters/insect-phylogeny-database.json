@@ -2076,6 +2076,14 @@
 "name": "Fig. 1A, ML (Fik\u00e1\u010dek, 2022)",
 "studyID": "ot_2690",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP (Rocha Filho, 2016)",
+"studyID": "ot_2691",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
