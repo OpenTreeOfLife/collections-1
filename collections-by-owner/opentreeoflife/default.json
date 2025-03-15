@@ -10537,6 +10537,14 @@
 "name": "Fig. 3, BI",
 "studyID": "ot_2687",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from CHENOWETH, L. B., FULLER, S., TIERNEY, S. M., PARK, Y. C., & SCHWARZ, M. P. (2008). Hasinamelissa: a new genus of allodapine bee from Madagascar revealed by larval morphology and DNA sequence data. Systematic Entomology, 33(4), 700\u2013710. Portico. https://doi.org/10.1111/j.1365-3113.2008.00432.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI",
+"studyID": "ot_2688",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
