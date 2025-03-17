@@ -2172,6 +2172,14 @@
 "name": "ml_tree_01.dated.tre (Frandsen, 2024)",
 "studyID": "ot_2701",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP (Freitas, 2004)",
+"studyID": "ot_2702",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
