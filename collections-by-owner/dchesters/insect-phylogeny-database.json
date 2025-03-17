@@ -2124,6 +2124,14 @@
 "name": "Fig. 5, ML (Fu, 2024)",
 "studyID": "ot_2695",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML (KIM, 2008)",
+"studyID": "ot_2696",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
