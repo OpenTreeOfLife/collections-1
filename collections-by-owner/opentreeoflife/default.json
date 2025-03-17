@@ -10673,6 +10673,14 @@
 "name": "Fig. 2, MP",
 "studyID": "ot_2702",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Freidberg, A. (2002). Systematics of Schistopterini (Diptera: Tephritidae: Tephritinae), with descriptions of new genera and species. Systematic Entomology, 27(1), 1\u201329. Portico. https://doi.org/10.1046/j.0307-6970.2001.00162.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 13, MP",
+"studyID": "ot_2703",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
