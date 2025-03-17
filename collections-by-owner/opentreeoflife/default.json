@@ -10665,6 +10665,14 @@
 "name": "ml_tree_01.dated.tre",
 "studyID": "ot_2701",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Freitas, A. V. L., & Brown, K. S. (2004). Phylogeny of the Nymphalidae (Lepidoptera). Systematic Biology, 53(3), 363\u2013383. https://doi.org/10.1080/10635150490445670\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP",
+"studyID": "ot_2702",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
