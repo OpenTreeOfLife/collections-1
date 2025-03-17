@@ -10689,6 +10689,14 @@
 "name": "Fig. 4a, MP",
 "studyID": "ot_2704",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Friedrich, F., & Beutel, R. G. (2010). The thoracic morphology ofNannochorista(Nannochoristidae) and its implications for the phylogeny of Mecoptera and Antliophora. Journal of Zoological Systematics and Evolutionary Research, 48(1), 50\u201374. https://doi.org/10.1111/j.1439-0469.2009.00535.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 9, MP",
+"studyID": "ot_2705",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
