@@ -2156,6 +2156,14 @@
 "name": "Fig. 73, MP (FOLEY, 2008)",
 "studyID": "ot_2698",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "50p_entire_all_loci_species_tree_lpp_support.tre (Forthman, 2022)",
+"studyID": "ot_2700",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
