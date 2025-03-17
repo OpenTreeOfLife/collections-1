@@ -2188,6 +2188,14 @@
 "name": "Fig. 13, MP (Freidberg, 2002)",
 "studyID": "ot_2703",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4a, MP (Friedlander, 1998)",
+"studyID": "ot_2704",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
