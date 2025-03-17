@@ -10609,6 +10609,14 @@
 "name": "Fig. 5, ML",
 "studyID": "ot_2695",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from KIM, H., & LEE, S. (2008). A molecular phylogeny of the tribe Aphidini (Insecta: Hemiptera: Aphididae) based on the mitochondrial tRNA/COII, 12S/16S and the nuclear EF1\u03b1 genes. Systematic Entomology, 33(4), 711\u2013721. Portico. https://doi.org/10.1111/j.1365-3113.2008.00440.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2696",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
