@@ -2140,6 +2140,14 @@
 "name": "All+taxa+and+other+genera_ML.contree_processed (Finet, 2021)",
 "studyID": "ot_2174",
 "treeID": "tree9"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 10, MP (SCHUH, 2009)",
+"studyID": "ot_2697",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
