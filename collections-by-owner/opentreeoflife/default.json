@@ -10617,6 +10617,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_2696",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Finet, C., Kassner, V. A., Carvalho, A. B., Chung, H., Day, J. P., Day, S., Delaney, E. K., De R\u00e9, F. C., Dufour, H. D., Dupim, E., Izumitani, H. F., Gaut\u00e9rio, T. B., Justen, J., Katoh, T., Kopp, A., Koshikawa, S., Longdon, B., Loreto, E. L., Nunes, M. D. S., \u2026 Marl\u00e9taz, F. (2021). DrosoPhyla: Resources for Drosophilid Phylogeny and Systematics. Genome Biology and Evolution, 13(8). https://doi.org/10.1093/gbe/evab179\n",
+"decision": "INCLUDED",
+"name": "All+taxa+and+other+genera_ML.contree_processed",
+"studyID": "ot_2174",
+"treeID": "tree9"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
