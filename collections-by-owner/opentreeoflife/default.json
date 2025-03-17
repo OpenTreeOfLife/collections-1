@@ -10641,6 +10641,14 @@
 "name": "Untitled (tree566)",
 "studyID": "pg_445",
 "treeID": "tree566"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from FOLEY, I. A., & IVIE, M. A. (2008). A phylogenetic analysis of the tribe Zopherini with a review ofthe species and generic classification (Coleoptera: Zopheridae). Zootaxa, 1928(1). https://doi.org/10.11646/zootaxa.1928.1.1\n",
+"decision": "INCLUDED",
+"name": "Fig. 73, MP",
+"studyID": "ot_2698",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
