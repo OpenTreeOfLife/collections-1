@@ -10769,6 +10769,14 @@
 "name": "Fig. 2, MP",
 "studyID": "ot_2714",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from GAULD, I. D., WAHL, D. B., & BROAD, G. R. (2002). The suprageneric groups of the Pimplinae (Hymenoptera: Ichneumonidae): a cladistic re-evaluation and evolutionary biological study. Zoological Journal of the Linnean Society, 136(3), 421\u2013485. https://doi.org/10.1046/j.1096-3642.2002.00031.x\n",
+"decision": "INCLUDED",
+"name": "Figs. 1-13, MP",
+"studyID": "ot_2715",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
