@@ -2212,6 +2212,14 @@
 "name": "Fig. 7, MP (Friedrich, 2013)",
 "studyID": "ot_2706",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI (Froufe, 2013)",
+"studyID": "ot_2707",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
