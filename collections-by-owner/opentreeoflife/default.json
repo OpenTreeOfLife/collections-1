@@ -10713,6 +10713,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2707",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gaimari, S. D., & Tanasijtshuk, V. N. (2001). A new leucopine genus (Diptera: Chamaemyiidae) with species attacking Ceroplastes wax scales (Hemiptera: Coccidae) in South America. Systematic Entomology, 26(3), 311\u2013328. Portico. https://doi.org/10.1046/j.1365-3113.2001.00156.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 12, MP",
+"studyID": "ot_2708",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
