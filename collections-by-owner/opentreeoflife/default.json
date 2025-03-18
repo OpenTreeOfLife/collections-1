@@ -10785,6 +10785,14 @@
 "name": "Fig. 14, MP",
 "studyID": "ot_2716",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from PRICE, D. L. (2009). Phylogeny and biogeography of the dung beetle genus Phanaeus (Coleoptera: Scarabaeidae). Systematic Entomology, 34(1), 137\u2013150. Portico. https://doi.org/10.1111/j.1365-3113.2008.00443.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI",
+"studyID": "ot_2717",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
