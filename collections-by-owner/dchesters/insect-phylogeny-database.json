@@ -2268,6 +2268,14 @@
 "name": "Fig. 1, BI (Gaugel, 2023)",
 "studyID": "ot_2713",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP (Gauld, 2006)",
+"studyID": "ot_2714",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
