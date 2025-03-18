@@ -10721,6 +10721,14 @@
 "name": "Fig. 12, MP",
 "studyID": "ot_2708",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Galinskaya, T. V., Astakhov, D. M., Propistsova, E. A., & Gorin, V. A. (2020). Phylogenetic Reconstruction of the Subfamilies Asilinae and Stichopogoninae (Diptera, Asilidae) Based on the Mitochondrial Genes 16S and 12S rDNA and Nuclear 18S rDNA. Russian Journal of Genetics, 56(8), 952\u2013971. https://doi.org/10.1134/s1022795420080049\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI",
+"studyID": "ot_2709",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
