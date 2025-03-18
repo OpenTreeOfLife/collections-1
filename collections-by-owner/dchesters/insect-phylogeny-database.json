@@ -2220,6 +2220,14 @@
 "name": "Fig. 2, BI (Froufe, 2013)",
 "studyID": "ot_2707",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 12, MP (Gaimari, 2001)",
+"studyID": "ot_2708",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
