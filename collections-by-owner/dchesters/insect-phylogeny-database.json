@@ -2244,6 +2244,14 @@
 "name": "Fig. 5 left, ML (Gao, 2018)",
 "studyID": "ot_2710",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML (Gao, 2022)",
+"studyID": "ot_2711",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
