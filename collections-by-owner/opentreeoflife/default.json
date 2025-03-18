@@ -10745,6 +10745,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_2711",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Garz\u00f3n-Ordu\u00f1a, I. J., Menchaca-Armenta, I., Contreras-Ramos, A., Liu, X., & Winterton, S. L. (2016). The phylogeny of brown lacewings (Neuroptera: Hemerobiidae) reveals multiple reductions in wing venation. BMC Evolutionary Biology, 16(1). https://doi.org/10.1186/s12862-016-0746-5\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI",
+"studyID": "ot_2712",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
