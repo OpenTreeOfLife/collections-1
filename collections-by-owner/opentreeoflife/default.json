@@ -10729,6 +10729,14 @@
 "name": "Fig. 4, BI",
 "studyID": "ot_2709",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gao, X.-Y., Cai, Y.-Y., Yu, D.-N., Storey, K. B., & Zhang, J.-Y. (2018). Characteristics of the complete mitochondrial genome ofSuhpalacsa longialata(Neuroptera, Ascalaphidae) and its phylogenetic implications. PeerJ, 6, e5914. Portico. https://doi.org/10.7717/peerj.5914\n",
+"decision": "INCLUDED",
+"name": "Fig. 5 left, ML",
+"studyID": "ot_2710",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
