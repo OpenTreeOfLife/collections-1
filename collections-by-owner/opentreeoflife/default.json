@@ -10737,6 +10737,14 @@
 "name": "Fig. 5 left, ML",
 "studyID": "ot_2710",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gao, Y., Ge, Y., Yan, L., Vikhrev, N. E., Wang, Q., Butterworth, N. J., & Zhang, D. (2022). Phylogenetic Analyses Support the Monophyly of the Genus Lispe Latreille (Diptera: Muscidae) with Insights into Intrageneric Relationships. Insects, 13(11), 1015. https://doi.org/10.3390/insects13111015\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2711",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
