@@ -10705,6 +10705,14 @@
 "name": "Fig. 7, MP",
 "studyID": "ot_2706",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Froufe, E., Ferreira, S., Boudot, J.-P., Alves, P. C., & Harris, D. J. (2013). Molecular phylogeny of the Western PalaearcticCordulegastertaxa (Odonata: Anisoptera: Cordulegastridae). Biological Journal of the Linnean Society, 111(1), 49\u201357. https://doi.org/10.1111/bij.12190\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2707",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
