@@ -10697,6 +10697,14 @@
 "name": "Fig. 9, MP",
 "studyID": "ot_2705",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Friedrich, F., Pohl, H., Beckmann, F., & Beutel, R. G. (2013). The head of Merope tuber (Meropeidae) and the phylogeny of Mecoptera (Hexapoda). Arthropod Structure &amp; Development, 42(1), 69\u201388. https://doi.org/10.1016/j.asd.2012.09.006\n",
+"decision": "INCLUDED",
+"name": "Fig. 7, MP",
+"studyID": "ot_2706",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
