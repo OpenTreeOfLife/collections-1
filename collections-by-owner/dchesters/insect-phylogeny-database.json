@@ -2260,6 +2260,14 @@
 "name": "Fig. 3, BI (Garz\u00f3n-Ordu\u00f1a, 2016)",
 "studyID": "ot_2712",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (Gaugel, 2023)",
+"studyID": "ot_2713",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
