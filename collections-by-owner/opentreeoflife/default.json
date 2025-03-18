@@ -10777,6 +10777,14 @@
 "name": "Figs. 1-13, MP",
 "studyID": "ot_2715",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from GREBENNIKOV, V. V. (2009). Discheramocephalini, a new pantropical tribe of featherwing beetles (Coleoptera: Ptiliidae): description of new taxa and phylogenetic analysis. Systematic Entomology, 34(1), 113\u2013136. Portico. https://doi.org/10.1111/j.1365-3113.2008.00444.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 14, MP",
+"studyID": "ot_2716",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
