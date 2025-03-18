@@ -2292,6 +2292,14 @@
 "name": "Fig. 14, MP (GREBENNIKOV, 2009)",
 "studyID": "ot_2716",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI (PRICE, 2009)",
+"studyID": "ot_2717",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
