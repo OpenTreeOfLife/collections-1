@@ -2380,6 +2380,14 @@
 "name": "Fig. 3, BI (Gibson, 2010)",
 "studyID": "ot_2727",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 8, MP (GIL-AZEVEDO, 2007)",
+"studyID": "ot_2728",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
