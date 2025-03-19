@@ -10825,6 +10825,14 @@
 "name": "Fig. 5, BI",
 "studyID": "ot_2721",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Geraci C (2007) Phylogeny and classification of Hydropsychidae subfamilies and genera of the World (Insecta: Trichoptera). All Dissertations, 160.\n",
+"decision": "INCLUDED",
+"name": "Fig. 1.3,  MP",
+"studyID": "ot_2722",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
