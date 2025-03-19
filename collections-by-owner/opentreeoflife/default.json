@@ -10865,6 +10865,14 @@
 "name": "Fig. 85, MP",
 "studyID": "ot_2726",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gibson, J. F., Skevington, J. H., & Kelso, S. (2010). Placement of Conopidae (Diptera) within Schizophora based on mtDNA and nrDNA gene regions. Molecular Phylogenetics and Evolution, 56(1), 91\u2013103. https://doi.org/10.1016/j.ympev.2010.03.026\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI",
+"studyID": "ot_2727",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
