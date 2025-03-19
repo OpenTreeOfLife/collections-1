@@ -2388,6 +2388,14 @@
 "name": "Fig. 8, MP (GIL-AZEVEDO, 2007)",
 "studyID": "ot_2728",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI (Gillespie, 2008)",
+"studyID": "ot_2729",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
