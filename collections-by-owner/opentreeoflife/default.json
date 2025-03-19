@@ -10857,6 +10857,14 @@
 "name": "Fig. S1, BI",
 "studyID": "ot_2725",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from GIBSON, J. F., & COURTNEY, G. W. (2007). Revision of the net\u2010winged midge genus Horaia Tonnoir and its phylogenetic relationship to other genera within the tribe Apistomyiini (Diptera: Blephariceridae). Systematic Entomology, 32(2), 276\u2013304. Portico. https://doi.org/10.1111/j.1365-3113.2006.00360.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 85, MP",
+"studyID": "ot_2726",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
