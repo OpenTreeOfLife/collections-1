@@ -10833,6 +10833,14 @@
 "name": "Fig. 1.3,  MP",
 "studyID": "ot_2722",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Germann, C., Wimmer, C., & Bernasconi, M. V. (2011). Molecular data sheds light on the classification of long-legged flies (Diptera:Dolichopodidae). Invertebrate Systematics, 25(4), 303. https://doi.org/10.1071/is11029\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2723",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
