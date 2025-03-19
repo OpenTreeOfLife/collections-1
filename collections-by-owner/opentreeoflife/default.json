@@ -10809,6 +10809,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_2719",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ge, X., Zang, H., Ye, X., Peng, L., Wang, B., Lian, G., & Sun, C. (2022). Comparative Mitogenomic Analyses of Hydropsychidae Revealing the Novel Rearrangement of Protein-Coding Gene and tRNA (Trichoptera: Annulipalpia). Insects, 13(9), 759. https://doi.org/10.3390/insects13090759\n",
+"decision": "INCLUDED",
+"name": "Fig. 5b, BI",
+"studyID": "ot_2720",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
