@@ -10817,6 +10817,14 @@
 "name": "Fig. 5b, BI",
 "studyID": "ot_2720",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ge, X., Peng, L., Vogler, A. P., Morse, J. C., Yang, L., Sun, C., & Wang, B. (2022). Massive gene rearrangements of mitochondrial genomes and implications for the phylogeny of Trichoptera (Insecta). Systematic Entomology, 48(2), 278\u2013295. Portico. https://doi.org/10.1111/syen.12575\n",
+"decision": "INCLUDED",
+"name": "Fig. 5, BI",
+"studyID": "ot_2721",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
