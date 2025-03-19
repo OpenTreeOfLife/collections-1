@@ -10873,6 +10873,14 @@
 "name": "Fig. 3, BI",
 "studyID": "ot_2727",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gillespie, J. J., Tallamy, D. W., Riley, E. G., & Cognato, A. I. (2008). Molecular phylogeny of rootworms and related galerucine beetles (Coleoptera: Chrysomelidae). Zoologica Scripta, 37(2), 195\u2013222. Portico. https://doi.org/10.1111/j.1463-6409.2007.00320.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2729",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
