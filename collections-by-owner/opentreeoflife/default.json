@@ -10841,6 +10841,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_2723",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ghanavi, H. R., Twort, V., Hartman, T. J., Zahiri, R., & Wahlberg, N. (2022). The (non) accuracy of mitochondrial genomes for family\u2010level phylogenetics in Erebidae (Lepidoptera). Zoologica Scripta, 51(6), 695\u2013707. Portico. https://doi.org/10.1111/zsc.12559\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2724",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
