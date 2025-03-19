@@ -10793,6 +10793,14 @@
 "name": "Fig. 4, BI",
 "studyID": "ot_2717",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from GE, S., BEUTEL, R. G., & YANG, X. (2007). Thoracic morphology of adults of Derodontidae and Nosodendridae and its phylogenetic implications (Coleoptera). Systematic Entomology, 32(4), 635\u2013667. Portico. https://doi.org/10.1111/j.1365-3113.2007.00392.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 28, MP",
+"studyID": "ot_2718",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
