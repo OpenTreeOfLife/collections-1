@@ -2340,6 +2340,14 @@
 "name": "Fig. 1.3,  MP (Geraci C (, 2007)",
 "studyID": "ot_2722",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML (Germann, 2011)",
+"studyID": "ot_2723",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
