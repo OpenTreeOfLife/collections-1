@@ -2356,6 +2356,14 @@
 "name": "Fig. 1, ML (Ghanavi, 2022)",
 "studyID": "ot_2724",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S1, BI (Gibbs, 2012)",
+"studyID": "ot_2725",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
