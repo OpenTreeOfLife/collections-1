@@ -10849,6 +10849,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2724",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gibbs, J., Brady, S. G., Kanda, K., & Danforth, B. N. (2012). Phylogeny of halictine bees supports a shared origin of eusociality for Halictus and Lasioglossum (Apoidea: Anthophila: Halictidae). Molecular Phylogenetics and Evolution, 65(3), 926\u2013939. https://doi.org/10.1016/j.ympev.2012.08.013\n",
+"decision": "INCLUDED",
+"name": "Fig. S1, BI",
+"studyID": "ot_2725",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
