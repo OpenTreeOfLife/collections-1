@@ -2372,6 +2372,14 @@
 "name": "Fig. 85, MP (GIBSON, 2007)",
 "studyID": "ot_2726",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI (Gibson, 2010)",
+"studyID": "ot_2727",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
