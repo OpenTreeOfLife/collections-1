@@ -10881,6 +10881,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2729",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gimeno, C., Belshaw, R., & Quicke, D. L. J. (1997). Phylogenetic relationships of the Alysiinae/Opiinae (Hymenoptera: Braconidae) and the utility of cytochrome\u00a0b, 16S and 28S D2 rRNA. Insect Molecular Biology, 6(3), 273\u2013284. Portico. https://doi.org/10.1046/j.1365-2583.1997.00181.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 4",
+"studyID": "ot_2730",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
