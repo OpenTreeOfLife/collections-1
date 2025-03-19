@@ -2316,6 +2316,14 @@
 "name": "Fig. 2, ML (Ge, 2012)",
 "studyID": "ot_2719",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 5b, BI (Ge, 2022)",
+"studyID": "ot_2720",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
