@@ -10801,6 +10801,14 @@
 "name": "Fig. 28, MP",
 "studyID": "ot_2718",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ge, D., G\u00f3mez-Zurita, J., Chesters, D., Yang, X., & Vogler, A. P. (2012). Suprageneric systematics of flea beetles (Chrysomelidae: Alticinae) inferred from multilocus sequence data. Molecular Phylogenetics and Evolution, 62(3), 793\u2013805. https://doi.org/10.1016/j.ympev.2011.11.028\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2719",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
