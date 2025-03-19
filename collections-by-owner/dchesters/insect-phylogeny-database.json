@@ -2308,6 +2308,14 @@
 "name": "Fig. 28, MP (GE, 2007)",
 "studyID": "ot_2718",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML (Ge, 2012)",
+"studyID": "ot_2719",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
