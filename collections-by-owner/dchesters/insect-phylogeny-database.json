@@ -2484,6 +2484,14 @@
 "name": "Fig. 47, MP (Gonz\u00e1lez-Obando, 2018)",
 "studyID": "ot_2741",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (HOCHKIRCH, 2009)",
+"studyID": "ot_2742",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
