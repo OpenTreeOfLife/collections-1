@@ -2468,6 +2468,14 @@
 "name": "Fig. 1, MP (G\u00f3mez-Zurita, 2007)",
 "studyID": "ot_2739",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 124, MP (GONZ\u00c1LEZ, 2006)",
+"studyID": "ot_2740",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
