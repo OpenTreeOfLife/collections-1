@@ -10937,6 +10937,14 @@
 "name": "Fig. S6, ML",
 "studyID": "ot_2736",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from G\u00f3mez-Zurita, J., Jolivet, P., & Vogler, A. P. (2005). Molecular systematics of Eumolpinae and the relationships with Spilopyrinae (Coleoptera, Chrysomelidae). Molecular Phylogenetics and Evolution, 34(3), 584\u2013600. https://doi.org/10.1016/j.ympev.2004.11.022\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, MP",
+"studyID": "ot_2738",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
