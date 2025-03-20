@@ -10969,6 +10969,14 @@
 "name": "Untitled (tree6128)",
 "studyID": "pg_2617",
 "treeID": "tree6128"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gonz\u00e1lez-Obando, R., Garc\u00eda Aldrete, A. N., Carrejo-Gironza, N., & Mendivil, J. (2018). A new genus of Ptiloneuridae, its position within the family, and descriptions of five species (Psocodea, \u2018Psocoptera\u2019). ZooKeys, 780, 11\u201334. https://doi.org/10.3897/zookeys.780.26753\n",
+"decision": "INCLUDED",
+"name": "Fig. 47, MP",
+"studyID": "ot_2741",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
