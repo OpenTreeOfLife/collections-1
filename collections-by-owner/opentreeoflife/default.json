@@ -10977,6 +10977,14 @@
 "name": "Fig. 47, MP",
 "studyID": "ot_2741",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from HOCHKIRCH, A., & G\u00d6RZIG, Y. (2009). Colonization and speciation on volcanic islands: phylogeography of the flightless grasshopper genus Arminda (Orthoptera, Acrididae) on the Canary Islands. Systematic Entomology, 34(1), 188\u2013197. Portico. https://doi.org/10.1111/j.1365-3113.2008.00449.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2742",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
