@@ -10905,6 +10905,14 @@
 "name": "Fig. 2, MP",
 "studyID": "ot_2732",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gimmel, M. L., Bocakova, M., Gunter, N. L., & Leschen, R. A. B. (2019). Comprehensive phylogeny of the Cleroidea (Coleoptera: Cucujiformia). Systematic Entomology, 44(3), 527\u2013558. Portico. https://doi.org/10.1111/syen.12338\n",
+"decision": "INCLUDED",
+"name": "Fig. S1, ML",
+"studyID": "ot_2733",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
