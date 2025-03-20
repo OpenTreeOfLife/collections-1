@@ -10929,6 +10929,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2735",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from G\u00f3mez\u2010Zurita, J., & Cardoso, A. (2021). Molecular systematics, higher\u2010rank classification and Gondwanan origins of Cryptocephalinae leaf beetles. Zoologica Scripta, 50(5), 592\u2013615. Portico. https://doi.org/10.1111/zsc.12501\n",
+"decision": "INCLUDED",
+"name": "Fig. S6, ML",
+"studyID": "ot_2736",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
