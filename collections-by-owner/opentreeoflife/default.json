@@ -10913,6 +10913,14 @@
 "name": "Fig. S1, ML",
 "studyID": "ot_2733",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Godeiro, N. N., Ding, Y., Cipola, N. G., Jantarit, S., Bellini, B. C., & Zhang, F. (2022). Phylogenomics and systematics of Entomobryoidea (Collembola): marker design, phylogeny and classification. Cladistics, 39(2), 101\u2013115. Portico. https://doi.org/10.1111/cla.12521\n",
+"decision": "INCLUDED",
+"name": "USCO_matrix90_abs75_bpcomp.con.tre",
+"studyID": "ot_2734",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
