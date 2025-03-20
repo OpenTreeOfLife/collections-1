@@ -10921,6 +10921,14 @@
 "name": "USCO_matrix90_abs75_bpcomp.con.tre",
 "studyID": "ot_2734",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gomes, L. R. P., Souza, D. de S., & de Carvalho, C. J. B. (2021). First insights into the evolution of neotropical anthomyiid flies (Diptera: Anthomyiidae). Systematics and Biodiversity, 19(7), 724\u2013737. https://doi.org/10.1080/14772000.2021.1914765\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2735",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
