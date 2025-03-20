@@ -10945,6 +10945,14 @@
 "name": "Fig. 4, MP",
 "studyID": "ot_2738",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from G\u00f3mez-Zurita, J., Hunt, T., Kopliku, F., & Vogler, A. P. (2007). Recalibrated Tree of Leaf Beetles (Chrysomelidae) Indicates Independent Diversification of Angiosperms and Their Insect Herbivores. PLoS ONE, 2(4), e360. https://doi.org/10.1371/journal.pone.0000360\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_2739",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
