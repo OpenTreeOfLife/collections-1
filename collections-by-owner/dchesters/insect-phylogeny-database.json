@@ -2452,6 +2452,14 @@
 "name": "Fig. 2, ML (G\u00f3mez-Zurita, 2022)",
 "studyID": "ot_2737",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4, MP (G\u00f3mez-Zurita, 2005)",
+"studyID": "ot_2738",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
