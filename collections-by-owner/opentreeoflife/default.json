@@ -10961,6 +10961,14 @@
 "name": "Fig. 124, MP",
 "studyID": "ot_2740",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gonzalez V.H., & Griswold T.L. 2013. Wool carder bees of the genus Anthidium in the Western Hemisphere (Hymenoptera: Megachilidae): diversity, host plant associations, phylogeny, and biogeography. Zoological Journal of the Linnean Society, .",
+"decision": "INCLUDED",
+"name": "Untitled (tree6128)",
+"studyID": "pg_2617",
+"treeID": "tree6128"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
