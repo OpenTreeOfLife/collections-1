@@ -10953,6 +10953,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_2739",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from GONZ\u00c1LEZ, J. A. C. (2006). Phylogenetic relationships of the genera of Epipsocetae (Psocoptera: Psocomorpha). Zootaxa, 1194(1). https://doi.org/10.11646/zootaxa.1194.1.1\n",
+"decision": "INCLUDED",
+"name": "Fig. 124, MP",
+"studyID": "ot_2740",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
