@@ -10897,6 +10897,14 @@
 "name": "mtz_UPhO_BMGE.phylip.iqtree",
 "studyID": "ot_2731",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from PEREYRA, V., & MOUND, L. A. (2009). Phylogenetic relationships within the genus Cranothrips (Thysanoptera, Melanthripidae) with consideration of host associations and disjunct distributions within the family. Systematic Entomology, 34(1), 151\u2013161. Portico. https://doi.org/10.1111/j.1365-3113.2008.00445.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP",
+"studyID": "ot_2732",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
