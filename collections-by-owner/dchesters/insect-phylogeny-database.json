@@ -2404,6 +2404,14 @@
 "name": "Fig. 4 (Gimeno, 1997)",
 "studyID": "ot_2730",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP (PEREYRA, 2009)",
+"studyID": "ot_2732",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
