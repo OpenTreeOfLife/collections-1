@@ -2420,6 +2420,14 @@
 "name": "Fig. S1, ML (Gimmel, 2019)",
 "studyID": "ot_2733",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "USCO_matrix90_abs75_bpcomp.con.tre (Godeiro, 2022)",
+"studyID": "ot_2734",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
