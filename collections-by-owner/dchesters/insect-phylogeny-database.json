@@ -2412,6 +2412,14 @@
 "name": "Fig. 2, MP (PEREYRA, 2009)",
 "studyID": "ot_2732",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S1, ML (Gimmel, 2019)",
+"studyID": "ot_2733",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
