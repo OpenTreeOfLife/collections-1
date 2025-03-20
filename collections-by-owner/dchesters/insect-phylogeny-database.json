@@ -2436,6 +2436,14 @@
 "name": "Fig. 1, BI (Gomes, 2021)",
 "studyID": "ot_2735",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S6, ML (G\u00f3mez\u2010Zurita, 2021)",
+"studyID": "ot_2736",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
