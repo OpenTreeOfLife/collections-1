@@ -2428,6 +2428,14 @@
 "name": "USCO_matrix90_abs75_bpcomp.con.tre (Godeiro, 2022)",
 "studyID": "ot_2734",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (Gomes, 2021)",
+"studyID": "ot_2735",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
