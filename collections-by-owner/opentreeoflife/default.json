@@ -10985,6 +10985,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2742",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Goodman, K. R., & O\u2019Grady, P. (2013). Molecular Phylogeny and Biogeography of the Hawaiian Craneflies Dicranomyia (Diptera: Limoniidae). PLoS ONE, 8(9), e73019. https://doi.org/10.1371/journal.pone.0073019\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2743",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
