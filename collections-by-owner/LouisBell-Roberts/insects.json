@@ -1349,6 +1349,20 @@
 "ot:studyYear": 2016,
 "studyID": "ot_1144",
 "treeID": "Tr95422"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Simon, 2009",
+"decision": "INCLUDED",
+"defaultSortOrder": 96,
+"name": "Fig. 2 ML+Bayesian topology (Simon, 2009)",
+"ot:focalCladeOTTTaxonName": "Pterygota",
+"ot:studyPublication": "http://dx.doi.org/10.1093/molbev/msp191",
+"ot:studyPublicationReference": "Simon, S., Strauss S., Von haeseler A., & Hadrys H. 2009. A phylogenomic approach to resolve the basal pterygote divergence. Molecular Biology and Evolution 26 (12): 2719-2730.",
+"ot:studyYear": 2009,
+"studyID": "pg_1338",
+"treeID": "tree2666"
 }
 ],
 "description": "Tree of all insects",
