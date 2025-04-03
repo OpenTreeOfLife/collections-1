@@ -1363,6 +1363,19 @@
 "ot:studyYear": 2009,
 "studyID": "pg_1338",
 "treeID": "tree2666"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "HODGSON, 2013",
+"decision": "INCLUDED",
+"defaultSortOrder": 97,
+"name": "con 50 majrule (HODGSON, 2013)",
+"ot:studyPublication": "https://doi.org/10.1111/syen.12030",
+"ot:studyPublicationReference": "HODGSON, C. J., & HARDY, N. B. (2013). The phylogeny of the superfamily <scp>C</scp>occoidea (<scp>H</scp>emiptera: <scp>S</scp>ternorrhyncha) based on the morphology of extant and extinct macropterous males. Systematic Entomology, 38(4), 794\u2013804. Portico. https://doi.org/10.1111/syen.12030\n",
+"ot:studyYear": 2013,
+"studyID": "ot_2744",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
