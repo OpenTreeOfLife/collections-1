@@ -10993,6 +10993,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2743",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Stern, D. B., Breinholt, J., Pedraza\u2010Lara, C., L\u00f3pez\u2010Mej\u00eda, M., Owen, C. L., Bracken\u2010Grissom, H., Fetzner, J. W., & Crandall, K. A. (2017). Phylogenetic evidence from freshwater crayfishes that cave adaptation is not an evolutionary dead\u2010end. Evolution, 71(10), 2522\u20132532. Portico. https://doi.org/10.1111/evo.13326\n",
+"decision": "INCLUDED",
+"name": "Astacidea",
+"studyID": "ot_2745",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
