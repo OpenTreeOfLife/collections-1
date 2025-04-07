@@ -1,0 +1,28 @@
+{
+"contributors": [],
+"creator": {
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Astacidea (Stern, 2017)",
+"studyID": "ot_2745",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Decapoda: Parastacidae",
+"decision": "INCLUDED",
+"name": "Australian Crayfish (Gan, 2018)",
+"studyID": "ot_2753",
+"treeID": "tree1"
+}
+],
+"description": "",
+"name": "Updated Crayfish",
+"queries": []
+}
