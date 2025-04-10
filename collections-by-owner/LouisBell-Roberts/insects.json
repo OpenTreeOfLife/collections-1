@@ -1376,6 +1376,19 @@
 "ot:studyYear": 2013,
 "studyID": "ot_2744",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Ross, 2012",
+"decision": "INCLUDED",
+"defaultSortOrder": 98,
+"name": "Fig. 1 (Ross, 2013)",
+"ot:studyPublication": "https://doi.org/10.1111/j.1558-5646.2012.01784.x",
+"ot:studyPublicationReference": "Ross, L., Hardy, N. B., Okusu, A., & Normark, B. B. (2012). LARGE POPULATION SIZE PREDICTS THE DISTRIBUTION OF ASEXUALITY IN SCALE INSECTS. Evolution, 67(1), 196\u2013206. https://doi.org/10.1111/j.1558-5646.2012.01784.x\n",
+"ot:studyYear": 2013,
+"studyID": "ot_2754",
+"treeID": "tree1"
 }
 ],
 "description": "Tree of all insects",
