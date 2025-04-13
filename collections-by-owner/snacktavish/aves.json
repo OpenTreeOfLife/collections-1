@@ -894,6 +894,14 @@
 {
 "SHA": "",
 "comments": "",
+"decision": "INCLUDED",
+"name": "all_50%majority_rule_consensus.tre (Martins, 2020)",
+"studyID": "ot_2757",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
 "compactRefText": "Harvey, 2020",
 "decision": "INCLUDED",
 "defaultSortOrder": 58,
