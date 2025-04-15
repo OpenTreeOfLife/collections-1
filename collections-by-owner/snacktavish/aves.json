@@ -150,6 +150,14 @@
 "SHA": "",
 "comments": "",
 "decision": "INCLUDED",
+"name": "hirundinidae-all-rev1-95-prune.tree (Schield, 2024)",
+"studyID": "ot_2750",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
 "name": "6879_introns_ML_iqtree_concatenated_fasta.tree (Jiang, 2024)",
 "studyID": "ot_2749",
 "treeID": "tree1"
