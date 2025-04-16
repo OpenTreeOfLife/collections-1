@@ -4471,6 +4471,47 @@
 "ot:studyYear": 2017,
 "studyID": "ot_1195",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Andersen, 2017",
+"decision": "INCLUDED",
+"defaultSortOrder": 318,
+"name": "Fig. 3 (Bayesian chronogram) (Andersen, 2017)",
+"ot:focalCladeOTTTaxonName": "Alcedinidae",
+"ot:studyPublication": "http://dx.doi.org/10.1111/jbi.13139",
+"ot:studyPublicationReference": "Andersen, Michael J., Jenna M. McCullough, William M. Mauck, Brian Tilston Smith, Robert G. Moyle. 2017. A phylogeny of kingfishers reveals an Indomalayan origin and elevated rates of diversification on oceanic islands. Journal of Biogeography",
+"ot:studyYear": 2017,
+"studyID": "ot_1214",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Uva, 2018",
+"decision": "INCLUDED",
+"defaultSortOrder": 319,
+"name": "Fig. 2 (BEAST chronogram) (Uva, 2018)",
+"ot:focalCladeOTTTaxonName": "Tytonidae",
+"ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2018.03.013",
+"ot:studyPublicationReference": "Uva, Vera , Martin P\u00e4ckert, Alice Cibois, Luca Fumagalli, Alexandre Roulin. 2018. Comprehensive molecular phylogeny of barn owls and relatives (Family: Tytonidae), and their six major Pleistocene radiations. Molecular Phylogenetics and Evolution 125: 127-137.",
+"ot:studyYear": 2018,
+"studyID": "ot_1251",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Luke B. Klicka, 2015",
+"decision": "INCLUDED",
+"defaultSortOrder": 320,
+"name": "Fig 3. MCC tree (Luke B. Klicka, 2015)",
+"ot:studyPublication": "http://dx.doi.org/10.1007/s10592-015-0796-z",
+"ot:studyPublicationReference": "Luke B. Klicka, Barbara E. Kus, Pascal O. Title, Kevin J. Burns, 2015, 'Conservation genomics reveals multiple evolutionary units within Bell\u2019s Vireo (Vireo bellii)', Conservation Genetics, vol. 17, no. 2, pp. 455-471",
+"ot:studyYear": 2015,
+"studyID": "ot_1257",
+"treeID": "tree2"
 }
 ],
 "description": "tree collection for Aves synthesis",
