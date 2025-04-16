@@ -11001,6 +11001,14 @@
 "name": "Astacidea",
 "studyID": "ot_2745",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ghanavi, H. R., Rahimi, P., Tavana, M., Rezaei Tavabe, K., Jouladeh-Roudbar, A., & Doadrio, I. (2023). The evolutionary journey of freshwater crabs of the genus Potamon (Decapoda: Brachyura: Potamidae). Molecular Phylogenetics and Evolution, 180, 107690. https://doi.org/10.1016/j.ympev.2022.107690\n",
+"decision": "INCLUDED",
+"name": "Potamon",
+"studyID": "ot_2766",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
