@@ -150,6 +150,14 @@
 "SHA": "",
 "comments": "",
 "decision": "INCLUDED",
+"name": "Fig 3 topology 7 (Rancilhac, 2024)",
+"studyID": "ot_2761",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
 "name": "Islametal_snowfinchesOT_20missing_50Mio3runscombined_TREE (Islam, 2024)",
 "studyID": "ot_2751",
 "treeID": "tree1"
