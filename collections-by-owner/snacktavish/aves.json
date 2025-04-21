@@ -4485,6 +4485,47 @@
 "ot:studyYear": 2015,
 "studyID": "ot_1257",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Martin Stervander, 2019",
+"decision": "INCLUDED",
+"defaultSortOrder": 319,
+"name": "TREE1 (Martin Stervander, 2019)",
+"ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2018.10.007",
+"ot:studyPublicationReference": "Martin Stervander, Peter G. Ryan, Martim Melo, Bengt Hansson, 2019, 'The origin of the world\u2019s smallest flightless bird, the Inaccessible Island Rail Atlantisia rogersi (Aves: Rallidae)', Molecular Phylogenetics and Evolution, vol. 130, pp. 92-98",
+"ot:studyYear": 2019,
+"studyID": "ot_1844",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Provost, 2018",
+"decision": "INCLUDED",
+"defaultSortOrder": 320,
+"name": "Psittaciformes (tree1) (Provost, 2018)",
+"ot:focalCladeOTTTaxonName": "Psittaciformes",
+"ot:studyPublication": "http://dx.doi.org/10.1080/01584197.2017.1387030",
+"ot:studyPublicationReference": "Provost, K. L., Joseph, L., & Smith, B. T. (2018). Resolving a phylogenetic hypothesis for parrots: implications from systematics to conservation. Emu - Austral Ornithology, 118(1), 7\u201321. doi:10.1080/01584197.2017.1387030\n",
+"ot:studyYear": 2018,
+"studyID": "ot_1968",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Jarvis, 2014",
+"decision": "INCLUDED",
+"defaultSortOrder": 321,
+"name": "Fig.1 (dated TENT) (Jarvis, 2014)",
+"ot:focalCladeOTTTaxonName": "Aves",
+"ot:studyPublication": "http://dx.doi.org/10.1126/science.1253451",
+"ot:studyPublicationReference": "Jarvis, E. D., S. Mirarab, A. J. Aberer, B. Li, P. Houde, C. Li, S. Y. W. Ho, B. C. Faircloth, B. Nabholz, J. T. Howard, A. Suh, C. C. Weber, R. R. da Fonseca, J. Li, F. Zhang, H. Li, L. Zhou, N. Narula, L. Liu, G. Ganapathy, B. Boussau, M. S. Bayzid, V. Zavidovych, S. Subramanian, T. Gabaldon, S. Capella-Gutierrez, J. Huerta-Cepas, B. Rekepalli, K. Munch, M. Schierup, B. Lindow, W. C. Warren, D. Ray, R. E. Green, M. W. Bruford, X. Zhan, A. Dixon, S. Li, N. Li, Y. Huang, E. P. Derryberry, M. F. Bertelsen, F. H. Sheldon, R. T. Brumfield, C. V. Mello, P. V. Lovell, M. Wirthlin, M. P. C. Schneider, F. Prosdocimi, J. A. Samaniego, A. M. V. Velazquez, A. Alfaro-Nunez, P. F. Campos, B. Petersen, T. Sicheritz-Ponten, A. Pas, T. Bailey, P. Scofield, M. Bunce, D. M. Lambert, Q. Zhou, P. Perelman, A. C. Driskell, B. Shapiro, Z. Xiong, Y. Zeng, S. Liu, Z. Li, B. Liu, K. Wu, J. Xiao, X. Yinqi, Q. Zheng, Y. Zhang, H. Yang, J. Wang, L. Smeds, F. E. Rheindt, M. Braun, J. Fjeldsa, L. Orlando, F. K. Barker, K. A. Jonsson, W. Johnson, K.-P. Koepfli, S. O'Brien, D. Haussler, O. A. Ryder, C. Rahbek, E. Willerslev, G. R. Graves, T. C. Glenn, J. McCormack, D. Burt, H. Ellegren, P. Alstrom, S. V. Edwards, A. Stamatakis, D. P. Mindell, J. Cracraft, E. L. Braun, T. Warnow, W. Jun, M. T. P. Gilbert, G. Zhang. 2014. Whole-genome analyses resolve early branches in the tree of life of modern birds. Science 346 (6215): 1320-1331.",
+"ot:studyYear": 2014,
+"studyID": "ot_214",
+"treeID": "tree1"
 }
 ],
 "description": "tree collection for Aves synthesis",
