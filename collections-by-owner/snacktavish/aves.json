@@ -4540,6 +4540,20 @@
 "ot:studyYear": 2019,
 "studyID": "ot_2197",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Paxinos, 2002",
+"decision": "INCLUDED",
+"defaultSortOrder": 323,
+"name": "Fig. 4 (MP) (Paxinos, 2002)",
+"ot:focalCladeOTTTaxonName": "Anatidae",
+"ot:studyPublication": "http://dx.doi.org/10.1073/pnas.032166399",
+"ot:studyPublicationReference": "Paxinos, E. E. , H. F. James, S. L. Olson, M. D. Sorenson, J. Jackson, R. C. Fleischer. 2002. mtDNA from fossils reveals a radiation of Hawaiian geese recently derived from the Canada goose (Branta canadensis). Proceedings of the National Academy of Sciences 99 (3): 1399-1404",
+"ot:studyYear": 2002,
+"studyID": "ot_817",
+"treeID": "tree1"
 }
 ],
 "description": "tree collection for Aves synthesis",
