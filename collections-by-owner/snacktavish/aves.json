@@ -4554,6 +4554,48 @@
 "ot:studyYear": 2002,
 "studyID": "ot_817",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Pasquet, 2008",
+"decision": "INCLUDED",
+"defaultSortOrder": 324,
+"name": "Fig. 3 (Pasquet, 2008)",
+"ot:focalCladeOTTTaxonName": "Sitta",
+"ot:studyPublication": "http://dx.doi.org/10.1111/j.1474-919x.1998.tb04553.x",
+"ot:studyPublicationReference": "Pasquet, Eric. 2008. Phylogeny of the nuthatches of the Sitta canadensis group and its evolutionary and biogeographic implications. Ibis 140 (1): 150-156",
+"ot:studyYear": 2008,
+"studyID": "ot_828",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Claramunt, 2012",
+"decision": "INCLUDED",
+"defaultSortOrder": 325,
+"name": "Picidae (Claramunt, 2012)",
+"ot:focalCladeOTTTaxonName": "Furnariidae",
+"ot:studyPublication": "http://dx.doi.org/10.1086/664998",
+"ot:studyPublicationReference": "Claramunt, S., Derryberry E.P., Brumfield R., and Remsen J. 2012. Ecological opportunity and diversification in a continental radiation of birds: climbing adaptations and cladogenesis in the Furnariidae. American Naturalist 179 (5): 649-666.",
+"ot:studyYear": 2012,
+"studyID": "pg_1766",
+"treeID": "tree3561"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Kennedy, 2009",
+"decision": "INCLUDED",
+"defaultSortOrder": 326,
+"name": "Fig. 1 BI (Kennedy, 2009)",
+"ot:focalCladeOTTTaxonName": "Phalacrocoracidae",
+"ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2009.06.002",
+"ot:studyPublicationReference": "Kennedy, Martyn, Carlos A. Valle, Hamish G. Spencer. 2009. The phylogenetic position of the Galapagos Cormorant. Molecular Phylogenetics and Evolution 53 (1): 94-98.",
+"ot:studyYear": 2009,
+"studyID": "pg_2152",
+"treeID": "tree4545"
 }
 ],
 "description": "tree collection for Aves synthesis",
