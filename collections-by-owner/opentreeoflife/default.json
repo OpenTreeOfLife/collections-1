@@ -11009,6 +11009,14 @@
 "name": "Potamon",
 "studyID": "ot_2766",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Su, Z.-H., Sasaki, A., Minami, H., & Ozaki, K. (2024). Arthropod Phylotranscriptomics With a Special Focus on the Basal Phylogeny of the Myriapoda. Genome Biology and Evolution, 16(9). https://doi.org/10.1093/gbe/evae189\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_2768",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
