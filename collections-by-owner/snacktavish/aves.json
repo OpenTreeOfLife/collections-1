@@ -120,6 +120,14 @@
 {
 "SHA": "",
 "comments": "",
+"decision": "INCLUDED",
+"name": "Astral tree (rooted) (Oswald, 2025)",
+"studyID": "ot_2762",
+"treeID": "tree4"
+},
+{
+"SHA": "",
+"comments": "",
 "compactRefText": "Zhao, 2025",
 "decision": "INCLUDED",
 "defaultSortOrder": 7,
