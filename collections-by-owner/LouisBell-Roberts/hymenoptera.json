@@ -4,7 +4,36 @@
 "login": "LouisBell-Roberts",
 "name": "LouisBell-Roberts"
 },
-"decisions": [],
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Henr\u00edquez-Piskulich, 2024",
+"decision": "INCLUDED",
+"defaultSortOrder": 0,
+"name": "Bee supermatrix tree (Henr\u00edquez-Piskulich, 2024)",
+"ot:focalCladeOTTTaxonName": "Anthophila",
+"ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2023.107963",
+"ot:studyPublicationReference": "Henr\u00edquez-Piskulich, P., Hugall, A. F., & Stuart-Fox, D. (2024). A supermatrix phylogeny of the world\u2019s bees (Hymenoptera: Anthophila). Molecular Phylogenetics and Evolution, 190, 107963. https://doi.org/10.1016/j.ympev.2023.107963\n",
+"ot:studyYear": 2024,
+"studyID": "ot_2324",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Piekarski, 2018",
+"decision": "INCLUDED",
+"defaultSortOrder": 1,
+"name": "Fig 2 (Piekarski, 2018)",
+"ot:focalCladeOTTTaxonName": "Vespidae",
+"ot:studyPublication": "https://doi.org/10.1093/molbev/msy124",
+"ot:studyPublicationReference": "Piekarski, P. K., Carpenter, J. M., Lemmon, A. R., Moriarty Lemmon, E., & Sharanowski, B. J. (2018). Phylogenomic Evidence Overturns Current Conceptions of Social Evolution in Wasps (Vespidae). Molecular Biology and Evolution, 35(9), 2097\u20132109. https://doi.org/10.1093/molbev/msy124\n",
+"ot:studyYear": 2018,
+"studyID": "ot_2380",
+"treeID": "tree2"
+}
+],
 "description": "Hymenoptera supertree",
 "name": "Hymenoptera",
 "queries": []
