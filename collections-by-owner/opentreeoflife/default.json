@@ -11049,6 +11049,14 @@
 "name": "Fig. 10, MP",
 "studyID": "ot_2774",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from DJERN\u00c6S, M., KLASS, K., PICKER, M. D., & DAMGAARD, J. (2011). Phylogeny of cockroaches (Insecta, Dictyoptera, Blattodea), with placement of aberrant taxa and exploration of out\u2010group sampling. Systematic Entomology, 37(1), 65\u201383. Portico. https://doi.org/10.1111/j.1365-3113.2011.00598.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2775",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
