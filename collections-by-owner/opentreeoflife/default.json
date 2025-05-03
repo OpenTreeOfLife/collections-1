@@ -11041,6 +11041,14 @@
 "name": "syen12324-sup-0002-appendixs2.tre",
 "studyID": "ot_2773",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BERNIKER, L., & WEIRAUCH, C. (2011). New World biogeography and the evolution of polychromatism: evidence from the bee assassin genus Apiomerus (Heteroptera: Reduviidae: Harpactorinae). Systematic Entomology, 37(1), 32\u201354. Portico. https://doi.org/10.1111/j.1365-3113.2011.00600.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 10, MP",
+"studyID": "ot_2774",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
