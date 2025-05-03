@@ -2516,6 +2516,14 @@
 "name": "Fig. S1, BI (JUNG, 2011)",
 "studyID": "ot_2772",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "syen12324-sup-0002-appendixs2.tre (Gough, 2018)",
+"studyID": "ot_2773",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
