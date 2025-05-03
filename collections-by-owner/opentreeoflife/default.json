@@ -11033,6 +11033,14 @@
 "name": "Fig. S1, BI",
 "studyID": "ot_2772",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gough, H. M., Duran, D. P., Kawahara, A. Y., & Toussaint, E. F. A. (2018). A comprehensive molecular phylogeny of tiger beetles (Coleoptera, Carabidae, Cicindelinae). Systematic Entomology, 44(2), 305\u2013321. Portico. https://doi.org/10.1111/syen.12324\n",
+"decision": "INCLUDED",
+"name": "syen12324-sup-0002-appendixs2.tre",
+"studyID": "ot_2773",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
