@@ -2548,6 +2548,14 @@
 "name": "Fig. 7B, MP (GARZ\u00d3N\u2010ORDU\u00d1A, 2011)",
 "studyID": "ot_2776",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1A, MP (ESCALONA, 2011)",
+"studyID": "ot_2777",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
