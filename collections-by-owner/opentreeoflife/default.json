@@ -11065,6 +11065,14 @@
 "name": "Fig. 7B, MP",
 "studyID": "ot_2776",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from ESCALONA, H. E., & \u015aLIPI\u0143SKI, A. (2011). Generic revision and phylogeny of Microweiseinae (Coleoptera: Coccinellidae). Systematic Entomology, 37(1), 125\u2013171. Portico. https://doi.org/10.1111/j.1365-3113.2011.00601.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1A, MP",
+"studyID": "ot_2777",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
