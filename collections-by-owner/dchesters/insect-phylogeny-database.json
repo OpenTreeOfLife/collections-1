@@ -2540,6 +2540,14 @@
 "name": "Fig. 2, BI (DJERN\u00c6S, 2011)",
 "studyID": "ot_2775",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 7B, MP (GARZ\u00d3N\u2010ORDU\u00d1A, 2011)",
+"studyID": "ot_2776",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
