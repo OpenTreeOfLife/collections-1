@@ -11097,6 +11097,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_2780",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from GRAY, D. A., WEISSMAN, D. B., COLE, J. A., LEMMON, E. M., & LEMMON, A. R. (2020). Multilocus phylogeny of Gryllus field crickets (Orthoptera: Gryllidae: Gryllinae) utilizing anchored hybrid enrichment. Zootaxa, 4750(3). https://doi.org/10.11646/zootaxa.4750.3.2\n",
+"decision": "INCLUDED",
+"name": "Gray_et_al_Gryllus_RAxML_tree.nex",
+"studyID": "ot_2781",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
