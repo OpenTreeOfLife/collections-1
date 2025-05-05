@@ -2580,6 +2580,14 @@
 "name": "Fig. 1, MP (GRANDINETE, 2014)",
 "studyID": "ot_2780",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Gray_et_al_Gryllus_RAxML_tree.nex (GRAY, 2020)",
+"studyID": "ot_2781",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
