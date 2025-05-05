@@ -11105,6 +11105,14 @@
 "name": "Gray_et_al_Gryllus_RAxML_tree.nex",
 "studyID": "ot_2781",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Stiller, J., Tilic, E., Rousset, V., Pleijel, F., & Rouse, G. W. (2020). Spaghetti to a Tree: A Robust Phylogeny for Terebelliformia (Annelida) Based on Transcriptomes, Molecular and Morphological Data. Biology, 9(4), 73. https://doi.org/10.3390/biology9040073\n",
+"decision": "INCLUDED",
+"name": "tree 1",
+"studyID": "ot_2783",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
