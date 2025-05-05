@@ -11089,6 +11089,14 @@
 "name": "Fig. 16A, BI",
 "studyID": "ot_2779",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from GRANDINETE, Y. C., HERMES, M. G., & NOLL, F. B. (2014). Systematics and phylogeny of the <scp>N</scp>eotropical Pachymenes de <scp>S</scp>aussure and Santamenes<scp>G</scp>iordani <scp>S</scp>oika (<scp>H</scp>ymenoptera, <scp>V</scp>espidae, <scp>E</scp>umeninae). Systematic Entomology, 40(2), 365\u2013384. Portico. https://doi.org/10.1111/syen.12105\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_2780",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
