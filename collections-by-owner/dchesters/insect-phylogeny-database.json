@@ -2556,6 +2556,14 @@
 "name": "Fig. 1A, MP (ESCALONA, 2011)",
 "studyID": "ot_2777",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI (LAPOLLA, 2011)",
+"studyID": "ot_2778",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
