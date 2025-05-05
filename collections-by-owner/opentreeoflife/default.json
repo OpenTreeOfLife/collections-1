@@ -11081,6 +11081,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2778",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BLAIMER, B. B. (2011). Untangling complex morphological variation: taxonomic revision of the subgenus Crematogaster (Oxygyne) in Madagascar, with insight into the evolution and biogeography of this enigmatic ant clade (Hymenoptera: Formicidae). Systematic Entomology, 37(2), 240\u2013260. Portico. https://doi.org/10.1111/j.1365-3113.2011.00609.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 16A, BI",
+"studyID": "ot_2779",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
