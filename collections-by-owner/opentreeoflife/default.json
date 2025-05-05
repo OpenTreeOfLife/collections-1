@@ -11073,6 +11073,14 @@
 "name": "Fig. 1A, MP",
 "studyID": "ot_2777",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from LAPOLLA, J. S., KALLAL, R. J., & BRADY, S. G. (2011). A new ant genus from the Greater Antilles and Central America, Zatania (Hymenoptera: Formicidae), exemplifies the utility of male and molecular character systems. Systematic Entomology, 37(1), 200\u2013214. Portico. https://doi.org/10.1111/j.1365-3113.2011.00605.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2778",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
