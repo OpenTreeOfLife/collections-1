@@ -11121,6 +11121,14 @@
 "name": "Fig. 23, MP",
 "studyID": "ot_2785",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Grebennikov, V. V., & Maddison, D. R. (2004). Phylogenetic analysis of Trechitae (Coleoptera: Carabidae) based on larval morphology, with a description of first\u2010instarPhrypeusand a key to genera. Systematic Entomology, 30(1), 38\u201359. Portico. https://doi.org/10.1111/j.1365-3113.2004.00259.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 12, MP",
+"studyID": "ot_2786",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
