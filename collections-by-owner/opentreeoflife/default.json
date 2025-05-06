@@ -11129,6 +11129,14 @@
 "name": "Fig. 12, MP",
 "studyID": "ot_2786",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Grebennikov, V. V., Ballerio, A., Ocampo, F. C., & Scholtz, C. H. (2004). Larvae of Ceratocanthidae and Hybosoridae (Coleoptera: Scarabaeoidea): study of morphology, phylogenetic analysis and evidence of paraphyly of Hybosoridae. Systematic Entomology, 29(4), 524\u2013543. Portico. https://doi.org/10.1111/j.0307-6970.2004.00257.x\n",
+"decision": "INCLUDED",
+"name": "Fig.2, MP",
+"studyID": "ot_2787",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
