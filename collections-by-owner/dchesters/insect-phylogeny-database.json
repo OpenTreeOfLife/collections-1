@@ -2588,6 +2588,14 @@
 "name": "Gray_et_al_Gryllus_RAxML_tree.nex (GRAY, 2020)",
 "studyID": "ot_2781",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 23, MP (GONZALEZ, 2012)",
+"studyID": "ot_2785",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
