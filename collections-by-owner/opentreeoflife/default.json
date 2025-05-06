@@ -11113,6 +11113,14 @@
 "name": "tree 1",
 "studyID": "ot_2783",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from GONZALEZ, V. H., GRISWOLD, T., PRAZ, C. J., & DANFORTH, B. N. (2012). Phylogeny of the bee family Megachilidae (Hymenoptera: Apoidea) based on adult morphology. Systematic Entomology, 37(2), 261\u2013286. Portico. https://doi.org/10.1111/j.1365-3113.2012.00620.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 23, MP",
+"studyID": "ot_2785",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
