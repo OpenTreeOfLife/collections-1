@@ -2596,6 +2596,14 @@
 "name": "Fig. 23, MP (GONZALEZ, 2012)",
 "studyID": "ot_2785",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 12, MP (Grebennikov, 2004)",
+"studyID": "ot_2786",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
