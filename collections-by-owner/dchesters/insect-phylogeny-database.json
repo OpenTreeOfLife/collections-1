@@ -2604,6 +2604,14 @@
 "name": "Fig. 12, MP (Grebennikov, 2004)",
 "studyID": "ot_2786",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig.2, MP (Grebennikov, 2004)",
+"studyID": "ot_2787",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
