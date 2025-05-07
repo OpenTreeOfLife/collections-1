@@ -2628,6 +2628,14 @@
 "name": "Fig. 1, BI (BUFFINGTON, 2012)",
 "studyID": "ot_2791",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP (CHENG, 2012)",
+"studyID": "ot_2792",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
