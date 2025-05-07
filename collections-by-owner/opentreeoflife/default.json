@@ -11137,6 +11137,14 @@
 "name": "Fig.2, MP",
 "studyID": "ot_2787",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Glon, M. G., Broe, M. B., Crandall, K. A., Daly, M., Kong, S., Thoma, R. F., & Freudenstein, J. V. (2022). Anchored hybrid enrichment resolves the phylogeny ofLacunicambarusHobbs, 1969 (Decapoda: Astacidea: Cambaridae). Journal of Crustacean Biology, 42(1). https://doi.org/10.1093/jcbiol/ruab073\n",
+"decision": "INCLUDED",
+"name": "Lacunicambarus",
+"studyID": "ot_2790",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
