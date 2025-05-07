@@ -11161,6 +11161,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_2792",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Grzywacz, A., Trzeciak, P., Wiegmann, B. M., Cassel, B. K., Pape, T., Walczak, K., Bystrowski, C., Nelson, L., & Piwczy\u0144ski, M. (2021). Towards a new classification of Muscidae (Diptera): a comparison of hypotheses based on multiple molecular phylogenetic approaches. Systematic Entomology, 46(3), 508\u2013525. Portico. https://doi.org/10.1111/syen.12473\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, ML",
+"studyID": "ot_2793",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
