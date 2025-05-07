@@ -2620,6 +2620,14 @@
 "name": "Fig. 25, MP (GRZYMALA, 2020)",
 "studyID": "ot_2788",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (BUFFINGTON, 2012)",
+"studyID": "ot_2791",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
