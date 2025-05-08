@@ -11169,6 +11169,14 @@
 "name": "Fig. 3, ML",
 "studyID": "ot_2793",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Guan Z, Han B, Vierstraete A, Dumont HJ (2012) Additions and refinements to the molecular phylogeny of the Calopteryginae Sl (Zygoptera: Calopterygidae). Odonatologica, 41, 17-24.\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2797",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
