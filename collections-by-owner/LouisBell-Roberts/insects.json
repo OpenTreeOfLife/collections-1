@@ -1390,6 +1390,20 @@
 "ot:studyYear": 2024,
 "studyID": "ot_2324",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Economo, 2018",
+"decision": "INCLUDED",
+"defaultSortOrder": 99,
+"name": "15k_NCuniform_stem_mcc (Economo, 2018)",
+"ot:focalCladeOTTTaxonName": "Formicidae",
+"ot:studyPublication": "https://doi.org/10.1038/s41467-018-04218-4",
+"ot:studyPublicationReference": "Economo, E. P., Narula, N., Friedman, N. R., Weiser, M. D., & Gu\u00e9nard, B. (2018). Macroecology and macroevolution of the latitudinal diversity gradient in ants. Nature Communications, 9(1). https://doi.org/10.1038/s41467-018-04218-4\n",
+"ot:studyYear": 2018,
+"studyID": "ot_2799",
+"treeID": "tree2"
 }
 ],
 "description": "Tree of all insects",
