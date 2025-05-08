@@ -2668,6 +2668,14 @@
 "name": "Fig. 1, BI (Guan Z, 2012)",
 "studyID": "ot_2797",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (Guan, 2016)",
+"studyID": "ot_2798",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
