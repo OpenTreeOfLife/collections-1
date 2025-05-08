@@ -2652,6 +2652,14 @@
 "name": "Fig. 2B, MP (GE, 2012)",
 "studyID": "ot_2795",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1A, MP (JA\u0141OSZY\u0143SKI, 2012)",
+"studyID": "ot_2796",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
