@@ -2676,6 +2676,14 @@
 "name": "Fig. 1, BI (Guan, 2016)",
 "studyID": "ot_2798",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 11B, MP (PIETRYKOWSKA\u2010TUDRUJ, 2011)",
+"studyID": "ot_2800",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
