@@ -11233,6 +11233,14 @@
 "name": "Fig. 2, MP",
 "studyID": "ot_2807",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from CURLER, G. R., & MOULTON, J. K. (2012). Phylogeny of psychodid subfamilies (Diptera: Psychodidae) inferred from nuclear DNA sequences with a review of morphological evidence for relationships. Systematic Entomology, 37(3), 603\u2013616. Portico. https://doi.org/10.1111/j.1365-3113.2012.00634.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2808",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
