@@ -2740,6 +2740,14 @@
 "name": "Fig. 2, MP (VUJI\u0106, 2012)",
 "studyID": "ot_2807",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML (CURLER, 2012)",
+"studyID": "ot_2808",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
