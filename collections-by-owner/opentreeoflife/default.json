@@ -11201,6 +11201,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2801",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from FIK\u00c1\u010cEK, M., PROKIN, A., ANGUS, R. B., PONOMARENKO, A., YUE, Y., REN, D., & PROKOP, J. (2012). Phylogeny and the fossil record of the Helophoridae reveal Jurassic origin of extant hydrophiloid lineages (Coleoptera: Polyphaga). Systematic Entomology, 37(3), 420\u2013447. Portico. https://doi.org/10.1111/j.1365-3113.2012.00630.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 10B, MP",
+"studyID": "ot_2802",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
