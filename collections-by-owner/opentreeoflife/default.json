@@ -11193,6 +11193,14 @@
 "name": "Fig. 11B, MP",
 "studyID": "ot_2800",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from HEMP, C., KEHL, S., HELLER, K., WOLFGANG W\u00c4GELE, J., & HEMP, A. (2012). Ecological adaptations of grassland\u2010inhabiting flightless Orthoptera: Fulvoscirtes and Acanthoscirtes, two new genera of African Karniellina (Orthoptera, Tettigoniidae, Conocephalinae, Conocephalini). Systematic Entomology, 37(2), 387\u2013407. Portico. https://doi.org/10.1111/j.1365-3113.2012.00622.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2801",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
