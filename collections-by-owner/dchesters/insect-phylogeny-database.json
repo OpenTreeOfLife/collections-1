@@ -2684,6 +2684,14 @@
 "name": "Fig. 11B, MP (PIETRYKOWSKA\u2010TUDRUJ, 2011)",
 "studyID": "ot_2800",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (HEMP, 2012)",
+"studyID": "ot_2801",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
