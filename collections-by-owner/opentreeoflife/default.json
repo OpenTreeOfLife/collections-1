@@ -11225,6 +11225,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2806",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from VUJI\u0106, A., RADENKOVI\u0106, S., ST\u00e5HLS, G., A\u010cANSKI, J., STEFANOVI\u0106, A., VESELI\u0106, S., ANDRI\u0106, A., & HAYAT, R. (2012). Systematics and taxonomy of theruficornisgroup of genusMerodonMeigen (Diptera: Syrphidae). Systematic Entomology, 37(3), 578\u2013602. Portico. https://doi.org/10.1111/j.1365-3113.2012.00631.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP",
+"studyID": "ot_2807",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
