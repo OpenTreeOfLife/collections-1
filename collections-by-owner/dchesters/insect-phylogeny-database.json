@@ -2700,6 +2700,14 @@
 "name": "Fig. 10B, MP (FIK\u00c1\u010cEK, 2012)",
 "studyID": "ot_2802",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2A, MP (JA\u0141OSZY\u0143SKI, 2012)",
+"studyID": "ot_2803",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
