@@ -11209,6 +11209,14 @@
 "name": "Fig. 10B, MP",
 "studyID": "ot_2802",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BRANSTETTER, M. G. (2012). Origin and diversification of the cryptic ant genus Stenamma Westwood (Hymenoptera: Formicidae), inferred from multilocus molecular data, biogeography and natural history. Systematic Entomology, 37(3), 478\u2013496. Portico. https://doi.org/10.1111/j.1365-3113.2012.00624.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2804",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
