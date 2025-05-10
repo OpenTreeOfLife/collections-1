@@ -2748,6 +2748,14 @@
 "name": "Fig. 1, ML (CURLER, 2012)",
 "studyID": "ot_2808",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 9, MP (LIU, 2012)",
+"studyID": "ot_2809",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
