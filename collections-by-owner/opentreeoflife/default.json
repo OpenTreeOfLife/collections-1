@@ -11257,6 +11257,14 @@
 "name": "Fig. 2B, BI",
 "studyID": "ot_2810",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Guan, J.-Y., Zhang, Z.-Y., Cao, Y.-R., Xu, X.-D., Storey, K. B., Yu, D.-N., & Zhang, J.-Y. (2021). The complete mitochondrial genome of Choroterpes (Euthralus) yixingensis (Ephemeroptera: Leptophlebiidae) and its mitochondrial protein-coding gene expression under imidacloprid stress. Gene, 800, 145833. https://doi.org/10.1016/j.gene.2021.145833\n",
+"decision": "INCLUDED",
+"name": "Fig. 3",
+"studyID": "ot_2811",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
