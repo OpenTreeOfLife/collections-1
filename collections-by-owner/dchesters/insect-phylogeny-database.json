@@ -2780,6 +2780,14 @@
 "name": "Fig. 4, ML (PRADO, 2012)",
 "studyID": "ot_2812",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 13, MP (VEA, 2012)",
+"studyID": "ot_2813",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
