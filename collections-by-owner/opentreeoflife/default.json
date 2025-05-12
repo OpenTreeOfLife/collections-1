@@ -11273,6 +11273,14 @@
 "name": "Fig. 4, ML",
 "studyID": "ot_2812",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from VEA, I. M., & GRIMALDI, D. A. (2012). Phylogeny of ensign scale insects (Hemiptera: Coccoidea: Ortheziidae) based on the morphology of Recent and fossil females. Systematic Entomology, 37(4), 758\u2013783. Portico. https://doi.org/10.1111/j.1365-3113.2012.00638.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 13, MP",
+"studyID": "ot_2813",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
