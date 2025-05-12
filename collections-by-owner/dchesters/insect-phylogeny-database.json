@@ -2772,6 +2772,14 @@
 "name": "Fig. 3 (Guan, 2021)",
 "studyID": "ot_2811",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4, ML (PRADO, 2012)",
+"studyID": "ot_2812",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
