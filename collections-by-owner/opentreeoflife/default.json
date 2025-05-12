@@ -11265,6 +11265,14 @@
 "name": "Fig. 3",
 "studyID": "ot_2811",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from PRADO, A., MCKENNA, D. D., & WINDSOR, D. (2012). Molecular evidence of cycad seed predation by immature Aulacoscelidinae (Coleoptera: Orsodacnidae). Systematic Entomology, 37(4), 747\u2013757. Portico. https://doi.org/10.1111/j.1365-3113.2012.00639.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, ML",
+"studyID": "ot_2812",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
