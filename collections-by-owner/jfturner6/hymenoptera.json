@@ -8,8 +8,14 @@
 {
 "SHA": "",
 "comments": "",
+"compactRefText": "Blaimer, 2023",
 "decision": "INCLUDED",
+"defaultSortOrder": 0,
 "name": "Juliet_GF_backbone_Blaimer_modified (Blaimer, 2023)",
+"ot:focalCladeOTTTaxonName": "Hymenoptera",
+"ot:studyPublication": "https://doi.org/10.1038/s41467-023-36868-4",
+"ot:studyPublicationReference": "Blaimer, B. B., Santos, B. F., Cruaud, A., Gates, M. W., Kula, R. R., Mik\u00f3, I., Rasplus, J.-Y., Smith, D. R., Talamas, E. J., Brady, S. G., & Buffington, M. L. (2023). Key innovations and the diversification of Hymenoptera. Nature Communications, 14(1). https://doi.org/10.1038/s41467-023-36868-4\n",
+"ot:studyYear": 2023,
 "studyID": "ot_2471",
 "treeID": "tree2"
 },
@@ -18,7 +24,7 @@
 "comments": "",
 "compactRefText": "Henr\u00edquez-Piskulich, 2024",
 "decision": "INCLUDED",
-"defaultSortOrder": 0,
+"defaultSortOrder": 1,
 "name": "Bee supermatrix tree (Henr\u00edquez-Piskulich, 2024)",
 "ot:focalCladeOTTTaxonName": "Anthophila",
 "ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2023.107963",
@@ -32,7 +38,7 @@
 "comments": "",
 "compactRefText": "Piekarski, 2018",
 "decision": "INCLUDED",
-"defaultSortOrder": 1,
+"defaultSortOrder": 2,
 "name": "Fig 2 (Piekarski, 2018)",
 "ot:focalCladeOTTTaxonName": "Vespidae",
 "ot:studyPublication": "https://doi.org/10.1093/molbev/msy124",
@@ -40,6 +46,20 @@
 "ot:studyYear": 2018,
 "studyID": "ot_2380",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Chesters, 2023",
+"decision": "INCLUDED",
+"defaultSortOrder": 3,
+"name": "Untitled (tree1) (Chesters, 2023)",
+"ot:focalCladeOTTTaxonName": "Diptera",
+"ot:studyPublication": "https://doi.org/10.1111/1755-0998.13817",
+"ot:studyPublicationReference": "Chesters, D., Ferrari, R. R., Lin, X., Orr, M. C., Staab, M., & Zhu, C. (2023). Launching insectphylo.org; a new hub facilitating construction and use of synthesis molecular phylogenies of insects. Molecular Ecology Resources, 23(7), 1556\u20131573. Portico. https://doi.org/10.1111/1755-0998.13817\n",
+"ot:studyYear": 2023,
+"studyID": "ot_2398",
+"treeID": "tree1"
 }
 ],
 "description": "Hymenoptera supertree",
