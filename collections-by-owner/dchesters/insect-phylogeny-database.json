@@ -2788,6 +2788,14 @@
 "name": "Fig. 13, MP (VEA, 2012)",
 "studyID": "ot_2813",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI (STAMPER, 2012)",
+"studyID": "ot_2814",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
