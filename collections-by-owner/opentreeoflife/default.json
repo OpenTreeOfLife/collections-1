@@ -11281,6 +11281,14 @@
 "name": "Fig. 13, MP",
 "studyID": "ot_2813",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from STAMPER, T., DAHLEM, G. A., COOKMAN, C., & DEBRY, R. W. (2012). Phylogenetic relationships of flesh flies in the subfamily Sarcophaginae based on three mtDNA fragments (Diptera: Sarcophagidae). Systematic Entomology, 38(1), 35\u201344. Portico. https://doi.org/10.1111/j.1365-3113.2012.00646.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2814",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
