@@ -11289,6 +11289,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2814",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from LIU, L., HUANG, X., ZHANG, R., JIANG, L., & QIAO, G. (2012). Phylogenetic congruence between Mollitrichosiphum (Aphididae: Greenideinae) and Buchnera indicates insect\u2013bacteria parallel evolution. Systematic Entomology, 38(1), 81\u201392. Portico. https://doi.org/10.1111/j.1365-3113.2012.00647.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2A, MP",
+"studyID": "ot_2816",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
