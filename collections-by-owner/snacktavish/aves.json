@@ -221,6 +221,14 @@
 {
 "SHA": "",
 "comments": "",
+"decision": "INCLUDED",
+"name": "Hand-coded topology (King, 2024)",
+"studyID": "ot_2818",
+"treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "",
 "compactRefText": "Islam, 2024",
 "decision": "INCLUDED",
 "defaultSortOrder": 14,
