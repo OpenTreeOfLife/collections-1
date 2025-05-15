@@ -2804,6 +2804,14 @@
 "name": "Fig. 102, MP (ALENCAR, 2012)",
 "studyID": "ot_2815",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2A, MP (LIU, 2012)",
+"studyID": "ot_2816",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
