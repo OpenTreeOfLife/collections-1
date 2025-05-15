@@ -2812,6 +2812,14 @@
 "name": "Fig. 2A, MP (LIU, 2012)",
 "studyID": "ot_2816",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, MP (PAN, 2013)",
+"studyID": "ot_2817",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
