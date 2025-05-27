@@ -4,7 +4,22 @@
 "login": "maxshafer",
 "name": "Maxwell Shafer"
 },
-"decisions": [],
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Daniel L. Rabosky, 2018",
+"decision": "INCLUDED",
+"defaultSortOrder": 0,
+"name": "actinopt12KtreePL (Daniel L. Rabosky, 2018)",
+"ot:focalCladeOTTTaxonName": "Actinopterygii",
+"ot:studyPublication": "http://dx.doi.org/10.1038/s41586-018-0273-1",
+"ot:studyPublicationReference": "Daniel L. Rabosky, Jonathan Chang, Pascal O. Title, Peter F. Cowman, Lauren Sallan, Matt Friedman, Kristin Kaschner, Cristina Garilao, Thomas J. Near, Marta Coll, Michael E. Alfaro, 2018, 'An inverse latitudinal gradient in speciation rate for marine fishes', Nature, vol. 559, no. 7714, pp. 392-395",
+"ot:studyYear": 2018,
+"studyID": "ot_1592",
+"treeID": "tree1"
+}
+],
 "description": "Rabosky 2018",
 "name": "fishes-01",
 "queries": []
