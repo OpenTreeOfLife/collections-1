@@ -4,7 +4,64 @@
 "login": "maxshafer",
 "name": "Maxwell Shafer"
 },
-"decisions": [],
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Daniel L. Rabosky, 2018",
+"decision": "INCLUDED",
+"defaultSortOrder": 0,
+"name": "actinopt12KtreePL (Daniel L. Rabosky, 2018)",
+"ot:focalCladeOTTTaxonName": "Actinopterygii",
+"ot:studyPublication": "http://dx.doi.org/10.1038/s41586-018-0273-1",
+"ot:studyPublicationReference": "Daniel L. Rabosky, Jonathan Chang, Pascal O. Title, Peter F. Cowman, Lauren Sallan, Matt Friedman, Kristin Kaschner, Cristina Garilao, Thomas J. Near, Marta Coll, Michael E. Alfaro, 2018, 'An inverse latitudinal gradient in speciation rate for marine fishes', Nature, vol. 559, no. 7714, pp. 392-395",
+"ot:studyYear": 2018,
+"studyID": "ot_1592",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Lily C. Hughes, 2018",
+"decision": "INCLUDED",
+"defaultSortOrder": 1,
+"name": "31Calibrations_Chronogram (Lily C. Hughes, 2018)",
+"ot:focalCladeOTTTaxonName": "Actinopterygii",
+"ot:studyPublication": "http://dx.doi.org/10.1073/pnas.1719358115",
+"ot:studyPublicationReference": "Lily C. Hughes, Guillermo Ort\u00ed, Yu Huang, Ying Sun, Carole C. Baldwin, Andrew W. Thompson, Dahiana Arcila, Ricardo Betancur-R., Chenhong Li, Leandro Becker, Nicol\u00e1s Bellora, Xiaomeng Zhao, Xiaofeng Li, Min Wang, Chao Fang, Bing Xie, Zhuocheng Zhou, Hai Huang, Songlin Chen, Byrappa Venkatesh, Qiong Shi, 2018, 'Comprehensive phylogeny of ray-finned fishes (Actinopterygii) based on transcriptomic and genomic data', Proceedings of the National Academy of Sciences, vol. 115, no. 24, pp. 6249-6254",
+"ot:studyYear": 2018,
+"studyID": "ot_1699",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Michael E. Alfaro, 2018",
+"decision": "INCLUDED",
+"defaultSortOrder": 2,
+"name": "1 (Michael E. Alfaro, 2018)",
+"ot:focalCladeOTTTaxonName": "Acanthomorphata",
+"ot:studyPublication": "http://dx.doi.org/10.1038/s41559-018-0494-6",
+"ot:studyPublicationReference": "Michael E. Alfaro, Brant C. Faircloth, Richard C. Harrington, Laurie Sorenson, Matt Friedman, Christine E. Thacker, Carl H. Oliveros, David \u010cern\u00fd, Thomas J. Near, 2018, 'Explosive diversification of marine fishes at the Cretaceous\u2013Palaeogene boundary', Nature Ecology & Evolution, vol. 2, no. 4, pp. 688-696",
+"ot:studyYear": 2018,
+"studyID": "ot_1641",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Betancur-R., 2013",
+"decision": "INCLUDED",
+"defaultSortOrder": 3,
+"name": "ML majority-rule consensus (Betancur-R., 2013)",
+"ot:focalCladeOTTTaxonName": "Actinopterygii",
+"ot:studyPublication": "http://dx.doi.org/10.1371/currents.tol.53ba26640df0ccaee75bb165c8c26288",
+"ot:studyPublicationReference": "Betancur-R., Ricardo, Richard E. Broughton, Edward O. Wiley, Kent Carpenter, J. Andr\u00e9s L\u00f3pez, Chenhong Li, Nancy I. Holcroft, Dahiana Arcila, Millicent Sanciangco, James C Cureton II, Feifei Zhang, Thaddaeus Buser, Matthew A. Campbell, Jesus A Ballesteros, Adela Roa-Varon, Stuart Willis, W. Calvin Borden, Thaine Rowley, Paulette C. Reneau, Daniel J. Hough, Guoqing Lu, Terry Grande, Gloria Arratia, Guillermo Ort\u00ed. 2013. The Tree of Life and a New Classification of Bony Fishes. PLoS Currents",
+"ot:studyYear": 2013,
+"studyID": "pg_2651",
+"treeID": "tree6177"
+}
+],
 "description": "To generate alternative phylogenetic topologies/hypotheses for fishes, and to test models under these different hypotheses",
 "name": "bony-and-cartilaginous-fishes",
 "queries": []
