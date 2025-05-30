@@ -446,6 +446,14 @@
 {
 "SHA": "",
 "comments": "",
+"decision": "INCLUDED",
+"name": "Re-rooted Newick of Fig. 2 (Klicka, 2022)",
+"studyID": "ot_2822",
+"treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "",
 "compactRefText": "Smith, 2022",
 "decision": "INCLUDED",
 "defaultSortOrder": 31,
