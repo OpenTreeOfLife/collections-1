@@ -11297,6 +11297,14 @@
 "name": "Fig. 2A, MP",
 "studyID": "ot_2816",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Jin, M., Zwick, A., \u015alipi\u0144ski, A., de Keyzer, R., & Pang, H. (2020). Museomics reveals extensive cryptic diversity of Australian prionine longhorn beetles with implications for their classification and conservation. Systematic Entomology, 45(4), 745\u2013770. Portico. https://doi.org/10.1111/syen.12424\n",
+"decision": "INCLUDED",
+"name": "syen12424-sup-0003-supinfos3.nex",
+"studyID": "ot_2823",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
