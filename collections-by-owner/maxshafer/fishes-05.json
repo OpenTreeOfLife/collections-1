@@ -4,7 +4,22 @@
 "login": "maxshafer",
 "name": "Maxwell Shafer"
 },
-"decisions": [],
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Ghezelayagh, 2022",
+"decision": "INCLUDED",
+"defaultSortOrder": 0,
+"name": "Acanthomorph_GhezelayaghEtAl2022 (Ghezelayagh, 2022)",
+"ot:focalCladeOTTTaxonName": "Acanthomorphata",
+"ot:studyPublication": "https://doi.org/10.1038/s41559-022-01801-3",
+"ot:studyPublicationReference": "Ghezelayagh, A., Harrington, R. C., Burress, E. D., Campbell, M. A., Buckner, J. C., Chakrabarty, P., Glass, J. R., McCraney, W. T., Unmack, P. J., Thacker, C. E., Alfaro, M. E., Friedman, S. T., Ludt, W. B., Cowman, P. F., Friedman, M., Price, S. A., Dornburg, A., Faircloth, B. C., Wainwright, P. C., & Near, T. J. (2022). Prolonged morphological expansion of spiny-rayed fishes following the end-Cretaceous. Nature Ecology &amp; Evolution, 6(8), 1211\u20131220. https://doi.org/10.1038/s41559-022-01801-3\n",
+"ot:studyYear": 2022,
+"studyID": "ot_2824",
+"treeID": "tree4"
+}
+],
 "description": "",
 "name": "fishes-05",
 "queries": []
