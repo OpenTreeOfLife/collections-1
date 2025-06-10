@@ -11305,6 +11305,14 @@
 "name": "syen12424-sup-0003-supinfos3.nex",
 "studyID": "ot_2823",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Thoma, R., Hurt, C., Williams, C., & Withers, D. (2023). Insights on the evolution and conservation of Appalachian burrowing crayfishes, with the description of a new species ofCambarusErichson, 1846 (Decapoda: Astacidea: Cambaridae). Journal of Crustacean Biology, 43(1). https://doi.org/10.1093/jcbiol/ruac066\n",
+"decision": "INCLUDED",
+"name": "Thoma et al. 2023",
+"studyID": "ot_2825",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
