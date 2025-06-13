@@ -11313,6 +11313,14 @@
 "name": "Thoma et al. 2023",
 "studyID": "ot_2825",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Varela, C., Golightly, C., Timm, L. E., Wilkins, B., Frank, T., Fenolio, D., Collins, S. B., & Bracken-Grissom, H. D. (2021). DNA barcoding enhances large-scale biodiversity initiatives for deep-pelagic crustaceans within the Gulf of Mexico and adjacent waters. Journal of Crustacean Biology, 41(1). https://doi.org/10.1093/jcbiol/ruab005\n",
+"decision": "INCLUDED",
+"name": "Lophogastrida",
+"studyID": "ot_2828",
+"treeID": "tree9"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
