@@ -11337,6 +11337,14 @@
 "name": "Euphausiacea",
 "studyID": "ot_2828",
 "treeID": "tree6"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Patoka, J., Bl\u00e1ha, M., & Kouba, A. (2015). Cherax( Cherax) subterigneus, a new crayfish (Decapoda:\u00a0Parastacidae) from West Papua, Indonesia. Journal of Crustacean Biology, 35(6), 830\u2013838. https://doi.org/10.1163/1937240x-00002377\n",
+"decision": "INCLUDED",
+"name": "Cherax snowden",
+"studyID": "ot_2830",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
