@@ -11345,6 +11345,14 @@
 "name": "Cherax snowden",
 "studyID": "ot_2830",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Lukhaup, C., Panteleit, J., & Schrimpf, A. (2015). Cherax snowden, a new species of crayfish (Crustacea, Decapoda, Parastacidae) from the Kepala Burung (Vogelkop) Peninsula in Irian Jaya (West Papua), Indonesia. ZooKeys, 518, 1\u201314. https://doi.org/10.3897/zookeys.518.6127\n",
+"decision": "INCLUDED",
+"name": "Cherax snowden",
+"studyID": "ot_2831",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
