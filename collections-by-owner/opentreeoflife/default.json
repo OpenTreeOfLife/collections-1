@@ -11353,6 +11353,14 @@
 "name": "Cherax snowden",
 "studyID": "ot_2831",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Lukhaup, C.; Eprilurahman, R.; von Rintelen, T. Two New Species of Crayfish of the Genus Cherax (Crustacea, Decapoda, Parastacidae) from Western and Eastern Indonesian New Guinea. Arthropoda 2024, 2, 264-293. https://doi.org/10.3390/arthropoda2040019",
+"decision": "INCLUDED",
+"name": "Lukhaup 2024",
+"studyID": "ot_2833",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
