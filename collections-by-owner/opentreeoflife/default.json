@@ -11361,6 +11361,14 @@
 "name": "Lukhaup 2024",
 "studyID": "ot_2833",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Lukhaup, C., & Eprilurahman, R. (2022). A new species of crayfish of the genus Cherax from Indonesian New Guinea (Crustacea, Decapoda, Parastacidae). Zoosystematics and Evolution, 98(2), 411\u2013425. https://doi.org/10.3897/zse.98.94753\n",
+"decision": "INCLUDED",
+"name": "Lukhaup 2022",
+"studyID": "ot_2834",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
