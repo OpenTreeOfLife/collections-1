@@ -8,16 +8,10 @@
 {
 "SHA": "",
 "comments": "",
-"compactRefText": "Blaimer, 2023",
 "decision": "INCLUDED",
-"defaultSortOrder": 0,
-"name": "Juliet_GF_backbone_Blaimer_modified (Blaimer, 2023)",
-"ot:focalCladeOTTTaxonName": "Hymenoptera",
-"ot:studyPublication": "https://doi.org/10.1038/s41467-023-36868-4",
-"ot:studyPublicationReference": "Blaimer, B. B., Santos, B. F., Cruaud, A., Gates, M. W., Kula, R. R., Mik\u00f3, I., Rasplus, J.-Y., Smith, D. R., Talamas, E. J., Brady, S. G., & Buffington, M. L. (2023). Key innovations and the diversification of Hymenoptera. Nature Communications, 14(1). https://doi.org/10.1038/s41467-023-36868-4\n",
-"ot:studyYear": 2023,
+"name": "120625_JT_Modified_GF_backbone_tree (Blaimer, 2023)",
 "studyID": "ot_2471",
-"treeID": "tree2"
+"treeID": "tree3"
 },
 {
 "SHA": "",
