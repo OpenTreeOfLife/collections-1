@@ -11361,6 +11361,14 @@
 "name": "Lukhaup 2022",
 "studyID": "ot_2834",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Wolfe, J. M., Breinholt, J. W., Crandall, K. A., Lemmon, A. R., Lemmon, E. M., Timm, L. E., Siddall, M. E., & Bracken-Grissom, H. D. (2019). A phylogenomic framework, evolutionary timeline and genomic resources for comparative studies of decapod crustaceans. Proceedings of the Royal Society B: Biological Sciences, 286(1901), 20190079. https://doi.org/10.1098/rspb.2019.0079\n",
+"decision": "INCLUDED",
+"name": "Pleocyemata",
+"studyID": "ot_2755",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
