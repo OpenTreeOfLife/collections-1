@@ -11369,6 +11369,14 @@
 "name": "Pleocyemata",
 "studyID": "ot_2755",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Thoma, R. F., & Williams, B. W. (2025). Cambarus ocoeensis, a new species of crayfish (Decapoda: Cambaridae) from the Ocoee River Basin of Tennessee, USA. Zootaxa, 5618(1), 106\u2013118. https://doi.org/10.11646/zootaxa.5618.1.7\n",
+"decision": "INCLUDED",
+"name": "Thoma & Williams 2025",
+"studyID": "ot_2837",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
