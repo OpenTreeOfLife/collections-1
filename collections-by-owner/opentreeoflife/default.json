@@ -11377,6 +11377,14 @@
 "name": "Thoma & Williams 2025",
 "studyID": "ot_2837",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Stringer, D. N., King, R. A., Austin, A. D., & Guzik, M. T. (2025). An Elusive New Genus and Species of Subterranean Amphipod (Hadzioidea: Eriopisidae) from Barrow Island, Western Australia. Diversity, 17(2), 84. https://doi.org/10.3390/d17020084\n",
+"decision": "INCLUDED",
+"name": "Stringer et al. 2025 (genus level)",
+"studyID": "ot_2841",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
