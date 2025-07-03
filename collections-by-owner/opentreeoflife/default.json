@@ -11393,6 +11393,14 @@
 "name": "Stringer et al. 2025 (species level)",
 "studyID": "ot_2841",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Pedraza-Lara, C., Guti\u00e9rrez-Yurrita, P. J., & Jesus-Bonilla, V. S. D. (2021). A new species of Procambarus (Decapoda, Cambaridae) from the State of Quer\u00e9taro, Mexico. ZooKeys, 1048, 1\u201321. https://doi.org/10.3897/zookeys.1048.57493\n",
+"decision": "INCLUDED",
+"name": "Pedraza-Lara et al. 2021",
+"studyID": "ot_2843",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
