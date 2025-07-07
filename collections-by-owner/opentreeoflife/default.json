@@ -11401,6 +11401,14 @@
 "name": "Pedraza-Lara et al. 2021",
 "studyID": "ot_2843",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Vojkovsk\u00e1, R., Hork\u00e1, I., & \u010euri\u0161, Z. (2020). Comparative morphology of crayfish mandibles, with insight into their evolution. Journal of Morphology, 281(3), 365\u2013376. Portico. https://doi.org/10.1002/jmor.21104\n",
+"decision": "INCLUDED",
+"name": "Vojkovsk\u00e1 et al. 2020",
+"studyID": "ot_2845",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
