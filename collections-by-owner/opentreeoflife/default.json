@@ -11417,6 +11417,14 @@
 "name": "Bergsten et al. 2025 (Figure 5)",
 "studyID": "ot_2846",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bergsten, J., Nylander, J. A. A., Ospina, O. E., Lemmon, A. R., & Miller, K. B. (2025). Whole genome shotgun phylogenomics resolve the diving beetle tree of life. Systematic Entomology. Portico. https://doi.org/10.1111/syen.12685\n",
+"decision": "INCLUDED",
+"name": "Bergsten et al. 2025 (Figure 5)",
+"studyID": "ot_2846",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
