@@ -11425,6 +11425,14 @@
 "name": "Bergsten et al. 2025 (Figure 5)",
 "studyID": "ot_2846",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Sato, S., Appeldorff, C., Wangensteen, O. S., Garc\u00e9s-Pastor, S., Laumer, C. E., Herranz, M., Giribet, G., Renault, D., Rask M\u00f8ller, P., & Worsaae, K. (2025). Phylogenomics of the rarest animals: a second species of Micrognathozoa identified by machine learning. Proceedings of the Royal Society B: Biological Sciences, 292(2041). https://doi.org/10.1098/rspb.2024.2867\n",
+"decision": "INCLUDED",
+"name": "Sato et al. 2025 (Figure 3)",
+"studyID": "ot_2847",
+"treeID": "tree4"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
