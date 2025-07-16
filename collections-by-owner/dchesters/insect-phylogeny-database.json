@@ -2884,6 +2884,14 @@
 "name": "Fig. 5, MP (Whiting, 2002)",
 "studyID": "ot_2855",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2b, ML (Meusemann, 2020)",
+"studyID": "ot_2856",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
