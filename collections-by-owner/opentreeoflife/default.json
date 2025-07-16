@@ -11433,6 +11433,14 @@
 "name": "Sato et al. 2025 (Figure 3)",
 "studyID": "ot_2847",
 "treeID": "tree4"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from WIPFLER, B., MACHIDA, R., M\u00dcLLER, B., & BEUTEL, R. G. (2011). On the head morphology of Grylloblattodea (Insecta) and the systematic position of the order, with a new nomenclature for the head muscles of Dicondylia. Systematic Entomology, 36(2), 241\u2013266. Portico. https://doi.org/10.1111/j.1365-3113.2010.00556.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 6, MP",
+"studyID": "ot_2850",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
