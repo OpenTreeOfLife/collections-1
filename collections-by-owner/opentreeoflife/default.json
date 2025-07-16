@@ -11473,6 +11473,14 @@
 "name": "Acer_FigTree_Long",
 "studyID": "ot_2611",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Zhang, J., Zhou, C., Gai, Y., Song, D., & Zhou, K. (2008). The complete mitochondrial genome of Parafronurus youi (Insecta: Ephemeroptera) and phylogenetic position of the Ephemeroptera. Gene, 424(1\u20132), 18\u201324. https://doi.org/10.1016/j.gene.2008.07.037\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI",
+"studyID": "ot_2854",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
