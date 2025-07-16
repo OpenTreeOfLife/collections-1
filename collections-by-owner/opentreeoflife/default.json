@@ -11497,6 +11497,14 @@
 "name": "Fig. 2b, ML",
 "studyID": "ot_2856",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Schoville, S. D., Simon, S., Bai, M., Beethem, Z., Dudko, R. Y., Eberhard, M. J. B., Frandsen, P. B., K\u00fcpper, S. C., Machida, R., Verheij, M., Willadsen, P. C., Zhou, X., & Wipfler, B. (2020). Comparative transcriptomics of ice\u2010crawlers demonstrates cold specialization constrains niche evolution in a relict lineage. Evolutionary Applications, 14(2), 360\u2013382. Portico. https://doi.org/10.1111/eva.13120\n",
+"decision": "INCLUDED",
+"name": "Fig. 1a",
+"studyID": "ot_2857",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
