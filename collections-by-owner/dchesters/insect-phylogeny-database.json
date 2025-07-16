@@ -2868,6 +2868,14 @@
 "name": "Fig. 3A, BI (WARE, 2008)",
 "studyID": "ot_2853",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI (Zhang, 2008)",
+"studyID": "ot_2854",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
