@@ -11489,6 +11489,14 @@
 "name": "Fig. 5, MP",
 "studyID": "ot_2855",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Meusemann, K., Trautwein, M., Friedrich, F., Beutel, R. G., Wiegmann, B. M., Donath, A., Podsiadlowski, L., Petersen, M., Niehuis, O., Mayer, C., Bayless, K. M., Shin, S., Liu, S., Hlinka, O., Minh, B. Q., Kozlov, A., Morel, B., Peters, R. S., Bartel, D., \u2026 Yeates, D. K. (2020). Are fleas highly modified Mecoptera? Phylogenomic resolution of Antliophora (Insecta: Holometabola). https://doi.org/10.1101/2020.11.19.390666\n",
+"decision": "INCLUDED",
+"name": "Fig. 2b, ML",
+"studyID": "ot_2856",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
