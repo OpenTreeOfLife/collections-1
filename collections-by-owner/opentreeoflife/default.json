@@ -11505,6 +11505,14 @@
 "name": "Fig. 1a",
 "studyID": "ot_2857",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Murrell, A., & Barker, S. C. (2005). Multiple origins of parasitism in lice: phylogenetic analysis of SSU rDNA indicates that the Phthiraptera and Psocoptera are not monophyletic. Parasitology Research, 97(4), 274\u2013280. https://doi.org/10.1007/s00436-005-1413-8\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2858",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
