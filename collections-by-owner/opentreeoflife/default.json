@@ -11481,6 +11481,14 @@
 "name": "Fig. 4, BI",
 "studyID": "ot_2854",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Whiting, M. F. (2002). Mecoptera is paraphyletic: multiple genes and phylogeny of Mecoptera and Siphonaptera. Zoologica Scripta, 31(1), 93\u2013104. Portico. https://doi.org/10.1046/j.0300-3256.2001.00095.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 5, MP",
+"studyID": "ot_2855",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
