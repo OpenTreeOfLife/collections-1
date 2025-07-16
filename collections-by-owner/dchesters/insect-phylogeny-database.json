@@ -2828,6 +2828,14 @@
 "name": "syen12424-sup-0003-supinfos3.nex (Jin, 2020)",
 "studyID": "ot_2823",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML (Tan, 2023)",
+"studyID": "ot_2849",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
