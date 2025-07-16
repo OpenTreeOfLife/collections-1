@@ -2860,6 +2860,14 @@
 "name": "Fig. 1, ML (TIHELKA, 2020)",
 "studyID": "ot_2852",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3A, BI (WARE, 2008)",
+"studyID": "ot_2853",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
