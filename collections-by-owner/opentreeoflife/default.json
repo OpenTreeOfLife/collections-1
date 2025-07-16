@@ -11457,6 +11457,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2852",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from WARE, J. L., LITMAN, J., KLASS, K., & SPEARMAN, L. A. (2008). Relationships among the major lineages of Dictyoptera: the effect of outgroup selection on dictyopteran tree topology. Systematic Entomology, 33(3), 429\u2013450. Portico. https://doi.org/10.1111/j.1365-3113.2008.00424.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 3A, BI",
+"studyID": "ot_2853",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
