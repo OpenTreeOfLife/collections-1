@@ -2836,6 +2836,14 @@
 "name": "Fig. 1, ML (Tan, 2023)",
 "studyID": "ot_2849",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 6, MP (WIPFLER, 2011)",
+"studyID": "ot_2850",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
