@@ -2900,6 +2900,14 @@
 "name": "Fig. 1a (Schoville, 2020)",
 "studyID": "ot_2857",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (Murrell, 2005)",
+"studyID": "ot_2858",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
