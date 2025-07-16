@@ -2908,6 +2908,14 @@
 "name": "Fig. 1, BI (Murrell, 2005)",
 "studyID": "ot_2858",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI (Montagna, 2019)",
+"studyID": "ot_2859",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
