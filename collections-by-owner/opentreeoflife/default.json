@@ -11449,6 +11449,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2851",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from TIHELKA, E., GIACOMELLI, M., HUANG, D.-Y., PISANI, D., DONOGHUE, P. C. J., & CAI, C.-Y. (2020). Fleas are parasitic scorpionfliest; Palaeoentomology, 3(6), 641\u2013653. https://doi.org/10.11646/palaeoentomology.3.6.16\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2852",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
