@@ -11521,6 +11521,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2861",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kaplin, V. G. (2018). A Survey of the Distribution and Phylogenetic Relationships of the Silvestrichilis Group of Genera and of the Species of the Genus Silvestrichilis Wygodz. (Archaeognatha, Machilidae) with Description of a New Species from South Ossetia. Entomological Review, 98(3), 329\u2013351. https://doi.org/10.1134/s0013873818030107\n",
+"decision": "INCLUDED",
+"name": "Fig. 2",
+"studyID": "ot_2862",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
