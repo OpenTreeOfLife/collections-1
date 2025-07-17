@@ -11529,6 +11529,14 @@
 "name": "Fig. 2",
 "studyID": "ot_2862",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Wang, Z., Shi, Y., Qiu, Z., Che, Y., & Lo, N. (2017). Reconstructing the phylogeny of Blattodea: robust support for interfamilial relationships and major clades. Scientific Reports, 7(1). https://doi.org/10.1038/s41598-017-04243-1\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2863",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
