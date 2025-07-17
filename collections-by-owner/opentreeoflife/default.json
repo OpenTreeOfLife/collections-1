@@ -11537,6 +11537,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2863",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Liu, J., Zhang, J., Han, W., Wang, Y., He, S., & Wang, Z. (2023). Advances in the understanding of Blattodea evolution: Insights from phylotranscriptomics and spermathecae. Molecular Phylogenetics and Evolution, 182, 107753. https://doi.org/10.1016/j.ympev.2023.107753\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2864",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
