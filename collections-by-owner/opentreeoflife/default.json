@@ -11553,6 +11553,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2866",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Wang, P., Zhu, J., Wang, M., Zhang, Y., Wang, J., Zhu, Y., & Zhang, P. (2016). The complete mitochondrial genome of Reticulitermes labralis and implications for Rhinotermitidae taxonomy. Mitochondrial DNA Part B, 1(1), 392\u2013393. https://doi.org/10.1080/23802359.2016.1174085\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2867",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
