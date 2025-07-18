@@ -11561,6 +11561,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2867",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Lee, W., Han, T., Lee, J.-H., Hong, K.-J., & Park, J. (2017). The complete mitochondrial genome of the subterranean termite,Reticulitermes speratus kyushuensisMorimoto, 1968 (Isoptera: Rhinotermitidae). Mitochondrial DNA Part B, 2(1), 178\u2013179. https://doi.org/10.1080/23802359.2017.1303341\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2868",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
