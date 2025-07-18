@@ -11577,6 +11577,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2869",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from ROCHA, M. M., CANCELLO, E. M., & CARRIJO, T. F. (2012). Neotropical termites: revision ofArmitermesWasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology, 37(4), 793\u2013827. Portico. https://doi.org/10.1111/j.1365-3113.2012.00645.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 20, MP",
+"studyID": "ot_2870",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
