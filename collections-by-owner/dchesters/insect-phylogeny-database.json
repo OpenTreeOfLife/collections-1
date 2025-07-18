@@ -2988,6 +2988,14 @@
 "name": "Fig. 1, ML (Lee, 2017)",
 "studyID": "ot_2868",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML (Herv\u00e9, 2017)",
+"studyID": "ot_2869",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
