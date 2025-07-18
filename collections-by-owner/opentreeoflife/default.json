@@ -11545,6 +11545,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_2864",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Liu, G., Liu, M., Hui, W., Chen, C., & Zhang, Y. (2016). Complete mitochondrial genome of Polyphaga plancyi (Blattaria: Polyphagidae). Mitochondrial DNA Part B, 1(1), 625\u2013626. https://doi.org/10.1080/23802359.2016.1214545\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2866",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
