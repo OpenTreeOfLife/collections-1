@@ -3004,6 +3004,14 @@
 "name": "Fig. 20, MP (ROCHA, 2012)",
 "studyID": "ot_2870",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "1-s2.0-S1055790317304281-mmc4.nwk (Linard, 2018)",
+"studyID": "ot_2871",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
