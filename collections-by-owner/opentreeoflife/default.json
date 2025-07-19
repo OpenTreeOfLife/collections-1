@@ -11593,6 +11593,14 @@
 "name": "1-s2.0-S1055790317304281-mmc4.nwk",
 "studyID": "ot_2871",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Hunt, T., Bergsten, J., Levkanicova, Z., Papadopoulou, A., John, O. St., Wild, R., Hammond, P. M., Ahrens, D., Balke, M., Caterino, M. S., Go\u0301mez-Zurita, J., Ribera, I., Barraclough, T. G., Bocakova, M., Bocak, L., & Vogler, A. P. (2007). A Comprehensive Phylogeny of Beetles Reveals the Evolutionary Origins of a Superradiation. Science, 318(5858), 1913\u20131916. https://doi.org/10.1126/science.1146954\n",
+"decision": "INCLUDED",
+"name": "Fig S4",
+"studyID": "ot_2872",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
