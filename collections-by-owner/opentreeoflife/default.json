@@ -11585,6 +11585,14 @@
 "name": "Fig. 20, MP",
 "studyID": "ot_2870",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Linard, B., Crampton-Platt, A., Moriniere, J., Timmermans, M. J. T. N., And\u00fajar, C., Arribas, P., Miller, K. E., Lipecki, J., Favreau, E., Hunter, A., G\u00f3mez-Rodr\u00edguez, C., Barton, C., Nie, R., Gillett, C. P. D. T., Breeschoten, T., Bocak, L., & Vogler, A. P. (2018). The contribution of mitochondrial metagenomics to large-scale data mining and phylogenetic analysis of Coleoptera. Molecular Phylogenetics and Evolution, 128, 1\u201311. https://doi.org/10.1016/j.ympev.2018.07.008\n",
+"decision": "INCLUDED",
+"name": "1-s2.0-S1055790317304281-mmc4.nwk",
+"studyID": "ot_2871",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
