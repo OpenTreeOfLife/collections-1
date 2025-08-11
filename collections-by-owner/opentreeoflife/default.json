@@ -11601,6 +11601,14 @@
 "name": "Fig S4",
 "studyID": "ot_2872",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Davis, K. E., De\u00a0Grave, S., Delmer, C., Payne, A. R. D., Mitchell, S., & Wills, M. A. (2022). Ecological Transitions and the Shape of the Decapod Tree of Life. Integrative and Comparative Biology, 62(2), 332\u2013344. https://doi.org/10.1093/icb/icac052\n",
+"decision": "INCLUDED",
+"name": "Davis et al. 2022 (Figure 2)",
+"studyID": "ot_2876",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
