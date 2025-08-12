@@ -11609,6 +11609,14 @@
 "name": "Davis et al. 2022 (Figure 2)",
 "studyID": "ot_2876",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Shih HT, Rahayu DL, Pramono FA. 2025. Integrative taxonomy uncovers four new species and one new record of land hermit crabs Coenobita Latreille, 1829 (Crustacea: Decapoda: Anomura: Coenobitidae) from Indonesia. Zool Stud 64:11. doi:10.6620/ZS.2025.64-11.",
+"decision": "INCLUDED",
+"name": "Shih et al. 2025",
+"studyID": "ot_2877",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
