@@ -11617,6 +11617,14 @@
 "name": "Shih et al. 2025",
 "studyID": "ot_2877",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Wang, Z., Wang, Z., Chen, X., Jiang, W., Cui, C., & Cui, L. (2025). Based on Mitochondrial Genomes and Gene Order Rearrangements: Phylogenetic Relationships and Terrestrial Adaptability in Paguroidea (Crustacea: Decapoda). Ecology and Evolution, 15(8). Portico. https://doi.org/10.1002/ece3.71975\n",
+"decision": "INCLUDED",
+"name": "Wang et al. 2025",
+"studyID": "ot_2878",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
