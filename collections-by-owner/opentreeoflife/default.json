@@ -11625,6 +11625,14 @@
 "name": "Wang et al. 2025",
 "studyID": "ot_2878",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Mota, T. A., De Grave, S., & Carvalho, F. L. (2025). Multigene analysis reveals that Pseudopalaemon Sollaud, 1911 is a junior synonym of the widespread genus Macrobrachium Spence Bate, 1868 (Decapoda: Caridea: Palaemonidae). Journal of Crustacean Biology, 45(3). https://doi.org/10.1093/jcbiol/ruaf048\n",
+"decision": "INCLUDED",
+"name": "Mota et al. 2025",
+"studyID": "ot_2880",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
