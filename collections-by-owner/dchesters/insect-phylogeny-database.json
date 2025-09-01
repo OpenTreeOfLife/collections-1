@@ -3020,6 +3020,14 @@
 "name": "Fig S4 (Hunt, 2007)",
 "studyID": "ot_2872",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 5, ML (PIWCZY\u0143SKI, 2014)",
+"studyID": "ot_2881",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
