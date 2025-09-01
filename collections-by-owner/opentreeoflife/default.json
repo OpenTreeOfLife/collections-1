@@ -11633,6 +11633,14 @@
 "name": "Mota et al. 2025",
 "studyID": "ot_2880",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from PIWCZY\u0143SKI, M., SZPILA, K., GRZYWACZ, A., & PAPE, T. (2014). A large\u2010scale molecular phylogeny of flesh flies (<scp>D</scp>iptera: <scp>S</scp>arcophagidae). Systematic Entomology, 39(4), 783\u2013799. Portico. https://doi.org/10.1111/syen.12086\n",
+"decision": "INCLUDED",
+"name": "Fig. 5, ML",
+"studyID": "ot_2881",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
