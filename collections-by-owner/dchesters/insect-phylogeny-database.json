@@ -3028,6 +3028,14 @@
 "name": "Fig. 5, ML (PIWCZY\u0143SKI, 2014)",
 "studyID": "ot_2881",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (HEMP, 2014)",
+"studyID": "ot_2882",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
