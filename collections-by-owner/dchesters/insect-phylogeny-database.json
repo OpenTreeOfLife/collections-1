@@ -3052,6 +3052,14 @@
 "name": "Fig. 1 (Jie, 2016)",
 "studyID": "ot_2884",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP (DRESSLER, 2011)",
+"studyID": "ot_2885",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
