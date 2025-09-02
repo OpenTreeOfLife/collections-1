@@ -11641,6 +11641,14 @@
 "name": "Fig. 5, ML",
 "studyID": "ot_2881",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from HEMP, C., KEHL, S., SCHULTZ, O., W\u00c4GELE, J. W., & HEMP, A. (2014). Climatic fluctuations and orogenesis as motors for\u00a0speciation in <scp>E</scp>ast <scp>A</scp>frica: case study on Parepistaurus<scp>K</scp>arsch, 1896 (<scp>O</scp>rthoptera). Systematic Entomology, 40(1), 17\u201334. Portico. https://doi.org/10.1111/syen.12092\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2882",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
