@@ -11665,6 +11665,14 @@
 "name": "Fig. 2, MP",
 "studyID": "ot_2885",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from LIEBHERR, J. K., MARRIS, J. W. M., EMBERSON, R. M., SYRETT, P., & ROIG\u2010JU\u00d1ENT, S. (2011). Orthoglymma wangapeka gen.n., sp.n. (Coleoptera: Carabidae: Broscini): a newly discovered relict from the Buller Terrane, north\u2010western South Island, New Zealand, corroborates a general pattern of Gondwanan endemism. Systematic Entomology, 36(3), 395\u2013414. Portico. https://doi.org/10.1111/j.1365-3113.2011.00569.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP",
+"studyID": "ot_2886",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
