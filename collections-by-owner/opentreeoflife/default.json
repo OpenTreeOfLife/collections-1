@@ -11657,6 +11657,14 @@
 "name": "Fig. 2, MP",
 "studyID": "ot_2883",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from DRESSLER, C., GE, S., & BEUTEL, R. G. (2011). Is Meru a specialized noterid (Coleoptera, Adephaga)? Systematic Entomology, 36(4), 705\u2013712. Portico. https://doi.org/10.1111/j.1365-3113.2011.00585.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP",
+"studyID": "ot_2885",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
