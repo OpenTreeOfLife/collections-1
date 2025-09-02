@@ -3060,6 +3060,14 @@
 "name": "Fig. 2, MP (DRESSLER, 2011)",
 "studyID": "ot_2885",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP (LIEBHERR, 2011)",
+"studyID": "ot_2886",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
