@@ -11697,6 +11697,14 @@
 "name": "TrechitesFinalMatricesAndAnalyses.nex",
 "studyID": "ot_2889",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Maddison, D. R., & Porch, N. (2021). A preliminary phylogeny and review of the genus Tasmanitachoides, with descriptions of two new species (Coleoptera, Carabidae, Bembidarenini). ZooKeys, 1044, 153\u2013196. https://doi.org/10.3897/zookeys.1044.62253\n",
+"decision": "INCLUDED",
+"name": "Fig. 5, ML",
+"studyID": "ot_2890",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
