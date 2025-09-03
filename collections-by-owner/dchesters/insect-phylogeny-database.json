@@ -3092,6 +3092,14 @@
 "name": "TrechitesFinalMatricesAndAnalyses.nex (Maddison, 2019)",
 "studyID": "ot_2889",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 5, ML (Maddison, 2021)",
+"studyID": "ot_2890",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
