@@ -11681,6 +11681,14 @@
 "name": "Staph_BI_50PctMRCons",
 "studyID": "ot_2887",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kavanaugh, D. H., Maddison, D. R., Simison, W. B., Schoville, S. D., Schmidt, J., Faille, A., Moore, W., Pflug, J. M., Archambeault, S. L., Hoang, T., & Chen, J.-Y. (2021). Phylogeny of the supertribe Nebriitae (Coleoptera, Carabidae) based on analyses of DNA sequence data. ZooKeys, 1044, 41\u2013152. https://doi.org/10.3897/zookeys.1044.62245\n",
+"decision": "INCLUDED",
+"name": "NebriitaeMatricesAndTrees.nex",
+"studyID": "ot_2888",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
