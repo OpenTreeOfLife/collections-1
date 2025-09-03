@@ -3068,6 +3068,14 @@
 "name": "Fig. 2, MP (LIEBHERR, 2011)",
 "studyID": "ot_2886",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Staph_BI_50PctMRCons (MCKENNA, 2014)",
+"studyID": "ot_2887",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
