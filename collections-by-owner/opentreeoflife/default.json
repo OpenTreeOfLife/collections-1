@@ -11689,6 +11689,14 @@
 "name": "NebriitaeMatricesAndTrees.nex",
 "studyID": "ot_2888",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Maddison, D. R., Kanda, K., Boyd, O. F., Faille, A., Porch, N., Erwin, T. L., & Roig-Ju\u00f1ent, S. (2019). Phylogeny of the beetle supertribe Trechitae (Coleoptera: Carabidae): Unexpected clades, isolated lineages, and morphological convergence. Molecular Phylogenetics and Evolution, 132, 151\u2013176. https://doi.org/10.1016/j.ympev.2018.11.006\n",
+"decision": "INCLUDED",
+"name": "TrechitesFinalMatricesAndAnalyses.nex",
+"studyID": "ot_2889",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
