@@ -3076,6 +3076,14 @@
 "name": "Staph_BI_50PctMRCons (MCKENNA, 2014)",
 "studyID": "ot_2887",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "NebriitaeMatricesAndTrees.nex (Kavanaugh, 2021)",
+"studyID": "ot_2888",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
