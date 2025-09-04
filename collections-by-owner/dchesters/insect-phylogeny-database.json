@@ -3108,6 +3108,14 @@
 "name": "Fig. 10, MP (PALADINI, 2014)",
 "studyID": "ot_2892",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI (Hawlitschek, 2012)",
+"studyID": "ot_2893",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
