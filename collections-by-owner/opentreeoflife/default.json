@@ -11705,6 +11705,14 @@
 "name": "Fig. 5, ML",
 "studyID": "ot_2890",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from PALADINI, A., TAKIYA, D. M., CAVICHIOLI, R. R., & CARVALHO, G. S. (2014). Phylogeny and biogeography of <scp>N</scp>eotropical spittlebugs (<scp>H</scp>emiptera: <scp>C</scp>ercopidae: <scp>I</scp>schnorhininae): revised tribal classification based on morphological data. Systematic Entomology, 40(1), 82\u2013108. Portico. https://doi.org/10.1111/syen.12091\n",
+"decision": "INCLUDED",
+"name": "Fig. 10, MP",
+"studyID": "ot_2892",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
