@@ -11721,6 +11721,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2893",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from MICHAT, M. C., ALARIE, Y., & MILLER, K. B. (2017). Higher\u2010level phylogeny of diving beetles (<scp>C</scp>oleoptera: <scp>D</scp>ytiscidae) based on larval characters. Systematic Entomology, 42(4), 734\u2013767. Portico. https://doi.org/10.1111/syen.12243\n",
+"decision": "INCLUDED",
+"name": "Figs. 5,6",
+"studyID": "ot_2894",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
