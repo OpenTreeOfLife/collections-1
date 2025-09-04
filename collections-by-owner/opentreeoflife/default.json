@@ -11729,6 +11729,14 @@
 "name": "Figs. 5,6",
 "studyID": "ot_2894",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Michat, M. C., & Alarie, Y. (2013). Phylogenetic relationships, larval morphology, and chaetotaxy of the subfamily Coptotominae (Coleoptera: Dytiscidae). The Canadian Entomologist, 145(3), 247\u2013264. https://doi.org/10.4039/tce.2012.100\n",
+"decision": "INCLUDED",
+"name": "Fig. 20, MP",
+"studyID": "ot_2895",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
