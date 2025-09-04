@@ -11713,6 +11713,14 @@
 "name": "Fig. 10, MP",
 "studyID": "ot_2892",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Hawlitschek, O., Hendrich, L., & Balke, M. (2012). Molecular phylogeny of the squeak beetles, a family with disjunct Palearctic-Australian range. Molecular Phylogenetics and Evolution, 62(1), 550\u2013554. https://doi.org/10.1016/j.ympev.2011.09.015\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2893",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
