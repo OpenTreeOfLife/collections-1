@@ -11753,6 +11753,14 @@
 "name": "Fig. 33",
 "studyID": "ot_2897",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ribera, I., Bilton, D. T., Balke, M., & Hendrich, L. (2003). Evolution, mitochondrial DNA phylogeny and systematic position of the Macaronesian endemic Hydrotarsus Falkenstr\u00f6m (Coleoptera: Dytiscidae). Systematic Entomology, 28(4), 493\u2013508. Portico. https://doi.org/10.1046/j.1365-3113.2003.00226.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, MP",
+"studyID": "ot_2898",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
