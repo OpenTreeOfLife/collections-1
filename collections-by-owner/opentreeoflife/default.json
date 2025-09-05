@@ -11737,6 +11737,14 @@
 "name": "Fig. 20, MP",
 "studyID": "ot_2895",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Miller, K. B., Bergsten, J., & Whiting, M. F. (2009). Phylogeny and classification of the tribe Hydaticini (Coleoptera: Dytiscidae): partition choice for Bayesian analysis with multiple nuclear and mitochondrial protein\u2010coding genes. Zoologica Scripta, 38(6), 591\u2013615. Portico. https://doi.org/10.1111/j.1463-6409.2009.00393.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 23, BI",
+"studyID": "ot_2896",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
