@@ -11745,6 +11745,14 @@
 "name": "Fig. 23, BI",
 "studyID": "ot_2896",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Miller, K. B. (2001). Revision and phylogenetic analysis of the New World genus Neoclypeodytes Young (Coleoptera: Dytiscidae: Hydroporinae: Bidessini). Systematic Entomology, 26(1), 87\u2013123. Portico. https://doi.org/10.1046/j.1365-3113.2001.00144.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 33",
+"studyID": "ot_2897",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
