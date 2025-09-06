@@ -11817,6 +11817,14 @@
 "name": "Fig. S1B, BI",
 "studyID": "ot_2906",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Sun, H., Zhao, W., Lin, R., Zhou, Z., Huai, W., & Yao, Y. (2020). The conserved mitochondrial genome of the jewel beetle (Coleoptera: Buprestidae) and its phylogenetic implications for the suborder Polyphaga. Genomics, 112(5), 3713\u20133721. https://doi.org/10.1016/j.ygeno.2020.04.026\n",
+"decision": "INCLUDED",
+"name": "Figure 4(A).tre",
+"studyID": "ot_2907",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
