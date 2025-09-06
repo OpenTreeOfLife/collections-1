@@ -11801,6 +11801,14 @@
 "name": "Fig. 7, MP",
 "studyID": "ot_2904",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from CATERINO, M. S., & TISHECHKIN, A. K. (2014). Phylogeny and generic limits in <scp>N</scp>ew <scp>W</scp>orld <scp>E</scp>xosternini (<scp>C</scp>oleoptera: <scp>H</scp>isteridae: <scp>H</scp>isterinae). Systematic Entomology, 40(1), 109\u2013142. Portico. https://doi.org/10.1111/syen.12095\n",
+"decision": "INCLUDED",
+"name": "Figs. 238-241, MP",
+"studyID": "ot_2905",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
