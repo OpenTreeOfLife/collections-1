@@ -3180,6 +3180,14 @@
 "name": "Fig. S1, BI (Gustafson, 2017)",
 "studyID": "ot_2901",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4, MP (Li, 2019)",
+"studyID": "ot_2902",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
