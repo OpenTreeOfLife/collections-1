@@ -11809,6 +11809,14 @@
 "name": "Figs. 238-241, MP",
 "studyID": "ot_2905",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from SHORT, A. E. Z., JOLY, L. J., GARC\u00cdA, M., WILD, A. L., BLOOM, D. D., & MADDISON, D. R. (2015). Molecular phylogeny of the<scp>H</scp>ydroscaphidae (<scp>C</scp>oleoptera:<scp>M</scp>yxophaga) with description of a remarkable new lineage from the<scp>G</scp>uiana<scp>S</scp>hield. Systematic Entomology, 40(1), 214\u2013229. Portico. https://doi.org/10.1111/syen.12097\n",
+"decision": "INCLUDED",
+"name": "Fig. S1B, BI",
+"studyID": "ot_2906",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
