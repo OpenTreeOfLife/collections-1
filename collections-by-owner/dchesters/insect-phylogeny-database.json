@@ -3164,6 +3164,14 @@
 "name": "Fig. 2, MP (Miller, 2005)",
 "studyID": "ot_2899",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI (MILLER, 2012)",
+"studyID": "ot_2900",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
