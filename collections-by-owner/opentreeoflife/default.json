@@ -11761,6 +11761,14 @@
 "name": "Fig. 3, MP",
 "studyID": "ot_2898",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from MILLER, K. B., & BERGSTEN, J. (2012). Phylogeny and classification of whirligig beetles (Coleoptera: Gyrinidae): relaxed\u2010clock model outperforms parsimony and time\u2010free Bayesian analyses. Systematic Entomology, 37(4), 706\u2013746. Portico. https://doi.org/10.1111/j.1365-3113.2012.00640.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI",
+"studyID": "ot_2900",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
