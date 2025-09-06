@@ -11785,6 +11785,14 @@
 "name": "Fig. 4, MP",
 "studyID": "ot_2902",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from H\u00d6RNSCHEMEYER, T. (2009). The species\u2010level phylogeny of archostematan beetles\u2014where doMicromalthus debilisandCrowsoniella relictabelong? Systematic Entomology, 34(3), 533\u2013558. Portico. https://doi.org/10.1111/j.1365-3113.2009.00476.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI",
+"studyID": "ot_2903",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
