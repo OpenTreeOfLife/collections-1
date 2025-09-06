@@ -3204,6 +3204,14 @@
 "name": "Fig. 7, MP (Yavorskaya, 2018)",
 "studyID": "ot_2904",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Figs. 238-241, MP (CATERINO, 2014)",
+"studyID": "ot_2905",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
