@@ -11793,6 +11793,14 @@
 "name": "Fig. 3, BI",
 "studyID": "ot_2903",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Yavorskaya, M. I., Anton, E., Ja\u0142oszy\u0144ski, P., Polilov, A., & Beutel, R. G. (2018). Cephalic anatomy of Sphaeriusidae and a morphology\u2010based phylogeny of the suborder Myxophaga (Coleoptera). Systematic Entomology, 43(4), 777\u2013797. Portico. https://doi.org/10.1111/syen.12304\n",
+"decision": "INCLUDED",
+"name": "Fig. 7, MP",
+"studyID": "ot_2904",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
