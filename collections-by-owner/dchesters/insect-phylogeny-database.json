@@ -3268,6 +3268,14 @@
 "name": "Dermestidae.20200925.masked.AA.... (Zhou, 2022)",
 "studyID": "ot_2912",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 27, MP (Kiselyova, 2006)",
+"studyID": "ot_2913",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
