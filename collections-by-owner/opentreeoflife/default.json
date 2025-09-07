@@ -11841,6 +11841,14 @@
 "name": "Fig. 1 Left, BI",
 "studyID": "ot_2911",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kiselyova, T., & Mchugh, J. V. (2006). A phylogenetic study of Dermestidae (Coleoptera) based on larval morphology. Systematic Entomology, 31(3), 469\u2013507. Portico. https://doi.org/10.1111/j.1365-3113.2006.00335.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 27, MP",
+"studyID": "ot_2913",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
