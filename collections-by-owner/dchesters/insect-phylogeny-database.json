@@ -3228,6 +3228,14 @@
 "name": "Figure 4(A).tre (Sun, 2020)",
 "studyID": "ot_2907",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 11A, BI (LESCHEN, 2014)",
+"studyID": "ot_2908",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
