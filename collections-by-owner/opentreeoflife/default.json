@@ -11825,6 +11825,14 @@
 "name": "Figure 4(A).tre",
 "studyID": "ot_2907",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from LESCHEN, R. A. B., & BUCKLEY, T. R. (2014). Revision and phylogeny of Syrphetodes (<scp>C</scp>oleoptera: <scp>U</scp>lodidae): implications for biogeography, alpinization and conservation. Systematic Entomology, 40(1), 143\u2013168. Portico. https://doi.org/10.1111/syen.12094\n",
+"decision": "INCLUDED",
+"name": "Fig. 11A, BI",
+"studyID": "ot_2908",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
