@@ -4,7 +4,21 @@
 "login": "mwestneat",
 "name": "Mark Westneat"
 },
-"decisions": [],
+"decisions": [
+{
+"SHA": "",
+"comments": "lots of birds in this tree!",
+"compactRefText": "McTavish, 2024",
+"decision": "INCLUDED",
+"defaultSortOrder": 0,
+"name": "Aves 1.3 Phylo Only (McTavish, 2024)",
+"ot:studyPublication": "http://dx.doi.org/10.1101/2024.05.20.595017",
+"ot:studyPublicationReference": "McTavish, E. J., Gerbracht, J. A., Holder, M. T., Iliff, M. J., Lepage, D., Rasmussen, P., Redelings, B., Sanchez Reyes, L. L., & Miller, E. T. (2024). A complete and dynamic tree of birds. https://doi.org/10.1101/2024.05.20.595017\n",
+"ot:studyYear": 2024,
+"studyID": "ot_2343",
+"treeID": "tree1"
+}
+],
 "description": "bird trees",
 "name": "birds",
 "queries": []
