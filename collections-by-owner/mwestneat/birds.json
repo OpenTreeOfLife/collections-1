@@ -17,6 +17,20 @@
 "ot:studyYear": 2024,
 "studyID": "ot_2343",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "great big bird tree",
+"compactRefText": "Hackett, 2008",
+"decision": "INCLUDED",
+"defaultSortOrder": 1,
+"name": "ML majority rule consensus (Hackett, 2008)",
+"ot:focalCladeOTTTaxonName": "Aves",
+"ot:studyPublication": "http://dx.doi.org/10.1126/science.1157704",
+"ot:studyPublicationReference": "Hackett, S. J., R. T. Kimball, S. Reddy, R. C. K. Bowie, E. L. Braun, M. J. Braun, J. L. Chojnowski, W. A. Cox, K.-L. Han, J. Harshman, C. J. Huddleston, B. D. Marks, K. J. Miglia, W. S. Moore, F. H. Sheldon, D. W. Steadman, C. C. Witt, T. Yuri. 2008. A Phylogenomic Study of Birds Reveals Their Evolutionary History. Science 320 (5884): 1763-1768.",
+"ot:studyYear": 2008,
+"studyID": "pg_420",
+"treeID": "tree522"
 }
 ],
 "description": "bird trees",
