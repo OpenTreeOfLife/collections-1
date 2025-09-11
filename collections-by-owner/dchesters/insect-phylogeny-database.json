@@ -3284,6 +3284,14 @@
 "name": "Fig. 2, BI (LIU, 2014)",
 "studyID": "ot_2914",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S2A (Motyka, 2021)",
+"studyID": "ot_2915",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
