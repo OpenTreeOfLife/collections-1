@@ -11873,6 +11873,14 @@
 "name": "Figs. 4-9, ML",
 "studyID": "ot_2917",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Robertson, J. A., Whiting, M. F., & McHugh, J. V. (2008). Searching for natural lineages within the Cerylonid Series (Coleoptera: Cucujoidea). Molecular Phylogenetics and Evolution, 46(1), 193\u2013205. https://doi.org/10.1016/j.ympev.2007.09.017\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_2918",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
