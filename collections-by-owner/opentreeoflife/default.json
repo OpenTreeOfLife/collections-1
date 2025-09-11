@@ -11881,6 +11881,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_2918",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Shin, N. R., Shin, S., Okamura, Y., Kirsch, R., Lombard, V., Svacha, P., Denux, O., Augustin, S., Henrissat, B., McKenna, D. D., & Pauchet, Y. (2021). Larvae of longhorned beetles (Coleoptera; Cerambycidae) have evolved a diverse and phylogenetically conserved array of plant cell wall degrading enzymes. Systematic Entomology, 46(4), 784\u2013797. Portico. https://doi.org/10.1111/syen.12488\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2919",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
