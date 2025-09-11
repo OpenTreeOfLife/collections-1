@@ -11849,6 +11849,14 @@
 "name": "Fig. 27, MP",
 "studyID": "ot_2913",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from LIU, Q., CHEN, J., HUANG, X., JIANG, L., & QIAO, G. (2014). Ancient association with <scp>F</scp>agaceae in the aphid tribe <scp>G</scp>reenideini (<scp>H</scp>emiptera: <scp>A</scp>phididae: <scp>G</scp>reenideinae). Systematic Entomology, 40(1), 230\u2013241. Portico. https://doi.org/10.1111/syen.12100\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2914",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
