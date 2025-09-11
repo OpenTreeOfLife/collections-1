@@ -11865,6 +11865,14 @@
 "name": "Fig. S2A",
 "studyID": "ot_2915",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from ROBERTSON, J. A., \u015aLIPI\u0143SKI, A., MOULTON, M., SHOCKLEY, F. W., GIORGI, A., LORD, N. P., MCKENNA, D. D., TOMASZEWSKA, W., FORRESTER, J., MILLER, K. B., WHITING, M. F., & MCHUGH, J. V. (2015). Phylogeny and classification of<scp>C</scp>ucujoidea and the recognition of a new superfamily<scp>C</scp>occinelloidea (<scp>C</scp>oleoptera:<scp>C</scp>ucujiformia). Systematic Entomology, 40(4), 745\u2013778. Portico. https://doi.org/10.1111/syen.12138\n",
+"decision": "INCLUDED",
+"name": "Figs. 4-9, ML",
+"studyID": "ot_2917",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
