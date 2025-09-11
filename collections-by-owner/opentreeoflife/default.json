@@ -11905,6 +11905,14 @@
 "name": "Fig. 4 left, BI",
 "studyID": "ot_2921",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Lee, S., & Lee, S. (2020). Multigene phylogeny uncovers oviposition-related evolutionary history of Cerambycinae (Coleoptera: Cerambycidae). Molecular Phylogenetics and Evolution, 145, 106707. https://doi.org/10.1016/j.ympev.2019.106707\n",
+"decision": "INCLUDED",
+"name": "Fig. 2",
+"studyID": "ot_2922",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
