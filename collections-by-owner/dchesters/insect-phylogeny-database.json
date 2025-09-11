@@ -3300,6 +3300,14 @@
 "name": "Fig. 15, MP (Philips, 2000)",
 "studyID": "ot_2916",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Figs. 4-9, ML (ROBERTSON, 2015)",
+"studyID": "ot_2917",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
