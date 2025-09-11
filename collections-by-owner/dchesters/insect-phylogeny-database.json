@@ -3292,6 +3292,14 @@
 "name": "Fig. S2A (Motyka, 2021)",
 "studyID": "ot_2915",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 15, MP (Philips, 2000)",
+"studyID": "ot_2916",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
