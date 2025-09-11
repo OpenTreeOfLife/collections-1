@@ -3308,6 +3308,14 @@
 "name": "Figs. 4-9, ML (ROBERTSON, 2015)",
 "studyID": "ot_2917",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP (Robertson, 2008)",
+"studyID": "ot_2918",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
