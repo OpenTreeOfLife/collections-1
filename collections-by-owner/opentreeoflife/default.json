@@ -11889,6 +11889,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2919",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Jin, M., Shin, S., Ashman, L. G., Leschen, R. A. B., Zwick, A., de Keyzer, R., McKenna, D. D., & \u015alipi\u0144ski, A. (2022). Phylogenomics resolves timing and patterns in the evolution of Australasian Cerambycinae (Coleoptera: Cerambycidae), and reveals new insights into the subfamily-level classification and historical biogeography of longhorn beetles. Molecular Phylogenetics and Evolution, 172, 107486. https://doi.org/10.1016/j.ympev.2022.107486\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2920",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
