@@ -3412,6 +3412,14 @@
 "name": "Fig. 3, ML (Song, 2017)",
 "studyID": "ot_2930",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML (PONCE, 2014)",
+"studyID": "ot_2931",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
