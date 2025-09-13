@@ -11985,6 +11985,14 @@
 "name": "Fig. 3, ML",
 "studyID": "ot_2930",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from PONCE, F. V., BREINHOLT, J. W., HOSSIE, T., BARBER, J. R., JANZEN, D. H., HALLWACHS, W., & KAWAHARA, A. Y. (2014). A molecular phylogeny of Eumorpha (<scp>L</scp>epidoptera: <scp>S</scp>phingidae) and the evolution of anti\u2010predator larval eyespots. Systematic Entomology, 40(2), 401\u2013408. Portico. https://doi.org/10.1111/syen.12111\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2931",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
