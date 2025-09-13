@@ -11921,6 +11921,14 @@
 "name": "IQtree-output_LFD-185t-870loci-122...",
 "studyID": "ot_2923",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Sutherland, L. N., Schnepp, K. E., Powell, G. S., & Bybee, S. M. (2021). Phylogenetic Placement of the Plesioclytini (Coleoptera: Cerambycidae: Cerambycinae). Diversity, 13(11), 597. https://doi.org/10.3390/d13110597\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2924",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
