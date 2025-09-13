@@ -11913,6 +11913,14 @@
 "name": "Fig. 2",
 "studyID": "ot_2922",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Oberski, J. T. (2024). <scp>Ultraconserved element (UCE)</scp> phylogenomics illuminates the evolutionary history and biogeography of Dorymyrmex pyramid ants. Systematic Entomology, 50(2), 325\u2013348. Portico. https://doi.org/10.1111/syen.12658\n",
+"decision": "INCLUDED",
+"name": "IQtree-output_LFD-185t-870loci-122...",
+"studyID": "ot_2923",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
