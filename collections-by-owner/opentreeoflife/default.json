@@ -11969,6 +11969,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2928",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Wu, M., Qian, X., Qin, M., Tu, T., & Zhang, R. (2020). Characterization of the complete mitochondrial genome ofCaryopemon giganteusPic (Coleoptera: Chrysomelidae: Bruchinae). Mitochondrial DNA Part B, 5(1), 929\u2013931. https://doi.org/10.1080/23802359.2020.1719927\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2929",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
