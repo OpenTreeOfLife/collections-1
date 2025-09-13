@@ -3388,6 +3388,14 @@
 "name": "Complete_tree.tre (Cardoso, 2025)",
 "studyID": "ot_2927",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (WAICHERT, 2014)",
+"studyID": "ot_2928",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
