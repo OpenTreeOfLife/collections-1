@@ -3364,6 +3364,14 @@
 "name": "Fig. 1, ML (Sutherland, 2021)",
 "studyID": "ot_2924",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S1, ML (Zhang, 2022)",
+"studyID": "ot_2925",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
