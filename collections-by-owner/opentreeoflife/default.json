@@ -11929,6 +11929,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2924",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Zhang, H., Song, N., & Yin, X. (2022). Higher-level phylogeny of Chrysomelidae based on expanded sampling of mitogenomes. PLOS ONE, 17(1), e0258587. https://doi.org/10.1371/journal.pone.0258587\n",
+"decision": "INCLUDED",
+"name": "Fig. S1, ML",
+"studyID": "ot_2925",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
