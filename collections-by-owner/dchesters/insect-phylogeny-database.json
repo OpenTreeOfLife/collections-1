@@ -3348,6 +3348,14 @@
 "name": "Fig. 2 (Lee, 2020)",
 "studyID": "ot_2922",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "IQtree-output_LFD-185t-870loci-122... (Oberski, 2024)",
+"studyID": "ot_2923",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
