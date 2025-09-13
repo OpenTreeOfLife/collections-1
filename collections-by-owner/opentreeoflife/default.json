@@ -11953,6 +11953,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2926",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cardoso, G. A., Cunha, V. A. S., Genevcius, B. C., Madeira\u2010Ott, T., Costa, B. M. de A., Rossoni, D. M., Thyssen, P. J., & Torres, T. T. (2025). Origins and Diversification of Myiasis Across Blowflies. Ecology and Evolution, 15(2). Portico. https://doi.org/10.1002/ece3.70993\n",
+"decision": "INCLUDED",
+"name": "Complete_tree.tre",
+"studyID": "ot_2927",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
