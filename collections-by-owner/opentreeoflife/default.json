@@ -11977,6 +11977,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2929",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Song, N., Yin, X., Zhao, X., Chen, J., & Yin, J. (2017). Reconstruction of mitogenomes by NGS and phylogenetic implications for leaf beetles. Mitochondrial DNA Part A, 29(7), 1041\u20131050. https://doi.org/10.1080/24701394.2017.1404044\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, ML",
+"studyID": "ot_2930",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
