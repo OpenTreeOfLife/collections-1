@@ -11961,6 +11961,14 @@
 "name": "Complete_tree.tre",
 "studyID": "ot_2927",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from WAICHERT, C., VON DOHLEN, C. D., & PITTS, J. P. (2014). Resurrection, revision and molecular phylogenetics of Eragenia<scp>B</scp>anks with implications for <scp>A</scp>geniellini systematics (<scp>H</scp>ymenoptera: <scp>P</scp>ompilidae). Systematic Entomology, 40(2), 291\u2013321. Portico. https://doi.org/10.1111/syen.12101\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2928",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
