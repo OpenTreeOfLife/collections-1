@@ -11937,6 +11937,14 @@
 "name": "Fig. S1, ML",
 "studyID": "ot_2925",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Zhang, Y. M., Delvare, G., Blaimer, B. B., Cruaud, A., Rasplus, J., Brady, S. G., & Gates, M. W. (2025). Phasing in and out of phytophagy: Phylogeny and evolution of the family Eurytomidae (Hymenoptera: Chalcidoidea) based on Ultraconserved Elements. Systematic Entomology. Portico. https://doi.org/10.1111/syen.12682\n",
+"decision": "INCLUDED",
+"name": "Eury70p_MCMCTree.tre",
+"studyID": "ot_2767",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
