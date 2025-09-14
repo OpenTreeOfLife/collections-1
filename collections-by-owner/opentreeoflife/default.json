@@ -11993,6 +11993,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2931",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from LEIVAS, F. W. T., BICHO, C. L., & ALMEIDA, L. M. (2014). Cladistic analysis of<scp>O</scp>malodini<scp>K</scp>ryzhanovskij (<scp>C</scp>oleoptera:<scp>H</scp>isteridae:<scp>H</scp>isterinae). Systematic Entomology, 40(2), 433\u2013455. Portico. https://doi.org/10.1111/syen.12112\n",
+"decision": "INCLUDED",
+"name": "Fig. 12, MP",
+"studyID": "ot_2932",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
