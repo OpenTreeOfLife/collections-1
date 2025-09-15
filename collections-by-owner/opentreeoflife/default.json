@@ -12001,6 +12001,14 @@
 "name": "Fig. 12, MP",
 "studyID": "ot_2932",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kirsch, R., Okamura, Y., Garc\u00eda-Lozano, M., Weiss, B., Keller, J., Vogel, H., Fukumori, K., Fukatsu, T., Konstantinov, A. S., Montagna, M., Moseyko, A. G., Riley, E. G., Slipinski, A., Vencl, F. V., Windsor, D. M., Salem, H., Kaltenpoth, M., & Pauchet, Y. (2025). Symbiosis and horizontal gene transfer promote herbivory in the megadiverse leaf beetles. Current Biology, 35(3), 640-654.e7. https://doi.org/10.1016/j.cub.2024.12.028\n",
+"decision": "INCLUDED",
+"name": "Fig. S3",
+"studyID": "ot_2933",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
