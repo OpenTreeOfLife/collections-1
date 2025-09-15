@@ -3436,6 +3436,14 @@
 "name": "Fig. S3 (Kirsch, 2025)",
 "studyID": "ot_2933",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML (Kergoat, 2004)",
+"studyID": "ot_2934",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
