@@ -12009,6 +12009,14 @@
 "name": "Fig. S3",
 "studyID": "ot_2933",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kergoat, G. J., Delobel, A., & Silvain, J.-F. (2004). Phylogeny and host-specificity of European seed beetles (Coleoptera, Bruchidae), new insights from molecular and ecological data. Molecular Phylogenetics and Evolution, 32(3), 855\u2013865. https://doi.org/10.1016/j.ympev.2004.02.019\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2934",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
