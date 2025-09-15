@@ -3428,6 +3428,14 @@
 "name": "Fig. 12, MP (LEIVAS, 2014)",
 "studyID": "ot_2932",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S3 (Kirsch, 2025)",
+"studyID": "ot_2933",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
