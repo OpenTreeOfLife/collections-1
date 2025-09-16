@@ -3444,6 +3444,14 @@
 "name": "Fig. 2, ML (Kergoat, 2004)",
 "studyID": "ot_2934",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI (WINTERTON, 2015)",
+"studyID": "ot_2935",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
