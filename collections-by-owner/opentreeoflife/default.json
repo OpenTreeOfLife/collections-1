@@ -12049,6 +12049,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2938",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from SIHVONEN, P., STAUDE, H. S., & MUTANEN, M. (2015). Systematic position of the enigmatic African cycad moths: an integrative approach to a nearly century old problem (Lepidoptera: Geometridae, Diptychini). Systematic Entomology, 40(3), 606\u2013627. Portico. https://doi.org/10.1111/syen.12125\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2939",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
