@@ -3492,6 +3492,14 @@
 "name": "Fig. 4B, MP (GE, 2011)",
 "studyID": "ot_2940",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3b, BI (K\u00f6lsch, 2008)",
+"studyID": "ot_2941",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
