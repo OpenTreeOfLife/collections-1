@@ -12041,6 +12041,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_2937",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BILTON, D. T., TOUSSAINT, E. F. A., TURNER, C. R., & BALKE, M. (2015). Capelatus prykei gen. et sp.n. (Coleoptera: Dytiscidae: Copelatinae) \u2013 a phylogenetically isolated diving beetle from the Western Cape of South Africa. Systematic Entomology, 40(3), 520\u2013531. Portico. https://doi.org/10.1111/syen.12128\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2938",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
