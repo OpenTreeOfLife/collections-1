@@ -12033,6 +12033,14 @@
 "name": "Fig. 2, MP",
 "studyID": "ot_2936",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Matsumura, Y., Yao, I., Beutel, R., & Yoshizawa, K. (2014). Molecular phylogeny of the leaf beetle subfamily Criocerinae (Coleoptera: Chrysomelidae) and the correlated evolution of reproductive organs. Arthropod Systematics &amp; Phylogeny, 72(2), 95\u2013110. https://doi.org/10.3897/asp.72.e31887\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2937",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
