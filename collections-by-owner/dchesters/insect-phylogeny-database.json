@@ -3452,6 +3452,14 @@
 "name": "Fig. 4, BI (WINTERTON, 2015)",
 "studyID": "ot_2935",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP (L\u00d3PEZ\u2010P\u00c9REZ, 2017)",
+"studyID": "ot_2936",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
