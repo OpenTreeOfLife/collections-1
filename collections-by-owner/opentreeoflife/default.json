@@ -12017,6 +12017,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_2934",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from WINTERTON, S. L., & WARE, J. L. (2015). Phylogeny, divergence times and biogeography of window flies (Scenopinidae) and the therevoid clade (Diptera: Asiloidea). Systematic Entomology, 40(3), 491\u2013519. Portico. https://doi.org/10.1111/syen.12117\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI",
+"studyID": "ot_2935",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
