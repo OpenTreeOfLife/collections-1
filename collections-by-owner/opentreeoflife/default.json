@@ -12057,6 +12057,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2939",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from K\u00f6lsch, G., & Pedersen, B. V. (2008). Molecular phylogeny of reed beetles (Col., Chrysomelidae, Donaciinae): The signature of ecological specialization and geographical isolation. Molecular Phylogenetics and Evolution, 48(3), 936\u2013952. https://doi.org/10.1016/j.ympev.2008.05.035\n",
+"decision": "INCLUDED",
+"name": "Fig. 3b, BI",
+"studyID": "ot_2941",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
