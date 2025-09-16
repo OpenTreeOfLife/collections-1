@@ -3484,6 +3484,14 @@
 "name": "Fig. 2, BI (SIHVONEN, 2015)",
 "studyID": "ot_2939",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4B, MP (GE, 2011)",
+"studyID": "ot_2940",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
