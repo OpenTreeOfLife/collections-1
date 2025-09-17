@@ -12089,6 +12089,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2944",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Reis, F., Kirsch, R., Pauchet, Y., Bauer, E., Bilz, L. C., Fukumori, K., Fukatsu, T., K\u00f6lsch, G., & Kaltenpoth, M. (2020). Bacterial symbionts support larval sap feeding and adult folivory in (semi-)aquatic reed beetles. Nature Communications, 11(1). https://doi.org/10.1038/s41467-020-16687-7\n",
+"decision": "INCLUDED",
+"name": "Fig. 4a, NJ",
+"studyID": "ot_2945",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
