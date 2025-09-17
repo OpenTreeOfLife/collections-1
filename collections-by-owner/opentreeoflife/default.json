@@ -12073,6 +12073,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2942",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BALV\u00cdN, O., ROTH, S., & VIL\u00cdMOV\u00c1, J. (2015). Molecular evidence places the swallow bug genus Oeciacus St\u00e5l within the bat and bed bug genus Cimex Linnaeus (Heteroptera: Cimicidae). Systematic Entomology, 40(3), 652\u2013665. Portico. https://doi.org/10.1111/syen.12127\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2943",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
