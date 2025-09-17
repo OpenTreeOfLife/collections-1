@@ -3508,6 +3508,14 @@
 "name": "Fig. 1, BI (CRANSTON, 2015)",
 "studyID": "ot_2942",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML (BALV\u00cdN, 2015)",
+"studyID": "ot_2943",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
