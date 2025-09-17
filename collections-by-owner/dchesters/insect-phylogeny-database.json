@@ -3500,6 +3500,14 @@
 "name": "Fig. 3b, BI (K\u00f6lsch, 2008)",
 "studyID": "ot_2941",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (CRANSTON, 2015)",
+"studyID": "ot_2942",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
