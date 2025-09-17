@@ -3532,6 +3532,14 @@
 "name": "Fig. 4a, NJ (Reis, 2020)",
 "studyID": "ot_2945",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 5, ML (G\u00d3MEZ\u2010ZURITA, 2013)",
+"studyID": "ot_2946",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
