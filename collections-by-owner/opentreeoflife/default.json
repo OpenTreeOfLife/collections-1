@@ -12097,6 +12097,14 @@
 "name": "Fig. 4a, NJ",
 "studyID": "ot_2945",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from G\u00d3MEZ\u2010ZURITA, J., & CARDOSO, A. (2013). Systematics of the New <scp>C</scp>aledonian endemic genus Taophila<scp>H</scp>eller (<scp>C</scp>oleoptera: <scp>C</scp>hrysomelidae, <scp>E</scp>umolpinae) combining morphological, molecular and ecological data, with description of two new species. Systematic Entomology, 39(1), 111\u2013126. Portico. https://doi.org/10.1111/syen.12038\n",
+"decision": "INCLUDED",
+"name": "Fig. 5, ML",
+"studyID": "ot_2946",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
