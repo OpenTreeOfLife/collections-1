@@ -12081,6 +12081,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_2943",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Hayashi, M., & Sota, T. (2014). Quaternary donaciine beetles (Coleoptera, Chrysomelidae) in Japan: Colonization and divergence patterns inferred from fossil and molecular data. Quaternary International, 341, 255\u2013266. https://doi.org/10.1016/j.quaint.2013.08.022\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2944",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
