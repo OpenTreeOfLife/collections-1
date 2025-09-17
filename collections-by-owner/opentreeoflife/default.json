@@ -12065,6 +12065,14 @@
 "name": "Fig. 3b, BI",
 "studyID": "ot_2941",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from CRANSTON, P. S., & KROSCH, M. N. (2015). DNA sequences and austral taxa indicate generic synonymy of Paratrichocladius Santos\u2010Abreu with Cricotopus Wulp (Diptera: Chironomidae). Systematic Entomology, 40(4), 719\u2013732. Portico. https://doi.org/10.1111/syen.12130\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2942",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
