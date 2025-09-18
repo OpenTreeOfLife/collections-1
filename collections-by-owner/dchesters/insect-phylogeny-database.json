@@ -3540,6 +3540,14 @@
 "name": "Fig. 5, ML (G\u00d3MEZ\u2010ZURITA, 2013)",
 "studyID": "ot_2946",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "newtree.treefile (Zhao, 2025)",
+"studyID": "ot_2947",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
