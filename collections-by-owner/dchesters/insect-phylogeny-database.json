@@ -3548,6 +3548,14 @@
 "name": "newtree.treefile (Zhao, 2025)",
 "studyID": "ot_2947",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 6, MP (CAI, 2015)",
+"studyID": "ot_2948",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
