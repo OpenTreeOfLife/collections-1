@@ -3556,6 +3556,14 @@
 "name": "Fig. 6, MP (CAI, 2015)",
 "studyID": "ot_2948",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 5, BI (Nie, 2017)",
+"studyID": "ot_2949",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
