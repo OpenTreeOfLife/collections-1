@@ -3572,6 +3572,14 @@
 "name": "Fig. 12, MP (NADEIN, 2013)",
 "studyID": "ot_2950",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 95, MP (D\u2019ALESSANDRO, 2014)",
+"studyID": "ot_2951",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
