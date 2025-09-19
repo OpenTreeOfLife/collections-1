@@ -12121,6 +12121,14 @@
 "name": "Fig. 6, MP",
 "studyID": "ot_2948",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Nie, R., Breeschoten, T., Timmermans, M. J. T. N., Nadein, K., Xue, H., Bai, M., Huang, Y., Yang, X., & Vogler, A. P. (2017). The phylogeny of Galerucinae (Coleoptera: Chrysomelidae) and the performance of mitochondrial genomes in phylogenetic inference compared to nuclear<scp>rRNA</scp>genes. Cladistics, 34(2), 113\u2013130. Portico. https://doi.org/10.1111/cla.12196\n",
+"decision": "INCLUDED",
+"name": "Fig. 5, BI",
+"studyID": "ot_2949",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
