@@ -12161,6 +12161,14 @@
 "name": "Fig. 3, BI",
 "studyID": "ot_2954",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from MOORE, M. R., BEZA\u2010BEZA, C. F., WICKELL, D. A., BECK, J. B., & JAMESON, M. L. (2015). Molecules, morphology and <scp>M</scp>imeoma scarabs: evolutionary and taxonomic implications for a palm\u2010associated scarab group. Systematic Entomology, 40(4), 891\u2013900. Portico. https://doi.org/10.1111/syen.12139\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2955",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
