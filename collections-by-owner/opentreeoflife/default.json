@@ -12153,6 +12153,14 @@
 "name": "Fig. 5a, ML",
 "studyID": "ot_2953",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Yuan, L., Liu, H., Ge, X., Yang, G., Xie, G., & Yang, Y. (2022). A Mitochondrial Genome Phylogeny of Cleridae (Coleoptera, Cleroidea). Insects, 13(2), 118. https://doi.org/10.3390/insects13020118\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI",
+"studyID": "ot_2954",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
