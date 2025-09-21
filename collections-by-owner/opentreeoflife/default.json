@@ -12145,6 +12145,14 @@
 "name": "Fig. 2 (BEAST MCC)",
 "studyID": "ot_772",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Yuan, L., Ge, X., Xie, G., Liu, H., & Yang, Y. (2021). First Complete Mitochondrial Genome of Melyridae(Coleoptera, Cleroidea): Genome Description and Phylogenetic Implications. Insects, 12(2), 87. https://doi.org/10.3390/insects12020087\n",
+"decision": "INCLUDED",
+"name": "Fig. 5a, ML",
+"studyID": "ot_2953",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
