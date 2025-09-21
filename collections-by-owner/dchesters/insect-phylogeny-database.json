@@ -3604,6 +3604,14 @@
 "name": "Fig. 3, BI (Yuan, 2022)",
 "studyID": "ot_2954",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI (MOORE, 2015)",
+"studyID": "ot_2955",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
