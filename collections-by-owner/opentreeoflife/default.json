@@ -12193,6 +12193,14 @@
 "name": "Fig. 7, MP",
 "studyID": "ot_2958",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Tomaszewska, W., Szawaryn, K., & Arriaga-Varela, E. (2023). \u2018Where is my family?\u2019 Molecular and morphological data reveal the phylogenetic position and diversity of the enigmatic handsome fungus beetle genus Anamycetaea Strohecker, 1975 (Coleoptera, Coccinelloidea). Invertebrate Systematics, 37(4), 231\u2013253. https://doi.org/10.1071/is22053\n",
+"decision": "INCLUDED",
+"name": "FileS4.contree",
+"studyID": "ot_2959",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
