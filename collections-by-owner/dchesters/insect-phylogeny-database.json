@@ -3628,6 +3628,14 @@
 "name": "Fig. 2, BI (GUNTER, 2013)",
 "studyID": "ot_2957",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 7, MP (LESCHEN, 2013)",
+"studyID": "ot_2958",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
