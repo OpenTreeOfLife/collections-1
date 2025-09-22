@@ -12177,6 +12177,14 @@
 "name": "Fig. 3, ML",
 "studyID": "ot_2956",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from GUNTER, N. L., LEAVENGOOD, J. M., BARTLETT, J. S., CHAPMAN, E. G., & CAMERON, S. L. (2013). A molecular phylogeny of the checkered beetles and a description of <scp>E</scp>piclininae a new subfamily (<scp>C</scp>oleoptera: <scp>C</scp>leroidea: <scp>C</scp>leridae). Systematic Entomology, 38(3), 626\u2013636. Portico. https://doi.org/10.1111/syen.12019\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2957",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
