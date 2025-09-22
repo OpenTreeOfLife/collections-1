@@ -3636,6 +3636,14 @@
 "name": "Fig. 7, MP (LESCHEN, 2013)",
 "studyID": "ot_2958",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "FileS4.contree (Tomaszewska, 2023)",
+"studyID": "ot_2959",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
