@@ -12169,6 +12169,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2955",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from SOHN, J., REGIER, J. C., MITTER, C., ADAMSKI, D., LANDRY, J., HEIKKIL\u00c4, M., PARK, K., HARRISON, T., MITTER, K., ZWICK, A., KAWAHARA, A. Y., CHO, S., CUMMINGS, M. P., & SCHMITZ, P. (2015). Phylogeny and feeding trait evolution of the mega\u2010diverse Gelechioidea (Lepidoptera: Obtectomera): new insight from 19 nuclear genes. Systematic Entomology, 41(1), 112\u2013132. Portico. https://doi.org/10.1111/syen.12143\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, ML",
+"studyID": "ot_2956",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
