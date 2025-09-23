@@ -3644,6 +3644,14 @@
 "name": "FileS4.contree (Tomaszewska, 2023)",
 "studyID": "ot_2959",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI (BRATTSTR\u00d6M, 2015)",
+"studyID": "ot_2960",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
