@@ -12201,6 +12201,14 @@
 "name": "FileS4.contree",
 "studyID": "ot_2959",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BRATTSTR\u00d6M, O., ADUSE\u2010POKU, K., COLLINS, S. C., DI MICCO DE SANTO, T., & BRAKEFIELD, P. M. (2015). Revision of the Bicyclus sciathis species group (Lepidoptera: Nymphalidae) with descriptions of four new species and corrected distributional records. Systematic Entomology, 41(1), 207\u2013228. Portico. https://doi.org/10.1111/syen.12150\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2960",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
