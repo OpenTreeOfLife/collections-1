@@ -12217,6 +12217,14 @@
 "name": "Fig. 3, ML",
 "studyID": "ot_2961",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Magro, A., Lecompte, E., Magn\u00e9, F., Hemptinne, J.-L., & Crouau-Roy, B. (2010). Phylogeny of ladybirds (Coleoptera: Coccinellidae): Are the subfamilies monophyletic? Molecular Phylogenetics and Evolution, 54(3), 833\u2013848. https://doi.org/10.1016/j.ympev.2009.10.022\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_2962",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
