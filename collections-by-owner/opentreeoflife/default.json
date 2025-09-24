@@ -12249,6 +12249,14 @@
 "name": "Fig. S2, ML",
 "studyID": "ot_2965",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from \u015aLIPI\u0143SKI, A., TOMASZEWSKA, W., & LAWRENCE, J. F. (2009). Phylogeny and classification of Corylophidae (Coleoptera: Cucujoidea) with descriptions of new genera and larvae. Systematic Entomology, 34(3), 409\u2013433. Portico. https://doi.org/10.1111/j.1365-3113.2009.00471.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1D, MP",
+"studyID": "ot_2966",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
