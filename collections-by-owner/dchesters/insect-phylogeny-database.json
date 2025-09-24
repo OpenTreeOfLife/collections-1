@@ -3684,6 +3684,14 @@
 "name": "Fig. 1, ML (Seo, 2019)",
 "studyID": "ot_2964",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S2, ML (Tomaszewska, 2021)",
+"studyID": "ot_2965",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
