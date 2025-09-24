@@ -12233,6 +12233,14 @@
 "name": "Fig. 19, MP",
 "studyID": "ot_2963",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Seo, B. Y., Park, J., Kwon, W., & Park, J. (2019). The complete mitochondrial genome of Aiolocaria hexaspilota (Hope, 1831) (Coleoptera:Coccinellidae). Mitochondrial DNA Part B, 4(1), 1472\u20131474. https://doi.org/10.1080/23802359.2019.1598828\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_2964",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
