@@ -3692,6 +3692,14 @@
 "name": "Fig. S2, ML (Tomaszewska, 2021)",
 "studyID": "ot_2965",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1D, MP (\u015aLIPI\u0143SKI, 2009)",
+"studyID": "ot_2966",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
