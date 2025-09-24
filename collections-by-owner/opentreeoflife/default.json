@@ -12225,6 +12225,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_2962",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from LIU, X., L\u00dc, Y., ASP\u00d6CK, H., YANG, D., & ASP\u00d6CK, U. (2015). Homology of the genital sclerites of<scp>M</scp>egaloptera (<scp>I</scp>nsecta:<scp>N</scp>europterida) and their phylogenetic relevance. Systematic Entomology, 41(1), 256\u2013286. Portico. https://doi.org/10.1111/syen.12154\n",
+"decision": "INCLUDED",
+"name": "Fig. 19, MP",
+"studyID": "ot_2963",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
