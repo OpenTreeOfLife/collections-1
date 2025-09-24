@@ -3668,6 +3668,14 @@
 "name": "Fig. 2, BI (Magro, 2010)",
 "studyID": "ot_2962",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 19, MP (LIU, 2015)",
+"studyID": "ot_2963",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
