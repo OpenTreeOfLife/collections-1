@@ -12257,6 +12257,14 @@
 "name": "Fig. 1D, MP",
 "studyID": "ot_2966",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from POHL, H., & BEUTEL, R. G. (2016). \u2020<scp>K</scp>inzelbachilla ellenbergeri\u00a0\u2013\u00a0a new ancestral species, genus and family of <scp>S</scp>trepsiptera (<scp>I</scp>nsecta). Systematic Entomology, 41(1), 287\u2013297. Portico. https://doi.org/10.1111/syen.12158\n",
+"decision": "INCLUDED",
+"name": "Fig. S1, MP",
+"studyID": "ot_2967",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
