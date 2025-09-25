@@ -12273,6 +12273,14 @@
 "name": "Fig. 4A, BI",
 "studyID": "ot_2968",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from NATHAN PATRICK LORD, CHRISTOPHER S. HARTLEY, JOHN F. LAWRENCE, JOSEPH V. McHUGH, MICHAEL F. WHITING, KELLY B. MILLER, 2010, 'Phylogenetic analysis of the minute brown scavenger beetles (Coleoptera: Latridiidae), and recognition of a new beetle family, Akalyptoischiidae fam.n. (Coleoptera: Cucujoidea)', Systematic Entomology, vol. 35, no. 4, pp. 753-763",
+"decision": "INCLUDED",
+"name": "Fig. 6, BI",
+"studyID": "ot_1593",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
