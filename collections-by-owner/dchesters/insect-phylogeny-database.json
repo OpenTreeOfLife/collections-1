@@ -3700,6 +3700,14 @@
 "name": "Fig. 1D, MP (\u015aLIPI\u0143SKI, 2009)",
 "studyID": "ot_2966",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S1, MP (POHL, 2016)",
+"studyID": "ot_2967",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
