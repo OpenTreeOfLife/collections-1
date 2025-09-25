@@ -12265,6 +12265,14 @@
 "name": "Fig. S1, MP",
 "studyID": "ot_2967",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from ROBERTSON, J. A., \u015aLIPI\u0143SKI, A., HIATT, K., MILLER, K. B., WHITING, M. F., & MCHUGH, J. V. (2012). Molecules, morphology and minute hooded beetles: a phylogenetic study with implications for the evolution and classification of Corylophidae (Coleoptera: Cucujoidea). Systematic Entomology, 38(1), 209\u2013232. Portico. https://doi.org/10.1111/j.1365-3113.2012.00655.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 4A, BI",
+"studyID": "ot_2968",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
