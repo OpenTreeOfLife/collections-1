@@ -12345,6 +12345,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_617",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Park, J., Kim, M. J., & Kim, I. (2019). Complete mitochondrial genome of the leaf-rolling-weevil, Apoderus jekelii Roelofs, 1874 (Coleoptera: Attelabidae). Mitochondrial DNA Part B, 4(1), 995\u2013997. https://doi.org/10.1080/23802359.2019.1580161\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2976",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
