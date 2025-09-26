@@ -12369,6 +12369,14 @@
 "name": "Fig. 4, ML",
 "studyID": "ot_2978",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from SANTOS, A. P. M., NESSIMIAN, J. L., & TAKIYA, D. M. (2016). Revised classification and evolution of leucotrichiine microcaddisflies (Trichoptera: Hydroptilidae) based on morphological and molecular data. Systematic Entomology, 41(2), 458\u2013480. Portico. https://doi.org/10.1111/syen.12168\n",
+"decision": "INCLUDED",
+"name": "Fig. S1, BI",
+"studyID": "ot_2979",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
