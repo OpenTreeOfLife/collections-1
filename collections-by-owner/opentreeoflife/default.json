@@ -12393,6 +12393,14 @@
 "name": "MP Morphology",
 "studyID": "ot_612",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Letsch, H., Balke, M., Toussaint, E. F. A., & Riedel, A. (2019). Historical biogeography of the hyperdiverse hidden snout weevils (Coleoptera, Curculionidae, Cryptorhynchinae). Systematic Entomology, 45(2), 312\u2013326. Portico. https://doi.org/10.1111/syen.12396\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2981",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
