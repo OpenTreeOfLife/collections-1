@@ -3812,6 +3812,14 @@
 "name": "Fig. 4, ML (Song, 2020)",
 "studyID": "ot_2978",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S1, BI (SANTOS, 2016)",
+"studyID": "ot_2979",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
