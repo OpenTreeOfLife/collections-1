@@ -12353,6 +12353,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2976",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from GON\u00c7ALVES, R. B. (2016). A molecular and morphological phylogeny of the extant Augochlorini (Hymenoptera, Apoidea) with comments on implications for biogeography. Systematic Entomology, 41(2), 430\u2013440. Portico. https://doi.org/10.1111/syen.12166\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, MP",
+"studyID": "ot_2977",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
