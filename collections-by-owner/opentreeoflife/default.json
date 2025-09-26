@@ -12361,6 +12361,14 @@
 "name": "Fig. 2, MP",
 "studyID": "ot_2977",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Song, N., Li, X., Yin, X., Li, X., Yin, S., & Yang, M. (2020). The mitochondrial genome ofApion squamigerum(Coleoptera, Curculionoidea, Brentidae) and the phylogenetic implications. PeerJ, 8, e8386. Portico. https://doi.org/10.7717/peerj.8386\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, ML",
+"studyID": "ot_2978",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
