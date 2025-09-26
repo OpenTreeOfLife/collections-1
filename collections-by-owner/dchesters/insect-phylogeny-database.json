@@ -3780,6 +3780,14 @@
 "name": "Fig. 1, BI (Li, 2023)",
 "studyID": "ot_2975",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI (McKenna, 2009)",
+"studyID": "ot_617",
+"treeID": "tree2"
 }
 ],
 "description": "Insect Phylogeny Database",
