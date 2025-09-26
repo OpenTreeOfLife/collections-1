@@ -12289,6 +12289,14 @@
 "name": "Fig. 10, BI",
 "studyID": "ot_2969",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from MCELRATH, T. C., ROBERTSON, J. A., THOMAS, M. C., OSBORNE, J., MILLER, K. B., MCHUGH, J. V., & WHITING, M. F. (2015). A molecular phylogenetic study of <scp>C</scp>ucujidae s.l. (<scp>C</scp>oleoptera: <scp>C</scp>ucujoidea). Systematic Entomology, 40(4), 705\u2013718. Portico. https://doi.org/10.1111/syen.12133\n",
+"decision": "INCLUDED",
+"name": "Fig. S1, ML",
+"studyID": "ot_2970",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
