@@ -3724,6 +3724,14 @@
 "name": "Fig. 6, BI (NATHAN PATRICK LORD, 2010)",
 "studyID": "ot_1593",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 10, BI (Liu, 2023)",
+"studyID": "ot_2969",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
