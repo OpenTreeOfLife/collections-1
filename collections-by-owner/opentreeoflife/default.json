@@ -12321,6 +12321,14 @@
 "name": "Fig. 3, BI",
 "studyID": "ot_2973",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Powell, G. S., Cline, A. R., Duffy, A. G., & Zaspel, J. M. (2020). Phylogeny and reclassification of Carpophilinae (Coleoptera: Nitidulidae), with insights into the origins of anthophily. Zoological Journal of the Linnean Society, 189(4), 1359\u20131369. https://doi.org/10.1093/zoolinnean/zlaa001\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_2974",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
