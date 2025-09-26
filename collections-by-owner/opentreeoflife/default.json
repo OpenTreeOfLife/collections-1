@@ -12281,6 +12281,14 @@
 "name": "Fig. 6, BI",
 "studyID": "ot_1593",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Liu, J., Yang, Y., Yan, Z., Wang, H., Bai, M., Shi, C., & Li, J. (2023). Analysis of the Mitogenomes of Two Helotid Species Provides New Insights into the Phylogenetic Relationship of the Basal Cucujoidea (Insecta: Coleoptera). Biology, 12(1), 135. https://doi.org/10.3390/biology12010135\n",
+"decision": "INCLUDED",
+"name": "Fig. 10, BI",
+"studyID": "ot_2969",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
