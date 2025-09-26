@@ -12297,6 +12297,14 @@
 "name": "Fig. S1, ML",
 "studyID": "ot_2970",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Jin, M., Zwick, A., \u015alipi\u0144ski, A., Marris, J. W. M., Thomas, M. C., & Pang, H. (2020). A comprehensive phylogeny of flat bark beetles (Coleoptera: Cucujidae) with a revised classification and a new South American genus. Systematic Entomology, 45(2), 248\u2013268. Portico. https://doi.org/10.1111/syen.12392\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, ML",
+"studyID": "ot_2971",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
