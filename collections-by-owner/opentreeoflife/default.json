@@ -12377,6 +12377,14 @@
 "name": "Fig. S1, BI",
 "studyID": "ot_2979",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Zhang, L., Li, Y., Ge, X., Li, X., Yang, Y., Bai, M., & Ge, S. (2022). Mitochondrial genomes of Sternochetus species (Coleoptera: Curculionidae) and the phylogenetic implications. Archives of Insect Biochemistry and Physiology, 111(1). Portico. https://doi.org/10.1002/arch.21898\n",
+"decision": "INCLUDED",
+"name": "Fig. 6, BI",
+"studyID": "ot_2980",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
