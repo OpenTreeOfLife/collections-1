@@ -12329,6 +12329,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_2974",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Li, Y.-D., Engel, M. S., Tihelka, E., & Cai, C. (2023). Phylogenomics of weevils revisited: data curation and modelling compositional heterogeneity. Biology Letters, 19(9). https://doi.org/10.1098/rsbl.2023.0307\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2975",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
