@@ -12337,6 +12337,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2975",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from McKenna, D. D., A. S. Sequeira, A. E. Marvaldi, B. D. Farrell. 2009. Temporal lags and overlap in the diversification of weevils and flowering plants. Proceedings of the National Academy of Sciences 106 (17: 7083-7088",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_617",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
