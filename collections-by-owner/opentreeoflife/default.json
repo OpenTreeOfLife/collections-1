@@ -12385,6 +12385,14 @@
 "name": "Fig. 6, BI",
 "studyID": "ot_2980",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Adriana E. Marvaldi, 2005, 'Larval morphology and biology of oxycorynine weevils and the higher phylogeny of Belidae (Coleoptera, Curculionoidea)', Zoologica Scripta, vol. 34, no. 1, pp. 37-48",
+"decision": "INCLUDED",
+"name": "MP Morphology",
+"studyID": "ot_612",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
