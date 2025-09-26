@@ -3820,6 +3820,14 @@
 "name": "Fig. S1, BI (SANTOS, 2016)",
 "studyID": "ot_2979",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 6, BI (Zhang, 2022)",
+"studyID": "ot_2980",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
