@@ -12305,6 +12305,14 @@
 "name": "Fig. 3, ML",
 "studyID": "ot_2971",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Robertson, J. A., McHugh, J. V., & Whiting, M. F. (2004). A molecular phylogenetic analysis of the pleasing fungus beetles (Coleoptera: Erotylidae): evolution of colour patterns, gregariousness and mycophagy. Systematic Entomology, 29(2), 173\u2013187. Portico. https://doi.org/10.1111/j.0307-6970.2004.00242.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_2972",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
