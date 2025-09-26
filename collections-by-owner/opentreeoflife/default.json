@@ -12313,6 +12313,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_2972",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Lee, M. H., Lee, S., Leschen, R. A. B., & Lee, S. (2020). Evolution of feeding habits of sap beetles (Coleoptera: Nitidulidae) and placement of Calonecrinae. Systematic Entomology, 45(4), 911\u2013923. Portico. https://doi.org/10.1111/syen.12441\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI",
+"studyID": "ot_2973",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
