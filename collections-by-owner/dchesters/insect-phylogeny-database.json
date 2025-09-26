@@ -3804,6 +3804,14 @@
 "name": "Fig. 2, MP (GON\u00c7ALVES, 2016)",
 "studyID": "ot_2977",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4, ML (Song, 2020)",
+"studyID": "ot_2978",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
