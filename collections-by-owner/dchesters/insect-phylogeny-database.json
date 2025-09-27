@@ -3860,6 +3860,14 @@
 "name": "Fig. 12, MP (VEL\u00c1ZQUEZ DE CASTRO, 2007)",
 "studyID": "ot_2984",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (Smith, 2022)",
+"studyID": "ot_2985",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
