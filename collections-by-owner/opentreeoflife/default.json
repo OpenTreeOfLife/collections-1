@@ -12409,6 +12409,14 @@
 "name": "1K_iqtree.1021.bs.treefile",
 "studyID": "ot_2982",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from LANTERI, A. A., & DEL RIO, M. G. (2016). Phylogeny of the tribe Naupactini (Coleoptera: Curculionidae) based on morphological characters. Systematic Entomology, 42(2), 429\u2013447. Portico. https://doi.org/10.1111/syen.12223\n",
+"decision": "INCLUDED",
+"name": "Fig. 10, MP",
+"studyID": "ot_2983",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
