@@ -12417,6 +12417,14 @@
 "name": "Fig. 10, MP",
 "studyID": "ot_2983",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Smith, S. M., & Cognato, A. I. (2022). New Non-native PseudocrypticCyclorhipidionSpecies (Coleoptera: Curculionidae: Scolytinae: Xyleborini) Found in the United States as Revealed in a Multigene Phylogeny. Insect Systematics and Diversity, 6(4). https://doi.org/10.1093/isd/ixac014\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_2985",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
