@@ -3844,6 +3844,14 @@
 "name": "1K_iqtree.1021.bs.treefile (Letsch, 2023)",
 "studyID": "ot_2982",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 10, MP (LANTERI, 2016)",
+"studyID": "ot_2983",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
