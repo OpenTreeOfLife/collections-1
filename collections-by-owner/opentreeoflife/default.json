@@ -12433,6 +12433,14 @@
 "name": "Fig. 6, BI",
 "studyID": "ot_2986",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Zhang, S., Shu, J., Wang, Y., Liu, Y., Peng, H., Zhang, W., & Wang, H. (2019). The complete mitochondrial genomes of two sibling species of camellia weevils (Coleoptera: Curculionidae) and patterns of Curculionini speciation. Scientific Reports, 9(1). https://doi.org/10.1038/s41598-019-39895-8\n",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI",
+"studyID": "ot_2987",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
