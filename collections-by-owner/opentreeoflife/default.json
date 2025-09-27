@@ -12425,6 +12425,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2985",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from PISTONE, D., GOHLI, J., & JORDAL, B. H. (2017). Molecular phylogeny of bark and ambrosia beetles (Curculionidae: Scolytinae) based on 18 molecular markers. Systematic Entomology, 43(2), 387\u2013406. Portico. https://doi.org/10.1111/syen.12281\n",
+"decision": "INCLUDED",
+"name": "Fig. 6, BI",
+"studyID": "ot_2986",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
