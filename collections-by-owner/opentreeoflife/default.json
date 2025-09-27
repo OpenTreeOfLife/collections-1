@@ -12401,6 +12401,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_2981",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Letsch, H., Balke, M., Kusy, D., McKenna, D. D., Pramesa Narakusumo, R., Sagata, K., Toussaint, E. F. A., White, L. T., & Riedel, A. (2023). Beetle evolution illuminates the geological history of the World\u2019s most diverse tropical archipelago. Ecography, 2023(12). Portico. https://doi.org/10.1111/ecog.06898\n",
+"decision": "INCLUDED",
+"name": "1K_iqtree.1021.bs.treefile",
+"studyID": "ot_2982",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
