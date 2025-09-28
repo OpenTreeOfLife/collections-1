@@ -3900,6 +3900,14 @@
 "name": "Fig. 8b, MP (V\u00cdCTOR, 2015)",
 "studyID": "ot_2989",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 175, MP (Kuschel, 2010)",
+"studyID": "ot_2990",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
