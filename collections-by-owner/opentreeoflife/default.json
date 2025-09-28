@@ -12505,6 +12505,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_2996",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Riccieri, A., Mancini, E., Pitzalis, M., Salvi, D., & Bologna, M. A. (2022). Multigene phylogeny of blister beetles (Coleoptera, Meloidae) reveals extensive polyphyly of the tribe Lyttini and allows redefining its boundaries. Systematic Entomology, 47(4), 569\u2013580. Portico. https://doi.org/10.1111/syen.12547\n",
+"decision": "INCLUDED",
+"name": "Fig. S2a, ML",
+"studyID": "ot_2998",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
