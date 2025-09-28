@@ -3972,6 +3972,14 @@
 "name": "Fig. S2a, ML (Riccieri, 2022)",
 "studyID": "ot_2998",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2B, MP (BOLOGNA, 2008)",
+"studyID": "ot_2999",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
