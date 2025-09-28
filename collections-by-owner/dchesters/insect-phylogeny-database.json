@@ -3988,6 +3988,14 @@
 "name": "Fig. S2 (Riccieri, 2020)",
 "studyID": "ot_3000",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, MP (Peris, 2016)",
+"studyID": "ot_3001",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
