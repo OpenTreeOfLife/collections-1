@@ -12529,6 +12529,14 @@
 "name": "Fig. S2",
 "studyID": "ot_3000",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Peris, D. (2016). Early Cretaceous origin of pollen\u2010feeding beetles (Insecta: Coleoptera: Oedemeridae). Cladistics, 33(3), 268\u2013278. Portico. https://doi.org/10.1111/cla.12168\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, MP",
+"studyID": "ot_3001",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
