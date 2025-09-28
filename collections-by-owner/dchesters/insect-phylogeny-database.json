@@ -3908,6 +3908,14 @@
 "name": "Fig. 175, MP (Kuschel, 2010)",
 "studyID": "ot_2990",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S4, ML (Gunter, 2014)",
+"studyID": "ot_2991",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
