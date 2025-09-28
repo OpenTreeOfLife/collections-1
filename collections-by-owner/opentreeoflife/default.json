@@ -12497,6 +12497,14 @@
 "name": "Fig. S2, BI",
 "studyID": "ot_2995",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from PITZALIS, M., & BOLOGNA, M. A. (2010). Time of diversification in the Cape fauna endemisms, inferred by phylogenetic studies of the genusIselma(Coleoptera: Meloidae: Eleticinae). Systematic Entomology, 35(4), 739\u2013752. Portico. https://doi.org/10.1111/j.1365-3113.2010.00530.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_2996",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
