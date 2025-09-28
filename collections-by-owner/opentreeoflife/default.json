@@ -12465,6 +12465,14 @@
 "name": "Fig. S4, ML",
 "studyID": "ot_2991",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from KERGOAT, G. J., SOLDATI, L., CLAMENS, A., JOURDAN, H., JABBOUR\u2010ZAHAB, R., GENSON, G., BOUCHARD, P., & CONDAMINE, F. L. (2014). Higher level molecular phylogeny of darkling beetles (<scp>C</scp>oleoptera:<scp>T</scp>enebrionidae). Systematic Entomology, 39(3), 486\u2013499. Portico. https://doi.org/10.1111/syen.12065\n",
+"decision": "INCLUDED",
+"name": "Fig. S1, ML",
+"studyID": "ot_2992",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
