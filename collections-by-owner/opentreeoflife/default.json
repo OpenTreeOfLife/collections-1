@@ -12521,6 +12521,14 @@
 "name": "Fig. 2B, MP",
 "studyID": "ot_2999",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Riccieri, A., Mancini, E., Salvi, D., & Bologna, M. A. (2020). Phylogeny, biogeography and systematics of the hyper-diverse blister beetle genus Hycleus (Coleoptera: Meloidae). Molecular Phylogenetics and Evolution, 144, 106706. https://doi.org/10.1016/j.ympev.2019.106706\n",
+"decision": "INCLUDED",
+"name": "Fig. S2",
+"studyID": "ot_3000",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
