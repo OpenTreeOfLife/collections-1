@@ -3956,6 +3956,14 @@
 "name": "Fig. 1, MP (PITZALIS, 2010)",
 "studyID": "ot_2996",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (S\u00e1nchez\u2010Vialas, 2021)",
+"studyID": "ot_2997",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
