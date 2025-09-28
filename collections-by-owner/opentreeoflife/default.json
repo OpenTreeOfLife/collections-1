@@ -12441,6 +12441,14 @@
 "name": "Fig. 4, BI",
 "studyID": "ot_2987",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from RIEDEL, A., T\u00c4NZLER, R., PONS, J., SUHARDJONO, Y. R., & BALKE, M. (2016). Large\u2010scale molecular phylogeny of Cryptorhynchinae (Coleoptera, Curculionidae) from multiple genes suggests American origin and later Australian radiation. Systematic Entomology, 41(2), 492\u2013503. Portico. https://doi.org/10.1111/syen.12170\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI",
+"studyID": "ot_2988",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
