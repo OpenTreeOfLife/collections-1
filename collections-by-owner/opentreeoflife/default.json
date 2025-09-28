@@ -12489,6 +12489,14 @@
 "name": "Fig. 3, BI",
 "studyID": "ot_2994",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kobayashi, T., & Sota, T. (2021). Evolution of host use in fungivorous ciid beetles (Coleoptera: Ciidae): Molecular phylogeny focusing on Japanese taxa. Molecular Phylogenetics and Evolution, 162, 107197. https://doi.org/10.1016/j.ympev.2021.107197\n",
+"decision": "INCLUDED",
+"name": "Fig. S2, BI",
+"studyID": "ot_2995",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
