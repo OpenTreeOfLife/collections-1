@@ -3932,6 +3932,14 @@
 "name": "Fig. 6, BI (CONDAMINE, 2011)",
 "studyID": "ot_2993",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI (SMITH, 2013)",
+"studyID": "ot_2994",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
