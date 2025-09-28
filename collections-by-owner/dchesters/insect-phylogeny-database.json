@@ -3980,6 +3980,14 @@
 "name": "Fig. 2B, MP (BOLOGNA, 2008)",
 "studyID": "ot_2999",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S2 (Riccieri, 2020)",
+"studyID": "ot_3000",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
