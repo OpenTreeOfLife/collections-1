@@ -12457,6 +12457,14 @@
 "name": "Fig. 8b, MP",
 "studyID": "ot_2989",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gunter, N. L., Levkani\u010dov\u00e1, Z., Weir, T. H., \u015alipi\u0144ski, A., Cameron, S. L., & Bocak, L. (2014). Towards a phylogeny of the Tenebrionoidea (Coleoptera). Molecular Phylogenetics and Evolution, 79, 305\u2013312. https://doi.org/10.1016/j.ympev.2014.05.028\n",
+"decision": "INCLUDED",
+"name": "Fig. S4, ML",
+"studyID": "ot_2991",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
