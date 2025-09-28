@@ -3892,6 +3892,14 @@
 "name": "Fig. 3, BI (RIEDEL, 2016)",
 "studyID": "ot_2988",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 8b, MP (V\u00cdCTOR, 2015)",
+"studyID": "ot_2989",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
