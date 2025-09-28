@@ -12481,6 +12481,14 @@
 "name": "Fig. 6, BI",
 "studyID": "ot_2993",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from SMITH, A. D. (2013). Phylogenetic revision of the<scp>N</scp>orth<scp>A</scp>merican<scp>A</scp>sidini (<scp>C</scp>oleoptera:<scp>T</scp>enebrionidae). Systematic Entomology, 38(3), 585\u2013614. Portico. https://doi.org/10.1111/syen.12017\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI",
+"studyID": "ot_2994",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
