@@ -12513,6 +12513,14 @@
 "name": "Fig. S2a, ML",
 "studyID": "ot_2998",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BOLOGNA, M. A., DI GIULIO, A., & PITZALIS, M. (2008). Systematics and biogeography of the genusActenodia(Coleoptera: Meloidae: Mylabrini). Systematic Entomology, 33(2), 319\u2013360. Portico. https://doi.org/10.1111/j.1365-3113.2007.00402.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 2B, MP",
+"studyID": "ot_2999",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
