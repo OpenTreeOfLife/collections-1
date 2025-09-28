@@ -3948,6 +3948,14 @@
 "name": "Fig. S2, BI (Kobayashi, 2021)",
 "studyID": "ot_2995",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP (PITZALIS, 2010)",
+"studyID": "ot_2996",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
