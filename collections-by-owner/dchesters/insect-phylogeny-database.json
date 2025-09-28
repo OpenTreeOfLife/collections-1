@@ -3924,6 +3924,14 @@
 "name": "Fig. S1, ML (KERGOAT, 2014)",
 "studyID": "ot_2992",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 6, BI (CONDAMINE, 2011)",
+"studyID": "ot_2993",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
