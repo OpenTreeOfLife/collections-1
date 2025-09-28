@@ -12449,6 +12449,14 @@
 "name": "Fig. 3, BI",
 "studyID": "ot_2988",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from V\u00cdCTOR, J., & Z\u00da\u00d1IGA, G. (2015). Phylogeny ofDendroctonusbark beetles (Coleoptera: Curculionidae: Scolytinae) inferred from morphological and molecular data. Systematic Entomology, 41(1), 162\u2013177. Portico. https://doi.org/10.1111/syen.12149\n",
+"decision": "INCLUDED",
+"name": "Fig. 8b, MP",
+"studyID": "ot_2989",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
