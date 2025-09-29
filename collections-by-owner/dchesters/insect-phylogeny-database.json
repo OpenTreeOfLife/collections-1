@@ -4004,6 +4004,14 @@
 "name": "Fig. 1, MP (V\u00e1zquez, 2008)",
 "studyID": "ot_3002",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "bpcomp.con.tre (Wang, 2025)",
+"studyID": "ot_3003",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
