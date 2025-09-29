@@ -12537,6 +12537,14 @@
 "name": "Fig. 3, MP",
 "studyID": "ot_3001",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Wang, Y., Yang, X., Engel, M. S., Huo, Q., Du, Y.-Z., & Cai, C. (2025). Reconstructing the evolutionary history of stoneflies: phylogenetic insights and temporal dynamics. IScience, 113614. https://doi.org/10.1016/j.isci.2025.113614\n",
+"decision": "INCLUDED",
+"name": "bpcomp.con.tre",
+"studyID": "ot_3003",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
