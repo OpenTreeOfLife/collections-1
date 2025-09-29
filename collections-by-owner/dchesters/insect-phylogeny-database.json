@@ -4028,6 +4028,14 @@
 "name": "Fig. 270, MP (Pollock, 1995)",
 "studyID": "ot_3005",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4, ML (Ragionieri, 2023)",
+"studyID": "ot_3006",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
