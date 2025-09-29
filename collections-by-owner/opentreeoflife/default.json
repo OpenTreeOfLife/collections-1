@@ -12553,6 +12553,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_3004",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Pollock, D. (1995). Classification, reconstructed phylogeny and geographical history of genera of Pilipalpinae (Coleoptera\u202f: Tenebrionoidea\u202f: Pyrochroidae). Invertebrate Systematics, 9(4), 563. https://doi.org/10.1071/it9950563\n",
+"decision": "INCLUDED",
+"name": "Fig. 270, MP",
+"studyID": "ot_3005",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
