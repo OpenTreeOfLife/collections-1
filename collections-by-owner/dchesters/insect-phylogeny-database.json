@@ -4012,6 +4012,14 @@
 "name": "bpcomp.con.tre (Wang, 2025)",
 "studyID": "ot_3003",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI (BARANOV, 2016)",
+"studyID": "ot_3004",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
