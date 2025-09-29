@@ -4020,6 +4020,14 @@
 "name": "Fig. 2, BI (BARANOV, 2016)",
 "studyID": "ot_3004",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 270, MP (Pollock, 1995)",
+"studyID": "ot_3005",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
