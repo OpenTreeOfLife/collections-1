@@ -12545,6 +12545,14 @@
 "name": "bpcomp.con.tre",
 "studyID": "ot_3003",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from BARANOV, V. A., KVIFTE, G. M., & PERKOVSKY, E. E. (2016). Two new species of fossil Corethrella Coquillett from Late Eocene Rovno amber, with a species\u2010level phylogeny for the family based on morphological traits (Diptera: Corethrellidae). Systematic Entomology, 41(3), 531\u2013540. Portico. https://doi.org/10.1111/syen.12172\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_3004",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
