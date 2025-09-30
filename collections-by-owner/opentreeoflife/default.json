@@ -12561,6 +12561,14 @@
 "name": "Fig. 270, MP",
 "studyID": "ot_3005",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from KRISHNANKUTTY, S. M., DIETRICH, C. H., DAI, W., & SIDDAPPAJI, M. H. (2016). Phylogeny and historical biogeography of leafhopper subfamily Iassinae (Hemiptera: Cicadellidae) with a revised tribal classification based on morphological and molecular data. Systematic Entomology, 41(3), 580\u2013595. Portico. https://doi.org/10.1111/syen.12175\n",
+"decision": "INCLUDED",
+"name": "Fig. S2, ML",
+"studyID": "ot_3007",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
