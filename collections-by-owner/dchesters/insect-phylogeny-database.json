@@ -4036,6 +4036,14 @@
 "name": "Fig. 4, ML (Ragionieri, 2023)",
 "studyID": "ot_3006",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S2, ML (KRISHNANKUTTY, 2016)",
+"studyID": "ot_3007",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
