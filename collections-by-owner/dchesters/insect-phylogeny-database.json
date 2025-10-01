@@ -4044,6 +4044,14 @@
 "name": "Fig. S2, ML (KRISHNANKUTTY, 2016)",
 "studyID": "ot_3007",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "syen12173-sup-0003-supp-file-s1.nex (PARKER, 2016)",
+"studyID": "ot_3008",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
