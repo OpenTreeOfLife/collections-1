@@ -12569,6 +12569,14 @@
 "name": "Fig. S2, ML",
 "studyID": "ot_3007",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from PARKER, J. (2016). Emergence of a superradiation: pselaphine rove beetles in mid\u2010Cretaceous amber from Myanmar and their evolutionary implications. Systematic Entomology, 41(3), 541\u2013566. Portico. https://doi.org/10.1111/syen.12173\n",
+"decision": "INCLUDED",
+"name": "syen12173-sup-0003-supp-file-s1.nex",
+"studyID": "ot_3008",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
