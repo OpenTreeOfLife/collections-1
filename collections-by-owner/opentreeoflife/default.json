@@ -12577,6 +12577,14 @@
 "name": "syen12173-sup-0003-supp-file-s1.nex",
 "studyID": "ot_3008",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from TOUSSAINT, E. F. A., HENDRICH, L., ESCALONA, H. E., PORCH, N., & BALKE, M. (2016). Evolutionary history of a secondary terrestrial Australian diving beetle (Coleoptera, Dytiscidae) reveals a lineage of high morphological and ecological plasticity. Systematic Entomology, 41(3), 650\u2013657. Portico. https://doi.org/10.1111/syen.12182\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_3009",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
