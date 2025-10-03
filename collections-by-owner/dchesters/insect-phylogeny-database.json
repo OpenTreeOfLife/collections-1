@@ -4052,6 +4052,14 @@
 "name": "syen12173-sup-0003-supp-file-s1.nex (PARKER, 2016)",
 "studyID": "ot_3008",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (TOUSSAINT, 2016)",
+"studyID": "ot_3009",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
