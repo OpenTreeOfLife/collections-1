@@ -12585,6 +12585,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_3009",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from DARWELL, C. T., RIVERS, D. M., & ALTHOFF, D. M. (2016). RAD\u2010seq phylogenomics recovers a well\u2010resolved phylogeny of a rapid radiation of mutualistic and antagonistic yucca moths. Systematic Entomology, 41(3), 672\u2013682. Portico. https://doi.org/10.1111/syen.12185\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI",
+"studyID": "ot_3010",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
