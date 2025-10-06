@@ -4068,6 +4068,14 @@
 "name": "Fig. 3, BI (DARWELL, 2016)",
 "studyID": "ot_3010",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI (ADUSE\u2010POKU, 2016)",
+"studyID": "ot_3011",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
