@@ -12593,6 +12593,14 @@
 "name": "Fig. 3, BI",
 "studyID": "ot_3010",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from ADUSE\u2010POKU, K., LEES, D. C., BRATTSTR\u00d6M, O., KODANDARAMAIAH, U., COLLINS, S. C., WAHLBERG, N., & BRAKEFIELD, P. M. (2016). Molecular phylogeny and generic\u2010level taxonomy of the widespread palaeotropical \u2018Heteropsis clade\u2019 (Nymphalidae: Satyrinae: Mycalesina). Systematic Entomology, 41(4), 717\u2013731. Portico. https://doi.org/10.1111/syen.12183\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI",
+"studyID": "ot_3011",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
