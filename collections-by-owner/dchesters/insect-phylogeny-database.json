@@ -4084,6 +4084,14 @@
 "name": "Fig. 3, ML (Kami\u0144ski, 2018)",
 "studyID": "ot_3012",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 8, MP (CHERMAN, 2016)",
+"studyID": "ot_3013",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
