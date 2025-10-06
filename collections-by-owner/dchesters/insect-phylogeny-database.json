@@ -4100,6 +4100,14 @@
 "name": "Fig. 2, BI (Li, 2020)",
 "studyID": "ot_3014",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, MP (SANTIAGO\u2010JIM\u00c9NEZ, 2016)",
+"studyID": "ot_3015",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
