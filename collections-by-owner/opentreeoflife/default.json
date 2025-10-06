@@ -12609,6 +12609,14 @@
 "name": "Fig. 3, ML",
 "studyID": "ot_3012",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from CHERMAN, M. A., MOR\u00d3N, M. A., & ALMEIDA, L. M. (2016). Phylogenetic relationships within <scp>D</scp>iplotaxini <scp>K</scp>irby (<scp>C</scp>oleoptera: <scp>M</scp>elolonthidae: <scp>M</scp>elolonthinae) with emphasis on <scp>L</scp>iogenys<scp>G</scp>u\u00e9rin\u2010<scp>M</scp>\u00e9neville. Systematic Entomology, 41(4), 744\u2013770. Portico. https://doi.org/10.1111/syen.12188\n",
+"decision": "INCLUDED",
+"name": "Fig. 8, MP",
+"studyID": "ot_3013",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
