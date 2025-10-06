@@ -12601,6 +12601,14 @@
 "name": "Fig. 3, BI",
 "studyID": "ot_3011",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kami\u0144ski, M. J., Kanda, K., Lumen, R., Smith, A. D., & Iwan, D. (2018). Molecular phylogeny of Pedinini (Coleoptera, Tenebrionidae) and its implications for higher-level classification. Zoological Journal of the Linnean Society. https://doi.org/10.1093/zoolinnean/zly033\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, ML",
+"studyID": "ot_3012",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
