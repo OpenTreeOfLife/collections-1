@@ -12617,6 +12617,14 @@
 "name": "Fig. 8, MP",
 "studyID": "ot_3013",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Li, X., Bai, X., Kergoat, G. J., Pan, Z., & Ren, G. (2020). Phylogenetics, historical biogeography and molecular species delimitation of Gnaptorina Reitter (Coleoptera: Tenebrionidae: Blaptini). Systematic Entomology, 46(1), 239\u2013251. Portico. https://doi.org/10.1111/syen.12459\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, BI",
+"studyID": "ot_3014",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
