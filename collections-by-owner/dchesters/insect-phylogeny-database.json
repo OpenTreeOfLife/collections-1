@@ -4116,6 +4116,14 @@
 "name": "Tree70.tree (Ghanavi, 2024)",
 "studyID": "ot_3017",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Matrix-3j-FBD.nex.con.tre (Rodriguez, 2024)",
+"studyID": "ot_3018",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
