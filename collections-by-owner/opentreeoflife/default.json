@@ -12633,6 +12633,14 @@
 "name": "Tree70.tree",
 "studyID": "ot_3017",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Rodriguez, J., Frese, M., Dettmann, M., Chavoshi\u2010Jolfaei, M., & Macdonald, J. (2024). A new exceptionally preserved sawfly fossil (Hymenoptera: Pergidae) and an evaluation of its utility for divergence time estimation and biogeography. Systematic Entomology, 50(1), 237\u2013251. Portico. https://doi.org/10.1111/syen.12653\n",
+"decision": "INCLUDED",
+"name": "Matrix-3j-FBD.nex.con.tre",
+"studyID": "ot_3018",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
