@@ -4108,6 +4108,14 @@
 "name": "Fig. 3, MP (SANTIAGO\u2010JIM\u00c9NEZ, 2016)",
 "studyID": "ot_3015",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Tree70.tree (Ghanavi, 2024)",
+"studyID": "ot_3017",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
