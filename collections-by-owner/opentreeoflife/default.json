@@ -12625,6 +12625,14 @@
 "name": "Fig. 2, BI",
 "studyID": "ot_3014",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ghanavi, H. R., Chazot, N., Sanmart\u00edn, I., Murillo\u2010Ramos, L., Duch\u00eane, S., Sihvonen, P., Brehm, G., & Wahlberg, N. (2024). Region\u2010specific diversification dynamics and biogeographic history of one of the most diverse families of insects. Systematic Entomology, 50(1), 206\u2013220. Portico. https://doi.org/10.1111/syen.12651\n",
+"decision": "INCLUDED",
+"name": "Tree70.tree",
+"studyID": "ot_3017",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
