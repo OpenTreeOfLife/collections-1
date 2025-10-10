@@ -12641,6 +12641,14 @@
 "name": "Matrix-3j-FBD.nex.con.tre",
 "studyID": "ot_3018",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Le Flanchec, T., Salazar, K., Malem, J., Vendanger, J., Poirier, E., Dutertre, V., Bonillo, C., Chifflet\u2010Belle, P., Legendre, F., Nattier, R., & Robillard, T. (2024). Early colonization of New Caledonia by ultrasonic crickets from New Guinea (Orthoptera: Gryllidae: Eneopterinae): Historical biogeography and description of a new genus. Systematic Entomology, 50(2), 269\u2013295. Portico. https://doi.org/10.1111/syen.12656\n",
+"decision": "INCLUDED",
+"name": "Dated_tree.newick",
+"studyID": "ot_3019",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
