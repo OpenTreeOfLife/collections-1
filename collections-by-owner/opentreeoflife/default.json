@@ -12649,6 +12649,14 @@
 "name": "Dated_tree.newick",
 "studyID": "ot_3019",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Castillejos\u2010Lemus, D. E., Nieves\u2010Aldrey, J., Zhang, Y. M., Nicholls, J. A., Medianero, E., Rougon\u2010Cardoso, A., Stone, G. N., & Oyama, K. (2024). Phylogenomic insights and geographic distribution of the New World genus Amphibolips Reinhard (Hymenoptera: Cynipidae, Cynipini) using ultraconserved elements. Systematic Entomology, 50(2), 349\u2013368. Portico. https://doi.org/10.1111/syen.12659\n",
+"decision": "INCLUDED",
+"name": "FS8_Amphi_80p_SWSC.tree",
+"studyID": "ot_3020",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
