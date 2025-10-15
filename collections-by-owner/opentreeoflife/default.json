@@ -12657,6 +12657,14 @@
 "name": "FS8_Amphi_80p_SWSC.tree",
 "studyID": "ot_3020",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Li, X., Hash, J. M., Hartop, E., Yang, D., Smith, P. T., & Brown, B. V. (2024). A molecular phylogeny of scuttle flies (Diptera: Phoridae) unveils extensive concordance but intriguing divergences from morphological results. Systematic Entomology, 50(1), 68\u201381. Portico. https://doi.org/10.1111/syen.12644\n",
+"decision": "INCLUDED",
+"name": "NTDegen_PGM_ML.tre",
+"studyID": "ot_3022",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
