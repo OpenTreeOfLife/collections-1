@@ -4140,6 +4140,14 @@
 "name": "FS8_Amphi_80p_SWSC.tree (Castillejos\u2010Lemus, 2024)",
 "studyID": "ot_3020",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "NTDegen_PGM_ML.tre (Li, 2024)",
+"studyID": "ot_3022",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
