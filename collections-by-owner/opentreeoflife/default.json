@@ -12665,6 +12665,14 @@
 "name": "NTDegen_PGM_ML.tre",
 "studyID": "ot_3022",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Souza, D. de S., French, R. L. K., J\u00fanior, J. O. S., Nearns, E. H., Marinoni, L., Swift, I. P., Miller, K. B., Sperling, F. A. H., & Monn\u00e9, M. L. (2024). Cutting the sap: First molecular phylogeny of twig\u2010girdler longhorn beetles (Coleoptera: Cerambycidae: Lamiinae: Onciderini) suggests shifts in host plant attack behaviours contributed to morphological evolution. Systematic Entomology, 50(2), 369\u2013386. Portico. https://doi.org/10.1111/syen.12660\n",
+"decision": "INCLUDED",
+"name": "RAxML_bestTree.Onciderini_concat_matrix_ML",
+"studyID": "ot_3023",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
