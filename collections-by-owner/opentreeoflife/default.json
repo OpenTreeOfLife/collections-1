@@ -12689,6 +12689,14 @@
 "name": "3_117spp_2412loci_AncestralReconstruction",
 "studyID": "ot_3026",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Goodman, A., Abbott, J., Breinholt, J. W., Bybee, S., Frandsen, P. B., Guralnick, R., Kalkman, V. J., Kohli, M., Newton, L., & Ware, J. L. (2025). Systematics and biogeography of the Holarctic dragonfly genus Somatochlora (Anisoptera: Corduliidae). Systematic Entomology, 50(3), 585\u2013610. Portico. https://doi.org/10.1111/syen.12672\n",
+"decision": "INCLUDED",
+"name": "No_Coded_Bootstrap.tre",
+"studyID": "ot_3027",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
