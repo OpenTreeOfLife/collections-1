@@ -12673,6 +12673,14 @@
 "name": "RAxML_bestTree.Onciderini_concat_matrix_ML",
 "studyID": "ot_3023",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Reboud, E. L., Nabholz, B., Chevalier, E., Lafon, B. J., Tilak, M., Mielke, C. G. C., Cotton, A. M., & Condamine, F. L. (2024). Clarifying the phylogeny and systematics of the recalcitrant tribe Leptocircini (Lepidoptera: Papilionidae) with whole\u2010genome data. Systematic Entomology, 50(2), 387\u2013414. Portico. https://doi.org/10.1111/syen.12661\n",
+"decision": "INCLUDED",
+"name": "Leptocircini_1402_genes_GTR_G.partitions",
+"studyID": "ot_3025",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
