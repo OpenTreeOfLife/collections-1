@@ -4164,6 +4164,14 @@
 "name": "Leptocircini_1402_genes_GTR_G.partitions (Reboud, 2024)",
 "studyID": "ot_3025",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "No_Coded_Bootstrap.tre (Goodman, 2025)",
+"studyID": "ot_3027",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
