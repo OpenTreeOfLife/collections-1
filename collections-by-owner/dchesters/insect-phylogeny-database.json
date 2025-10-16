@@ -4156,6 +4156,14 @@
 "name": "RAxML_bestTree.Onciderini_concat_matrix_ML (Souza, 2024)",
 "studyID": "ot_3023",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Leptocircini_1402_genes_GTR_G.partitions (Reboud, 2024)",
+"studyID": "ot_3025",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
