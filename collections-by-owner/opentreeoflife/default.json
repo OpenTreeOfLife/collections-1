@@ -12681,6 +12681,14 @@
 "name": "Leptocircini_1402_genes_GTR_G.partitions",
 "studyID": "ot_3025",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Li, Z., Zhang, F., Zhang, W., Marathe, K., Maddison, W. P., & Zhang, J. (2025). Phylogeny of euophryine jumping spiders from ultra\u2010conserved elements, with evidence on the intersexual coevolution of genitalia (Araneae: Salticidae: Euophryini). Systematic Entomology, 50(3), 554\u2013567. Portico. https://doi.org/10.1111/syen.12669\n",
+"decision": "INCLUDED",
+"name": "3_117spp_2412loci_AncestralReconstruction",
+"studyID": "ot_3026",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
