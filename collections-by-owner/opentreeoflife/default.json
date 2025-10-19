@@ -12697,6 +12697,14 @@
 "name": "No_Coded_Bootstrap.tre",
 "studyID": "ot_3027",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Zhang, J., Lin, L., Mu, Y., Brelsford, A., & Purcell, J. (2025). A comparison of phylogenomic inference pipelines for low\u2010coverage whole\u2010genome sequencing in Formica ants. Systematic Entomology, 50(3), 611\u2013629. Portico. https://doi.org/10.1111/syen.12670\n",
+"decision": "INCLUDED",
+"name": "MCMCtree.Busco-nt.APL.run1.tre",
+"studyID": "ot_3029",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
