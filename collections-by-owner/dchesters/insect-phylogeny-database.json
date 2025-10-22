@@ -4204,6 +4204,14 @@
 "name": "GhostLG_iqtree24a_cut.tre (Batelka, 2025)",
 "studyID": "ot_3031",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "USCO_V-Dayhoff6.fas.treefile (Zhang, 2025)",
+"studyID": "ot_3032",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
