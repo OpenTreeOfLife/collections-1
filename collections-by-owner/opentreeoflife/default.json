@@ -12721,6 +12721,14 @@
 "name": "GhostLG_iqtree24a_cut.tre",
 "studyID": "ot_3031",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Zhang, R., Wang, L., Tian, S., Liu, Y., Jiang, Y., Zhou, X., Yang, D., Liu, X., & Wang, Y. (2025). Inconsistent performance of multi\u2010type genomic data in phylogenomics of neuropteridan insects, with solutions toward conflicting results. Systematic Entomology, 50(4), 855\u2013875. Portico. https://doi.org/10.1111/syen.12684\n",
+"decision": "INCLUDED",
+"name": "USCO_V-Dayhoff6.fas.treefile",
+"studyID": "ot_3032",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
