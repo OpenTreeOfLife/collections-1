@@ -12713,6 +12713,14 @@
 "name": "Campo225-90-098.tre",
 "studyID": "ot_3030",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Batelka, J., Kundrata, R., & Straka, J. (2025). Phylogenomics and revised classification of Lymexyloidea and Tenebrionoidea (Coleoptera: Polyphaga: Cucujiformia). Systematic Entomology, 50(4), 794\u2013812. Portico. https://doi.org/10.1111/syen.12683\n",
+"decision": "INCLUDED",
+"name": "GhostLG_iqtree24a_cut.tre",
+"studyID": "ot_3031",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
