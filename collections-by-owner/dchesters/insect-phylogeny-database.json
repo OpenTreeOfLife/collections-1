@@ -4196,6 +4196,14 @@
 "name": "Campo225-90-098.tre (Ward, 2025)",
 "studyID": "ot_3030",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "GhostLG_iqtree24a_cut.tre (Batelka, 2025)",
+"studyID": "ot_3031",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
