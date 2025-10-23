@@ -12729,6 +12729,14 @@
 "name": "USCO_V-Dayhoff6.fas.treefile",
 "studyID": "ot_3032",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Wang, J., Zhou, X., Dietrich, C. H., Cao, Y., & Huang, M. (2025). Extensive hybridisation and complex evolutionary history in the leafhopper genus Agnesiella (Hemiptera: Cicadellidae: Typhlocybinae). Systematic Entomology, 50(4), 903\u2013919. Portico. https://doi.org/10.1111/syen.12686\n",
+"decision": "INCLUDED",
+"name": "SCOs_80_UCEs_100_NT_CID_800_filtergeneflow_ghost",
+"studyID": "ot_3033",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
