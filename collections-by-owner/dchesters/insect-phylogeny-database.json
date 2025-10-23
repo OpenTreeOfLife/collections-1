@@ -4212,6 +4212,14 @@
 "name": "USCO_V-Dayhoff6.fas.treefile (Zhang, 2025)",
 "studyID": "ot_3032",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "SCOs_80_UCEs_100_NT_CID_800_filtergeneflow_ghost (Wang, 2025)",
+"studyID": "ot_3033",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
