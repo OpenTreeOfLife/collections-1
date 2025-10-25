@@ -12737,6 +12737,14 @@
 "name": "SCOs_80_UCEs_100_NT_CID_800_filtergeneflow_ghost",
 "studyID": "ot_3033",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Plotkin, D., Breinholt, J. W., & Kawahara, A. Y. (2025). A target capture\u2010based phylogeny of emerald moths (Lepidoptera: Geometridae: Geometrinae) provides new insights into tribal\u2010level classification. Systematic Entomology, 50(4), 920\u2013939. Portico. https://doi.org/10.1111/syen.12689\n",
+"decision": "INCLUDED",
+"name": "FigS1_nt123.tre",
+"studyID": "ot_3034",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
