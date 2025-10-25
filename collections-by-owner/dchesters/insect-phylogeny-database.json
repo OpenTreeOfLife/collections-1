@@ -4220,6 +4220,14 @@
 "name": "SCOs_80_UCEs_100_NT_CID_800_filtergeneflow_ghost (Wang, 2025)",
 "studyID": "ot_3033",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "FigS1_nt123.tre (Plotkin, 2025)",
+"studyID": "ot_3034",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
