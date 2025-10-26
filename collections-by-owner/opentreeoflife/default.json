@@ -12745,6 +12745,14 @@
 "name": "FigS1_nt123.tre",
 "studyID": "ot_3034",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Rocha, I. C., Nessimian, J. L., & Santos, A. P. M. (2025). Systematics, divergence dating and historical biogeography of Ochrotrichiinae (Trichoptera: Hydroptilidae) based on morphological and molecular data. Systematic Entomology, 50(4), 1005\u20131024. Portico. https://doi.org/10.1111/syen.12695\n",
+"decision": "INCLUDED",
+"name": "Dated-tree-ochrotrichiinae-ingroup.newick",
+"studyID": "ot_3035",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
