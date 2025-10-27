@@ -12753,6 +12753,14 @@
 "name": "Dated-tree-ochrotrichiinae-ingroup.newick",
 "studyID": "ot_3035",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Beasley\u2010Hall, P. G., Trewick, S. A., Eberhard, S. M., Zwick, A., Reed, E. H., Cooper, S. J. B., & Austin, A. D. (2025). Molecular phylogenetics illuminates the evolutionary history and hidden diversity of Australian cave crickets (Orthoptera: Rhaphidophoridae). Systematic Entomology, 50(4), 975\u2013987. Portico. https://doi.org/10.1111/syen.12690\n",
+"decision": "INCLUDED",
+"name": "IQTreephylogeny.tree",
+"studyID": "ot_3036",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
