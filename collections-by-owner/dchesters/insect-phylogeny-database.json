@@ -4236,6 +4236,14 @@
 "name": "Dated-tree-ochrotrichiinae-ingroup.newick (Rocha, 2025)",
 "studyID": "ot_3035",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "IQTreephylogeny.tree (Beasley\u2010Hall, 2025)",
+"studyID": "ot_3036",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
