@@ -4244,6 +4244,14 @@
 "name": "IQTreephylogeny.tree (Beasley\u2010Hall, 2025)",
 "studyID": "ot_3036",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "allseqs-gt05-sp8-pristine.fas.iqtree (Juv\u00e9, 2025)",
+"studyID": "ot_3037",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
