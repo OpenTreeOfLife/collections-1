@@ -12761,6 +12761,14 @@
 "name": "IQTreephylogeny.tree",
 "studyID": "ot_3036",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Juv\u00e9, Y., Weyna, A., Lauroua, E., Nidelet, S., Khaldi, M., Barech, G., Lebas, C., Rasplus, J., Cruaud, A., Condamine, F. L., & Romiguier, J. (2025). Phylogenomics of Messor harvester ants (Hymenoptera: Formicidae: Stenammini) unravels their biogeographical origin and diversification patterns. Systematic Entomology, 50(4), 1025\u20131040. Portico. https://doi.org/10.1111/syen.12693\n",
+"decision": "INCLUDED",
+"name": "allseqs-gt05-sp8-pristine.fas.iqtree",
+"studyID": "ot_3037",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
