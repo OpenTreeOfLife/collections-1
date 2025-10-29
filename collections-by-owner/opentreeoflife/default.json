@@ -12769,6 +12769,14 @@
 "name": "allseqs-gt05-sp8-pristine.fas.iqtree",
 "studyID": "ot_3037",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ortiz, D., Pek\u00e1r, S., Henrard, A., Jocqu\u00e9, R., Harvey, M. S., Haddad, C., & Van Bocxlaer, B. (2025). Phylogenomics unveils Afrotropical origin, trans\u2010oceanic global diversification and climatic niche conservatism in the sedentary Zodariidae ant spiders. Systematic Entomology, 50(4), 988\u20131004. Portico. https://doi.org/10.1111/syen.12694\n",
+"decision": "INCLUDED",
+"name": "Zodariidae_phylogeny_80_occup_IQTREE.tre",
+"studyID": "ot_3038",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
