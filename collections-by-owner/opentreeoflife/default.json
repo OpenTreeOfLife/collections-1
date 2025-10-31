@@ -12793,6 +12793,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_3040",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cao, Y., Dietrich, C. H., Dmitriev, D. A., Kits, J. H., Xue, Q., & Zhang, Y. (2024). Phylogeny, biogeography and morphological evolution of the treehopper\u2010like leafhoppers (Hemiptera: Cicadellidae) Megophthalminae and Ulopinae. Systematic Entomology, 50(2), 296\u2013308. Portico. https://doi.org/10.1111/syen.12655\n",
+"decision": "INCLUDED",
+"name": "MLtree_nt.tre",
+"studyID": "ot_3042",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
