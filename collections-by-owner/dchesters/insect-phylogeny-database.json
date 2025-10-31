@@ -4260,6 +4260,14 @@
 "name": "file S4, ML (\u00d5unap, 2024)",
 "studyID": "ot_3039",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML (Mahlerov\u00e1, 2024)",
+"studyID": "ot_3040",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
