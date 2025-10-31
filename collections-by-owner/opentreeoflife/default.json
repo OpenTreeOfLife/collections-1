@@ -12785,6 +12785,14 @@
 "name": "file S4, ML",
 "studyID": "ot_3039",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Mahlerov\u00e1, K., Jakubec, P., Krak, K., & R\u016f\u017ei\u010dka, J. (2024). Resolving the intergeneric phylogeny of the large carrion beetles (<scp>Staphylinidae: Silphinae: Silphini</scp>). Systematic Entomology, 50(1), 168\u2013179. Portico. https://doi.org/10.1111/syen.12650\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_3040",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
