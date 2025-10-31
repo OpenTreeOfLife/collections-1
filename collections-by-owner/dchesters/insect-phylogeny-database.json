@@ -4276,6 +4276,14 @@
 "name": "Fig. 4, BI (Wang, 2024)",
 "studyID": "ot_3041",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "MLtree_nt.tre (Cao, 2024)",
+"studyID": "ot_3042",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
