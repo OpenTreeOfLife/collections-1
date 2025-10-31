@@ -4268,6 +4268,14 @@
 "name": "Fig. 1, ML (Mahlerov\u00e1, 2024)",
 "studyID": "ot_3040",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4, BI (Wang, 2024)",
+"studyID": "ot_3041",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
