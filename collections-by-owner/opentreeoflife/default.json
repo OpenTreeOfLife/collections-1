@@ -12801,6 +12801,14 @@
 "name": "MLtree_nt.tre",
 "studyID": "ot_3042",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Luo, X., Deng, W., Han, W., Lo, N., Cai, J., Che, Y., & Wang, Z. (2025). Revision of the cockroach subfamily Blattinae based on morphological and molecular analyses. Systematic Entomology, 50(4), 836\u2013854. Portico. https://doi.org/10.1111/syen.12680\n",
+"decision": "INCLUDED",
+"name": "AUtest_IQ_partition.nex.iqtree",
+"studyID": "ot_3045",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
