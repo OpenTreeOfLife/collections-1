@@ -4284,6 +4284,14 @@
 "name": "MLtree_nt.tre (Cao, 2024)",
 "studyID": "ot_3042",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "AUtest_IQ_partition.nex.iqtree (Luo, 2025)",
+"studyID": "ot_3045",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
