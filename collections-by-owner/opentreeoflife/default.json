@@ -12809,6 +12809,14 @@
 "name": "AUtest_IQ_partition.nex.iqtree",
 "studyID": "ot_3045",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from ROBERTSON, J. A., & MOORE, W. (2016). Phylogeny of\n                    \n                      <scp>P</scp>\n                      aussus\n                    \n                    <scp>L</scp>\n                    . (\n                    <scp>C</scp>\n                    arabidae:\n                    <scp>P</scp>\n                    aussinae): unravelling morphological convergence associated with myrmecophilous life histories. Systematic Entomology, 42(1), 134\u2013170. Portico. https://doi.org/10.1111/syen.12205\n",
+"decision": "INCLUDED",
+"name": "Fig. 20, BI",
+"studyID": "ot_3046",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
