@@ -4292,6 +4292,14 @@
 "name": "AUtest_IQ_partition.nex.iqtree (Luo, 2025)",
 "studyID": "ot_3045",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 20, BI (ROBERTSON, 2016)",
+"studyID": "ot_3046",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
