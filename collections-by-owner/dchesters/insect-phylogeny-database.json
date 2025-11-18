@@ -4308,6 +4308,14 @@
 "name": "Fig. 1, BI (HERREID, 2017)",
 "studyID": "ot_3047",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP (LI, 2017)",
+"studyID": "ot_3048",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
