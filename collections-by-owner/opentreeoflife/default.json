@@ -12841,6 +12841,14 @@
 "name": "timing2_sample.chronogram (tree1)",
 "studyID": "ot_3049",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Rokas, A. (2021). Editor\u2019s evaluation: Phylogenomic analyses of echinoid diversification prompt a re-evaluation of their fossil record. https://doi.org/10.7554/elife.72460.sa0\n",
+"decision": "INCLUDED",
+"name": "clockCATGTR1_ln_sample (tree1)",
+"studyID": "ot_3050",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
