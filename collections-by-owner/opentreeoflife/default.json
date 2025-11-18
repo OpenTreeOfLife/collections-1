@@ -12817,6 +12817,14 @@
 "name": "Fig. 20, BI",
 "studyID": "ot_3046",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from HERREID, J. S., & HERATY, J. M. (2017). Hitchhikers at the dinner table: a revisionary study of a group of ant parasitoids (\n                    <scp>H</scp>\n                    ymenoptera:\n                    <scp>E</scp>\n                    ucharitidae) specializing in the use of extrafloral nectaries for host access. Systematic Entomology, 42(1), 204\u2013229. Portico. https://doi.org/10.1111/syen.12206\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_3047",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
