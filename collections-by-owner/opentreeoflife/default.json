@@ -12833,6 +12833,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_3048",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Lavrov, D. V., Diaz, M. C., Maldonado, M., Morrow, C. C., Perez, T., Pomponi, S. A., & Thacker, R. W. (2023). Phylomitogenomics bolsters the high-level classification of Demospongiae (phylum Porifera). PLOS ONE, 18(12), e0287281. https://doi.org/10.1371/journal.pone.0287281\n",
+"decision": "INCLUDED",
+"name": "timing2_sample.chronogram (tree1)",
+"studyID": "ot_3049",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
