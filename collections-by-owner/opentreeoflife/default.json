@@ -12825,6 +12825,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_3047",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from LI, L., RASNITSYN, A. P., LABANDEIRA, C. C., SHIH, C., & REN, D. (2017). Phylogeny of\n                    <scp>S</scp>\n                    tephanidae (\n                    <scp>H</scp>\n                    ymenoptera:\n                    <scp>A</scp>\n                    pocrita) with a new genus from\n                    <scp>U</scp>\n                    pper\n                    <scp>C</scp>\n                    retaceous\n                    <scp>M</scp>\n                    yanmar amber. Systematic Entomology, 42(1), 194\u2013203. Portico. https://doi.org/10.1111/syen.12202\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_3048",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
