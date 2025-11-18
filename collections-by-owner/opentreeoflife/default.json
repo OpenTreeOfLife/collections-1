@@ -12849,6 +12849,14 @@
 "name": "clockCATGTR1_ln_sample (tree1)",
 "studyID": "ot_3050",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Frolov\u00e1, P., Hork\u00e1, I., & \u010euri\u0161, Z. (2022). Molecular phylogeny and historical biogeography of marine palaemonid shrimps (Palaemonidae: Palaemonella\u2013Cuapetes group). Scientific Reports, 12(1). https://doi.org/10.1038/s41598-022-19372-5\n",
+"decision": "INCLUDED",
+"name": "Molecular_clock_Tree",
+"studyID": "ot_3051",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
