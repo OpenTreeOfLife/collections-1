@@ -12873,6 +12873,14 @@
 "name": "Nem_50p_aa_MCMCresult.tree",
 "studyID": "ot_3053",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Fusca, D. D., Dall\u2019Acqua, M. N., S\u00e1nchez-Ram\u00edrez, S., & Cutter, A. D. (2025). Phylogenomic timetree-calibrated speciation clocks for Caenorhabditis nematodes reveal slow but disproportionate accumulation of post-zygotic reproductive isolation. PLOS Genetics, 21(9), e1011852. https://doi.org/10.1371/journal.pgen.1011852\n",
+"decision": "INCLUDED",
+"name": "205_orthologs_gamma_priors_relaxed_clock_species_tree.tree",
+"studyID": "ot_3054",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
