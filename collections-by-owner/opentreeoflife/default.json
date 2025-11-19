@@ -12881,6 +12881,14 @@
 "name": "205_orthologs_gamma_priors_relaxed_clock_species_tree.tree",
 "studyID": "ot_3054",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Stein, R. W., Mull, C. G., Kuhn, T. S., Aschliman, N. C., Davidson, L. N. K., Joy, J. B., Smith, G. J., Dulvy, N. K., & Mooers, A. O. (2018). Global priorities for conserving the evolutionary history of sharks, rays and chimaeras. Nature Ecology &amp; Evolution, 2(2), 288\u2013298. https://doi.org/10.1038/s41559-017-0448-4\n",
+"decision": "INCLUDED",
+"name": "610.tree.10Cal.RAxML.BS.nex",
+"studyID": "ot_3055",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
