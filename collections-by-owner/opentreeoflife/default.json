@@ -12857,6 +12857,14 @@
 "name": "Molecular_clock_Tree",
 "studyID": "ot_3051",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Orr, R. J. S., Di Martino, E., Ramsfjell, M. H., Gordon, D. P., Berning, B., Chowdhury, I., Craig, S., Cumming, R. L., Figuerola, B., Florence, W., Harmelin, J.-G., Hirose, M., Huang, D., Jain, S. S., Jenkins, H. L., Kotenko, O. N., Kuklinski, P., Lee, H. E., Madurell, T., \u2026 Liow, L. H. (2022). Paleozoic origins of cheilostome bryozoans and their parental care inferred by a new genome-skimmed phylogeny. Science Advances, 8(13). https://doi.org/10.1126/sciadv.abm7452\n",
+"decision": "INCLUDED",
+"name": "TRIMMED (Fig. 2)",
+"studyID": "ot_3052",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
