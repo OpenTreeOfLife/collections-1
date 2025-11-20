@@ -12889,6 +12889,14 @@
 "name": "610.tree.10Cal.RAxML.BS.nex",
 "studyID": "ot_3055",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Shen, X.-X., Steenwyk, J. L., LaBella, A. L., Opulente, D. A., Zhou, X., Kominek, J., Li, Y., Groenewald, M., Hittinger, C. T., & Rokas, A. (2020). Genome-scale phylogeny and contrasting modes of genome evolution in the fungal phylum Ascomycota. Science Advances, 6(45). https://doi.org/10.1126/sciadv.abd0079\n",
+"decision": "INCLUDED",
+"name": "1113taxa_815genes_ml_timetree_exactTimes.tre",
+"studyID": "ot_3056",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
