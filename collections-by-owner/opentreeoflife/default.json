@@ -12905,6 +12905,14 @@
 "name": "Dated tree.tre",
 "studyID": "ot_3057",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bechteler, J., Pe\u00f1aloza\u2010Bojac\u00e1, G., Bell, D., Gordon Burleigh, J., McDaniel, S. F., Christine Davis, E., Sessa, E. B., Bippus, A., Christine Cargill, D., Chantanoarrapint, S., Draper, I., Endara, L., Forrest, L. L., Garilleti, R., Graham, S. W., Huttunen, S., Lazo, J. J., Lara, F., Larra\u00edn, J., \u2026 Villarreal A., J. C. (2023). Comprehensive phylogenomic time tree of bryophytes reveals deep relationships and uncovers gene incongruences in the last 500 million years of diversification. American Journal of Botany, 110(11). Portico. https://doi.org/10.1002/ajb2.16249\n",
+"decision": "INCLUDED",
+"name": "GoFlag_Bryo_July2021_treePL_config-v8.tre",
+"studyID": "ot_3059",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
