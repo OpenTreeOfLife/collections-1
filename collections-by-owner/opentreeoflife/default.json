@@ -12945,6 +12945,14 @@
 "name": "archosauromorpha_ML_Phylogeny.tre (turtles)",
 "studyID": "ot_3062",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Thomson, R. C., Spinks, P. Q., & Shaffer, H. B. (2021). A global phylogeny of turtles reveals a burst of climate-associated diversification on continental margins. Proceedings of the National Academy of Sciences, 118(7). https://doi.org/10.1073/pnas.2012215118\n",
+"decision": "INCLUDED",
+"name": "bd.mcc.median_heights.tre",
+"studyID": "ot_3063",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
