@@ -12929,6 +12929,14 @@
 "name": "FINAL_calibrated_tree.nexus",
 "studyID": "ot_3061",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Colston, T. J., Kulkarni, P., Jetz, W., & Pyron, R. A. (2020). Phylogenetic and spatial distribution of evolutionary diversification, isolation, and threat in turtles and crocodilians (non-avian archosauromorphs). BMC Evolutionary Biology, 20(1). https://doi.org/10.1186/s12862-020-01642-3\n",
+"decision": "INCLUDED",
+"name": "archosauromorpha_ML_Phylogeny.tre (crocs)",
+"studyID": "ot_3062",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
