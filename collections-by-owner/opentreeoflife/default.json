@@ -12913,6 +12913,14 @@
 "name": "GoFlag_Bryo_July2021_treePL_config-v8.tre",
 "studyID": "ot_3059",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Garc\u00eda-Gir\u00f3n, J., M\u00farria, C., Arnedo, M. A., Bonada, N., Ca\u00f1edo-Arg\u00fcelles, M., Derka, T., Fern\u00e1ndez-Calero, J. M., Li, Z., Tierno de Figueroa, J. M., Xie, Z., & Heino, J. (2024). A time-calibrated \u2018Tree of Life\u2019 of aquatic insects for knitting historical patterns of evolution and measuring extant phylogenetic biodiversity across the world. Earth-Science Reviews, 252, 104767. https://doi.org/10.1016/j.earscirev.2024.104767\n",
+"decision": "INCLUDED",
+"name": "Data S1.DatedPhylogeneticSupertreeAquaticEPTO",
+"studyID": "ot_3060",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
