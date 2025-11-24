@@ -12953,6 +12953,14 @@
 "name": "bd.mcc.median_heights.tre",
 "studyID": "ot_3063",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Wang, S., & Luo, H. (2025). Dating the Bacterial Tree of Life Based on Ancient Symbiosis. Systematic Biology, 74(4), 639\u2013655. https://doi.org/10.1093/sysbio/syae071\n",
+"decision": "INCLUDED",
+"name": "bootstrap/1-pf/dating/C60/mcmctree/rrtc/official-mcmc987/marginal/figtree_noEuk.nwk",
+"studyID": "ot_3064",
+"treeID": "tree5"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
