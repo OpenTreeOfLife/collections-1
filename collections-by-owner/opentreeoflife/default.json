@@ -12961,6 +12961,14 @@
 "name": "bootstrap/1-pf/dating/C60/mcmctree/rrtc/official-mcmc987/marginal/figtree_noEuk.nwk",
 "studyID": "ot_3064",
 "treeID": "tree5"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ahmed, M., Roberts, N. G., Adediran, F., Smythe, A. B., Kocot, K. M., & Holovachov, O. (2022). Phylogenomic Analysis of the Phylum Nematoda: Conflicts and Congruences With Morphology, 18S rRNA, and Mitogenomes. Frontiers in Ecology and Evolution, 9. https://doi.org/10.3389/fevo.2021.769565\n",
+"decision": "INCLUDED",
+"name": "1_TRICHINELLIDA/12_ASTRAL/trichinellida_consensus_250221.tre",
+"studyID": "ot_3065",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
