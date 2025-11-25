@@ -13017,6 +13017,14 @@
 "name": "time_tree_sp.tre",
 "studyID": "ot_3067",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Jiao, B., Wei, M., Niu, G., Chen, X., Liu, Y., Huang, G., Chen, C., Zheng, J., Shen, J., Vitales, D., Vall\u00e8s, J., Verloove, F., Erst, A. S., Seregin, A. P., Soejima, A., Ge, X., Jabbour, F., Leostrin, A., Kokubugata, G., \u2026 Gao, T. (2025). Global phylogeny and taxonomy of Artemisia. Nature Communications, 16(1). https://doi.org/10.1038/s41467-025-64039-0\n",
+"decision": "INCLUDED",
+"name": "4_GM_dataset_gigamatrix-ML.tre",
+"studyID": "ot_3068",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
