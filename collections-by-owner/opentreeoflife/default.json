@@ -13025,6 +13025,14 @@
 "name": "4_GM_dataset_gigamatrix-ML.tre",
 "studyID": "ot_3068",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dor\u00e9, M., Borowiec, M. L., Branstetter, M. G., Camacho, G. P., Fisher, B. L., Longino, J. T., Ward, P. S., & Blaimer, B. B. (2025). Evolutionary history of ponerine ants highlights how the timing of dispersal events shapes modern biodiversity. Nature Communications, 16(1). https://doi.org/10.1038/s41467-025-63709-3\n",
+"decision": "INCLUDED",
+"name": "SD_8.2_Time-calibrated_MCC_phylogeny_789t.tree",
+"studyID": "ot_3069",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
