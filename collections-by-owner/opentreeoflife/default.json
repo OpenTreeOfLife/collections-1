@@ -13009,6 +13009,14 @@
 "name": "scle.mcc.mean.nex",
 "studyID": "ot_3066",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Tagliacollo, V. A., Tan, M., Reis, R. E., Gaia, R., Carrijo, V., Ranuzi, M., Craig, J. M., & Albert, J. S. (2024). Time-calibrated phylogeny of neotropical freshwater fishes. Frontiers in Bioinformatics, 4. https://doi.org/10.3389/fbinf.2024.1433995\n",
+"decision": "INCLUDED",
+"name": "time_tree_sp.tre",
+"studyID": "ot_3067",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
