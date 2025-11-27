@@ -13033,6 +13033,14 @@
 "name": "SD_8.2_Time-calibrated_MCC_phylogeny_789t.tree",
 "studyID": "ot_3069",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Mac\u00edas-Hern\u00e1ndez, N., Dom\u00e8nech, M., Cardoso, P., Emerson, B. C., Borges, P. A. V., Lozano-Fernandez, J., Paulo, O. S., Vieira, A., Engu\u00eddanos, A., Rigal, F., Amorim, I. R., & Arnedo, M. A. (2020). Building a Robust, Densely-Sampled Spider Tree of Life for Ecosystem Research. Diversity, 12(8), 288. https://doi.org/10.3390/d12080288\n",
+"decision": "INCLUDED",
+"name": "BLc128_tc_cal.tre",
+"studyID": "ot_3071",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
