@@ -13041,6 +13041,14 @@
 "name": "BLc128_tc_cal.tre",
 "studyID": "ot_3071",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ban, X., Shao, Z., Wu, L., Sun, J., & Xue, X. (2022). Highly diversified mitochondrial genomes provide new evidence for interordinal relationships in the Arachnida. Cladistics, 38(4), 452\u2013464. Portico. https://doi.org/10.1111/cla.12504\n",
+"decision": "INCLUDED",
+"name": "MCMCtree.tre",
+"studyID": "ot_3072",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
