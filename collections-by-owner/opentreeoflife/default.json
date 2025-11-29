@@ -13049,6 +13049,14 @@
 "name": "MCMCtree.tre",
 "studyID": "ot_3072",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Leslie, A. B., Beaulieu, J., Holman, G., Campbell, C. S., Mei, W., Raubeson, L. R., & Mathews, S. (2018). An overview of extant conifer evolution from the perspective of the fossil record. American Journal of Botany, 105(9), 1531\u20131544. Portico. https://doi.org/10.1002/ajb2.1143\n",
+"decision": "INCLUDED",
+"name": "Leslie et al_AJB 2018.tree",
+"studyID": "ot_3073",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
