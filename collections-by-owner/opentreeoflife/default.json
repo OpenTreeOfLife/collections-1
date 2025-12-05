@@ -13057,6 +13057,14 @@
 "name": "Leslie et al_AJB 2018.tree",
 "studyID": "ot_3073",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Newton AF (1997) Review of Agyrtidae (coleoptera), with a New Genus and species from New Zealand. Annales Zoologici, 47(1):111-156.",
+"decision": "INCLUDED",
+"name": "Fig. 63",
+"studyID": "ot_3074",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
