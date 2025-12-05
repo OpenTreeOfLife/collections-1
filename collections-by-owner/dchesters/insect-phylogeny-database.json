@@ -4316,6 +4316,14 @@
 "name": "Fig. 1, MP (LI, 2017)",
 "studyID": "ot_3048",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 63 (Newton AF (, 1997)",
+"studyID": "ot_3074",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
