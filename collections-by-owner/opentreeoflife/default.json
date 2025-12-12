@@ -8980,14 +8980,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Shin, S., Clarke, D. J., Lemmon, A. R., Moriarty Lemmon, E., Aitken, A. L., Haddad, S., Farrell, B. D., Marvaldi, A. E., Oberprieler, R. G., & McKenna, D. D. (2017). Phylogenomic Data Yield New and Robust Insights into the Phylogeny and Evolution of Weevils. Molecular Biology and Evolution, 35(4), 823\u2013836. https://doi.org/10.1093/molbev/msx324\n",
-"decision": "INCLUDED",
-"name": "Fig 1",
-"studyID": "ot_2478",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Zhang F, Bellini BC, Soto-Adames FN (2019) New insights into the systematics of Entomobryoidea (Collembola: Entomobryomorpha): First instar chaetotaxy, homology and classification. Zoological Systematics, 44, 249-278. ",
 "decision": "INCLUDED",
 "name": "Fig. S25, ML",
