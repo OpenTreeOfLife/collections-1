@@ -11588,14 +11588,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Hunt, T., Bergsten, J., Levkanicova, Z., Papadopoulou, A., John, O. St., Wild, R., Hammond, P. M., Ahrens, D., Balke, M., Caterino, M. S., Go\u0301mez-Zurita, J., Ribera, I., Barraclough, T. G., Bocakova, M., Bocak, L., & Vogler, A. P. (2007). A Comprehensive Phylogeny of Beetles Reveals the Evolutionary Origins of a Superradiation. Science, 318(5858), 1913\u20131916. https://doi.org/10.1126/science.1146954\n",
-"decision": "INCLUDED",
-"name": "Fig S4",
-"studyID": "ot_2872",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Davis, K. E., De\u00a0Grave, S., Delmer, C., Payne, A. R. D., Mitchell, S., & Wills, M. A. (2022). Ecological Transitions and the Shape of the Decapod Tree of Life. Integrative and Comparative Biology, 62(2), 332\u2013344. https://doi.org/10.1093/icb/icac052\n",
 "decision": "INCLUDED",
 "name": "Davis et al. 2022 (Figure 2)",
