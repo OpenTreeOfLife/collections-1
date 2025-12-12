@@ -9412,14 +9412,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Cao, Y., Dietrich, C. H., Zahniser, J. N., & Dmitriev, D. A. (2022). Dense sampling of taxa and characters improves phylogenetic resolution among deltocephaline leafhoppers (Hemiptera: Cicadellidae: Deltocephalinae). Systematic Entomology, 47(3), 430\u2013444. Portico. https://doi.org/10.1111/syen.12540\n",
-"decision": "INCLUDED",
-"name": "Untitled (tree1)",
-"studyID": "ot_2542",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Callahan, M. S., & McPeek, M. A. (2016). Multi-locus phylogeny and divergence time estimates of Enallagma damselflies (Odonata: Coenagrionidae). Molecular Phylogenetics and Evolution, 94, 182\u2013195. https://doi.org/10.1016/j.ympev.2015.08.013\n",
 "decision": "INCLUDED",
 "name": "Fig. 4, BI",
