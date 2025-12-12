@@ -11396,14 +11396,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Zhang, Y., Fu, Y.-T., Yao, C., Deng, Y.-P., Nie, Y., & Liu, G.-H. (2022). Mitochondrial phylogenomics provides insights into the taxonomy and phylogeny of fleas. Parasites &amp; Vectors, 15(1). https://doi.org/10.1186/s13071-022-05334-3\n",
-"decision": "INCLUDED",
-"name": "Fig. 2, BI",
-"studyID": "ot_2851",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from TIHELKA, E., GIACOMELLI, M., HUANG, D.-Y., PISANI, D., DONOGHUE, P. C. J., & CAI, C.-Y. (2020). Fleas are parasitic scorpionfliest; Palaeoentomology, 3(6), 641\u2013653. https://doi.org/10.11646/palaeoentomology.3.6.16\n",
 "decision": "INCLUDED",
 "name": "Fig. 1, ML",
