@@ -12844,14 +12844,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Garc\u00eda-Gir\u00f3n, J., M\u00farria, C., Arnedo, M. A., Bonada, N., Ca\u00f1edo-Arg\u00fcelles, M., Derka, T., Fern\u00e1ndez-Calero, J. M., Li, Z., Tierno de Figueroa, J. M., Xie, Z., & Heino, J. (2024). A time-calibrated \u2018Tree of Life\u2019 of aquatic insects for knitting historical patterns of evolution and measuring extant phylogenetic biodiversity across the world. Earth-Science Reviews, 252, 104767. https://doi.org/10.1016/j.earscirev.2024.104767\n",
-"decision": "INCLUDED",
-"name": "Data S1.DatedPhylogeneticSupertreeAquaticEPTO",
-"studyID": "ot_3060",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from RIGHETTI, N., NICOLINI, F., FORNI, G., & LUCHETTI, A. (2025). Towards a time-tree solution for Branchiopoda diversification: a jackknife assessment of fossil age priors. Palaeoentomology, 8(3), 316\u2013328. https://doi.org/10.11646/palaeoentomology.8.3.8\n",
 "decision": "INCLUDED",
 "name": "FINAL_calibrated_tree.nexus",
