@@ -10876,14 +10876,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Laumer, C. E., Fern\u00e1ndez, R., Lemer, S., Combosch, D., Kocot, K. M., Riesgo, A., Andrade, S. C. S., Sterrer, W., S\u00f8rensen, M. V., & Giribet, G. (2019). Revisiting metazoan phylogeny with genomic sampling of all phyla. Proceedings of the Royal Society B: Biological Sciences, 286(1906), 20190831. https://doi.org/10.1098/rspb.2019.0831\n",
-"decision": "INCLUDED",
-"name": "mtz_UPhO_BMGE.phylip.iqtree",
-"studyID": "ot_2731",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from PEREYRA, V., & MOUND, L. A. (2009). Phylogenetic relationships within the genus Cranothrips (Thysanoptera, Melanthripidae) with consideration of host associations and disjunct distributions within the family. Systematic Entomology, 34(1), 151\u2013161. Portico. https://doi.org/10.1111/j.1365-3113.2008.00445.x\n",
 "decision": "INCLUDED",
 "name": "Fig. 2, MP",
