@@ -10604,14 +10604,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from SCHUH, R. T., WEIRAUCH, C., & WHEELER, W. C. (2009). Phylogenetic relationships within the Cimicomorpha (Hemiptera: Heteroptera): a total\u2010evidence analysis. Systematic Entomology, 34(1), 15\u201348. Portico. https://doi.org/10.1111/j.1365-3113.2008.00436.x\n",
-"decision": "INCLUDED",
-"name": "Fig. 10, MP",
-"studyID": "ot_2697",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Flook, P. K., S. Klee, C. H. F. Rowell. 1999. Combined molecular phylogenetic analysis of the Orthoptera (Arthropoda, Insecta) and implications for their higher systematics. Systematic Biology 48 (2): 233-253.",
 "decision": "INCLUDED",
 "name": "Untitled (tree566)",
