@@ -8868,14 +8868,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Beutel, R. G. ., Maddison, D. R. ., & Haas, A. . (1999). Phylogenetic analysis of Myxophaga (Coleoptera) using larval characters. Systematic Entomology, 24(2), 171\u2013192. Portico. https://doi.org/10.1046/j.1365-3113.1999.00075.x\n",
-"decision": "INCLUDED",
-"name": "Fig. 34",
-"studyID": "ot_2456",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from BEUTEL, R. G., FRIEDRICH, F., & ASP\u00d6CK, U. (2010). The larval head of Nevrorthidae and the phylogeny of Neuroptera (Insecta). Zoological Journal of the Linnean Society, 158(3), 533\u2013562. https://doi.org/10.1111/j.1096-3642.2009.00560.x\n",
 "decision": "INCLUDED",
 "name": "Fig. 11",
