@@ -73,6 +73,14 @@
 {
 "SHA": "",
 "comments": "",
+"decision": "INCLUDED",
+"name": "Fig 1 - ultrametric, after rooting on Icteria and dropping it (Bennett, 2025)",
+"studyID": "ot_3078",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
 "compactRefText": "Musher, 2024",
 "decision": "INCLUDED",
 "defaultSortOrder": 4,
