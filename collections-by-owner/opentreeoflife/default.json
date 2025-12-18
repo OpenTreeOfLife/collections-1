@@ -9948,14 +9948,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Day, J. C., Gweon, H. S., & Post, R. J. (2016). Sequence and organization of the complete mitochondrial genome of the blackflySimulium variegatum(Diptera: Simuliidae). Mitochondrial DNA Part B, 1(1), 799\u2013801. https://doi.org/10.1080/23802359.2016.1209091\n",
-"decision": "INCLUDED",
-"name": "Fig. 1, ML",
-"studyID": "ot_2620",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Deans, A. R., Gillespie, J. J., & Yoder, M. J. (2006). An evaluation of ensign wasp classification (Hymenoptera: Evaniidae) based on molecular data and insights from ribosomal RNA secondary structure. Systematic Entomology, 31(3), 517\u2013528. Portico. https://doi.org/10.1111/j.1365-3113.2006.00327.x\n",
 "decision": "INCLUDED",
 "name": "Fig. 5, BI",
