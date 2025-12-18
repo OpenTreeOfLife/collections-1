@@ -11364,14 +11364,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Murrell, A., & Barker, S. C. (2005). Multiple origins of parasitism in lice: phylogenetic analysis of SSU rDNA indicates that the Phthiraptera and Psocoptera are not monophyletic. Parasitology Research, 97(4), 274\u2013280. https://doi.org/10.1007/s00436-005-1413-8\n",
-"decision": "INCLUDED",
-"name": "Fig. 1, BI",
-"studyID": "ot_2858",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Shen, S.-Q., Cai, Y.-Y., Xu, K.-K., Chen, Q.-P., Cao, S.-S., Yu, D.-N., & Zhang, J.-Y. (2020). The complete mitochondrial genome of Pedetontus zhejiangensis (Microcoryphia: Machilidae) and its phylogeny. Mitochondrial DNA Part B, 5(3), 3143\u20133145. https://doi.org/10.1080/23802359.2020.1804472\n",
 "decision": "INCLUDED",
 "name": "Fig. 1, BI",
