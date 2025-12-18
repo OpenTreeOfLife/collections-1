@@ -9556,14 +9556,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Chen, H., Lahey, Z., Talamas, E. J., Valerio, A. A., Popovici, O. A., Musetti, L., Klompen, H., Polaszek, A., Masner, L., Austin, A. D., & Johnson, N. F. (2021). An integrated phylogenetic reassessment of the parasitoid superfamily Platygastroidea (Hymenoptera: Proctotrupomorpha) results in a revised familial classification. Systematic Entomology, 46(4), 1088\u20131113. Portico. https://doi.org/10.1111/syen.12511\n",
-"decision": "INCLUDED",
-"name": "platy_all_molecular_partitions_bnni_SITE_no_encyrto.iqtree",
-"studyID": "ot_2571",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Chen, B., Liu, Y., Lu, X., Jiang, D., Wang, X., Zhang, Q., Yang, G., & Yang, X. (2023). Complete mitochondrial genome of Ctenophthalmus quadratus and Stenischia humilis in China provides insights into fleas phylogeny. Frontiers in Veterinary Science, 10. https://doi.org/10.3389/fvets.2023.1255017\n",
 "decision": "INCLUDED",
 "name": "Fig. 5",
