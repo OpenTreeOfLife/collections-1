@@ -12868,14 +12868,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Mac\u00edas-Hern\u00e1ndez, N., Dom\u00e8nech, M., Cardoso, P., Emerson, B. C., Borges, P. A. V., Lozano-Fernandez, J., Paulo, O. S., Vieira, A., Engu\u00eddanos, A., Rigal, F., Amorim, I. R., & Arnedo, M. A. (2020). Building a Robust, Densely-Sampled Spider Tree of Life for Ecosystem Research. Diversity, 12(8), 288. https://doi.org/10.3390/d12080288\n",
-"decision": "INCLUDED",
-"name": "BLc128_tc_cal.tre",
-"studyID": "ot_3071",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Leslie, A. B., Beaulieu, J., Holman, G., Campbell, C. S., Mei, W., Raubeson, L. R., & Mathews, S. (2018). An overview of extant conifer evolution from the perspective of the fossil record. American Journal of Botany, 105(9), 1531\u20131544. Portico. https://doi.org/10.1002/ajb2.1143\n",
 "decision": "INCLUDED",
 "name": "Leslie et al_AJB 2018.tree",
