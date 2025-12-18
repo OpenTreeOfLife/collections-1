@@ -9700,14 +9700,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Skinner, R. K., Dietrich, C. H., Walden, K. K. O., Gordon, E., Sweet, A. D., Podsiadlowski, L., Petersen, M., Simon, C., Takiya, D. M., & Johnson, K. P. (2020). Phylogenomics of Auchenorrhyncha (Insecta: Hemiptera) using transcriptomes: examining controversial relationships via degeneracy coding and interrogation of gene conflict. Systematic Entomology, 45(1), 85\u2013113. Portico. https://doi.org/10.1111/syen.12381\n",
-"decision": "INCLUDED",
-"name": "Degeneracy_coded_nt_partitioned_tree",
-"studyID": "ot_2594",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from KERGOAT, G. J., & ALVAREZ, N. (2008). Assessing the phylogenetic usefulness of a previously neglected morphological structure through elliptic Fourier analyses: a case study in Bruchus seed\u2010beetles (Coleoptera: Chrysomelidae: Bruchinae). Systematic Entomology, 33(2), 289\u2013300. Portico. https://doi.org/10.1111/j.1365-3113.2007.00405.x\n",
 "decision": "INCLUDED",
 "name": "Fig. 7, BI",
