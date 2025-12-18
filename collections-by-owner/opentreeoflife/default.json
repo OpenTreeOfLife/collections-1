@@ -9956,14 +9956,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from de Moya, R. S., Yoshizawa, K., Walden, K. K. O., Sweet, A. D., Dietrich, C. H., & Kevin P, J. (2020). Phylogenomics of Parasitic and Nonparasitic Lice (Insecta: Psocodea): Combining Sequence Data and Exploring Compositional Bias Solutions in Next Generation Data Sets. Systematic Biology, 70(4), 719\u2013738. https://doi.org/10.1093/sysbio/syaa075\n",
-"decision": "INCLUDED",
-"name": "Psocodea_degen_concatenated_ML.nexus",
-"studyID": "ot_2627",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Oliveira, L. A. de, Inez, T. G., Ferreira, W. D., & Hermes, M. G. (2019). A phylogenetic investigation of the Neotropical genus Alphamenes van der Vecht, 1977 (Hymenoptera, Vespidae, Eumeninae). Revista Brasileira de Entomologia, 63(1), 73\u201379. https://doi.org/10.1016/j.rbe.2018.11.006\n",
 "decision": "INCLUDED",
 "name": "Fig. 1, MP",
