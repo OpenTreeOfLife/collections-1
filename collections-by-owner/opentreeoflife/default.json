@@ -8372,14 +8372,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Jasso-Mart\u00ednez, J. M., Santos, B. F., Zald\u00edvar-River\u00f3n, A., Fern\u00e1ndez-Triana, J. L., Sharanowski, B. J., Richter, R., Dettman, J. R., Blaimer, B. B., Brady, S. G., & Kula, R. R. (2022). Phylogenomics of braconid wasps (Hymenoptera, Braconidae) sheds light on classification and the evolution of parasitoid life history traits. Molecular Phylogenetics and Evolution, 173, 107452. https://doi.org/10.1016/j.ympev.2022.107452\n",
-"decision": "INCLUDED",
-"name": "50% matrix tree S5b",
-"studyID": "ot_2335",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Rainford, J. L., Hofreiter, M., Nicholson, D. B., & Mayhew, P. J. (2014). Phylogenetic Distribution of Extant Richness Suggests Metamorphosis Is a Key Innovation Driving Diversification in Insects. PLoS ONE, 9(10), e109085. https://doi.org/10.1371/journal.pone.0109085\n",
 "decision": "INCLUDED",
 "name": "Fig. 1",
