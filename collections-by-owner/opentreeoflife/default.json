@@ -11892,14 +11892,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Zhao, Q., Brunke, A., Reyes\u2010Hern\u00e1ndez, J. L., Hansen, A. K., & Solodovnikov, A. (2025). A big phylogenomic tree with bigger taxonomic implications for the world\u2019s biggest rove beetles (Coleoptera, Staphylinidae, Staphylinini, Platydracus\u2010group). Systematic Entomology, 50(4), 1041\u20131066. Portico. https://doi.org/10.1111/syen.12691\n",
-"decision": "INCLUDED",
-"name": "newtree.treefile",
-"studyID": "ot_2947",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from CAI, C., LAWRENCE, J. F., \u015aLIPI\u0143SKI, A., & HUANG, D. (2015). Jurassic artematopodid beetles and their implications for the early evolution of <scp>A</scp>rtematopodidae (<scp>C</scp>oleoptera). Systematic Entomology, 40(4), 779\u2013788. Portico. https://doi.org/10.1111/syen.12131\n",
 "decision": "INCLUDED",
 "name": "Fig. 6, MP",
