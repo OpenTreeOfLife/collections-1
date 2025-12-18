@@ -10956,14 +10956,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from CRYAN, J. R., & URBAN, J. M. (2011). Higher\u2010level phylogeny of the insect order Hemiptera: is Auchenorrhyncha really paraphyletic? Systematic Entomology, 37(1), 7\u201321. Portico. https://doi.org/10.1111/j.1365-3113.2011.00611.x\n",
-"decision": "INCLUDED",
-"name": "Untitled (tree1)",
-"studyID": "ot_2771",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from JUNG, S., & LEE, S. (2011). Correlated evolution and Bayesian divergence time estimates of the Cimicoidea (Heteroptera: Cimicomorpha) reveal the evolutionary history. Systematic Entomology, 37(1), 22\u201331. Portico. https://doi.org/10.1111/j.1365-3113.2011.00596.x\n",
 "decision": "INCLUDED",
 "name": "Fig. S1, BI",
