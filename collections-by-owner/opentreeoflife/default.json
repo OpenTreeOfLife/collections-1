@@ -8964,14 +8964,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Zhang, S.-Q., Che, L.-H., Li, Y., Dan Liang, Pang, H., \u015alipi\u0144ski, A., & Zhang, P. (2018). Evolutionary history of Coleoptera revealed by extensive sampling of genes and species. Nature Communications, 9(1). https://doi.org/10.1038/s41467-017-02644-4\n",
-"decision": "INCLUDED",
-"name": "Fig 3",
-"studyID": "ot_2477",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Zhang F, Bellini BC, Soto-Adames FN (2019) New insights into the systematics of Entomobryoidea (Collembola: Entomobryomorpha): First instar chaetotaxy, homology and classification. Zoological Systematics, 44, 249-278. ",
 "decision": "INCLUDED",
 "name": "Fig. S25, ML",
