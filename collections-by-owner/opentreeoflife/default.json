@@ -9356,14 +9356,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Cai, C., Tihelka, E., Giacomelli, M., Lawrence, J. F., \u015alipi\u0144ski, A., Kundrata, R., Yamamoto, S., Thayer, M. K., Newton, A. F., Leschen, R. A. B., Gimmel, M. L., L\u00fc, L., Engel, M. S., Bouchard, P., Huang, D., Pisani, D., & Donoghue, P. C. J. (2022). Integrated phylogenomics and fossil data illuminate the evolution of beetles. Royal Society Open Science, 9(3). https://doi.org/10.1098/rsos.211771\n",
-"decision": "INCLUDED",
-"name": "bpcomp.con.tre",
-"studyID": "ot_2539",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from CAMERON, S. L., LAMBKIN, C. L., BARKER, S. C., & WHITING, M. F. (2006). A mitochondrial genome phylogeny of Diptera: whole genome sequence data accurately resolve relationships over broad timescales with high precision. Systematic Entomology, 32(1), 40\u201359. Portico. https://doi.org/10.1111/j.1365-3113.2006.00355.x\n",
 "decision": "INCLUDED",
 "name": "Fig. 3, BI",
