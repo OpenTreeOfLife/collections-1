@@ -10588,14 +10588,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Gaugel, S. M., Hawlitschek, O., Dey, L., & Husemann, M. (2023). Evolution of mitogenomic gene order in Orthoptera. Insect Molecular Biology, 32(4), 387\u2013399. Portico. https://doi.org/10.1111/imb.12838\n",
-"decision": "INCLUDED",
-"name": "Fig. 1, BI",
-"studyID": "ot_2713",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Gauld, I. D., & Dubois, J. (2006). Phylogeny of thePolysphinctagroup of genera (Hymenoptera: Ichneumonidae; Pimplinae): a taxonomic revision of spider ectoparasitoids. Systematic Entomology, 31(3), 529\u2013564. Portico. https://doi.org/10.1111/j.1365-3113.2006.00334.x\n",
 "decision": "INCLUDED",
 "name": "Fig. 2, MP",
