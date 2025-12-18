@@ -9220,14 +9220,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from BUCKMAN, R. S., MOUND, L. A., & WHITING, M. F. (2012). Phylogeny of thrips (Insecta: Thysanoptera) based on five molecular loci. Systematic Entomology, 38(1), 123\u2013133. Portico. https://doi.org/10.1111/j.1365-3113.2012.00650.x\n",
-"decision": "INCLUDED",
-"name": "Fig. 3, ML",
-"studyID": "ot_2523",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Buder, G., Grossmann, C., Hundsdoerfer, A., & Klass, K.-D. (2008). A contribution to the phylogeny of the Ciidae and its relationships with other cucujoid and tenebrionoid beetles (Coleoptera: Cucujiformia). Arthropod Systematics &amp; Phylogeny, 66(2), 165\u2013190. https://doi.org/10.3897/asp.66.e31683\n",
 "decision": "INCLUDED",
 "name": "Fig. 13",
