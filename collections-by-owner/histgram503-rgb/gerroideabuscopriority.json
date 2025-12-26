@@ -1,0 +1,11 @@
+{
+"contributors": [],
+"creator": {
+"login": "histgram503-rgb",
+"name": "histgram503-rgb"
+},
+"decisions": [],
+"description": "Custom synthesis prioritizing BUSCO amino acid phylogeny from Armis\u00e9n et al. (2022).",
+"name": "Gerroidea_BUSCO_priority",
+"queries": []
+}
