@@ -12753,6 +12753,14 @@
 "name": "Fig. 63",
 "studyID": "ot_3074",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Armis\u00e9n, D., Viala, S., Cordeiro, I. da R. S., Crumi\u00e8re, A. J. J., Hendaoui, E., Le Bouquin, A., Duchemin, W., Santos, E., Toubiana, W., Vargas-Lowman, A., Burguez Floriano, C. F., Polhemus, D. A., Wang, Y., Rowe, L., Moreira, F. F. F., & Khila, A. (2022). Transcriptome-based Phylogeny of the Semi-aquatic Bugs (Hemiptera: Heteroptera: Gerromorpha) Reveals Patterns of Lineage Expansion in a Series of New Adaptive Zones. Molecular Biology and Evolution, 39(11). https://doi.org/10.1093/molbev/msac229\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_3079",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
