@@ -12761,6 +12761,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_3079",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Mayer, C., Dietz, L., Call, E., Kukowka, S., Martin, S., & Espeland, M. (2021). Adding leaves to the Lepidoptera tree: capturing hundreds of nuclear genes from old museum specimens. Systematic Entomology, 46(3), 649\u2013671. Portico. https://doi.org/10.1111/syen.12481\n",
+"decision": "INCLUDED",
+"name": "AA_best_ML.tree",
+"studyID": "ot_3080",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
