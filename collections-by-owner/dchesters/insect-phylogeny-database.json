@@ -4332,6 +4332,14 @@
 "name": "AA_best_ML.tree (Mayer, 2021)",
 "studyID": "ot_3080",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig.S2.tre (Kawahara, 2019)",
+"studyID": "ot_3081",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
