@@ -4324,6 +4324,14 @@
 "name": "Fig. 63 (Newton AF (, 1997)",
 "studyID": "ot_3074",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "AA_best_ML.tree (Mayer, 2021)",
+"studyID": "ot_3080",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
