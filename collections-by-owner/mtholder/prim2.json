@@ -18,20 +18,6 @@
 "ot:studyYear": 2012,
 "studyID": "ot_109",
 "treeID": "tree1"
-},
-{
-"SHA": "",
-"comments": "readded as api test",
-"compactRefText": "Walter Jetz, 2018",
-"decision": "INCLUDED",
-"defaultSortOrder": 1,
-"name": "Untitled (tree1) (Walter Jetz, 2018)",
-"ot:focalCladeOTTTaxonName": "Amphibia",
-"ot:studyPublication": "http://dx.doi.org/10.1038/s41559-018-0515-5",
-"ot:studyPublicationReference": "Walter Jetz, R. Alexander Pyron, 2018, 'The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life', Nature Ecology & Evolution, vol. 2, no. 5, pp. 850-858",
-"ot:studyYear": 2018,
-"studyID": "ot_1732",
-"treeID": "tree1"
 }
 ],
 "description": "",
