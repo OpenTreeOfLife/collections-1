@@ -4,7 +4,36 @@
 "login": "mtholder",
 "name": "Mark T. Holder"
 },
-"decisions": [],
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "McCullough, 2019",
+"decision": "INCLUDED",
+"defaultSortOrder": 0,
+"name": "TREE1 (McCullough, 2019)",
+"ot:focalCladeOTTTaxonName": "Coraciiformes",
+"ot:studyPublication": "http://dx.doi.org/10.1098/rspb.2019.0122",
+"ot:studyPublicationReference": "McCullough, J. M., Moyle, R. G., Smith, B. T., & Andersen, M. J. (2019). A Laurasian origin for a pantropical bird radiation is supported by genomic and fossil data (Aves: Coraciiformes). Proceedings of the Royal Society B: Biological Sciences, 286(1910), 20190122. https://doi.org/10.1098/rspb.2019.0122\n",
+"ot:studyYear": 2019,
+"studyID": "ot_2154",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Ostrow, 2023",
+"decision": "INCLUDED",
+"defaultSortOrder": 1,
+"name": "tree 1 (Ostrow, 2023)",
+"ot:focalCladeOTTTaxonName": "Piciformes",
+"ot:studyPublication": "http://dx.doi.org/10.1093/ornithology/ukad022",
+"ot:studyPublicationReference": "Ostrow, E. N., Catanach, T. A., Bates, J. M., Aleixo, A., & Weckstein, J. D. (2023). Phylogenomic analysis confirms the relationships among toucans, toucan-barbets, and New World barbets but reveals paraphyly ofSelenideratoucanets and evidence for mitonuclear discordance. Ornithology, 140(3). https://doi.org/10.1093/ornithology/ukad022\n",
+"ot:studyYear": 2023,
+"studyID": "ot_2314",
+"treeID": "tree1"
+}
+],
 "description": "coraciiformes+piciformes",
 "name": "Picodynastornithes",
 "queries": []
