@@ -101,6 +101,14 @@
 {
 "SHA": "",
 "comments": "",
+"decision": "INCLUDED",
+"name": "con 50 majrule (Vogeley, 2025)",
+"studyID": "ot_3082",
+"treeID": "tree4"
+},
+{
+"SHA": "",
+"comments": "",
 "compactRefText": "Schield, 2024",
 "decision": "INCLUDED",
 "defaultSortOrder": 6,
