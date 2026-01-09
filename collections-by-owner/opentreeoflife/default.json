@@ -12801,6 +12801,14 @@
 "name": "Maximum clade credibility molecules only",
 "studyID": "ot_3093",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Claramunt, S., Sheard, C., Brown, J. W., Cort\u00e9s-Ram\u00edrez, G., Cracraft, J., Su, M. M., Weeks, B. C., & Tobias, J. A. (2025). A new time tree of birds reveals the interplay between dispersal, geographic range size, and diversification. Current Biology, 35(16), 3883-3895.e4. https://doi.org/10.1016/j.cub.2025.07.004\n",
+"decision": "INCLUDED",
+"name": "BBtreeC2022.tre",
+"studyID": "ot_2879",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
