@@ -4,7 +4,34 @@
 "login": "huminherror",
 "name": "huminherror"
 },
-"decisions": [],
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Voss R. S. and Jansa S. A. , 2008",
+"decision": "INCLUDED",
+"defaultSortOrder": 0,
+"name": "tree4062 (Voss R. S. and Jansa S. A. , 2008)",
+"ot:focalCladeOTTTaxonName": "Didelphidae",
+"ot:studyPublicationReference": "Voss R. S. and Jansa S. A. 2008. Phylogenetic relationships and classification of didelphid marsupials, an extant radiation of New World metatherian mammals. Bulletin of the American Museum of Natural History 322: 1-177.",
+"ot:studyYear": 2008,
+"studyID": "pg_1985",
+"treeID": "tree4062"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Steiner, 2005",
+"decision": "INCLUDED",
+"defaultSortOrder": 1,
+"name": "chronogram (Steiner, 2005)",
+"ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2004.12.013",
+"ot:studyPublicationReference": "Steiner, C., Tilak, M., Douzery, E. J. P., & Catzeflis, F. M. (2005). New DNA data from a transthyretin nuclear intron suggest an Oligocene to Miocene diversification of living South America opossums (Marsupialia: Didelphidae). Molecular Phylogenetics and Evolution, 35(2), 363\u2013379. doi:10.1016/j.ympev.2004.12.013\n",
+"ot:studyYear": 2005,
+"studyID": "ot_1998",
+"treeID": "tree2"
+}
+],
 "description": "",
 "name": "marsupials",
 "queries": []
