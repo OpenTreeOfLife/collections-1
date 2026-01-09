@@ -4,7 +4,76 @@
 "login": "bsidlauskas",
 "name": "Brian Sidlauskas"
 },
-"decisions": [],
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Mirande, 2018",
+"decision": "INCLUDED",
+"defaultSortOrder": 0,
+"name": "final.new from AppendixS5-TNTfiles (Mirande, 2018)",
+"ot:studyPublication": "http://dx.doi.org/10.1111/cla.12345",
+"ot:studyPublicationReference": "Mirande, J. M. (2018). Morphology, molecules and the phylogeny of Characidae (Teleostei, Characiformes). Cladistics, 35(3), 282\u2013300. doi:10.1111/cla.12345\n",
+"ot:studyYear": 2018,
+"studyID": "ot_1973",
+"treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Arcila, 2017",
+"decision": "INCLUDED",
+"defaultSortOrder": 1,
+"name": "Figure 3 (Arcila, 2017)",
+"ot:focalCladeOTTTaxonName": "Otophysi",
+"ot:studyPublication": "http://dx.doi.org/10.1038/s41559-016-0020",
+"ot:studyPublicationReference": "Arcila, Dahiana, Guillermo Ort\u00ed, Richard Vari, Jonathan W. Armbruster, Melanie L. J. Stiassny, Kyung D. Ko, Mark H. Sabaj, John Lundberg, Liam J. Revell, Ricardo Betancur-R., 2017, 'Genome-wide interrogation advances resolution of recalcitrant groups in the tree of life', Nature Ecology & Evolution, vol. 1, p. 0020",
+"ot:studyYear": 2017,
+"studyID": "ot_1054",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Burns, 2019",
+"decision": "INCLUDED",
+"defaultSortOrder": 2,
+"name": "TREE1 (Burns, 2019)",
+"ot:studyPublication": "http://dx.doi.org/10.1111/evo.13658",
+"ot:studyPublicationReference": "Burns, M. D., & Sidlauskas, B. L. (2019). Ancient and contingent body shape diversification in a hyperdiverse continental fish radiation. Evolution, 73(3), 569\u2013587. doi:10.1111/evo.13658\n",
+"ot:studyYear": 2019,
+"studyID": "ot_1972",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Prosanta Chakrabarty, 2017",
+"decision": "INCLUDED",
+"defaultSortOrder": 3,
+"name": "Chakrabarty et al. (2017) Characiformes (Prosanta Chakrabarty, 2017)",
+"ot:focalCladeOTTTaxonName": "Characiformes",
+"ot:studyPublication": "http://dx.doi.org/10.1093/sysbio/syx038",
+"ot:studyPublicationReference": "Prosanta Chakrabarty, Brant C. Faircloth, Fernando Alda, William B. Ludt, Caleb D. Mcmahan, Thomas J. Near, Alex Dornburg, James S. Albert, Jairo Arroyave, Melanie L. J. Stiassny, Laurie Sorenson, Michael E. Alfaro, 2017, 'Phylogenomic Systematics of Ostariophysan Fishes: Ultraconserved Elements Support the Surprising Non-Monophyly of Characiformes', Systematic Biology, vol. 66, no. 6, pp. 881-895",
+"ot:studyYear": 2017,
+"studyID": "ot_1342",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Sidlauskas, 2021",
+"decision": "INCLUDED",
+"defaultSortOrder": 4,
+"name": "Maximum clade credibility tree morphology and molecules (Sidlauskas, 2021)",
+"ot:focalCladeOTTTaxonName": "Anostomidae",
+"ot:studyPublication": "https://doi.org/10.1093/zoolinnean/zlab016",
+"ot:studyPublicationReference": "Sidlauskas, B. L., Assega, F. M., Melo, B. F., Oliveira, C., & Birindelli, J. L. O. (2021). Total evidence phylogenetic analysis reveals polyphyly ofAnostomoidesand uncovers an unexpectedly ancient genus of Anostomidae fishes (Characiformes). Zoological Journal of the Linnean Society, 194(2), 626\u2013669. https://doi.org/10.1093/zoolinnean/zlab016\n",
+"ot:studyYear": 2021,
+"studyID": "ot_3093",
+"treeID": "tree1"
+}
+],
 "description": "Studies focused on characiform relationships at any scale",
 "name": "Characiformes",
 "queries": []
