@@ -12793,6 +12793,14 @@
 "name": "Maximum clade credibility tree morphology and molecules",
 "studyID": "ot_3093",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Sidlauskas, B. L., Assega, F. M., Melo, B. F., Oliveira, C., & Birindelli, J. L. O. (2021). Total evidence phylogenetic analysis reveals polyphyly ofAnostomoidesand uncovers an unexpectedly ancient genus of Anostomidae fishes (Characiformes). Zoological Journal of the Linnean Society, 194(2), 626\u2013669. https://doi.org/10.1093/zoolinnean/zlab016\n",
+"decision": "INCLUDED",
+"name": "Maximum clade credibility molecules only",
+"studyID": "ot_3093",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
