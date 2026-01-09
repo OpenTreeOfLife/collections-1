@@ -4,7 +4,36 @@
 "login": "mtholder",
 "name": "Mark T. Holder"
 },
-"decisions": [],
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Kimball, 2019",
+"decision": "INCLUDED",
+"defaultSortOrder": 0,
+"name": "Figure 6 TreePL with root constraint (Kimball, 2019)",
+"ot:focalCladeOTTTaxonName": "Aves",
+"ot:studyPublication": "http://dx.doi.org/10.3390/d11070109",
+"ot:studyPublicationReference": "Kimball, R. T., Oliveros, C. H., Wang, N., White, N. D., Barker, F. K., Field, D. J., \u2026 Braun, E. L. (2019). A Phylogenomic Supertree of Birds. Diversity, 11(7), 109. doi:10.3390/d11070109\n",
+"ot:studyYear": 2019,
+"studyID": "ot_2018",
+"treeID": "tree9"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Zhao, 2025",
+"decision": "INCLUDED",
+"defaultSortOrder": 1,
+"name": "RAxML-NG_fulldata_all_calibrations (Zhao, 2025)",
+"ot:focalCladeOTTTaxonName": "Aves",
+"ot:studyPublication": "https://doi.org/10.1093/sysbio/syaf080",
+"ot:studyPublicationReference": "Zhao, M., Thom, G., Faircloth, B. C., Andersen, M. J., Barker, F. K., Benz, B. W., Braun, M. J., Bravo, G. A., Brumfield, R. T., Chesser, R. T., Derryberry, E. P., Glenn, T. C., Harvey, M. G., Hosner, P. A., Imfeld, T. S., Joseph, L., Manthey, J. D., McCormack, J. E., McCullough, J. M., \u2026 Smith, B. T. (2025). Efficient Inference of Macrophylogenies: Insights from the Avian Tree of Life. Systematic Biology. https://doi.org/10.1093/sysbio/syaf080\n",
+"ot:studyYear": 2025,
+"studyID": "ot_3077",
+"treeID": "tree1"
+}
+],
 "description": "",
 "name": "trogons",
 "queries": []
