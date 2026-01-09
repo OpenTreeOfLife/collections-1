@@ -12777,6 +12777,14 @@
 "name": "Fig.S2.tre",
 "studyID": "ot_3081",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from K. L., V., Natesh, M., Mehta, P., Jayapal, R., Mukherjee, S., & Robin, V. V. (2022). Re\u2010assessing the phylogenetic status and evolutionary relationship of Forest Owlet (\n                    Athene blewitti\n                    (Hume\u20091873)) using genomic data. Ibis, 164(4), 1278\u20131284. Portico. https://doi.org/10.1111/ibi.13097\n",
+"decision": "INCLUDED",
+"name": "tree 1",
+"studyID": "ot_3089",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
