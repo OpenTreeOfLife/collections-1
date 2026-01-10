@@ -12817,6 +12817,14 @@
 "name": "Fig. 2, ML",
 "studyID": "ot_3113",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from ZHAO, T.-Y., HE, L., XU, X., CHEN, Z.-N., GAO, Y.-Y., & L\u00dc, L. (2022). The first mitochondrial genome of Creophilus Leach and Platydracus Thomson (Coleoptera: Staphylinidae: Staphylinini) and phylogenetic implications. Zootaxa, 5099(2), 179\u2013200. https://doi.org/10.11646/zootaxa.5099.2.2\n",
+"decision": "INCLUDED",
+"name": "AA_NP.tree",
+"studyID": "ot_3114",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
