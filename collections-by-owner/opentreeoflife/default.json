@@ -12809,6 +12809,14 @@
 "name": "BBtreeC2022.tre",
 "studyID": "ot_2879",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from PETERS, M. J., & MARCUS, J. M. (2016). Taxonomy as a hypothesis: testing the status of the Bermuda buckeye butterfly\n                    Junonia coenia bergi\n                    (Lepidoptera: Nymphalidae). Systematic Entomology, 42(1), 288\u2013300. Portico. https://doi.org/10.1111/syen.12214\n",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML",
+"studyID": "ot_3113",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
