@@ -4340,6 +4340,14 @@
 "name": "Fig.S2.tre (Kawahara, 2019)",
 "studyID": "ot_3081",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2, ML (PETERS, 2016)",
+"studyID": "ot_3113",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
