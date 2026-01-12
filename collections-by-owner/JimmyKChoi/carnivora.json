@@ -8,23 +8,9 @@
 {
 "SHA": "",
 "comments": "",
-"compactRefText": "Fulton T., 2006",
-"decision": "INCLUDED",
-"defaultSortOrder": 0,
-"name": "tree3733 (Fulton T., 2006)",
-"ot:focalCladeOTTTaxonName": "Carnivora",
-"ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2006.05.025",
-"ot:studyPublicationReference": "Fulton T., & Strobeck C. 2006. Molecular phylogeny of the Arctoidea (Caniformia: Carnivora): Effect of missing data on supertree and supermatrix analyses of multiple gene data sets. Molecular Phylogenetics and Evolution, 41(1): 165-181.",
-"ot:studyYear": 2006,
-"studyID": "pg_1850",
-"treeID": "tree3733"
-},
-{
-"SHA": "",
-"comments": "",
 "compactRefText": "Agnarsson, 2010",
 "decision": "INCLUDED",
-"defaultSortOrder": 1,
+"defaultSortOrder": 0,
 "name": "Fig. 2 Bayesian (Agnarsson, 2010)",
 "ot:focalCladeOTTTaxonName": "Carnivora",
 "ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2009.10.033",
@@ -32,6 +18,20 @@
 "ot:studyYear": 2010,
 "studyID": "pg_2839",
 "treeID": "tree6600"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Fulton T., 2006",
+"decision": "INCLUDED",
+"defaultSortOrder": 1,
+"name": "tree3733 (Fulton T., 2006)",
+"ot:focalCladeOTTTaxonName": "Carnivora",
+"ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2006.05.025",
+"ot:studyPublicationReference": "Fulton T., & Strobeck C. 2006. Molecular phylogeny of the Arctoidea (Caniformia: Carnivora): Effect of missing data on supertree and supermatrix analyses of multiple gene data sets. Molecular Phylogenetics and Evolution, 41(1): 165-181.",
+"ot:studyYear": 2006,
+"studyID": "pg_1850",
+"treeID": "tree3733"
 },
 {
 "SHA": "",
