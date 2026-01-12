@@ -4,7 +4,64 @@
 "login": "JimmyKChoi",
 "name": "JimmyKChoi"
 },
-"decisions": [],
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Fulton T., 2006",
+"decision": "INCLUDED",
+"defaultSortOrder": 0,
+"name": "tree3733 (Fulton T., 2006)",
+"ot:focalCladeOTTTaxonName": "Carnivora",
+"ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2006.05.025",
+"ot:studyPublicationReference": "Fulton T., & Strobeck C. 2006. Molecular phylogeny of the Arctoidea (Caniformia: Carnivora): Effect of missing data on supertree and supermatrix analyses of multiple gene data sets. Molecular Phylogenetics and Evolution, 41(1): 165-181.",
+"ot:studyYear": 2006,
+"studyID": "pg_1850",
+"treeID": "tree3733"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Agnarsson, 2010",
+"decision": "INCLUDED",
+"defaultSortOrder": 1,
+"name": "Fig. 2 Bayesian (Agnarsson, 2010)",
+"ot:focalCladeOTTTaxonName": "Carnivora",
+"ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2009.10.033",
+"ot:studyPublicationReference": "Agnarsson, Ingi, Matja\u017e Kuntner, Laura J. May-Collado. 2010. Dogs, cats, and kin: a molecular species-level phylogeny of Carnivora. Molecular Phylogenetics and Evolution 54 (3): 726-745.",
+"ot:studyYear": 2010,
+"studyID": "pg_2839",
+"treeID": "tree6600"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Nyakatura, 2012",
+"decision": "INCLUDED",
+"defaultSortOrder": 2,
+"name": "Figure 1: best dates (Nyakatura, 2012)",
+"ot:focalCladeOTTTaxonName": "Carnivora",
+"ot:studyPublication": "http://dx.doi.org/10.1186/1741-7007-10-12",
+"ot:studyPublicationReference": "Nyakatura, Katrin, Olaf RP Bininda-Emonds. 2012. Updating the evolutionary history of Carnivora (Mammalia): a new species-level supertree complete with divergence time estimates. BMC Biology 10 (1): 12",
+"ot:studyYear": 2012,
+"studyID": "ot_328",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Chris J. Law, 2017",
+"decision": "INCLUDED",
+"defaultSortOrder": 3,
+"name": "Musteloidea (Chris J. Law, 2017)",
+"ot:focalCladeOTTTaxonName": "Carnivora",
+"ot:studyPublication": "http://dx.doi.org/10.1093/sysbio/syx047",
+"ot:studyPublicationReference": "Chris J. Law, Graham J. Slater, Rita S. Mehta, 2017, 'Lineage Diversity and Size Disparity in Musteloidea: Testing Patterns of Adaptive Radiation Using Molecular and Fossil-Based Methods', Systematic Biology",
+"ot:studyYear": 2017,
+"studyID": "ot_1185",
+"treeID": "tree1"
+}
+],
 "description": "Multiple phylogenies of Carnivora",
 "name": "Carnivora",
 "queries": []
