@@ -12825,6 +12825,14 @@
 "name": "AA_NP.tree",
 "studyID": "ot_3114",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chang, J. J. M., Raupach, M. J., Cheng, L., Damgaard, J., Hongjamrassilp, W., Ip, Y. C. A., Ng, M. H.-C., Chan, W. W. R., Kunning, I., Liang, B. J. Y., Maggioni, D., Mana, R. R., Mishra, H., Mowe, M. A. D., Wainwright, B. J., Whitney, J. L., Wolfe, K., Yeo, D. C. J., & Huang, D. (2024). Skimming the skaters: genome skimming improves phylogenetic resolution of Halobatinae (Hemiptera: Gerridae). Insect Systematics and Diversity, 8(4). https://doi.org/10.1093/isd/ixae015\n",
+"decision": "INCLUDED",
+"name": "Gerromorpha_Chan_2024",
+"studyID": "ot_3115",
+"treeID": "tree5"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
