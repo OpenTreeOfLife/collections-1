@@ -6,6 +6,6 @@
 },
 "decisions": [],
 "description": "Custom synthesis prioritizing BUSCO amino acid phylogeny from Armis\u00e9n et al. (2022).",
-"name": "Gerroidea_BUSCO_priority",
+"name": "Gerroidea_Armis\u00e9n_BUSCO",
 "queries": []
 }
