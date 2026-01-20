@@ -4356,6 +4356,14 @@
 "name": "AA_NP.tree (ZHAO, 2022)",
 "studyID": "ot_3114",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 12, MP (WANG, 2016)",
+"studyID": "ot_3117",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
