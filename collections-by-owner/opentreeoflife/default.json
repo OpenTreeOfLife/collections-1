@@ -12833,6 +12833,14 @@
 "name": "Gerromorpha_Chan_2024",
 "studyID": "ot_3115",
 "treeID": "tree5"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from WANG, R., LI, X., SZWEDO, J., STROI\u0143SKI, A., LIANG, A., & BOURGOIN, T. (2016). Testing Tropiduchini St\u00e5l 1866 (Hemiptera: Tropiduchidae) monophyly, a young inter\u2010tropical taxon of mainly insular species: taxonomy, distribution patterns and phylogeny, with the description of a new genus from Papua New Guinea. Systematic Entomology, 42(2), 359\u2013378. Portico. https://doi.org/10.1111/syen.12219\n",
+"decision": "INCLUDED",
+"name": "Fig. 12, MP",
+"studyID": "ot_3117",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
