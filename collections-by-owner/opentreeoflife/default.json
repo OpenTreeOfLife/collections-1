@@ -12873,6 +12873,14 @@
 "name": "TRIMMED (Fig. 2)",
 "studyID": "ot_3052",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Qing, X., Zhang, Y. M., Sun, S., Ahmed, M., Lo, W.-S., Bert, W., Holovachov, O., & Li, H. (2024). Phylogenomic Insights into the Evolution and Origin of Nematoda. Systematic Biology, 74(3), 349\u2013358. https://doi.org/10.1093/sysbio/syae073\n",
+"decision": "INCLUDED",
+"name": "Nem_50p_aa_MCMCresult.tree",
+"studyID": "ot_3053",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
