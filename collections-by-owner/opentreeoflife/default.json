@@ -12881,6 +12881,14 @@
 "name": "Nem_50p_aa_MCMCresult.tree",
 "studyID": "ot_3053",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from RIGHETTI, N., NICOLINI, F., FORNI, G., & LUCHETTI, A. (2025). Towards a time-tree solution for Branchiopoda diversification: a jackknife assessment of fossil age priors. Palaeoentomology, 8(3), 316\u2013328. https://doi.org/10.11646/palaeoentomology.8.3.8\n",
+"decision": "INCLUDED",
+"name": "FINAL_calibrated_tree.nexus",
+"studyID": "ot_3061",
+"treeID": "tree4"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
