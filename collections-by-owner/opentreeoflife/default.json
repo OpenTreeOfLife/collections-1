@@ -12849,6 +12849,14 @@
 "name": "Figure 1",
 "studyID": "ot_1053",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Sann, M., Niehuis, O., Peters, R. S., Mayer, C., Kozlov, A., Podsiadlowski, L., Bank, S., Meusemann, K., Misof, B., Bleidorn, C., & Ohl, M. (2018). Phylogenomic analysis of Apoidea sheds new light on the sister group of bees. BMC Evolutionary Biology, 18(1). https://doi.org/10.1186/s12862-018-1155-8\n",
+"decision": "INCLUDED",
+"name": "Time calibration run 1",
+"studyID": "ot_2466",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
