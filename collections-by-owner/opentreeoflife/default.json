@@ -12857,6 +12857,14 @@
 "name": "Time calibration run 1",
 "studyID": "ot_2466",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Johnson, K. P., Dietrich, C. H., Friedrich, F., Beutel, R. G., Wipfler, B., Peters, R. S., Allen, J. M., Petersen, M., Donath, A., Walden, K. K. O., Kozlov, A. M., Podsiadlowski, L., Mayer, C., Meusemann, K., Vasilikopoulos, A., Waterhouse, R. M., Cameron, S. L., Weirauch, C., Swanson, D. R., \u2026 Yoshizawa, K. (2018). Phylogenomics and the evolution of hemipteroid insects. Proceedings of the National Academy of Sciences, 115(50), 12775\u201312780. https://doi.org/10.1073/pnas.1815820115\n",
+"decision": "INCLUDED",
+"name": "Acer_FigTree_Long",
+"studyID": "ot_2611",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
