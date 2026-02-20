@@ -12889,6 +12889,14 @@
 "name": "FINAL_calibrated_tree.nexus",
 "studyID": "ot_3061",
 "treeID": "tree4"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Thomas Thorpe, J. A. (2024). Phylogenomics supports a single origin of terrestriality in isopods. Proceedings of the Royal Society B: Biological Sciences, 291(2033). https://doi.org/10.1098/rspb.2024.1042\n",
+"decision": "INCLUDED",
+"name": "Isopoda.edit20.Oniscidates.SubM.LogNrml.mcc.tree",
+"studyID": "ot_3119",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
