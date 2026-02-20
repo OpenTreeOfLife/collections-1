@@ -12897,14 +12897,6 @@
 "name": "Isopoda.edit20.Oniscidates.SubM.LogNrml.mcc.tree",
 "studyID": "ot_3119",
 "treeID": "tree1"
-},
-{
-"SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Hata, H., Lavou\u00e9, S., Appleyard, S. A., & Pogonoski, J. J. (2025). A New Species of Rainbow Sardine in the Genus Dussumieria (Teleostei: Clupeiformes: Dussumieriidae) from New Guinea and Australia. Ichthyology &amp; Herpetology, 113(1). https://doi.org/10.1643/i2024023\n",
-"decision": "INCLUDED",
-"name": "Untitled (tree1)",
-"studyID": "ot_2418",
-"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
