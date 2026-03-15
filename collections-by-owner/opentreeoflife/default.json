@@ -12897,6 +12897,14 @@
 "name": "Isopoda.edit20.Oniscidates.SubM.LogNrml.mcc.tree",
 "studyID": "ot_3119",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Simion, Paul, Herv\u00e9 Philippe, Denis Baurain, Muriel Jager, Daniel J. Richter, Arnaud Di Franco, B\u00e9atrice Roure, Nori Satoh, \u00c9ric Qu\u00e9innec, Alexander Ereskovsky, Pascal Lap\u00e9bie, Erwan Corre, Fr\u00e9d\u00e9ric Delsuc, Nicole King, Gert W\u00f6rheide, Micha\u00ebl Manuel, 2017, 'A Large and Consistent Phylogenomic Dataset Supports Sponges as the Sister Group to All Other Animals', Current Biology",
+"decision": "INCLUDED",
+"name": "Fig 3 (supermatrix of 401,632 Amino Acid Positions for 90 Species)",
+"studyID": "ot_1051",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
