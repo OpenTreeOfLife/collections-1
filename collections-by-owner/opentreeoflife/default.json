@@ -12905,6 +12905,14 @@
 "name": "Fig 3 (supermatrix of 401,632 Amino Acid Positions for 90 Species)",
 "studyID": "ot_1051",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gazave, E., Lap\u00e9bie, P., Renard, E., Vacelet, J., Rocher, C., Ereskovsky, A. V., Lavrov, D. V., & Borchiellini, C. (2010). Molecular Phylogeny Restores the Supra-Generic Subdivision of Homoscleromorph Sponges (Porifera, Homoscleromorpha). PLoS ONE, 5(12), e14290. https://doi.org/10.1371/journal.pone.0014290\n",
+"decision": "INCLUDED",
+"name": "tree1",
+"studyID": "ot_3126",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
