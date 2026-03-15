@@ -12913,6 +12913,14 @@
 "name": "tree1",
 "studyID": "ot_3126",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gazave, E., Lavrov, D. V., Cabrol, J., Renard, E., Rocher, C., Vacelet, J., Adamska, M., Borchiellini, C., & Ereskovsky, A. V. (2013). Systematics and Molecular Phylogeny of the Family Oscarellidae (Homoscleromorpha) with Description of Two New Oscarella Species. PLoS ONE, 8(5), e63976. https://doi.org/10.1371/journal.pone.0063976\n",
+"decision": "INCLUDED",
+"name": "Simplified Consensus Tree Based on tatC+atp6 Molecular Phylogenies",
+"studyID": "ot_3127",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
