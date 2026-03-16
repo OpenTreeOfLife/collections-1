@@ -12937,6 +12937,14 @@
 "name": "Figure 1 - The New Tree of Eukaryotes",
 "studyID": "ot_3129",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Castelle, C. J., & Banfield, J. F. (2018). Major New Microbial Groups Expand Diversity and Alter our Understanding of the Tree of Life. Cell, 172(6), 1181\u20131197. https://doi.org/10.1016/j.cell.2018.02.016\n",
+"decision": "INCLUDED",
+"name": "Maximum Likelihood Phylogenetic Tree for Three Domains of Life",
+"studyID": "ot_3130",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
