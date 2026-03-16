@@ -12921,6 +12921,14 @@
 "name": "Simplified Consensus Tree Based on tatC+atp6 Molecular Phylogenies",
 "studyID": "ot_3127",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Voigt, O., W\u00fclfing, E., & W\u00f6rheide, G. (2012). Molecular Phylogenetic Evaluation of Classification and Scenarios of Character Evolution in Calcareous Sponges (Porifera, Class Calcarea). PLoS ONE, 7(3), e33417. https://doi.org/10.1371/journal.pone.0033417\n",
+"decision": "INCLUDED",
+"name": "Maximum-likelihood 16-state Doublet Substitution Model",
+"studyID": "ot_3128",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
