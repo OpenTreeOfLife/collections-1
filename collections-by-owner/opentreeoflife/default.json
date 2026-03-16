@@ -12929,6 +12929,14 @@
 "name": "Maximum-likelihood 16-state Doublet Substitution Model",
 "studyID": "ot_3128",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Burki, F., Roger, A. J., Brown, M. W., & Simpson, A. G. B. (2020). The New Tree of Eukaryotes. Trends in Ecology &amp; Evolution, 35(1), 43\u201355. https://doi.org/10.1016/j.tree.2019.08.008\n",
+"decision": "INCLUDED",
+"name": "Figure 1 - The New Tree of Eukaryotes",
+"studyID": "ot_3129",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
