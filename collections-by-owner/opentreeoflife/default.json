@@ -12945,6 +12945,14 @@
 "name": "Maximum Likelihood Phylogenetic Tree for Three Domains of Life",
 "studyID": "ot_3130",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Thompson, J. B., Martinez, C., Avaria-Llautureo, J., Ram\u00edrez-Barahona, S., Manzanarez-Villasana, G., Culham, A., Gdaniec, A., Ryan, G., Venditti, C., Keeling, G., & Priest, N. K. (2026). CactEcoDB: Trait, spatial, environmental, phylogenetic and diversification data for the cactus family. Scientific Data. https://doi.org/10.1038/s41597-026-06936-7\n",
+"decision": "INCLUDED",
+"name": "CactEcoDB Phylogeny V2",
+"studyID": "ot_3131",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
