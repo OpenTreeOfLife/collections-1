@@ -12985,6 +12985,14 @@
 "name": "Maximum-Likelihood Tree for Desulfarculaceae",
 "studyID": "ot_3132",
 "treeID": "tree4"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from He, S., Kergoat, G. J., Su, Y. N., Bonillo, C., Zwick, A., Warren, B. H., & Robillard, T. (2026). Exploring the impact of Cenozoic climate change on diversification of the Australian endemic Eurepini crickets (Orthoptera: Gryllidae: Eneopterinae). Communications Biology. https://doi.org/10.1038/s42003-026-09791-9\n",
+"decision": "INCLUDED",
+"name": "Time-Calibrated Phylogeny of Eurepini Crickets",
+"studyID": "ot_3133",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
