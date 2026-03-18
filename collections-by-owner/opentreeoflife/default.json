@@ -12969,6 +12969,14 @@
 "name": "Maximum-Likelihood Tree for Desulfovibrionaceae",
 "studyID": "ot_3132",
 "treeID": "tree12"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bolzoni, R., Monteil, C. L., Alonso, B., Bergot, M., Chevrier, D. M., Godon, C., Menguy, N., Fouteau, S., Da Cunha, V., Skouri-Panet, F., Pereiro, E., Duverger, A., Vallenet, D., Cruaud, C., Abreu, F., Benzerara, K., & Lefevre, C. T. (2026). Magnetoreception in a freshwater ciliate arises from endosymbiosis. Nature Communications. https://doi.org/10.1038/s41467-026-70462-8\n",
+"decision": "INCLUDED",
+"name": "Maximum-Likelihood Tree for Ca. Midichloriaceae Family",
+"studyID": "ot_3132",
+"treeID": "tree7"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
