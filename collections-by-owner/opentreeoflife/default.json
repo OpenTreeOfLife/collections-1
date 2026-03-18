@@ -13001,6 +13001,14 @@
 "name": "Plastid Relationships Among Photosynthetic Eukaryotes",
 "studyID": "ot_3134",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Han, S., Riyahi, S., Huang, X., & Kuhlwilm, M. (2025). A curated dataset of great ape genome diversity. Scientific Data, 12(1). https://doi.org/10.1038/s41597-025-06124-z\n",
+"decision": "INCLUDED",
+"name": "Phylogeny and Overview of Individuals from Each of the Clades",
+"studyID": "ot_3136",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
