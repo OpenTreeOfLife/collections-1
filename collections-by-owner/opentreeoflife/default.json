@@ -13017,6 +13017,14 @@
 "name": "MamPhy_fullPosterior_BDvr_DNAonly_4098sp_topoFree_NDexp_MCC_v2_target",
 "studyID": "ot_1990",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Sz\u00e1nth\u00f3, L. L., Mer\u00e9nyi, Z., Donoghue, P., Gabald\u00f3n, T., Nagy, L. G., Sz\u00f6ll\u0151si, G. J., & Oca\u00f1a-Pallar\u00e8s, E. (2025). A timetree of Fungi dated with fossils and horizontal gene transfers. Nature Ecology &amp; Evolution, 9(11), 1989\u20132001. https://doi.org/10.1038/s41559-025-02851-z\n",
+"decision": "INCLUDED",
+"name": "41559_2025_2851_MOESM6_ESM.txt",
+"studyID": "ot_3138",
+"treeID": "tree5"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
