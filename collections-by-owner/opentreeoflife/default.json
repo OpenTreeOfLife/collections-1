@@ -13057,6 +13057,14 @@
 "name": "Fig. 2. Family Rossellidae: maximum parsimony tree",
 "studyID": "ot_3139",
 "treeID": "tree5"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Fan, P., He, K., Chen, X., Ortiz, A., Zhang, B., Zhao, C., Li, Y., Zhang, H., Kimock, C., Wang, W., Groves, C., Turvey, S. T., Roos, C., Helgen, K. M., & Jiang, X. (2017). Description of a new species of Hoolock gibbon (Primates: Hylobatidae) based on integrative taxonomy. American Journal of Primatology, 79(5). Portico. https://doi.org/10.1002/ajp.22631\n",
+"decision": "INCLUDED",
+"name": "Fig. 6",
+"studyID": "ot_3140",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
