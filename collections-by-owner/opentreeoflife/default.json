@@ -13033,6 +13033,14 @@
 "name": "Fig. 1. Family Euplectellidae: maximum parsimony tree",
 "studyID": "ot_3139",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Henkel, D., Borkenhagen, K., & Janussen, D. (2013). Phylogeny of the Hexactinellida: phylogenetic reconstruction of the subclass Hexasterophora based on morphological characters. Journal of the Marine Biological Association of the United Kingdom, 95(7), 1365\u20131369. https://doi.org/10.1017/s0025315413000180\n",
+"decision": "INCLUDED",
+"name": "Fig. 3. Order Hexactinosida: maximum parsimony tree",
+"studyID": "ot_3139",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
