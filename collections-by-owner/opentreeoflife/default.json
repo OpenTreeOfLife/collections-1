@@ -13073,6 +13073,14 @@
 "name": "Fig.19. Phylogenetic relationships among crested gibbon species",
 "studyID": "ot_3141",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Matsudaira, K., & Ishida, T. (2021). Divergence and introgression in small apes, the genus Hylobates, revealed by reduced representation sequencing. Heredity, 127(3), 312\u2013322. https://doi.org/10.1038/s41437-021-00452-7\n",
+"decision": "INCLUDED",
+"name": "Fig. 2. Gibbon mitogenome phylogenetic tree",
+"studyID": "ot_3142",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
