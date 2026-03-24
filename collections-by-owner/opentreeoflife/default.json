@@ -13065,6 +13065,14 @@
 "name": "Fig. 6",
 "studyID": "ot_3140",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Thinh, V.N., Mootnick, A.R., Thanh, V.N., Nadler, T., & Roos, C. (2010). A new species of crested gibbon, from the central Annamite mountain range.",
+"decision": "INCLUDED",
+"name": "Fig.19. Phylogenetic relationships among crested gibbon species",
+"studyID": "ot_3141",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
