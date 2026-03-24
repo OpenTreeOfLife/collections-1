@@ -13105,6 +13105,14 @@
 "name": "FIGURE 8. ML Phylogenetic reconstruction of Oscarellidae",
 "studyID": "ot_3145",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cesar Ruiz, Guilherme Muricy, Anaira Lage, Celso Domingos, Sandrine Chenesseau, et al.. Descriptions of new sponge species and genus, including aspiculate Plakinidae, overturn the Homoscleromorpha classification. Zoological Journal of the Linnean Society, 2017, 179 (4), pp.707-724.\nff10.1111/zoj.12480ff. ffhal-01681524f",
+"decision": "INCLUDED",
+"name": "Figure 7. Phylogenetic reconstruction using ML values",
+"studyID": "ot_3146",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
