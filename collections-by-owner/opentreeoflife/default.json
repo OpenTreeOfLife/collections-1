@@ -13081,6 +13081,14 @@
 "name": "Fig. 2. Gibbon mitogenome phylogenetic tree",
 "studyID": "ot_3142",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ereskovsky, A. V., Richter, D. J., Lavrov, D. V., Schippers, K. J., & Nichols, S. A. (2017). Transcriptome sequencing and delimitation of sympatric Oscarella species (O. carmela and O. pearsei sp. nov) from California, USA. PLOS ONE, 12(9), e0183002. https://doi.org/10.1371/journal.pone.0183002\n",
+"decision": "INCLUDED",
+"name": "Fig 3. Homoscleromorph phylogenetic relationships from mtGenome",
+"studyID": "ot_3143",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
