@@ -13089,6 +13089,14 @@
 "name": "Fig 3. Homoscleromorph phylogenetic relationships from mtGenome",
 "studyID": "ot_3143",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Guiollot, E., Guillemain, D., Renard, E., Borchiellini, C., & Schenkelaars, Q. (2024). The Oscarella sponge genus: a hidden yet colorful diversity. https://doi.org/10.1101/2024.10.26.620226\n",
+"decision": "INCLUDED",
+"name": "Figure 2",
+"studyID": "ot_3144",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
