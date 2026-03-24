@@ -13097,6 +13097,14 @@
 "name": "Figure 2",
 "studyID": "ot_3144",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from PEREZ, T., & RUIZ, C. (2018). Description of the first Caribbean Oscarellidae (Porifera: Homoscleromorpha)\u00a0. Zootaxa, 4369(4). https://doi.org/10.11646/zootaxa.4369.4.3\n",
+"decision": "INCLUDED",
+"name": "FIGURE 8. ML Phylogenetic reconstruction of Oscarellidae",
+"studyID": "ot_3145",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
