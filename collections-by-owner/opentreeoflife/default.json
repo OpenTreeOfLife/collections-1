@@ -13129,6 +13129,14 @@
 "name": "Fig. 13. Phylogenetic analysis of homoscleromorph relationships using mitochondrial cob sequences",
 "studyID": "ot_3149",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from GRENIER, M., RUIZ, C., LAGE, A., & PEREZ, T. (2020). New cave-dwelling Plakina (Plakinidae, Homoscleromorpha, Porifera) from Martinique Island (French Antilles). Zootaxa, 4729(1). https://doi.org/10.11646/zootaxa.4729.1.6\n",
+"decision": "INCLUDED",
+"name": "FIGURE 5. Phylogenetic relationships of Homoscleromorpha using cytochrome oxidase 1",
+"studyID": "ot_3150",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
