@@ -13137,6 +13137,14 @@
 "name": "FIGURE 5. Phylogenetic relationships of Homoscleromorpha using cytochrome oxidase 1",
 "studyID": "ot_3150",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from VICENTE, J., ZEA, S., & HILL, R. T. (2016). Sponge epizoism in the Caribbean and the discovery of new Plakortis and &lt;br /&gt;Haliclona species, and polymorphism of Xestospongia deweerdtae (Porifera). Zootaxa, 4178(2). https://doi.org/10.11646/zootaxa.4178.2.3\n",
+"decision": "INCLUDED",
+"name": "FIGURE 4 Maximum likelihood topology from cytochrome b oxidase ",
+"studyID": "ot_3148",
+"treeID": "tree4"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
