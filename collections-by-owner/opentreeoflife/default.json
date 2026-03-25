@@ -13121,6 +13121,14 @@
 "name": "Figure 12. Bayesian phylogenetic tree of concatenated COI + 28S data",
 "studyID": "ot_3147",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ereskovsky, A. V., Lavrov, D. V., & Willenz, P. (2013). Five new species of Homoscleromorpha (Porifera) from the Caribbean Sea and re-description ofPlakina jamaicensis. Journal of the Marine Biological Association of the United Kingdom, 94(2), 285\u2013307. https://doi.org/10.1017/s0025315413000295\n",
+"decision": "INCLUDED",
+"name": "Fig. 13. Phylogenetic analysis of homoscleromorph relationships using mitochondrial cob sequences",
+"studyID": "ot_3149",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
