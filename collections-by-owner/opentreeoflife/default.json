@@ -13113,6 +13113,14 @@
 "name": "Figure 7. Phylogenetic reconstruction using ML values",
 "studyID": "ot_3146",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cabioch, C., Ruiz, C., Grenier, M., Ereskovsky, A., Moraes, F., Fauvelot, C., & P\u00e9rez, T. (2026). Cave-dwelling Homoscleromorpha (Porifera) from Cape Verde archipelago (Northeast Atlantic): one new genus of aspiculate Plakinidae and five new species. Zoological Journal of the Linnean Society, 206(3). https://doi.org/10.1093/zoolinnean/zlag040\n",
+"decision": "INCLUDED",
+"name": "Figure 12. Bayesian phylogenetic tree of concatenated COI + 28S data",
+"studyID": "ot_3147",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
