@@ -13185,6 +13185,14 @@
 "name": "Figure 5. Phylogeny inferred with PHASE/MrBayes",
 "studyID": "ot_3154",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Schuster, A., Erpenbeck, D., Pisera, A., Hooper, J., Bryce, M., Fromont, J., & W\u00f6rheide, G. (2015). Deceptive Desmas: Molecular Phylogenetics Suggests a New Classification and Uncovers Convergent Evolution of Lithistid Demosponges. PLoS ONE, 10(1), e116038. https://doi.org/10.1371/journal.pone.0116038\n",
+"decision": "INCLUDED",
+"name": "Fig. 5. Bayesian Inference phylogeny of demosponge taxa based on CO1",
+"studyID": "ot_3155",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
