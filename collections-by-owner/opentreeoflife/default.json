@@ -13177,6 +13177,14 @@
 "name": "Fig. 13. ML tree from C-region of 28S rRNA sequences",
 "studyID": "ot_3153",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Voigt, O., Erpenbeck, D., & W\u00f6rheide, G. (2008). Molecular evolution of rDNA in early diverging Metazoa: First comparative analysis and phylogenetic application of complete SSU rRNA secondary structures in Porifera. BMC Evolutionary Biology, 8(1). https://doi.org/10.1186/1471-2148-8-69\n",
+"decision": "INCLUDED",
+"name": "Figure 5. Phylogeny inferred with PHASE/MrBayes",
+"studyID": "ot_3154",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
