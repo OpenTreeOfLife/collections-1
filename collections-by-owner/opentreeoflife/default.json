@@ -13169,6 +13169,14 @@
 "name": "Fig. 3 Bayesian phylogeny of LSU C-region",
 "studyID": "ot_3152",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Sanamyan, K. E., Sanamyan, N. P., Kukhlevskiy, A. D., & Shilov, V. A. (2023). New species of calcareous sponges of the family Leuconiidae (Porifera: Calcarea: Baeriida) from Kuril Islands, NW Pacific. Invertebrate Zoology, 20(2), 153\u2013179. https://doi.org/10.15298/invertzool.20.2.03\n",
+"decision": "INCLUDED",
+"name": "Fig. 13. ML tree from C-region of 28S rRNA sequences",
+"studyID": "ot_3153",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
