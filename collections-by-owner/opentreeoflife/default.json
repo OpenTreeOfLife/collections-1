@@ -13161,6 +13161,14 @@
 "name": "FIGURE 4. Analyses of 18S rRNA data set in ML tree",
 "studyID": "ot_3151",
 "treeID": "tree5"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Voigt, O., & W\u00f6rheide, G. (2015). A short LSU rRNA fragment as a standard marker for integrative taxonomy in calcareous sponges (Porifera: Calcarea). Organisms Diversity &amp; Evolution, 16(1), 53\u201364. https://doi.org/10.1007/s13127-015-0247-1\n",
+"decision": "INCLUDED",
+"name": "Fig. 3 Bayesian phylogeny of LSU C-region",
+"studyID": "ot_3152",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
