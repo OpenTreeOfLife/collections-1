@@ -13145,6 +13145,14 @@
 "name": "FIGURE 4 Maximum likelihood topology from cytochrome b oxidase ",
 "studyID": "ot_3148",
 "treeID": "tree4"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Manuel, M., Borchiellini, C., Alivon, E., Le Parco, Y., Vacelet, J., & Boury-Esnault, N. (2003). Phylogeny and Evolution of Calcareous Sponges: Monophyly of Calcinea and Calcaronea, High Level of Morphological Homoplasy, and the Primitive Nature of Axial Symmetry. Systematic Biology, 52(3), 311\u2013333. https://doi.org/10.1080/10635150390196966\n",
+"decision": "INCLUDED",
+"name": "FIGURE 2. B - Strict consensus of 81 shortest trees minus terminal taxa",
+"studyID": "ot_3151",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
