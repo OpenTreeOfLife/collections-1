@@ -13209,6 +13209,14 @@
 "name": "FIGURE 6. ML tree reconstructed with ribosomal nuclear marker ITS",
 "studyID": "ot_3157",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Klautau, M., Ime\u0161ek, M., Azevedo, F., Ple\u0161e, B., Nikoli\u0107, V., & \u0106etkovi\u0107, H. (2016). Adriatic calcarean sponges (Porifera, Calcarea), with the description of six new species and a richness analysis. European Journal of Taxonomy, 178. https://doi.org/10.5852/ejt.2016.178\n",
+"decision": "INCLUDED",
+"name": "Fig. 16. ML tree based on ITS1-5.8S-ITS2 rDNA sequences of Calcinea",
+"studyID": "ot_3158",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
