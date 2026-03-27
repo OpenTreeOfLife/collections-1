@@ -13193,6 +13193,14 @@
 "name": "Fig. 5. Bayesian Inference phylogeny of demosponge taxa based on CO1",
 "studyID": "ot_3155",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Alvizu, A., Eilertsen, M. H., Xavier, J. R., & Rapp, H. T. (2018). Increased taxon sampling provides new insights into the phylogeny and evolution of the subclass Calcaronea (Porifera, Calcarea). Organisms Diversity &amp; Evolution, 18(3), 279\u2013290. https://doi.org/10.1007/s13127-018-0368-4\n",
+"decision": "INCLUDED",
+"name": "Fig. 1. Phylogenetic reconstruction with Bayesian inference of 28S rDNA for Calcaronea",
+"studyID": "ot_3156",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
