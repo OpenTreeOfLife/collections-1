@@ -13249,6 +13249,14 @@
 "name": "FIGURE 15. ML phylogenetic tree of the LSU from Calcaronea",
 "studyID": "ot_3160",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from ALVIZU, A., XAVIER, J. R., & RAPP, H. T. (2019). Description of new chiactine-bearing sponges provides insights into the higher classification of Calcaronea (Porifera: Calcarea). Zootaxa, 4615(2). https://doi.org/10.11646/zootaxa.4615.2.1\n",
+"decision": "INCLUDED",
+"name": "FIGURE 21. Phylogenetic reconstruction using Bayesian inference of 18S + C-region rDNA for chiactine/pugiole-bearing sponges",
+"studyID": "ot_3161",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
