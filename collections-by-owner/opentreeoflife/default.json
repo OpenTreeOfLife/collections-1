@@ -13241,6 +13241,14 @@
 "name": "FIGURE 13. ML phylogenetic tree of the ITS from Calcinea",
 "studyID": "ot_3160",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from KLAUTAU, M., LOPES, M. V., GUARABYRA, B., FOLCHER, E., EKINS, M., & DEBITUS, C. (2020). Calcareous sponges from the French Polynesia (Porifera: Calcarea). Zootaxa, 4748(2). https://doi.org/10.11646/zootaxa.4748.2.3\n",
+"decision": "INCLUDED",
+"name": "FIGURE 15. ML phylogenetic tree of the LSU from Calcaronea",
+"studyID": "ot_3160",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
