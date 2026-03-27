@@ -13257,6 +13257,14 @@
 "name": "FIGURE 21. Phylogenetic reconstruction using Bayesian inference of 18S + C-region rDNA for chiactine/pugiole-bearing sponges",
 "studyID": "ot_3161",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Van Soest, R., Hoeksema, B. W., Reimer, J. D., & De Voogd, N. J. (2015). New records of the rare calcareous sponge Paragrantia waguensis H\u00f4zawa, 1940. ZooKeys, 546, 1\u201320. https://doi.org/10.3897/zookeys.546.6122\n",
+"decision": "INCLUDED",
+"name": "Figure 8. ML phylogenetic tree of 28S partial sequences of Leucosolenida calcareous sponges",
+"studyID": "ot_3162",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
