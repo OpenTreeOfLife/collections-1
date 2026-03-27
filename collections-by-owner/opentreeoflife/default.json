@@ -13201,6 +13201,14 @@
 "name": "Fig. 1. Phylogenetic reconstruction with Bayesian inference of 28S rDNA for Calcaronea",
 "studyID": "ot_3156",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from LOPES, M. V., PADUA, A., C\u00d3NDOR-LUJ\u00c1N, B., & KLAUTAU, M. (2018). Calcareous sponges (Porifera, Calcarea) from Florida: new species, new records and biogeographical affinities. Zootaxa, 4526(2). https://doi.org/10.11646/zootaxa.4526.2.2\n",
+"decision": "INCLUDED",
+"name": "FIGURE 6. ML tree reconstructed with ribosomal nuclear marker ITS",
+"studyID": "ot_3157",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
