@@ -13297,6 +13297,14 @@
 "name": "FIGURE 11. ML consensus tree of Cladorhizidae based on partial 28S rRNA, COI, and ALG11",
 "studyID": "ot_3163",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Rossi, M. E., Keating, J. N., Kenny, N. J., Giacomelli, M., \u00c1lvarez-Carretero, S., Schuster, A., C\u00e1rdenas, P., Taboada, S., Koutsouveli, V., Donoghue, P. C. J., Riesgo, A., & Pisani, D. (2026). Independent origins of spicules reconcile paleontological and molecular evidence of sponge evolutionary history. Science Advances, 12(2). https://doi.org/10.1126/sciadv.adx1754\n",
+"decision": "INCLUDED",
+"name": "Fig. 1. Phylogeny of sponges",
+"studyID": "ot_3164",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
