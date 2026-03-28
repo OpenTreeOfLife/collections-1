@@ -13281,6 +13281,14 @@
 "name": "Fig. 9. Phylogeny of Sceptrulophora inferred with TNT",
 "studyID": "ot_1068",
 "treeID": "tree8"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Martin Dohrmann, Christopher Kelley, Michelle Kelly, Andrzej Pisera, John N. A. Hooper, Henry M. Reiswig, 2017, 'An integrative systematic framework helps to reconstruct skeletal evolution of glass sponges (Porifera, Hexactinellida)', Frontiers in Zoology, vol. 14, no. 1",
+"decision": "INCLUDED",
+"name": "Fig. 10. Phylogeny of Anuncinataria inferred with TNT",
+"studyID": "ot_1068",
+"treeID": "tree12"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
