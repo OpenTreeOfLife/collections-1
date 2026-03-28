@@ -13289,6 +13289,14 @@
 "name": "Fig. 10. Phylogeny of Anuncinataria inferred with TNT",
 "studyID": "ot_1068",
 "treeID": "tree12"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Hestetun, J. T., Rapp, H. T., & Pomponi, S. (2019). Deep-Sea Carnivorous Sponges From the Mariana Islands. Frontiers in Marine Science, 6. https://doi.org/10.3389/fmars.2019.00371\n",
+"decision": "INCLUDED",
+"name": "FIGURE 11. ML consensus tree of Cladorhizidae based on partial 28S rRNA, COI, and ALG11",
+"studyID": "ot_3163",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
