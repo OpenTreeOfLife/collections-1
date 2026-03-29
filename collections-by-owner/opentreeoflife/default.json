@@ -13361,6 +13361,14 @@
 "name": "ML tree for Japonigekko",
 "studyID": "ot_3171",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Zhou M, Cui Y, Vlas\u00e1k J, Wu Y, Li C, et al. 2026. Global phylogeny, divergence times and evolutionary history of Trichaptum s.l. (Hymenochaetales, Basidiomycota): two new families and six new species. Mycosphere 17: e004 doi: 10.48130/mycosphere-0026-0005",
+"decision": "INCLUDED",
+"name": "Figure 1. ML tree of Trichaptum s.l. based on five sequences (ITS, nLSU, TEF1, mt-SSU, and nuc-SSU)",
+"studyID": "ot_3172",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
