@@ -13321,6 +13321,14 @@
 "name": "Fig. 3. Bayesian inference analysis using combined 18S-ITS dataset",
 "studyID": "ot_3165",
 "treeID": "tree4"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Lu, T.-M., Kanda, M., Satoh, N., & Furuya, H. (2017). The phylogenetic position of dicyemid mesozoans offers insights into spiralian evolution. Zoological Letters, 3(1). https://doi.org/10.1186/s40851-017-0068-5\n",
+"decision": "INCLUDED",
+"name": "Fig. 3a. ML tree from dataset covering 29 taxa",
+"studyID": "ot_3166",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
