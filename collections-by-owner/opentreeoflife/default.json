@@ -13305,6 +13305,14 @@
 "name": "Fig. 1. Phylogeny of sponges",
 "studyID": "ot_3164",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Simion, P., Bekkouche, N., Jager, M., Qu\u00e9innec, E., & Manuel, M. (2015). Exploring the potential of small RNA subunit and ITS sequences for resolving phylogenetic relationships within the phylum Ctenophora. Zoology, 118(2), 102\u2013114. https://doi.org/10.1016/j.zool.2014.06.004\n",
+"decision": "INCLUDED",
+"name": "Fig. 1A. Simplified 18S dataset tree at the metazoan level",
+"studyID": "ot_3165",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
