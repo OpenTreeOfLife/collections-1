@@ -13345,6 +13345,14 @@
 "name": "Figure 3B. ML tree from the mixed amino acid and nucleotide dataset of Stomatopoda",
 "studyID": "ot_3169",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Shane T. Ahyong, Phylogenetic Analysis of the Stomatopoda (Malacostraca), Journal of Crustacean Biology, Volume 17, Issue 4, 1 October 1997, Pages 695\u2013715, https://doi.org/10.1163/193724097X00134",
+"decision": "INCLUDED",
+"name": "Fig. 5. Single most parsimonious cladogram of the Stomatopoda",
+"studyID": "ot_3170",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
