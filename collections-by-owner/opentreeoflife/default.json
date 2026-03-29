@@ -13353,6 +13353,14 @@
 "name": "Fig. 5. Single most parsimonious cladogram of the Stomatopoda",
 "studyID": "ot_3170",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cao, J., Poyarkov, N. A., Wei, P., Tie, M., Matsukoji, T., Suwannapoom, C., Ai, R., Lu, W., Sucharitakul, P., Wang, H., Chomdej, S., Yuan, Z., & Yan, F. (2026). Diversity, phylogeny, and biogeography of the subgenus Japonigekko (Gekkonidae: Gekko). Molecular Phylogenetics and Evolution, 217, 108530. https://doi.org/10.1016/j.ympev.2025.108530\n",
+"decision": "INCLUDED",
+"name": "ML tree for Japonigekko",
+"studyID": "ot_3171",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
