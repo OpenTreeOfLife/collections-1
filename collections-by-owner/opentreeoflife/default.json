@@ -13329,6 +13329,14 @@
 "name": "Fig. 3a. ML tree from dataset covering 29 taxa",
 "studyID": "ot_3166",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cannon, J. T., Rychel, A. L., Eccleston, H., Halanych, K. M., & Swalla, B. J. (2009). Molecular phylogeny of hemichordata, with updated status of deep-sea enteropneusts. Molecular Phylogenetics and Evolution, 52(1), 17\u201324. https://doi.org/10.1016/j.ympev.2009.03.027\n",
+"decision": "INCLUDED",
+"name": "Fig. 4. 18S rDNA topology in a Bayesian tree",
+"studyID": "ot_3168",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
