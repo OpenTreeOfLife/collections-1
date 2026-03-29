@@ -13337,6 +13337,14 @@
 "name": "Fig. 4. 18S rDNA topology in a Bayesian tree",
 "studyID": "ot_3168",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Koga, C., & Rouse, G. W. (2021). Mitogenomics and the Phylogeny of Mantis Shrimps (Crustacea: Stomatopoda). Diversity, 13(12), 647. https://doi.org/10.3390/d13120647\n",
+"decision": "INCLUDED",
+"name": "Figure 3B. ML tree from the mixed amino acid and nucleotide dataset of Stomatopoda",
+"studyID": "ot_3169",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
