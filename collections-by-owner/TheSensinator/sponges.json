@@ -1,0 +1,44 @@
+{
+"contributors": [],
+"creator": {
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"decisions": [
+{
+"SHA": "",
+"comments": "PHYLUM PORIFERA\nProvides a backbone for the overall tree, as it provides relationships between various groups of sponges",
+"decision": "INCLUDED",
+"name": "Fig. 1. Phylogeny of sponges (Rossi, 2026)",
+"studyID": "ot_3164",
+"treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "CLASS HOMOSCLEROMORPHA\nDescribes new Homoscleromorpha species and their relationships",
+"decision": "INCLUDED",
+"name": "Figure 12. Bayesian phylogenetic tree of concatenated COI + 28S data (Cabioch, 2026)",
+"studyID": "ot_3147",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "GENUS OSCARELLA\nOscarella species and their relationships",
+"decision": "INCLUDED",
+"name": "Figure 2 (Guiollot, 2024)",
+"studyID": "ot_3144",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "FAMILY LEUCONIIDAE\nDescribed new species of calcareous sponges and their relationships",
+"decision": "INCLUDED",
+"name": "Fig. 13. ML tree from C-region of 28S rRNA sequences (Sanamyan, 2023)",
+"studyID": "ot_3153",
+"treeID": "tree1"
+}
+],
+"description": "A compilation of sponge trees, organized from a top-down POV to synthesize and keep track of which groups I have not researched yet",
+"name": "Sponges",
+"queries": []
+}
