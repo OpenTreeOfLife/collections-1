@@ -13385,6 +13385,14 @@
 "name": "Fig. 5. ML and BI phylogenetic trees of Calliphoridae from mitogenomic data",
 "studyID": "ot_3174",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Obst, M., Faurby, S., Bussarawit, S., & Funch, P. (2012). Molecular phylogeny of extant horseshoe crabs (Xiphosura, Limulidae) indicates Paleogene diversification of Asian species. Molecular Phylogenetics and Evolution, 62(1), 21\u201326. https://doi.org/10.1016/j.ympev.2011.08.025\n",
+"decision": "INCLUDED",
+"name": "Fig. 1. ML tree from combined analysis based on all molecular data from 100 independent runs",
+"studyID": "ot_3175",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
