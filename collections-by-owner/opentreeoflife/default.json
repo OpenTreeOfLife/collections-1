@@ -13369,6 +13369,14 @@
 "name": "Figure 1. ML tree of Trichaptum s.l. based on five sequences (ITS, nLSU, TEF1, mt-SSU, and nuc-SSU)",
 "studyID": "ot_3172",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Xu, H., Shen, C., Huang, W., Cargill, D. C., Villarreal A., J. C., Chantanaorrapint, S., Promma, C., Wei, Y., Ho, B. C., Quandt, D., Peng, T., Xiang, Y., Zielman, H. R., Bakalin, V. A., Shu, L., & Zhu, R. (2025). Evolution and classification of hornworts: new insights from the first plastome\u2010based phylogeny. New Phytologist, 249(3), 1491\u20131508. Portico. https://doi.org/10.1111/nph.70672\n",
+"decision": "INCLUDED",
+"name": "Fig. 3. Joint consensus tree of hornworts from concatenated nucleotide sequences",
+"studyID": "ot_3173",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
