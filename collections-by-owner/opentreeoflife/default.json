@@ -13377,6 +13377,14 @@
 "name": "Fig. 3. Joint consensus tree of hornworts from concatenated nucleotide sequences",
 "studyID": "ot_3173",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Huang, X., Sang, J., Yan, L., & Zhang, D. (2026). The phylogeny and evolution of blow flies (Diptera: Calliphoridae) from the perspective of mitogenomics. BMC Genomics, 27(1). https://doi.org/10.1186/s12864-026-12534-z\n",
+"decision": "INCLUDED",
+"name": "Fig. 5. ML and BI phylogenetic trees of Calliphoridae from mitogenomic data",
+"studyID": "ot_3174",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
