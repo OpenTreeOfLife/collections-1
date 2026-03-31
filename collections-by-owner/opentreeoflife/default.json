@@ -13393,6 +13393,14 @@
 "name": "Fig. 1. ML tree from combined analysis based on all molecular data from 100 independent runs",
 "studyID": "ot_3175",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cruz-Barraza, J. A., Vega, C., & Carballo, J. L. (2014). Taxonomy of family Plakinidae (Porifera: Homoscleromorpha) from eastern Pacific coral reefs, through morphology andcox1andcob\u2005mtDNA data. Zoological Journal of the Linnean Society, 171(2), 254\u2013276. https://doi.org/10.1111/zoj.12137\n",
+"decision": "INCLUDED",
+"name": "Figure 8. Phylogenetic reconstruction of cox1",
+"studyID": "ot_3177",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
