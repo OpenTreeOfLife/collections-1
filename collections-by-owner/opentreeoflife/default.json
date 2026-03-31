@@ -13409,6 +13409,14 @@
 "name": "Fig. 1. Bayesian tree based on concatenated ITS1-5.8S-ITS2 and partial 28S rDNA sequences",
 "studyID": "ot_3179",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from VOIGT, O., RUTHENSTEINER, B., LEIVA, L., FRADUSCO, B., & W\u00d6RHEIDE, G. (2018). A new species of the calcareous sponge genus Leuclathrina (Calcarea: Calcinea: Clathrinida) from the Maldives. Zootaxa, 4382(1). https://doi.org/10.11646/zootaxa.4382.1.5\n",
+"decision": "INCLUDED",
+"name": "FIGURE 4. Phylogenetic position of Leuclathrina translucida within Calcinea",
+"studyID": "ot_3178",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
