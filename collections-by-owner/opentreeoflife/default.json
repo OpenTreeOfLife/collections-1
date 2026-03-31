@@ -13417,6 +13417,14 @@
 "name": "FIGURE 4. Phylogenetic position of Leuclathrina translucida within Calcinea",
 "studyID": "ot_3178",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Azevedo, F., C\u00f3ndor-Luj\u00e1n, B., Willenz, P., Hajdu, E., Hooker, Y., & Klautau, M. (2015). Integrative taxonomy of calcareous sponges (subclass Calcinea) from the Peruvian coast: morphology, molecules, and biogeography. Zoological Journal of the Linnean Society, 173(4), 787\u2013817. https://doi.org/10.1111/zoj.12213\n",
+"decision": "INCLUDED",
+"name": "Figure 11. Bayesian 50% majority rule consensus tree from ITS rDNA alignment",
+"studyID": "ot_3180",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
