@@ -13425,6 +13425,14 @@
 "name": "Figure 11. Bayesian 50% majority rule consensus tree from ITS rDNA alignment",
 "studyID": "ot_3180",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Riesgo A, Cavalcanti FF, Kenny NJ, R\u00edos P, Cristobo J, Lanna E. (2018) Integrative systematics of clathrinid sponges: morphological, reproductive and phylogenetic characterisation of a new species of Leucetta from Antarctica (Porifera, Calcarea, Calcinea) with notes on the occurrence of flagellated sperm. Invertebrate Systematics 32, 827\u2013841. https://doi.org/10.1071/IS17033\n\n",
+"decision": "INCLUDED",
+"name": "Fig. 7. ML phylogenetic inter-relationships within Clathrinida using 18S rRNA and 28S rRNA",
+"studyID": "ot_3181",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
