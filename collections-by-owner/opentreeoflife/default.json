@@ -13401,6 +13401,14 @@
 "name": "Figure 8. Phylogenetic reconstruction of cox1",
 "studyID": "ot_3177",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ime\u0161ek, M., Ple\u0161e, B., Pfannkuchen, M., Godrijan, J., Pfannkuchen, D. M., Klautau, M., & \u0106etkovi\u0107, H. (2013). Integrative taxonomy of four Clathrina species of the Adriatic Sea, with the first formal description of Clathrina rubra Sar\u00e0, 1958. Organisms Diversity &amp; Evolution, 14(1), 21\u201329. https://doi.org/10.1007/s13127-013-0156-0\n",
+"decision": "INCLUDED",
+"name": "Fig. 1. Bayesian tree based on concatenated ITS1-5.8S-ITS2 and partial 28S rDNA sequences",
+"studyID": "ot_3179",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
