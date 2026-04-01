@@ -13433,6 +13433,14 @@
 "name": "Fig. 7. ML phylogenetic inter-relationships within Clathrinida using 18S rRNA and 28S rRNA",
 "studyID": "ot_3181",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from C\u00d3NDOR-LUJ\u00c1N, B., & KLAUTAU, M. (2016). Nicola gen. nov. with redescription of Nicola tetela (Borojevic &amp;amp; Peixinho, 1976) (Porifera: Calcarea: Calcinea: Clathrinida)\u00a0. Zootaxa, 4103(3). https://doi.org/10.11646/zootaxa.4103.3.2\n",
+"decision": "INCLUDED",
+"name": "FIGURE 3. Bayesian 50% consensus tree from ITS rDNA",
+"studyID": "ot_3182",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
