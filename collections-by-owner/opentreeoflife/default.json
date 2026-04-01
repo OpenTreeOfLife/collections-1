@@ -13441,6 +13441,14 @@
 "name": "FIGURE 3. Bayesian 50% consensus tree from ITS rDNA",
 "studyID": "ot_3182",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kober, K. M., & Nichols, S. A. (2007). On the phylogenetic relationships of hadromerid and poecilosclerid sponges. Journal of the Marine Biological Association of the United Kingdom, 87(6), 1585\u20131598. https://doi.org/10.1017/s0025315407058237\n",
+"decision": "INCLUDED",
+"name": "Figure 1. Bayesian inference tree based on SSU",
+"studyID": "ot_3183",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
