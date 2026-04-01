@@ -13473,6 +13473,14 @@
 "name": "Fig. 2. ML Tree from 18S rRNA dataset",
 "studyID": "ot_3185",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Borchiellini, C., Chombard, C., Manuel, M., Alivon, E., Vacelet, J., & Boury-Esnault, N. (2004). Molecular phylogeny of Demospongiae: implications for classification and scenarios of character evolution. Molecular Phylogenetics and Evolution, 32(3), 823\u2013837. https://doi.org/10.1016/j.ympev.2004.02.021\n",
+"decision": "INCLUDED",
+"name": "Fig. 3. ML trees from analyses of 28S rRNA dataset",
+"studyID": "ot_3185",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
