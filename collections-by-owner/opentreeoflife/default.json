@@ -13457,6 +13457,14 @@
 "name": "Figure 1. Phylogenetic ML tree for C-LSU marker of subclass Calcinea",
 "studyID": "ot_3184",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Lopes, M. V., & Klautau, M. (2023). Phylogeny and revision ofLeucaltisandLeucettusa(Porifera: Calcarea), with new classification proposals and description of a new type of aquiferous system. Zoological Journal of the Linnean Society, 198(3), 691\u2013746. https://doi.org/10.1093/zoolinnean/zlad008\n",
+"decision": "INCLUDED",
+"name": "Figure 2. Phylogenetic ML tree for ITS marker of subclass Calcinea",
+"studyID": "ot_3184",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
