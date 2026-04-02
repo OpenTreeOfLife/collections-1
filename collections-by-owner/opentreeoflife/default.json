@@ -13609,6 +13609,14 @@
 "name": "Time-calibrated PHylogeny of Prochilodontidae Estimated by BEAST",
 "studyID": "ot_3196",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Frankel, L., Mur\u00faa, M., & Esp\u00edndola, A. (2022). Biogeography and ecological drivers of evolution in the Andes: resolving the phylogenetic backbone forCalceolaria(Calceolariaceae). Botanical Journal of the Linnean Society, 199(1), 76\u201392. https://doi.org/10.1093/botlinnean/boab079\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_3197",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
