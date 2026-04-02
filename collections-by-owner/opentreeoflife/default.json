@@ -13641,6 +13641,14 @@
 "name": "Acanthomorph_GhezelayaghEtAl2022",
 "studyID": "ot_2824",
 "treeID": "tree4"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gorneau, J. A., Rheims, C. A., Moreau, C. S., & Rayor, L. S. (2022). Huntsman spider phylogeny informs evolution of life history, egg sacs, and morphology. Molecular Phylogenetics and Evolution, 174, 107530. https://doi.org/10.1016/j.ympev.2022.107530\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_3199",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
