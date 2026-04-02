@@ -13617,6 +13617,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_3197",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Freitas, F. V., Branstetter, M. G., Casali, D. M., Aguiar, A. J. C., Griswold, T., & Almeida, E. A. B. (2022). Phylogenomic dating and Bayesian biogeography illuminate an antitropical pattern for eucerine bees. Journal of Biogeography, 49(6), 1034\u20131047. Portico. https://doi.org/10.1111/jbi.14359\n",
+"decision": "INCLUDED",
+"name": "Fig 2",
+"studyID": "ot_2479",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
