@@ -13585,6 +13585,14 @@
 "name": "ML Cladogram Representing Relationships Between Species in MMP + Eurasian Osmanthus Clade",
 "studyID": "ot_3193",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Fouquet, A., R\u00e9jaud, A., Rodrigues, M. T., Ron, S. R., Chaparro, J. C., Osorno, M., Werneck, F. P., Hrbek, T., Lima, A. P., Camacho-Badani, T., Jaramillo-Martinez, A. F., & Chave, J. (2022). Diversification of the Pristimantis conspicillatus group (Anura: Craugastoridae) within distinct neotropical areas throughout the Neogene. Systematics and Biodiversity, 20(1), 1\u201316. https://doi.org/10.1080/14772000.2022.2130464\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_3194",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
