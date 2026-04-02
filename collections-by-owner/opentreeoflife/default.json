@@ -13545,6 +13545,14 @@
 "name": "bpcomp.con.tre",
 "studyID": "ot_2539",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cali\u00f3, M. F., Thode, V. A., Bacon, C. D., Silvestro, D., Antonelli, A., & Lohmann, L. G. (2022). Spatio\u2010temporal evolution of the catuaba clade in the Neotropics: Morphological shifts correlate with habitat transitions. Journal of Biogeography, 49(6), 1086\u20131098. Portico. https://doi.org/10.1111/jbi.14368\n",
+"decision": "INCLUDED",
+"name": "Bayesian Tree for Anemopaegma Based on Uncorrelated Lognormal Relaxed Clock",
+"studyID": "ot_3189",
+"treeID": "tree5"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
