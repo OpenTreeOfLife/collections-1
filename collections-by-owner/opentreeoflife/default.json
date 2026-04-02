@@ -13601,6 +13601,14 @@
 "name": "Bayesian Tree Based on nuDNA for ",
 "studyID": "ot_3195",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Frable, B. W., Melo, B. F., Fontenelle, J. P., Oliveira, C., & Sidlauskas, B. L. (2022). Biogeographic reconstruction of the migratory Neotropical fish family Prochilodontidae (Teleostei: Characiformes). Zoologica Scripta, 51(3), 348\u2013364. Portico. https://doi.org/10.1111/zsc.12531\n",
+"decision": "INCLUDED",
+"name": "Time-calibrated PHylogeny of Prochilodontidae Estimated by BEAST",
+"studyID": "ot_3196",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
