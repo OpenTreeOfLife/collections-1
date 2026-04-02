@@ -13561,6 +13561,14 @@
 "name": "Fifty Percent Majority-rule Consensus Tree of 1820 Parsimonious Trees for Zamia",
 "studyID": "ot_3190",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Cannizzaro, A. G., & Berg, D. J. (2022). Gone with Gondwana: Amphipod diversification in freshwaters followed the breakup of the supercontinent. Molecular Phylogenetics and Evolution, 171, 107464. https://doi.org/10.1016/j.ympev.2022.107464\n",
+"decision": "INCLUDED",
+"name": "Amphipoda ML Tree",
+"studyID": "ot_3191",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
