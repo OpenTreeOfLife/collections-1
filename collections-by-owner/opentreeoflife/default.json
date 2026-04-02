@@ -13497,6 +13497,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_2274",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Barber, J. R., Plotkin, D., Rubin, J. J., Homziak, N. T., Leavell, B. C., Houlihan, P. R., Miner, K. A., Breinholt, J. W., Quirk-Royal, B., Padr\u00f3n, P. S., Nunez, M., & Kawahara, A. Y. (2022). Anti-bat ultrasound production in moths is globally and phylogenetically widespread. Proceedings of the National Academy of Sciences, 119(25). https://doi.org/10.1073/pnas.2117485119\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_2275",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
