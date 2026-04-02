@@ -13553,6 +13553,14 @@
 "name": "Bayesian Tree for Anemopaegma Based on Uncorrelated Lognormal Relaxed Clock",
 "studyID": "ot_3189",
 "treeID": "tree5"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Calonje, M., Meerow, A. W., Griffith, M. P., Salas-Leiva, D., Vovides, A. P., Coiro, M., & Francisco-Ortega, J. (2019). A Time-Calibrated Species Tree Phylogeny of the New World Cycad Genus Zamia L. (Zamiaceae, Cycadales). International Journal of Plant Sciences, 180(4), 286\u2013314. https://doi.org/10.1086/702642\n",
+"decision": "INCLUDED",
+"name": "Fifty Percent Majority-rule Consensus Tree of 1820 Parsimonious Trees for Zamia",
+"studyID": "ot_3190",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
