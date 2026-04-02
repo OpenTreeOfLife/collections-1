@@ -13577,6 +13577,14 @@
 "name": "Phylogeny of A. mellifera Subspecies for Biographic Range Reconstruction",
 "studyID": "ot_3192",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dupin, J., Hong-Wa, C., Pillon, Y., & Besnard, G. (2022). From the Mediterranean to the Pacific: re-circumscription towardsNotelaea s.l.and historical biogeography of a generic complex in Oleinae (Oleaceae). Botanical Journal of the Linnean Society, 200(3), 360\u2013377. https://doi.org/10.1093/botlinnean/boac024\n",
+"decision": "INCLUDED",
+"name": "ML Cladogram Representing Relationships Between Species in MMP + Eurasian Osmanthus Clade",
+"studyID": "ot_3193",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
