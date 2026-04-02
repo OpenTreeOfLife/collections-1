@@ -13481,6 +13481,14 @@
 "name": "Fig. 3. ML trees from analyses of 28S rRNA dataset",
 "studyID": "ot_3185",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Jo\u00e3o Filipe Riva Tonini, Karen H. Beard, Rodrigo Barbosa Ferreira, Walter Jetz, R. Alexander Pyron, 2016, 'Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status', Biological Conservation, vol. 204, pp. 23-31",
+"decision": "INCLUDED",
+"name": "Tonini et al. (2016) Squamate Phylogeny",
+"studyID": "ot_1332",
+"treeID": "tree4"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
