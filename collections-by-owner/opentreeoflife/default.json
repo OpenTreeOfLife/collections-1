@@ -13529,6 +13529,14 @@
 "name": "Bayesian Mammilloid Tree",
 "studyID": "ot_3187",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Brownstein, C. D., & Near, T. J. (2023). Phylogenetics and the Cenozoic radiation of lampreys. Current Biology, 33(2), 397-404.e3. https://doi.org/10.1016/j.cub.2022.12.018\n",
+"decision": "INCLUDED",
+"name": "Phylogeny of lampreys using BEAST",
+"studyID": "ot_3188",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
