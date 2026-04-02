@@ -13513,6 +13513,14 @@
 "name": "Untitled (tree2)",
 "studyID": "ot_2276",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bitencourt, J. A., Affonso, P. R. A. M., Ramos, R. T. C., Schneider, H., & Sampaio, I. (2023). Phylogenetic relationships and the origin of New World soles (Teleostei: Pleuronectiformes: Achiridae): The role of estuarine habitats. Molecular Phylogenetics and Evolution, 178, 107631. https://doi.org/10.1016/j.ympev.2022.107631\n",
+"decision": "INCLUDED",
+"name": "ML Achiridae Tree",
+"studyID": "ot_3186",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
