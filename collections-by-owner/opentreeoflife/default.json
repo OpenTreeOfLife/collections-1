@@ -13593,6 +13593,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_3194",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Fouquet, A., Cornuault, J., Rodrigues, M. T., Werneck, F. P., Hrbek, T., Acosta-Galvis, A. R., Massemin, D., Kok, P. J. R., & Ernst, R. (2022). Diversity, biogeography, and reproductive evolution in the genus Pipa (Amphibia: Anura: Pipidae). Molecular Phylogenetics and Evolution, 170, 107442. https://doi.org/10.1016/j.ympev.2022.107442\n",
+"decision": "INCLUDED",
+"name": "Bayesian Tree Based on nuDNA for ",
+"studyID": "ot_3195",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
