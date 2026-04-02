@@ -13625,6 +13625,14 @@
 "name": "Fig 2",
 "studyID": "ot_2479",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Fumia, N., Rubinoff, D., Zenil-Ferguson, R., Khoury, C. K., Pironon, S., Gore, M. A., & Kantar, M. B. (2022). Interactions between breeding system and ploidy affect niche breadth in\n            Solanum. Royal Society Open Science, 9(1). https://doi.org/10.1098/rsos.211862\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_3198",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
