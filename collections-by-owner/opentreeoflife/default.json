@@ -13521,6 +13521,14 @@
 "name": "ML Achiridae Tree",
 "studyID": "ot_3186",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Breslin, P. B., Wojciechowski, M. F., & Majure, L. C. (2022). Remarkably rapid, recent diversification of Cochemiea and Mammillaria in the Baja California, Mexico region. American Journal of Botany, 109(9), 1472\u20131487. Portico. https://doi.org/10.1002/ajb2.16048\n",
+"decision": "INCLUDED",
+"name": "Bayesian Mammilloid Tree",
+"studyID": "ot_3187",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
