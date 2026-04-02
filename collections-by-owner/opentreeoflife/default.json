@@ -13569,6 +13569,14 @@
 "name": "Amphipoda ML Tree",
 "studyID": "ot_3191",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dogantzis, K. A., Tiwari, T., Conflitti, I. M., Dey, A., Patch, H. M., Muli, E. M., Garnery, L., Whitfield, C. W., Stolle, E., Alqarni, A. S., Allsopp, M. H., & Zayed, A. (2021). Thrice out of Asia and the adaptive radiation of the western honey bee. Science Advances, 7(49). https://doi.org/10.1126/sciadv.abj2151\n",
+"decision": "INCLUDED",
+"name": "Phylogeny of A. mellifera Subspecies for Biographic Range Reconstruction",
+"studyID": "ot_3192",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
