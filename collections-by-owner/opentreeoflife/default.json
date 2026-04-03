@@ -13697,6 +13697,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_3205",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Johnson, K. P., Matthee, C., & Do\u00f1a, J. (2022). Phylogenomics reveals the origin of mammal lice out of Afrotheria. Nature Ecology &amp; Evolution, 6(8), 1205\u20131210. https://doi.org/10.1038/s41559-022-01803-1\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_3206",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
