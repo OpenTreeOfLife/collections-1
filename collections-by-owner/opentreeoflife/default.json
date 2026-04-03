@@ -13689,6 +13689,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_3204",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Janiak, M. C., Silva, F. E., Beck, R. M. D., de Vries, D., Kuderna, L. F. K., Torosin, N. S., Melin, A. D., Marqu\u00e8s\u2010Bonet, T., Goodhead, I. B., Messias, M., da Silva, M. N. F., Sampaio, I., Farias, I. P., Rossi, R., de Melo, F. R., Valsecchi, J., Hrbek, T., & Boubli, J. P. (2022). Two hundred and five newly assembled mitogenomes provide mixed evidence for rivers as drivers of speciation for Amazonian primates. Molecular Ecology, 31(14), 3888\u20133902. Portico. https://doi.org/10.1111/mec.16554\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_3205",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
