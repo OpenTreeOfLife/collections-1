@@ -13657,6 +13657,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_3200",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Graboski, R., Grazziotin, F. G., Mott, T., & Trefaut Rodrigues, M. (2022). The phylogenetic position of ridley\u2019s worm lizard reveals the complex biogeographic history of New World insular amphisbaenids. Molecular Phylogenetics and Evolution, 173, 107518. https://doi.org/10.1016/j.ympev.2022.107518\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_3201",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
