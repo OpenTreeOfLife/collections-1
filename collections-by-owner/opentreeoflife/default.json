@@ -13673,6 +13673,14 @@
 "name": "Untitled (tree2)",
 "studyID": "ot_3202",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Heritage, S., & Seiffert, E. R. (2022). Total evidence time-scaled phylogenetic and biogeographic models for the evolution of sea cows (Sirenia, Afrotheria). PeerJ, 10, e13886. Portico. https://doi.org/10.7717/peerj.13886\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_3203",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
