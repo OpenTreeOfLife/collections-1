@@ -13681,6 +13681,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_3203",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Hughes, L. C., Nash, C. M., White, W. T., & Westneat, M. W. (2022). Concordance and Discordance in the Phylogenomics of the Wrasses and Parrotfishes (Teleostei: Labridae). Systematic Biology, 72(3), 530\u2013543. https://doi.org/10.1093/sysbio/syac072\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_3204",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
