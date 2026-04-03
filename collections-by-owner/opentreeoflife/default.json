@@ -13649,6 +13649,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_3199",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gostel, M. R., Sancho, G., Roque, N., Donato, M., & Funk, V. A. (2022). Phylogenomic loci define the generic boundaries of Gochnatieae and improve resolution at the species level in Moquiniastrum (Compositae). Molecular Phylogenetics and Evolution, 175, 107558. https://doi.org/10.1016/j.ympev.2022.107558\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_3200",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
