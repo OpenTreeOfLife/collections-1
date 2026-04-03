@@ -13665,6 +13665,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_3201",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Hawlitschek, O., Ortiz, E. M., Noori, S., Webster, K. C., Husemann, M., & Pereira, R. J. (2022). Transcriptomic data reveals nuclear-mitochondrial discordance in Gomphocerinae grasshoppers (Insecta: Orthoptera: Acrididae). Molecular Phylogenetics and Evolution, 170, 107439. https://doi.org/10.1016/j.ympev.2022.107439\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree2)",
+"studyID": "ot_3202",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
