@@ -13769,6 +13769,14 @@
 "name": "Fig. 1. ML phylogram of 28S fragments",
 "studyID": "ot_3215",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from D\u00cdAZ, M. C., THACKER, R. W., REDMOND, N. E., PEREZ, T., & COLLINS, A. G. (2015). Vansoestia caribensis gen. nov., sp. nov.: first report of the family Ianthellidae (Verongida, Demospongiae) in the Caribbean\u00a0. Zootaxa, 3956(3). https://doi.org/10.11646/zootaxa.3956.3.5\n",
+"decision": "INCLUDED",
+"name": "FIGURE 5. Phylogenetic relationships of genera of Verongida, summarizing four previously published phylogenies",
+"studyID": "ot_3216",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
