@@ -13705,6 +13705,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_3206",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Jovanovska, E., Hauffe, T., Stelbrink, B., Cvetkoska, A., Levkov, Z., Wagner, B., Lacey, J. H., Ognjanova\u2010Rumenova, N., Hamilton, P. B., Brandenburg, K. M., Albrecht, C., & Wilke, T. (2022). Environmental filtering drives assembly of diatom communities over evolutionary time\u2010scales. Global Ecology and Biogeography, 31(5), 954\u2013967. Portico. https://doi.org/10.1111/geb.13471\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_3207",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
