@@ -13721,6 +13721,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_3208",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Li, X.-R. (2022). \ufeffPhylogeny and age of cockroaches: a reanalysis of mitogenomes with selective fossil calibrations. Deutsche Entomologische Zeitschrift, 69(1), 1\u201318. https://doi.org/10.3897/dez.69.68373\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_3209",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
