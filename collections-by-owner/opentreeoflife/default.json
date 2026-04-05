@@ -13745,6 +13745,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_3212",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Vacelet J. et al. 2000. \u2014 Morphological,  chemical and  biochemical characterization  of anew species of sponge without skeleton (Porifera, Demospongiae) from the MediterraneanSea. Zoosystema 22 (2) : 313-326.",
+"decision": "INCLUDED",
+"name": "Fig. 4. Phylogenetic tree based on comparison of 28S rRNA sequences from 22 species",
+"studyID": "ot_3213",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
