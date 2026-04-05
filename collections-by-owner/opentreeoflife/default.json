@@ -13713,6 +13713,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_3207",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Laurin, M., Lapauze, O., & Marjanovi\u0107, D. (2022). What do ossification sequences tell us about the origin of extant amphibians? Peer Community Journal, 2. https://doi.org/10.24072/pcjournal.89\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_3208",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
