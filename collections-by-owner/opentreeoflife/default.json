@@ -13753,6 +13753,14 @@
 "name": "Fig. 4. Phylogenetic tree based on comparison of 28S rRNA sequences from 22 species",
 "studyID": "ot_3213",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Erpenbeck, D., Sutcliffe, P., Cook, S. de C., Dietzel, A., Maldonado, M., van Soest, R. W. M., Hooper, J. N. A., & W\u00f6rheide, G. (2012). Horny sponges and their affairs: On the phylogenetic relationships of keratose sponges. Molecular Phylogenetics and Evolution, 63(3), 809\u2013816. https://doi.org/10.1016/j.ympev.2012.02.024\n",
+"decision": "INCLUDED",
+"name": "Fig. 1. Phylogenetic relationships for Keratosa and Verongimorpha from 28S and CO1 fragments",
+"studyID": "ot_3214",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
