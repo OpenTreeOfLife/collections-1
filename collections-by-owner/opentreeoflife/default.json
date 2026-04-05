@@ -13737,6 +13737,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_3210",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Mittan, C. S., Zamudio, K. R., Thom\u00e9, M. T. C., Camurugi, F., Colli, G. R., Garda, A. A., Haddad, C. F. B., & Prado, C. P. A. (2022). Temporal and spatial diversification along the Amazonia-Cerrado transition in Neotropical treefrogs of the Boana albopunctata species group. Molecular Phylogenetics and Evolution, 175, 107579. https://doi.org/10.1016/j.ympev.2022.107579\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_3212",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
