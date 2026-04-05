@@ -13761,6 +13761,14 @@
 "name": "Fig. 1. Phylogenetic relationships for Keratosa and Verongimorpha from 28S and CO1 fragments",
 "studyID": "ot_3214",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Erpenbeck, D., Ekins, M., Enghuber, N., Hooper, J. N. A., Lehnert, H., Poliseno, A., Schuster, A., Setiawan, E., De Voogd, N. J., W\u00f6rheide, G., & Van Soest, R. W. M. (2015). Nothing in (sponge) biology makes sense \u2013 except when based on holotypes. Journal of the Marine Biological Association of the United Kingdom, 96(2), 305\u2013311. https://doi.org/10.1017/s0025315415000521\n",
+"decision": "INCLUDED",
+"name": "Fig. 1. ML phylogram of 28S fragments",
+"studyID": "ot_3215",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
