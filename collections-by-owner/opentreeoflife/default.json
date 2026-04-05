@@ -13729,6 +13729,14 @@
 "name": "Untitled (tree1)",
 "studyID": "ot_3209",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from L\u00f3pez\u2010Estrada, E. K., Sanmart\u00edn, I., Uribe, J. E., Abalde, S., Jim\u00e9nez\u2010Ruiz, Y., & Garc\u00eda\u2010Par\u00eds, M. (2022). Mitogenomics and hidden\u2010trait models reveal the role of phoresy and host shifts in the diversification of parasitoid blister beetles (Coleoptera: Meloidae). Molecular Ecology, 31(8), 2453\u20132474. Portico. https://doi.org/10.1111/mec.16390\n",
+"decision": "INCLUDED",
+"name": "Untitled (tree1)",
+"studyID": "ot_3210",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
