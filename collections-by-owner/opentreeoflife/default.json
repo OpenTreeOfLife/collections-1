@@ -13785,6 +13785,14 @@
 "name": "FIGURE 1. Phylogenetic hypothesis from current ITS and 28S data ",
 "studyID": "ot_3217",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Galitz, A., Cook, S. de C., Ekins, M., Hooper, J. N. A., Naumann, P. T., de Voogd, N. J., Abdul Wahab, M., W\u00f6rheide, G., & Erpenbeck, D. (2018). Identification of an aquaculture poriferan \u201cPest with Potential\u201d and its phylogenetic implications. PeerJ, 6, e5586. Portico. https://doi.org/10.7717/peerj.5586\n",
+"decision": "INCLUDED",
+"name": "Figure 4. Bayesian inference phylogram of ITS2 of Phyllospongiinae",
+"studyID": "ot_3218",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
