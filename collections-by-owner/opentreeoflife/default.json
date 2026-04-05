@@ -13777,6 +13777,14 @@
 "name": "FIGURE 5. Phylogenetic relationships of genera of Verongida, summarizing four previously published phylogenies",
 "studyID": "ot_3216",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Erpenbeck, D., Galitz, A., Ekins, M., Cook, S. de C., Soest, R. W. M., Hooper, J. N. A., & W\u00f6rheide, G. (2020). Soft sponges with tricky tree: On the phylogeny of dictyoceratid sponges. Journal of Zoological Systematics and Evolutionary Research, 58(1), 27\u201340. Portico. https://doi.org/10.1111/jzs.12351\n",
+"decision": "INCLUDED",
+"name": "FIGURE 1. Phylogenetic hypothesis from current ITS and 28S data ",
+"studyID": "ot_3217",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
