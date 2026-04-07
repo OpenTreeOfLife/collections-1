@@ -13801,6 +13801,14 @@
 "name": "Figure 1. Neighbour-joining distance tree based on concatenated sequence for 31 widely distributed proteins",
 "studyID": "ot_3219",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Slobodkina, G., Allioux, M., Merkel, A., Cambon-Bonavita, M.-A., Alain, K., Jebbar, M., & Slobodkin, A. (2021). Physiological and Genomic Characterization of a Hyperthermophilic Archaeon Archaeoglobus neptunius sp. nov. Isolated From a Deep-Sea Hydrothermal Vent Warrants the Reclassification of the Genus Archaeoglobus. Frontiers in Microbiology, 12. https://doi.org/10.3389/fmicb.2021.679245\n",
+"decision": "INCLUDED",
+"name": "FIGURE 1. ML phylogenetic tree based on 16S rRNA gene sequences",
+"studyID": "ot_3220",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
