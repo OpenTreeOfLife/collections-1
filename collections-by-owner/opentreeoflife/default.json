@@ -13809,6 +13809,14 @@
 "name": "FIGURE 1. ML phylogenetic tree based on 16S rRNA gene sequences",
 "studyID": "ot_3220",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from von Jan, M., Lapidus, A., Del Rio, T. G., Copeland, A., Tice, H., Cheng, J.-F., Lucas, S., Chen, F., Nolan, M., Goodwin, L., Han, C., Pitluck, S., Liolios, K., Ivanova, N., Mavromatis, K., Ovchinnikova, G., Chertkov, O., Pati, A., Chen, A., \u2026 Klenk, H.-P. (2010). Complete genome sequence of Archaeoglobus profundus type strain (AV18T). Standards in Genomic Sciences, 2(3), 327\u2013346. https://doi.org/10.4056/sigs.942153\n",
+"decision": "INCLUDED",
+"name": "Figure 1. Phylogenetic tree ",
+"studyID": "ot_3221",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
