@@ -13825,6 +13825,14 @@
 "name": "Figure 4: Bayesian 18S rRNA phylogeny of rhodelphids",
 "studyID": "ot_3222",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Purschke, G., Bleidorn, C., & Struck, T. (2014). Systematics, evolution and phylogeny of Annelida \u2013 a morphological perspective. Memoirs of Museum Victoria, 71, 247\u2013269. https://doi.org/10.24199/j.mmv.2014.71.19\n",
+"decision": "INCLUDED",
+"name": "Figure 2A. Cladistic annelid analysis based on morphological data (modified from Rouse and Fauchald 1997)",
+"studyID": "ot_3223",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
