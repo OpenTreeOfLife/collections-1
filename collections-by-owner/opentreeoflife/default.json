@@ -13817,6 +13817,14 @@
 "name": "Figure 1. Phylogenetic tree ",
 "studyID": "ot_3221",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Belyaev, A. O., Zagumyonnyi, D. G., Gerasimova, E. A., Sozonov, G. A., & Tikhonenkov, D. V. (2025). Rhodelphis edaphicus sp. nov.\u2014a new lineage of predatory archaeplastids from agricultural soil. PeerJ, 13, e20071. Portico. https://doi.org/10.7717/peerj.20071\n",
+"decision": "INCLUDED",
+"name": "Figure 4: Bayesian 18S rRNA phylogeny of rhodelphids",
+"studyID": "ot_3222",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
