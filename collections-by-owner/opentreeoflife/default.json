@@ -13793,6 +13793,14 @@
 "name": "Figure 4. Bayesian inference phylogram of ITS2 of Phyllospongiinae",
 "studyID": "ot_3218",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Gao, B., & Gupta, R. S. (2007). Phylogenomic analysis of proteins that are distinctive of Archaea and its main subgroups and the origin of methanogenesis. BMC Genomics, 8(1), 86. https://doi.org/10.1186/1471-2164-8-86\n",
+"decision": "INCLUDED",
+"name": "Figure 1. Neighbour-joining distance tree based on concatenated sequence for 31 widely distributed proteins",
+"studyID": "ot_3219",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
