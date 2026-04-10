@@ -13841,6 +13841,14 @@
 "name": "Figure 2B. Phylogenetic annelid tree based on data modified after Struck et al. 2011; Weigert et al. 2014",
 "studyID": "ot_3223",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Li, Y., Steenwyk, J. L., Chang, Y., Wang, Y., James, T. Y., Stajich, J. E., Spatafora, J. W., Groenewald, M., Dunn, C. W., Hittinger, C. T., Shen, X.-X., & Rokas, A. (2021). A genome-scale phylogeny of the kingdom Fungi. Current Biology, 31(8), 1653-1665.e5. https://doi.org/10.1016/j.cub.2021.01.074\n",
+"decision": "INCLUDED",
+"name": "1672taxa_290genes_bb_1.treefile",
+"studyID": "ot_3099",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
