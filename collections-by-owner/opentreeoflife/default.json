@@ -13849,6 +13849,14 @@
 "name": "1672taxa_290genes_bb_1.treefile",
 "studyID": "ot_3099",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from McTavish, E. J., Gerbracht, J. A., Holder, M. T., Iliff, M. J., Lepage, D., Rasmussen, P. C., Redelings, B. D., S\u00e1nchez Reyes, L. L., & Miller, E. T. (2025). A complete and dynamic tree of birds. Proceedings of the National Academy of Sciences, 122(18). https://doi.org/10.1073/pnas.2409658122\n",
+"decision": "INCLUDED",
+"name": "Aves 1.3 Phylo Only",
+"studyID": "ot_2343",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
