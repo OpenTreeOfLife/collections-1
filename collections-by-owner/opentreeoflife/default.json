@@ -13865,6 +13865,14 @@
 "name": "treeoflife.current.tree",
 "studyID": "ot_3224",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Wright, C. J., Stevens, L., Mackintosh, A., Lawniczak, M., & Blaxter, M. (2024). Comparative genomics reveals the dynamics of chromosome evolution in Lepidoptera. Nature Ecology &Amp; Evolution, 8(4), 777\u2013790. https://doi.org/10.1038/s41559-024-02329-4\n",
+"decision": "INCLUDED",
+"name": "phylogeny_210Leps_5Trichop.treefile",
+"studyID": "ot_3225",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
