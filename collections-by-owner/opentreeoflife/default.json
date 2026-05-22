@@ -13873,6 +13873,14 @@
 "name": "phylogeny_210Leps_5Trichop.treefile",
 "studyID": "ot_3225",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Goodheart, J. A., Bazinet, A. L., Vald\u00e9s, \u00c1., Collins, A. G., & Cummings, M. P. (2017). Prey preference follows phylogeny: evolutionary dietary patterns within the marine gastropod group Cladobranchia (Gastropoda: Heterobranchia: Nudibranchia). BMC Evolutionary Biology, 17(1). https://doi.org/10.1186/s12862-017-1066-0\n",
+"decision": "INCLUDED",
+"name": "nt123partitioned_best_with_BS.tre",
+"studyID": "ot_3226",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
