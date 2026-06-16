@@ -13881,6 +13881,14 @@
 "name": "nt123partitioned_best_with_BS.tre",
 "studyID": "ot_3226",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Douglas Chesters, Mingqiang Wang, Perttu Anttonen, Jing-Ting Chen, Rui Cheng, Yi Li, Arong Luo, Michael C. Orr, Tingting Xie, Qingsong Zhou, Chao-Dong Zhu. A Lepidoptera synthesis phylogeny of eleven thousand species and its application in phylogenetic profiling of herbivore DNA barcodes; towards an integrative phylogenetic framework for insects.",
+"decision": "INCLUDED",
+"name": "Lepidoptera_v2.NEWICK.txt",
+"studyID": "ot_3227",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
