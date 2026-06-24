@@ -12916,14 +12916,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Burki, F., Roger, A. J., Brown, M. W., & Simpson, A. G. B. (2020). The New Tree of Eukaryotes. Trends in Ecology &amp; Evolution, 35(1), 43\u201355. https://doi.org/10.1016/j.tree.2019.08.008\n",
-"decision": "INCLUDED",
-"name": "Figure 1 - The New Tree of Eukaryotes",
-"studyID": "ot_3129",
-"treeID": "tree3"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Castelle, C. J., & Banfield, J. F. (2018). Major New Microbial Groups Expand Diversity and Alter our Understanding of the Tree of Life. Cell, 172(6), 1181\u20131197. https://doi.org/10.1016/j.cell.2018.02.016\n",
 "decision": "INCLUDED",
 "name": "Maximum Likelihood Phylogenetic Tree for Three Domains of Life",
