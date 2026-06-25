@@ -12964,14 +12964,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Shrestha, B., Romero, M. F., Villada, J. C., McMahon, K., Stepanauskas, R., Buchan, A., Mock, T., Fisher, K., Slonczewski, J., Ward, L., Crowe, S., Inskeep, W., Blaby-Haas, C. E., & Schulz, F. (2026). Global metagenomics reveals plastid diversity and unexplored algal lineages. Nature Communications, 17(1). https://doi.org/10.1038/s41467-026-68871-w\n",
-"decision": "INCLUDED",
-"name": "Plastid Relationships Among Photosynthetic Eukaryotes",
-"studyID": "ot_3134",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Han, S., Riyahi, S., Huang, X., & Kuhlwilm, M. (2025). A curated dataset of great ape genome diversity. Scientific Data, 12(1). https://doi.org/10.1038/s41597-025-06124-z\n",
 "decision": "INCLUDED",
 "name": "Phylogeny and Overview of Individuals from Each of the Clades",
