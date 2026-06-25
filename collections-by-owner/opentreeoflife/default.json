@@ -12980,14 +12980,6 @@
 },
 {
 "SHA": "",
-"comments": "Added via API (include_tree_in_synth) from Sz\u00e1nth\u00f3, L. L., Mer\u00e9nyi, Z., Donoghue, P., Gabald\u00f3n, T., Nagy, L. G., Sz\u00f6ll\u0151si, G. J., & Oca\u00f1a-Pallar\u00e8s, E. (2025). A timetree of Fungi dated with fossils and horizontal gene transfers. Nature Ecology &amp; Evolution, 9(11), 1989\u20132001. https://doi.org/10.1038/s41559-025-02851-z\n",
-"decision": "INCLUDED",
-"name": "41559_2025_2851_MOESM6_ESM.txt",
-"studyID": "ot_3138",
-"treeID": "tree5"
-},
-{
-"SHA": "",
 "comments": "Added via API (include_tree_in_synth) from Henkel, D., Borkenhagen, K., & Janussen, D. (2013). Phylogeny of the Hexactinellida: phylogenetic reconstruction of the subclass Hexasterophora based on morphological characters. Journal of the Marine Biological Association of the United Kingdom, 95(7), 1365\u20131369. https://doi.org/10.1017/s0025315413000180\n",
 "decision": "INCLUDED",
 "name": "Fig. 3. Order Hexactinosida: maximum parsimony tree",
