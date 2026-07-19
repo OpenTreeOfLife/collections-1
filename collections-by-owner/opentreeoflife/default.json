@@ -13809,6 +13809,14 @@
 "name": "Lepidoptera_v2.NEWICK.txt",
 "studyID": "ot_3227",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Austin, C. M., Ahyong, S. T., Miller, A., Raadik, T. A., Lintermans, M., McCormack, R., Zukowski, S., Hammer, M. P., Grandjean, F., Gilligan, D. M., Beitzel, M., & Whiterod, N. S. (2026). A Prickly Problem: Genome Skimming Reveals Varying Levels of Phylogenetic Diversity in the Freshwater Crayfish\n                    <scp>\n                      <i>Euastacus armatus</i>\n                    </scp>\n                    Complex (Parastacidae) With Implications for Taxonomy and Conservation. Ecology and Evolution, 16(4). Portico. https://doi.org/10.1002/ece3.73428\n",
+"decision": "INCLUDED",
+"name": "Default Symmetrical Tree+",
+"studyID": "ot_3229",
+"treeID": "tree5"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
