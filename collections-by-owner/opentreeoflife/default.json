@@ -13817,6 +13817,14 @@
 "name": "Default Symmetrical Tree+",
 "studyID": "ot_3229",
 "treeID": "tree5"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Nakamura, D. Y. M., Pinheiro, P. D. P., Lyra, M. L., Faivovich, J., & Grant, T. (2025). Historical DNA Places an Apparently Extinct Gladiator Frog in the Phylogeny of the Boana pulchella Group (Anura: Hylidae). Herpetologica, 81(2). https://doi.org/10.1655/herpetologica-d-24-00036\n",
+"decision": "INCLUDED",
+"name": "Phylogeny of the Boana pulchella group",
+"studyID": "ot_3230",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
