@@ -13825,6 +13825,14 @@
 "name": "Phylogeny of the Boana pulchella group",
 "studyID": "ot_3230",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Davis, K. E., De Grave, S., Delmer, C., & Wills, M. A. (2018). Freshwater transitions and symbioses shaped the evolution and extant diversity of caridean shrimps. Communications Biology, 1(1). https://doi.org/10.1038/s42003-018-0018-6\n",
+"decision": "INCLUDED",
+"name": "42003_2018_18_MOESM6_ESM.txt",
+"studyID": "ot_3234",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
