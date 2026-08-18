@@ -13841,6 +13841,14 @@
 "name": "8_bd_fossils_relaxln_treann.tre",
 "studyID": "ot_3235",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Brownstein, C. D., Harrington, R. C., & Near, T. J. (2023). The biogeography of extant lungfishes traces the breakup of Gondwana. Journal of Biogeography, 50(7), 1191\u20131198. Portico. https://doi.org/10.1111/jbi.14609\n",
+"decision": "INCLUDED",
+"name": "lungfish12SUM.tree",
+"studyID": "ot_3236",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
