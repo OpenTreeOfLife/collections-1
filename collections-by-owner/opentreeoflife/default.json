@@ -13833,6 +13833,14 @@
 "name": "42003_2018_18_MOESM6_ESM.txt",
 "studyID": "ot_3234",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Wolfe, J. M., Ballou, L., Luque, J., Watson-Zink, V. M., Ahyong, S. T., Barido-Sottani, J., Chan, T.-Y., Chu, K. H., Crandall, K. A., Daniels, S. R., Felder, D. L., Mancke, H., Martin, J. W., Ng, P. K. L., Ortega-Hern\u00e1ndez, J., Palacios Theil, E., Pentcheff, N. D., Robles, R., Thoma, B. P., et al. (2023). Convergent Adaptation of True Crabs (Decapoda: Brachyura) to a Gradient of Terrestrial Environments. Systematic Biology, 73(2), 247\u2013262. https://doi.org/10.1093/sysbio/syad066\n",
+"decision": "INCLUDED",
+"name": "8_bd_fossils_relaxln_treann.tre",
+"studyID": "ot_3235",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
