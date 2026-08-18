@@ -13865,6 +13865,14 @@
 "name": "BI_reduced90.tre",
 "studyID": "ot_3238",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Chow, L. H., De Grave, S., Anker, A., Poon, K. K. Y., Ma, K. Y., Chu, K. H., Chan, T.-Y., & Tsang, L. M. (2021). Distinct suites of pre\u2010 and post\u2010adaptations indicate independent evolutionary pathways of snapping claws in the shrimp family Alpheidae (Decapoda: Caridea). Evolution, 75(11), 2898\u20132910. Portico. https://doi.org/10.1111/evo.14351\n",
+"decision": "INCLUDED",
+"name": "ML treefile.treefile",
+"studyID": "ot_3239",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
