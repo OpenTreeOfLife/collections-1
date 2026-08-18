@@ -13857,6 +13857,14 @@
 "name": "Supplementary File 7/FBD_MCCT.trees",
 "studyID": "ot_3237",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Bernardes, S. C., von\u00a0Rintelen, T., Moussalli, A., de\u00a0Mazancourt, V., & von\u00a0Rintelen, K. (2026). Phylogenomics Reveals the Intricate History of the Most Diverse Group within Atyidae (Crustacea: Decapoda). Systematic Biology. https://doi.org/10.1093/sysbio/syag047\n",
+"decision": "INCLUDED",
+"name": "BI_reduced90.tre",
+"studyID": "ot_3238",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
