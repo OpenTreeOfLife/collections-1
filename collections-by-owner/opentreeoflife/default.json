@@ -13849,6 +13849,14 @@
 "name": "lungfish12SUM.tree",
 "studyID": "ot_3236",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from N\u00fa\u00f1ez\u2010Flores, M., Sol\u00f3rzano, A., & Gonz\u00e1lez\u2010Orteg\u00f3n, E. (2026). Eastern Pacific Origin and Global Dispersal Dynamics of Palaemonine Shrimps. Journal of Biogeography, 53(5). Portico. https://doi.org/10.1111/jbi.70244\n",
+"decision": "INCLUDED",
+"name": "Supplementary File 7/FBD_MCCT.trees",
+"studyID": "ot_3237",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
