@@ -13873,6 +13873,14 @@
 "name": "ML treefile.treefile",
 "studyID": "ot_3239",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Foret S. 2016. Corallimorpharians are not \u0093naked corals\u0094: insights into relationships between Scleractinia and Corallimorpharia from phylogenomic analyses. Proceedings of the Royal Society B: Biological Sciences, .",
+"decision": "INCLUDED",
+"name": "aa complete raxml",
+"studyID": "ot_950",
+"treeID": "Tr95812"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
