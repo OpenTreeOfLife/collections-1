@@ -13897,6 +13897,14 @@
 "name": "Spiriferinida fossil tree",
 "studyID": "ot_3241",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Williams, A., Sandy, M. R., Carlson, S. J., Lee, D. E., Johnson, J. G., Smirnova, T. N., Yu-Gan, J., Hong-Fei, H., Carter, J. L., Gourvennec, R., Racheboeuf, P. R., Brunton, C. H. C., Dagys, A. S., Curry, G. B., Baker, P. G., Dong-Li, S., & MacKinnon, D. I. (2006). Part H, Brachiopoda (Revised), vol. 5, Complete Volume. Treatise on Invertebrate Paleontology. https://doi.org/10.17161/dt.v0i0.5581\n",
+"decision": "INCLUDED",
+"name": "Thecideida fossil tree",
+"studyID": "ot_3241",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
