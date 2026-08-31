@@ -13929,6 +13929,14 @@
 "name": "Rhynchonellida fossil tree",
 "studyID": "ot_3240",
 "treeID": "tree5"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Williams, A., Carlson, S. J., Mance\u00f1ido, M. O., MacKinnon, D. I., Savage, N. M., Yu-Gan, J., Grant, R. E., Blodgett, R. B., Dagys, A. S., Jia-Yu, R., Brunton, C. H. C., Cooper, P., Boucot, A. J., Alvarez, F., Dong-Li, S., & Owen, E. F. (2002). Part H, Brachiopoda (Revised), vol. 4, Complete Volume. Treatise on Invertebrate Paleontology. https://doi.org/10.17161/dt.v0i0.5571\n",
+"decision": "INCLUDED",
+"name": "Atrypida fossil tree",
+"studyID": "ot_3240",
+"treeID": "tree6"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
