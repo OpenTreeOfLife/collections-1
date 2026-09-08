@@ -4,7 +4,16 @@
 "login": "JimmyKChoi",
 "name": "JimmyKChoi"
 },
-"decisions": [],
+"decisions": [
+{
+"SHA": "",
+"comments": "Chronogram with divergence times estimated in MCMCTree, based on 31 fossil calibrations, tree shown in main text",
+"decision": "INCLUDED",
+"name": "31Calibrations_Chronogram (Lily C. Hughes, 2018)",
+"studyID": "ot_1699",
+"treeID": "tree1"
+}
+],
 "description": "A selection of trees of our favorite ray-finned fishes.",
 "name": "Actinopterygii",
 "queries": []
