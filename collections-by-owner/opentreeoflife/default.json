@@ -13945,6 +13945,14 @@
 "name": "Athyridida fossil tree",
 "studyID": "ot_3240",
 "treeID": "tree7"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Harvey, V. L., Keating, J. N., & Buckley, M. (2021). Phylogenetic analyses of ray-finned fishes (Actinopterygii) using collagen type I protein sequences. Royal Society Open Science, 8(8), 201955. https://doi.org/10.1098/rsos.201955\n",
+"decision": "INCLUDED",
+"name": "Birth-death consensus tree",
+"studyID": "ot_3243",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
