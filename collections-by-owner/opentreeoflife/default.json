@@ -13961,6 +13961,14 @@
 "name": "Collagen (I) birth-death tree",
 "studyID": "ot_3243",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Srinivasulu, B., Kusuminda, T., Srinivasulu, A., Ukuwela, K. D. B., Amarasinghe, C., Siriwardana, S., Kaur, H., Mannakkara, A., Soisook, P., Kamalakannan, M., Yapa, W. B., & Srinivasulu, C. (2025). Taxonomic revision of the South Asian allies of Hipposideros galeritus Cantor, 1846. Zootaxa, 5590(4), 507\u2013530. https://doi.org/10.11646/zootaxa.5590.4.3\n",
+"decision": "INCLUDED",
+"name": "Hipposideros brachyotus and H. srilankaensis",
+"studyID": "ot_3246",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
