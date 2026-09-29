@@ -1,0 +1,76 @@
+{
+"contributors": [],
+"creator": {
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1. Phylogeny of sponges (Rossi, 2026)",
+"studyID": "ot_3164",
+"treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "ML tree for Japonigekko (Cao, 2026)",
+"studyID": "ot_3171",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Figure 1. ML tree of Trichaptum s.l. based on five sequences (ITS, nLSU, TEF1, mt-SSU, and nuc-SSU) (Zhou M, 2026)",
+"studyID": "ot_3172",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 5. ML and BI phylogenetic trees of Calliphoridae from mitogenomic data (Huang, 2026)",
+"studyID": "ot_3174",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Maximum-Likelihood Tree for Desulfarculaceae (Bolzoni, 2026)",
+"studyID": "ot_3132",
+"treeID": "tree4"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Maximum-Likelihood Tree for Ca. Midichloriaceae Family (Bolzoni, 2026)",
+"studyID": "ot_3132",
+"treeID": "tree7"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Maximum-Likelihood Tree for Magnetic Ciliates & Other Ciliophora Classes (Bolzoni, 2026)",
+"studyID": "ot_3132",
+"treeID": "tree11"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Maximum-Likelihood Tree for Desulfovibrionaceae (Bolzoni, 2026)",
+"studyID": "ot_3132",
+"treeID": "tree12"
+}
+],
+"description": "A method to analyze clades that I have neglected in my research.",
+"name": "Sensinator's Trees",
+"queries": []
+}
