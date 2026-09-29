@@ -13985,6 +13985,14 @@
 "name": "Figure 2b. Gene overlap among same matrices as 2a",
 "studyID": "ot_3167",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Mantelatto, F. L., Paix\u00e3o, J. M., Robles, R., Teles, J. N., & Balbino, F. C. (2023). \ufeffEvidence using morphology, molecules, and biogeography clarifies the taxonomic status of mole crabs of the genus Emerita Scopoli, 1777 (Anomura, Hippidae) and reveals a new species from the western Atlantic. ZooKeys, 1161, 169\u2013202. https://doi.org/10.3897/zookeys.1161.99432\n",
+"decision": "INCLUDED",
+"name": "Figure 3. ML phylogram for COI sequences of Emerita specimens",
+"studyID": "ot_3176",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
