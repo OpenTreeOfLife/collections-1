@@ -13977,6 +13977,14 @@
 "name": "Figure 2a. Proportion of variable sites and average bootstrap support in supermatrices",
 "studyID": "ot_3167",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Abalde, S., & Jondelius, U. (2024). A Phylogenomic Backbone for Acoelomorpha Inferred From Transcriptomic Data. Systematic Biology, 74(1), 70\u201385. https://doi.org/10.1093/sysbio/syae057\n",
+"decision": "INCLUDED",
+"name": "Figure 2b. Gene overlap among same matrices as 2a",
+"studyID": "ot_3167",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
