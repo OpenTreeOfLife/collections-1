@@ -100,6 +100,19 @@
 "ot:studyYear": 2018,
 "studyID": "ot_1973",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Cassemiro, 2023",
+"decision": "INCLUDED",
+"defaultSortOrder": 7,
+"name": "Untitled (tree3) (Cassemiro, 2023)",
+"ot:studyPublication": "http://dx.doi.org/10.1073/pnas.2211974120",
+"ot:studyPublicationReference": "Cassemiro, F. A. S., Albert, J. S., Antonelli, A., Menegotto, A., W\u00fcest, R. O., Cerezer, F., Coelho, M. T. P., Reis, R. E., Tan, M., Tagliacollo, V., Bailly, D., da Silva, V. F. B., Frota, A., da Gra\u00e7a, W. J., R\u00e9, R., Ramos, T., Oliveira, A. G., Dias, M. S., Colwell, R. K., \u2026 Graham, C. H. (2023). Landscape dynamics and diversification of the megadiverse South American freshwater fish fauna. Proceedings of the National Academy of Sciences, 120(2). https://doi.org/10.1073/pnas.2211974120\n",
+"ot:studyYear": 2023,
+"studyID": "ot_2269",
+"treeID": "tree3"
 }
 ],
 "description": "Actinopterygii for Fish Tree of Life update",
