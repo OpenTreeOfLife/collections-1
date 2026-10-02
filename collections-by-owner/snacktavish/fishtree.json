@@ -169,6 +169,14 @@
 "ot:studyYear": 2020,
 "studyID": "ot_1991",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "FairclothSuppFigure2-gymnotiformes (Faircloth, 2020)",
+"studyID": "ot_1976",
+"treeID": "tree2"
 }
 ],
 "description": "Actinopterygii for Fish Tree of Life update",
