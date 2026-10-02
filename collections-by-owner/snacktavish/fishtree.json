@@ -155,6 +155,20 @@
 "ot:studyYear": 2023,
 "studyID": "ot_3247",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Birindelli, 2020",
+"decision": "INCLUDED",
+"defaultSortOrder": 11,
+"name": "ML Tree (Birindelli, 2020)",
+"ot:focalCladeOTTTaxonName": "Hypomasticus",
+"ot:studyPublication": "http://dx.doi.org/10.1643/ci-19-335",
+"ot:studyPublicationReference": "Birindelli, J. L. O., Melo, B. F., Ribeiro-Silva, L. R., Diniz, D., & Oliveira, C. (2020). A New Species of Hypomasticus from Eastern Brazil Based on Morphological and Molecular Data (Characiformes, Anostomidae). Copeia, 108(2), 416. doi:10.1643/ci-19-335\n",
+"ot:studyYear": 2020,
+"studyID": "ot_1991",
+"treeID": "tree1"
 }
 ],
 "description": "Actinopterygii for Fish Tree of Life update",
