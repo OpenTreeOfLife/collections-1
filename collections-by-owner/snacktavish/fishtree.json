@@ -185,6 +185,14 @@
 "name": "FairclothSuppFigure5-characiformes (Faircloth, 2020)",
 "studyID": "ot_1976",
 "treeID": "tree5"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "FairclothSuppFigure3-anostomoid (Faircloth, 2020)",
+"studyID": "ot_1976",
+"treeID": "tree3"
 }
 ],
 "description": "Actinopterygii for Fish Tree of Life update",
