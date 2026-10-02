@@ -18,6 +18,14 @@
 "ot:studyYear": 2018,
 "studyID": "ot_1592",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "iqtree (all) (Peterson, 2022)",
+"studyID": "ot_2202",
+"treeID": "tree1"
 }
 ],
 "description": "Actinopterygii for Fish Tree of Life update",
