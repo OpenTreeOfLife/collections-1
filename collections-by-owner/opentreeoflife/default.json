@@ -14009,6 +14009,14 @@
 "name": "Figure 1 - The New Tree of Eukaryotes",
 "studyID": "ot_3129",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Liao, Y., De Grave, S., Ho, T. W., Ip, B. H. Y., Tsang, L. M., Chan, T.-Y., & Chu, K. H. (2017). Molecular phylogeny of Pasiphaeidae (Crustacea, Decapoda, Caridea) reveals systematic incongruence of the current classification. Molecular Phylogenetics and Evolution, 115, 171\u2013180. https://doi.org/10.1016/j.ympev.2017.07.021\n",
+"decision": "INCLUDED",
+"name": "Supplementary data 2 (Figure 3)",
+"studyID": "ot_3248",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
