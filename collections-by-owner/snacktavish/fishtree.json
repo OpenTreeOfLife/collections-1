@@ -127,6 +127,20 @@
 "ot:studyYear": 2018,
 "studyID": "ot_1699",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Harvey, 2021",
+"decision": "INCLUDED",
+"defaultSortOrder": 9,
+"name": "Collagen (I) birth-death tree (Harvey, 2021)",
+"ot:focalCladeOTTTaxonName": "Actinopterygii",
+"ot:studyPublication": "https://doi.org/10.1098/rsos.201955",
+"ot:studyPublicationReference": "Harvey, V. L., Keating, J. N., & Buckley, M. (2021). Phylogenetic analyses of ray-finned fishes (Actinopterygii) using collagen type I protein sequences. Royal Society Open Science, 8(8), 201955. https://doi.org/10.1098/rsos.201955\n",
+"ot:studyYear": 2021,
+"studyID": "ot_3243",
+"treeID": "tree2"
 }
 ],
 "description": "Actinopterygii for Fish Tree of Life update",
