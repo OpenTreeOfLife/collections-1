@@ -14081,6 +14081,14 @@
 "name": "PT_R dataset MCC.tre",
 "studyID": "ot_3264",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Fawcett, S., Smith, A. R., Sundue, M., Burleigh, J. G., Sessa, E. B., Kuo, L.-Y., Chen, C.-W., Testo, W. L., Kessler, M., Consortium, G., & Barrington, D. S. (2021). A Global Phylogenomic Study of the Thelypteridaceae. Systematic Botany, 46(4), 891\u2013915. https://doi.org/10.1600/036364421x16370109698650\n",
+"decision": "INCLUDED",
+"name": "tree 1",
+"studyID": "ot_3265",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
