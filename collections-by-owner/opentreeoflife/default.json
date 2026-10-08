@@ -14065,6 +14065,14 @@
 "name": "Imported tree 1",
 "studyID": "ot_1772",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Zhang, L., Lu, N. T., Zhou, X.-M., Chen, D.-K., Knapp, R., Zhou, L., Guo, L., Luong, T. T., Sun, H., Gao, X.-F., & Zhang, L.-B. (2019). A plastid phylogeny of the Old World fern genus Leptochilus (Polypodiaceae): Implications for cryptic speciation and progressive colonization from lower to higher latitudes. Molecular Phylogenetics and Evolution, 134, 311\u2013322. https://doi.org/10.1016/j.ympev.2019.01.013\n",
+"decision": "INCLUDED",
+"name": "Imported tree 1",
+"studyID": "ot_1804",
+"treeID": "Tr114173"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
