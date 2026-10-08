@@ -14049,6 +14049,14 @@
 "name": "Untitled (tree2975)",
 "studyID": "pg_1479",
 "treeID": "tree2975"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Lehtonen S., Wahlberg N., & Christenhusz M. 2012. Diversification of lindsaeoid ferns and phylogenetic uncertainty of early polypod relationships. Botanical Journal of the Linnean Society, 170: 489-503.",
+"decision": "INCLUDED",
+"name": "tree2961",
+"studyID": "pg_1468",
+"treeID": "tree2961"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
