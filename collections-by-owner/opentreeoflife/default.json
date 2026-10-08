@@ -14033,6 +14033,14 @@
 "name": "Untitled (tree3587)",
 "studyID": "pg_1779",
 "treeID": "tree3587"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Schneider, H., Kreier, H. P., Wilson, R., & Smith, A. R. (2006). The Synammia enigma: evidence for a temperate lineage of polygrammoid ferns (Polypodiaceae, Polypodiidae) in southern South America. Systematic botany, 31(1), 31-41.",
+"decision": "INCLUDED",
+"name": "Untitled (tree2630)",
+"studyID": "pg_1313",
+"treeID": "tree2630"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
