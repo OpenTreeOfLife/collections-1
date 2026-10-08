@@ -14041,6 +14041,14 @@
 "name": "Untitled (tree2630)",
 "studyID": "pg_1313",
 "treeID": "tree2630"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Rouhan G., Labiak P.H., Randrianjohany E., & Rakotondrainibe F. 2011. Not so Neotropical after all: the Grammitid Fern Genus Leucotrichum (Polypodiaceae) is also Paleotropical, as Revealed by a New Species from Madagascar. Systematic Botany,37(2), 331-338.",
+"decision": "INCLUDED",
+"name": "Untitled (tree2975)",
+"studyID": "pg_1479",
+"treeID": "tree2975"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
