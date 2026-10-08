@@ -1228,7 +1228,7 @@
 },
 {
 "SHA": "",
-"comments": "",
+"comments": "Intentional downgrade",
 "compactRefText": "Zhao, 2025",
 "decision": "INCLUDED",
 "defaultSortOrder": 86,
@@ -1242,7 +1242,7 @@
 },
 {
 "SHA": "",
-"comments": "",
+"comments": "Intentional downgrade",
 "compactRefText": "Oswald, 2025",
 "decision": "INCLUDED",
 "defaultSortOrder": 87,
@@ -1256,7 +1256,7 @@
 },
 {
 "SHA": "",
-"comments": "",
+"comments": "Intentional downgrade",
 "compactRefText": "Oswald, 2025",
 "decision": "INCLUDED",
 "defaultSortOrder": 88,
@@ -1270,7 +1270,7 @@
 },
 {
 "SHA": "",
-"comments": "",
+"comments": "Intentional downgrade",
 "compactRefText": "Claramunt, 2025",
 "decision": "INCLUDED",
 "defaultSortOrder": 89,
