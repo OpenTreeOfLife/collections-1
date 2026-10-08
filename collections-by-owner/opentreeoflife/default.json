@@ -14017,6 +14017,14 @@
 "name": "Supplementary data 2 (Figure 3)",
 "studyID": "ot_3248",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Ram\u00edrez-Barahona, S. (2024). Incorporating fossils into the joint inference of phylogeny and biogeography of the tree fern order Cyatheales. Evolution, 78(5), 919\u2013933. https://doi.org/10.1093/evolut/qpae034\n",
+"decision": "INCLUDED",
+"name": "TREE1",
+"studyID": "ot_3260",
+"treeID": "tree4"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
