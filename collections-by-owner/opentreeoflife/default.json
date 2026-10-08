@@ -14025,6 +14025,14 @@
 "name": "TREE1",
 "studyID": "ot_3260",
 "treeID": "tree4"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Labiak, P. H., Sundue, M., & Rouhan, G. (2010). Molecular phylogeny, character evolution, and biogeography of the grammitid fern genus Lellingeria (Polypodiaceae). American Journal of Botany, 97(8), 1354-1364.",
+"decision": "INCLUDED",
+"name": "Untitled (tree3587)",
+"studyID": "pg_1779",
+"treeID": "tree3587"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
