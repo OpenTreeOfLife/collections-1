@@ -14073,6 +14073,14 @@
 "name": "Imported tree 1",
 "studyID": "ot_1804",
 "treeID": "Tr114173"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Jiang, L.-J., Zhao, J., Wang, J.-G., Landrein, S., Shi, J.-P., Huang, C.-J., Luo, M., Zhou, X.-M., Niu, H.-B., & He, Z.-R. (2024). Deciphering the evolution and biogeography of ant-ferns Lecanopteris s.s. Molecular Phylogenetics and Evolution, 201, 108199. https://doi.org/10.1016/j.ympev.2024.108199\n",
+"decision": "INCLUDED",
+"name": "PT_R dataset MCC.tre",
+"studyID": "ot_3264",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
