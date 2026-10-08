@@ -182,6 +182,48 @@
 "ot:studyYear": 2010,
 "studyID": "pg_1779",
 "treeID": "tree3587"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Salino A., 2007",
+"decision": "INCLUDED",
+"defaultSortOrder": 13,
+"name": "Untitled (tree2974) (Salino A., 2007)",
+"ot:focalCladeOTTTaxonName": "Polypodiaceae",
+"ot:studyPublication": "http://dx.doi.org/10.1600/036364408786500208",
+"ot:studyPublicationReference": "Salino A., Almeida T., Smith A., Navarro-gomez A., Kreier H., & Schneider H. 2007. A new species of Microgramma (Polypodiaceae) from Brazil and recircumscription of the genus based on phylogenetic evidence. Systematic Botany, 33(4), 630-635.",
+"ot:studyYear": 2007,
+"studyID": "pg_1478",
+"treeID": "tree2974"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Schneider, 2006",
+"decision": "INCLUDED",
+"defaultSortOrder": 14,
+"name": "Untitled (tree2630) (Schneider, 2006)",
+"ot:focalCladeOTTTaxonName": "Polypodiaceae",
+"ot:studyPublication": "http://dx.doi.org/10.1600/036364406775971868 ",
+"ot:studyPublicationReference": "Schneider, H., Kreier, H. P., Wilson, R., & Smith, A. R. (2006). The Synammia enigma: evidence for a temperate lineage of polygrammoid ferns (Polypodiaceae, Polypodiidae) in southern South America. Systematic botany, 31(1), 31-41.",
+"ot:studyYear": 2006,
+"studyID": "pg_1313",
+"treeID": "tree2630"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Schneider, 2004",
+"decision": "INCLUDED",
+"defaultSortOrder": 15,
+"name": "Untitled (tree2628) (Schneider, 2004)",
+"ot:focalCladeOTTTaxonName": "Polypodiidae",
+"ot:studyPublication": "http://dx.doi.org/10.1600/036364404774195476",
+"ot:studyPublicationReference": "Schneider, H., Russell, S. J., Cox, C. J., Bakker, F., Henderson, S., Rumsey, F., ... & Vogel, J. C. (2004). Chloroplast phylogeny of asplenioid ferns based on rbcL and trnL-F spacer sequences (Polypodiidae, Aspleniaceae) and its implications for biogeography. Systematic Botany,29(2), 260-274.",
+"ot:studyYear": 2004,
+"studyID": "pg_1312",
+"treeID": "tree2628"
 }
 ],
 "description": "Collection of tree fern trees",
