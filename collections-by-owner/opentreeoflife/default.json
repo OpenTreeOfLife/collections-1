@@ -14057,6 +14057,14 @@
 "name": "tree2961",
 "studyID": "pg_1468",
 "treeID": "tree2961"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Xinping Qi, Li-Yaung Kuo, Chunce Guo, Hao Li, Zhongyang Li, Ji Qi, Linbo Wang, Yi Hu, Jianying Xiang, Caifei Zhang, Jing Guo, Chien-Hsun Huang, Hong Ma, 2018, 'A well-resolved fern nuclear phylogeny reveals the evolution history of numerous transcription factor families', Molecular Phylogenetics and Evolution, vol. 127, pp. 961-977",
+"decision": "INCLUDED",
+"name": "Imported tree 1",
+"studyID": "ot_1772",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
