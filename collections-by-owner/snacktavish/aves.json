@@ -132,6 +132,14 @@
 {
 "SHA": "",
 "comments": "",
+"decision": "INCLUDED",
+"name": "vanga_timetree_10_8_24.nex (Auerbach, 2025)",
+"studyID": "ot_3266",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
 "compactRefText": "Vogeley, 2025",
 "decision": "INCLUDED",
 "defaultSortOrder": 8,
