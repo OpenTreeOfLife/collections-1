@@ -14097,6 +14097,14 @@
 "name": "ftol_sanger_ml_dated.tre v1.9.0",
 "studyID": "ot_2224",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Pelosi, J. A., Kim, E. H., Barbazuk, W. B., & Sessa, E. B. (2022). Phylotranscriptomics Illuminates the Placement of Whole Genome Duplications and Gene Retention in Ferns. Frontiers in Plant Science, 13. https://doi.org/10.3389/fpls.2022.882441\n",
+"decision": "INCLUDED",
+"name": "MainDatedBSTrees.tre",
+"studyID": "ot_3270",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
