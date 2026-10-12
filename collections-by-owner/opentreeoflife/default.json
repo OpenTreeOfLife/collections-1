@@ -14121,6 +14121,14 @@
 "name": "1-s2.0-S1055790317300702-mmc2.tre",
 "studyID": "ot_3272",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Lehtonen, S., Silvestro, D., Karger, D. N., Scotese, C., Tuomisto, H., Kessler, M., Pe\u00f1a, C., Wahlberg, N., & Antonelli, A. (2017). Environmentally driven extinction and opportunistic origination explain fern diversification patterns. Scientific Reports, 7(1). https://doi.org/10.1038/s41598-017-05263-7\n",
+"decision": "INCLUDED",
+"name": "fern.tree",
+"studyID": "ot_3273",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
