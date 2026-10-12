@@ -14113,6 +14113,14 @@
 "name": "1-s2.0-S1055790318307760-mmc1.tre",
 "studyID": "ot_3271",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Hennequin, S., Rouhan, G., Salino, A., Duan, Y.-F., Lepeigneux, M.-C., Guillou, M., Ansell, S., Almeida, T. E., Zhang, L.-B., & Schneider, H. (2017). Global phylogeny and biogeography of the fern genus Ctenitis (Dryopteridaceae), with a focus on the Indian Ocean region. Molecular Phylogenetics and Evolution, 112, 277\u2013289. https://doi.org/10.1016/j.ympev.2017.04.012\n",
+"decision": "INCLUDED",
+"name": "1-s2.0-S1055790317300702-mmc2.tre",
+"studyID": "ot_3272",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
