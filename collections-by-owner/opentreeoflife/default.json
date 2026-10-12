@@ -14105,6 +14105,14 @@
 "name": "MainDatedBSTrees.tre",
 "studyID": "ot_3270",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Morero, R. E., Deanna, R., Barboza, G. E., & Barrington, D. S. (2019). Historical biogeography of the fern genus Polystichum (Dryopteridaceae) in Austral South America. Molecular Phylogenetics and Evolution, 137, 168\u2013189. https://doi.org/10.1016/j.ympev.2019.05.004\n",
+"decision": "INCLUDED",
+"name": "1-s2.0-S1055790318307760-mmc1.tre",
+"studyID": "ot_3271",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
