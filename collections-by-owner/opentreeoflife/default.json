@@ -14089,6 +14089,14 @@
 "name": "tree 1",
 "studyID": "ot_3265",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Nitta, J. H., Schuettpelz, E., Ram\u00edrez-Barahona, S., & Iwasaki, W. (2022). An open and continuously updated fern tree of life. Frontiers in Plant Science, 13. https://doi.org/10.3389/fpls.2022.909768\n",
+"decision": "INCLUDED",
+"name": "ftol_sanger_ml_dated.tre v1.9.0",
+"studyID": "ot_2224",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
