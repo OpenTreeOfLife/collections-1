@@ -394,6 +394,14 @@
 {
 "SHA": "",
 "comments": "",
+"decision": "INCLUDED",
+"name": "Hand-coded Fig 2 (Klicka, 2023)",
+"studyID": "ot_3274",
+"treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "",
 "compactRefText": "Hruska, 2023",
 "decision": "INCLUDED",
 "defaultSortOrder": 26,
