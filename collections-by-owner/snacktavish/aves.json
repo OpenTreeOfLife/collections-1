@@ -4821,6 +4821,14 @@
 {
 "SHA": "",
 "comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 2A MRP Adams consensus (Kennedy, 2002)",
+"studyID": "pg_2528",
+"treeID": "tree5445"
+},
+{
+"SHA": "",
+"comments": "",
 "compactRefText": "Paxinos, 2002",
 "decision": "INCLUDED",
 "defaultSortOrder": 338,
