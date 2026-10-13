@@ -3700,6 +3700,14 @@
 {
 "SHA": "",
 "comments": "",
+"decision": "INCLUDED",
+"name": "Majority rule supertree (Eo, 2009)",
+"studyID": "pg_2583",
+"treeID": "tree5989"
+},
+{
+"SHA": "",
+"comments": "",
 "compactRefText": "Ksepka, 2009",
 "decision": "INCLUDED",
 "defaultSortOrder": 259,
