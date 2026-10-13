@@ -2865,6 +2865,14 @@
 "SHA": "",
 "comments": "",
 "decision": "INCLUDED",
+"name": "MRP supertree (Davis, 2014)",
+"studyID": "ot_429",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
 "name": "Birds_100chronograms Tree 1 (Roquet, 2014)",
 "studyID": "ot_2008",
 "treeID": "tree2"
