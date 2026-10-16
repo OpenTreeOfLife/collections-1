@@ -14137,6 +14137,14 @@
 "name": "1113taxa_815genes_ml_timetree_exactTimes.tre",
 "studyID": "ot_3056",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Portik, D. M., Streicher, J. W., & Wiens, J. J. (2023). Frog phylogeny: A time-calibrated, species-level tree based on hundreds of loci and 5,242 species. Molecular Phylogenetics and Evolution, 188, 107907. https://doi.org/10.1016/j.ympev.2023.107907\n",
+"decision": "INCLUDED",
+"name": "Supplementary_File_S3.tre",
+"studyID": "ot_3275",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
