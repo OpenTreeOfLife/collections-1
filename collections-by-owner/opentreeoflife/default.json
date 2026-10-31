@@ -14161,6 +14161,14 @@
 "name": "75p_partition.treefileR.tre",
 "studyID": "ot_3280",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kobayashi, T., Hayashi, M., Kamite, Y., & Sota, T. (2021). Molecular phylogeny of Elmidae (Coleoptera: Byrrhoidea) with a focus on Japanese species: implications for intrafamilial classification. Systematic Entomology, 46(4), 870\u2013886. Portico. https://doi.org/10.1111/syen.12499\n",
+"decision": "INCLUDED",
+"name": "ExaBayes_50p.nwk",
+"studyID": "ot_3281",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
