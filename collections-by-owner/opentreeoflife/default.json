@@ -14153,6 +14153,14 @@
 "name": "Fig 4",
 "studyID": "ot_3278",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Hayashi, M., Kobayashi, T., Yoshitomi, H., & Sota, T. (2024). Molecular phylogeny of old-world Dryopoidea beetles (Coleoptera: Polyphaga: Elateriformia) based on ultraconserved elements of DNA sequence data from Japanese taxa. Insect Systematics and Diversity, 8(4). https://doi.org/10.1093/isd/ixae021\n",
+"decision": "INCLUDED",
+"name": "75p_partition.treefileR.tre",
+"studyID": "ot_3280",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
