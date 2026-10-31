@@ -4364,6 +4364,14 @@
 "name": "Fig. 12, MP (WANG, 2016)",
 "studyID": "ot_3117",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig 1, BI (Kami\u0144ski, 2020)",
+"studyID": "ot_3277",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
