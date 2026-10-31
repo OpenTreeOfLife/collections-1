@@ -4372,6 +4372,14 @@
 "name": "Fig 1, BI (Kami\u0144ski, 2020)",
 "studyID": "ot_3277",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig 4 (Lamb, 2013)",
+"studyID": "ot_3278",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
