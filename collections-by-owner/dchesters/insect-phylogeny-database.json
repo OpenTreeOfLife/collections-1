@@ -4388,6 +4388,14 @@
 "name": "BYR_488_mafft03 (Kundrata, 2016)",
 "studyID": "ot_3279",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "75p_partition.treefileR.tre (Hayashi, 2024)",
+"studyID": "ot_3280",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
