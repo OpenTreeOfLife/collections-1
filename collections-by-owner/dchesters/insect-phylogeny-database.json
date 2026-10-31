@@ -4380,6 +4380,14 @@
 "name": "Fig 4 (Lamb, 2013)",
 "studyID": "ot_3278",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "BYR_488_mafft03 (Kundrata, 2016)",
+"studyID": "ot_3279",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
