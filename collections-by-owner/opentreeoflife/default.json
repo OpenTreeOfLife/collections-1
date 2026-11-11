@@ -14177,6 +14177,14 @@
 "name": "tree 1",
 "studyID": "ot_3287",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Onsongo, V., Abbott, J. C., Bybee, S. M., Dijkstra, K.-D. B., Frandsen, P. B., Goodman, A., Guralnick, R., Kalkman, V. J., Kohli, M., Newton, L., Prendini, L., Raxworthy, C. J., & Ware, J. (2026). Evolution and biogeography of the widespread dragonfly genus\n                    <i>Orthetrum</i>\n                    (\n                    <scp>Odonata: Anisoptera: Libellulidae</scp>\n                    ): Massive dispersal in the tertiary. Systematic Entomology, 51(3). Portico. https://doi.org/10.1111/syen.70066\n",
+"decision": "INCLUDED",
+"name": "mcmc_with_Orthetrum_calibration/RUN_4/Figtree.tre",
+"studyID": "ot_3288",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
