@@ -14193,6 +14193,14 @@
 "name": "mcmc_with_Orthetrum_calibration/RUN_4/Figtree.tre",
 "studyID": "ot_3288",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Newton, L. G., Abbott, J. C., Bybee, S. M., Carter, P., Frandsen, P. B., Goodman, A., Guralnick, R., Hahn, B., Idec, J., Kalkman, V. J., Kolhi, M., Fomekong-Lontchi, J., Lupiyaningdyah, P., Onsongo, V., Rowe, E., Sanchez-Herrera, M., Pinkert, S., Sutherland, L., Tolman, E., et al. (2026). Soaring Systematics: An Evaluation of Biogeography and Flight Behavior in Dragonflies and Damselflies (Insecta: Odonata) Using Phylogenomics. Systematic Biology, 75(5), 984\u20131002. https://doi.org/10.1093/sysbio/syag005\n",
+"decision": "INCLUDED",
+"name": "FigTree_DivergenceTimes.tre",
+"studyID": "ot_3289",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
