@@ -14169,6 +14169,14 @@
 "name": "ExaBayes_50p.nwk",
 "studyID": "ot_3281",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Fomekong-Lontchi, J., Kalkman, V. J., Frandsen, P. B., Ware, J. L., Abbott, J. C., Guralnick, R., Dijkstra, K.-D. B., H\u00e4m\u00e4l\u00e4inen, M., Dow, R. A., & Bybee, S. M. (2026). Molecular phylogeny and updated classification of jewel damselflies (Odonata: Zygoptera: Chlorocyphidae). Arthropod Systematics &Amp; Phylogeny, 84, 867\u2013888. https://doi.org/10.3897/asp.84.e178305\n",
+"decision": "INCLUDED",
+"name": "tree 1",
+"studyID": "ot_3287",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
