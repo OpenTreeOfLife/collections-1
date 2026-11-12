@@ -197,6 +197,20 @@
 "ot:studyYear": 2024,
 "studyID": "ot_3060",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Goodman, 2025",
+"decision": "INCLUDED",
+"defaultSortOrder": 14,
+"name": "No_Coded_Bootstrap.tre (Goodman, 2025)",
+"ot:focalCladeOTTTaxonName": "Somatochlora",
+"ot:studyPublication": "https://doi.org/10.1111/syen.12672",
+"ot:studyPublicationReference": "Goodman, A., Abbott, J., Breinholt, J. W., Bybee, S., Frandsen, P. B., Guralnick, R., Kalkman, V. J., Kohli, M., Newton, L., & Ware, J. L. (2025). Systematics and biogeography of the Holarctic dragonfly genus Somatochlora (Anisoptera: Corduliidae). Systematic Entomology, 50(3), 585\u2013610. Portico. https://doi.org/10.1111/syen.12672\n",
+"ot:studyYear": 2025,
+"studyID": "ot_3027",
+"treeID": "tree1"
 }
 ],
 "description": "Testing custom synthesis on Odonata group",
