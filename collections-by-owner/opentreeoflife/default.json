@@ -14201,6 +14201,14 @@
 "name": "FigTree_DivergenceTimes.tre",
 "studyID": "ot_3289",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Goodman, A., Abbott, J. C., Bybee, S., Ehlert, J., Frandsen, P. B., Guralnick, R., Kalkman, V. J., Newton, L., Pinto, \u00c2. P., & Ware, J. L. (2025). Systematic and taxonomic revision of emerald and tigertail dragonflies (Anisoptera: Synthemistidae and Corduliidae). Systematic Entomology, 51(1). Portico. https://doi.org/10.1111/syen.70000\n",
+"decision": "INCLUDED",
+"name": "approx02/FigTree.tre",
+"studyID": "ot_3292",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
