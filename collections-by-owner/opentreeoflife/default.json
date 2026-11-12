@@ -14233,6 +14233,14 @@
 "name": "trees/tree.rda",
 "studyID": "ot_3297",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from S\u00e1nchez-Herrera, M., Beatty, C. D., Nunes, R., Salazar, C., & Ware, J. L. (2020). An exploration of the complex biogeographical history of the Neotropical banner-wing damselflies (Odonata: Polythoridae). BMC Evolutionary Biology, 20(1). https://doi.org/10.1186/s12862-020-01638-z\n",
+"decision": "INCLUDED",
+"name": "BioGeo_5_19_20/Polythore_rooted_nout_nwk.tre",
+"studyID": "ot_3298",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
