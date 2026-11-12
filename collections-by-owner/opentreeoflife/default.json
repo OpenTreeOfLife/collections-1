@@ -14217,6 +14217,14 @@
 "name": "data/treepl/dated_tree.nwk",
 "studyID": "ot_3293",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Willink, B., Ware, J. L., & Svensson, E. I. (2024). Tropical Origin, Global Diversification, and Dispersal in the Pond Damselflies (Coenagrionoidea) Revealed by a New Molecular Phylogeny. Systematic Biology, 73(2), 290\u2013307. https://doi.org/10.1093/sysbio/syae004\n",
+"decision": "INCLUDED",
+"name": "bg_dating/G1_beta_strong.673464_MAP.tree",
+"studyID": "ot_3295",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
