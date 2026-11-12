@@ -14209,6 +14209,14 @@
 "name": "approx02/FigTree.tre",
 "studyID": "ot_3292",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Hadfield, R. K., Jordan, S., Polhemus, D. A., Sutherland, L. N., Peck, S. L., Abbott, J. C., Frandsen, P. B., Guralnik, R. P., Kalkman, V. J., Ware, J. L., & Bybee, S. M. (2025). Diversification and evolution of Hawaiian\n                    <i>Megalagrion</i>\n                    damselflies (\n                    <i>Pinapinao</i>\n                    , Odonata: Coenagrionidae). Systematic Entomology, 51(1). Portico. https://doi.org/10.1111/syen.70015\n",
+"decision": "INCLUDED",
+"name": "data/treepl/dated_tree.nwk",
+"studyID": "ot_3293",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
