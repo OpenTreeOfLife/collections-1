@@ -14241,6 +14241,14 @@
 "name": "BioGeo_5_19_20/Polythore_rooted_nout_nwk.tre",
 "studyID": "ot_3298",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Suvorov, A., Scornavacca, C., Fujimoto, M. S., Bodily, P., Clement, M., Crandall, K. A., Whiting, M. F., Schrider, D. R., & Bybee, S. M. (2021). Deep Ancestral Introgression Shapes Evolutionary History of Dragonflies and Damselflies. Systematic Biology, 71(3), 526\u2013546. https://doi.org/10.1093/sysbio/syab063\n",
+"decision": "INCLUDED",
+"name": "mcmctree_trees/run1log/FigTree.tre",
+"studyID": "ot_3299",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
