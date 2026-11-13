@@ -378,6 +378,20 @@
 "ot:studyYear": 2014,
 "studyID": "ot_211",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Clement, 2021",
+"decision": "INCLUDED",
+"defaultSortOrder": 27,
+"name": "Fig. S1, BI (Clement, 2021)",
+"ot:focalCladeOTTTaxonName": "Aeshnidae",
+"ot:studyPublication": "https://doi.org/10.1093/zoolinnean/zlab046",
+"ot:studyPublicationReference": "Clement, R. A., Saxton, N. A., Standring, S., Arnold, P. R., Johnson, K. K., Bybee, D. R., & Bybee, S. M. (2021). Phylogeny, migration and geographic range size evolution ofAnaxdragonflies (Anisoptera: Aeshnidae). Zoological Journal of the Linnean Society, 194(3), 858\u2013878. https://doi.org/10.1093/zoolinnean/zlab046\n",
+"ot:studyYear": 2022,
+"studyID": "ot_2580",
+"treeID": "tree1"
 }
 ],
 "description": "Testing custom synthesis on Odonata group",
