@@ -392,6 +392,34 @@
 "ot:studyYear": 2022,
 "studyID": "ot_2580",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Guan Z, 2012",
+"decision": "INCLUDED",
+"defaultSortOrder": 28,
+"name": "Fig. 1, BI (Guan Z, 2012)",
+"ot:focalCladeOTTTaxonName": "Calopterygidae",
+"ot:studyPublication": "http://hdl.handle.net/1854/LU-5808847",
+"ot:studyPublicationReference": "Guan Z, Han B, Vierstraete A, Dumont HJ (2012) Additions and refinements to the molecular phylogeny of the Calopteryginae Sl (Zygoptera: Calopterygidae). Odonatologica, 41, 17-24.\n",
+"ot:studyYear": 2012,
+"studyID": "ot_2797",
+"treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "DIJKSTRA, 2013",
+"decision": "INCLUDED",
+"defaultSortOrder": 29,
+"name": "Fig. 2, BI (DIJKSTRA, 2013)",
+"ot:focalCladeOTTTaxonName": "Zygoptera",
+"ot:studyPublication": "https://doi.org/10.1111/syen.12035",
+"ot:studyPublicationReference": "DIJKSTRA, K. B., KALKMAN, V. J., DOW, R. A., STOKVIS, F. R., & VAN TOL, J. (2013). Redefining the damselfly families: a comprehensive molecular phylogeny of <scp>Z</scp>ygoptera (<scp>O</scp>donata). Systematic Entomology, 39(1), 68\u201396. Portico. https://doi.org/10.1111/syen.12035\n",
+"ot:studyYear": 2014,
+"studyID": "ot_2641",
+"treeID": "tree1"
 }
 ],
 "description": "Testing custom synthesis on Odonata group",
