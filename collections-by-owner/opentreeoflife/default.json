@@ -14249,6 +14249,14 @@
 "name": "mcmctree_trees/run1log/FigTree.tre",
 "studyID": "ot_3299",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Morales, A. E., Liang, Y., Thomas, W. R., Leushkin, E. V., Castellanos, F. X., Larkin, D. M., Brown, T., Fromm, B., Hand, S. J., Huang, Z., Hughes, G. M., Jones, M. F., Lim, B. K., Mai, M., Myers, E. W., Pippel, M., Puechmaille, S. J., Simmons, N. B., Abueg, L. A. L., et al. (2026). Reference genomes and fossils revise bat family phylogeny and biogeography. Nature, 658(8134), 141\u2013152. https://doi.org/10.1038/s41586-026-11007-3\n",
+"decision": "INCLUDED",
+"name": "caster_mean_coding_divtree.tre",
+"studyID": "ot_3304",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
