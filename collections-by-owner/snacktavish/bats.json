@@ -158,6 +158,14 @@
 "ot:studyYear": 2016,
 "studyID": "ot_1409",
 "treeID": "Tr87541"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "MamPhy_fullPosterior_BDvr_DNAonly_4098sp_topoFree_NDexp_MCC_v2_target (Upham, 2019)",
+"studyID": "ot_1990",
+"treeID": "tree1"
 }
 ],
 "description": "They're Bats!",
