@@ -5156,6 +5156,48 @@
 "ot:studyYear": 2017,
 "studyID": "ot_3283",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Araujo, 2026",
+"decision": "INCLUDED",
+"defaultSortOrder": 366,
+"name": "Fig 2 mtDNA tree (Araujo, 2026)",
+"ot:focalCladeOTTTaxonName": "Galbulidae",
+"ot:studyPublication": "https://doi.org/10.2139/ssrn.7397387",
+"ot:studyPublicationReference": "Araujo, C. M. B., Ribas, C., & Ferreira, M. (2026). Diversification of Galbula (Aves; Galbulidae) and the biogeography of Amazonian floodplains. https://doi.org/10.2139/ssrn.7397387\n",
+"ot:studyYear": 2026,
+"studyID": "ot_3284",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Araujo, 2026",
+"decision": "INCLUDED",
+"defaultSortOrder": 367,
+"name": "Fig 2 concatenated UCE tree (Araujo, 2026)",
+"ot:focalCladeOTTTaxonName": "Galbulidae",
+"ot:studyPublication": "https://doi.org/10.2139/ssrn.7397387",
+"ot:studyPublicationReference": "Araujo, C. M. B., Ribas, C., & Ferreira, M. (2026). Diversification of Galbula (Aves; Galbulidae) and the biogeography of Amazonian floodplains. https://doi.org/10.2139/ssrn.7397387\n",
+"ot:studyYear": 2026,
+"studyID": "ot_3284",
+"treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Depino, 2023",
+"decision": "INCLUDED",
+"defaultSortOrder": 368,
+"name": "Figure 2 (Depino, 2023)",
+"ot:focalCladeOTTTaxonName": "Rallidae",
+"ot:studyPublication": "http://dx.doi.org/10.1111/zsc.12595",
+"ot:studyPublicationReference": "Depino, E. A., P\u00e9rez\u2010Em\u00e1n, J. L., Bonaccorso, E., & Areta, J. I. (2023). Evolutionary history of New World crakes (Aves: Rallidae) with emphasis on the tribe Laterallini. Zoologica Scripta, 52(4), 394\u2013412. https://doi.org/10.1111/zsc.12595\n",
+"ot:studyYear": 2023,
+"studyID": "ot_3285",
+"treeID": "tree1"
 }
 ],
 "description": "tree collection for Aves synthesis",
