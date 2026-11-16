@@ -5198,6 +5198,34 @@
 "ot:studyYear": 2023,
 "studyID": "ot_3285",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Verry, 2024",
+"decision": "INCLUDED",
+"defaultSortOrder": 369,
+"name": "Figure 4 (Verry, 2024)",
+"ot:focalCladeOTTTaxonName": "Porphyrio",
+"ot:studyPublication": "https://doi.org/10.1111/mec.17227",
+"ot:studyPublicationReference": "Verry, A. J. F., Mas\u2010Carri\u00f3, E., Gibb, G. C., Dutoit, L., Robertson, B. C., Waters, J. M., & Rawlence, N. J. (2024). Ancient mitochondrial genomes unveil the origins and evolutionary history of New Zealand\u2019s enigmatic takah\u0113 and moho. Molecular Ecology, 33(3). https://doi.org/10.1111/mec.17227\n",
+"ot:studyYear": 2024,
+"studyID": "ot_3286",
+"treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Fuchs, 2026",
+"decision": "INCLUDED",
+"defaultSortOrder": 370,
+"name": "TREE1 (Fuchs, 2026)",
+"ot:focalCladeOTTTaxonName": "Piciformes",
+"ot:studyPublication": "https://doi.org/10.64898/2026.06.11.731604",
+"ot:studyPublicationReference": "Fuchs, J., Nabholz, B., Kaesmann, B., Pons, J.-M., Bonillo, C., Irestedt, M., Chhin, S., de Swardt, D., Chongo, I., Tivane, A., Samo Gudo, E., & Ericson, P. G. P. (2026). Bioclimatic variables influence the strength of purifying selection on mitochondrial DNA in an avian clade (Aves: Piciformes). https://doi.org/10.64898/2026.06.11.731604\n",
+"ot:studyYear": 2026,
+"studyID": "ot_3290",
+"treeID": "tree1"
 }
 ],
 "description": "tree collection for Aves synthesis",
