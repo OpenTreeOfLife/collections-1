@@ -93,19 +93,6 @@
 {
 "SHA": "",
 "comments": "",
-"compactRefText": "Dool, 2016",
-"decision": "INCLUDED",
-"defaultSortOrder": 6,
-"name": "Rhinolopus (Dool, 2016)",
-"ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2016.01.003",
-"ot:studyPublicationReference": "Dool, S. E., Puechmaille, S. J., Foley, N. M., Allegrini, B., Bastian, A., Mutumi, G. L., Maluleke, T. G., Odendaal, L. J., Teeling, E. C., & Jacobs, D. S. (2016). Nuclear introns outperform mitochondrial DNA in inter-specific phylogenetic reconstruction: Lessons from horseshoe bats (Rhinolophidae: Chiroptera). Molecular Phylogenetics and Evolution, 97, 196\u2013212. https://doi.org/10.1016/j.ympev.2016.01.003\n",
-"ot:studyYear": 2016,
-"studyID": "ot_2250",
-"treeID": "tree1"
-},
-{
-"SHA": "",
-"comments": "",
 "compactRefText": "Haynie, 2016",
 "decision": "INCLUDED",
 "defaultSortOrder": 7,
@@ -116,6 +103,19 @@
 "ot:studyYear": 2016,
 "studyID": "ot_2251",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Dool, 2016",
+"decision": "INCLUDED",
+"defaultSortOrder": 6,
+"name": "Rhinolopus (Dool, 2016)",
+"ot:studyPublication": "http://dx.doi.org/10.1016/j.ympev.2016.01.003",
+"ot:studyPublicationReference": "Dool, S. E., Puechmaille, S. J., Foley, N. M., Allegrini, B., Bastian, A., Mutumi, G. L., Maluleke, T. G., Odendaal, L. J., Teeling, E. C., & Jacobs, D. S. (2016). Nuclear introns outperform mitochondrial DNA in inter-specific phylogenetic reconstruction: Lessons from horseshoe bats (Rhinolophidae: Chiroptera). Molecular Phylogenetics and Evolution, 97, 196\u2013212. https://doi.org/10.1016/j.ympev.2016.01.003\n",
+"ot:studyYear": 2016,
+"studyID": "ot_2250",
+"treeID": "tree1"
 },
 {
 "SHA": "",
@@ -144,6 +144,14 @@
 "ot:studyYear": 2015,
 "studyID": "ot_254",
 "treeID": "Tr87680"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Untitled (tree3) (Ruedi, 2026)",
+"studyID": "ot_3305",
+"treeID": "tree3"
 },
 {
 "SHA": "",
