@@ -14257,6 +14257,14 @@
 "name": "caster_mean_coding_divtree.tre",
 "studyID": "ot_3304",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Creedy, T. J., Lee, S., Yeo, D., Liu, H., Ounjai, S., Carpenter, F. L., Zhou, Z., Wu, Y., Correia, M. P., Flores, E. E., Motyka, M., Garner, B. H., Bocak, L., & Vogler, A. P. (2026). 2,366 new mitochondrial genomes with preliminary identification and phylogeny of >5,500 putative species of beetles. Scientific Data, 13(1). https://doi.org/10.1038/s41597-026-07233-z\n",
+"decision": "INCLUDED",
+"name": "Copy with only named species",
+"studyID": "ot_3116",
+"treeID": "tree9"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
