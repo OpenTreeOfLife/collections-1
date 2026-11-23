@@ -14273,6 +14273,14 @@
 "name": "4705sp_colours_mammal-time.tree",
 "studyID": "ot_3307",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Henri J. Dumont, Thomas Schneider, Andy Vierstraete, Sergey N. Borisov \"Biogeography and relationship of the Gomphidae of Europe, North Africa, and the Middle East (Odonata),\" Odonatologica, 50(1-2), 17-42, (1 June 2021)",
+"decision": "INCLUDED",
+"name": "con 50 majrule",
+"studyID": "ot_3308",
+"treeID": "tree3"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
