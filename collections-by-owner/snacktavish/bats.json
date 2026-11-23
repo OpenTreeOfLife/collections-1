@@ -149,19 +149,6 @@
 },
 {
 "SHA": "",
-"comments": "downranked due to non-bat focus",
-"compactRefText": "Upham, 2019",
-"decision": "INCLUDED",
-"defaultSortOrder": 10,
-"name": "MamPhy_fullPosterior_BDvr_DNAonly_4098sp_topoFree_NDexp_MCC_v2_target (Upham, 2019)",
-"ot:studyPublication": "http://dx.doi.org/10.1371/journal.pbio.3000494",
-"ot:studyPublicationReference": "Upham, N. S., Esselstyn, J. A., & Jetz, W. (2019). Inferring the mammal tree: Species-level sets of phylogenies for questions in ecology, evolution, and conservation. PLOS Biology, 17(12), e3000494. doi:10.1371/journal.pbio.3000494\n",
-"ot:studyYear": 2019,
-"studyID": "ot_1990",
-"treeID": "tree1"
-},
-{
-"SHA": "",
 "comments": "",
 "compactRefText": "Gilbert, 2005",
 "decision": "INCLUDED",
@@ -186,6 +173,27 @@
 "ot:studyYear": 2002,
 "studyID": "pg_2401",
 "treeID": "tree6387"
+},
+{
+"SHA": "",
+"comments": "downranked due to non-bat focus",
+"decision": "INCLUDED",
+"name": "4705sp_colours_mammal-time.tree (\u00c1lvarez-Carretero, 2021)",
+"studyID": "ot_3307",
+"treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "downranked due to non-bat focus",
+"compactRefText": "Upham, 2019",
+"decision": "INCLUDED",
+"defaultSortOrder": 10,
+"name": "MamPhy_fullPosterior_BDvr_DNAonly_4098sp_topoFree_NDexp_MCC_v2_target (Upham, 2019)",
+"ot:studyPublication": "http://dx.doi.org/10.1371/journal.pbio.3000494",
+"ot:studyPublicationReference": "Upham, N. S., Esselstyn, J. A., & Jetz, W. (2019). Inferring the mammal tree: Species-level sets of phylogenies for questions in ecology, evolution, and conservation. PLOS Biology, 17(12), e3000494. doi:10.1371/journal.pbio.3000494\n",
+"ot:studyYear": 2019,
+"studyID": "ot_1990",
+"treeID": "tree1"
 }
 ],
 "description": "They're Bats!",
