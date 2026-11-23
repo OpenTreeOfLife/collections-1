@@ -14265,6 +14265,14 @@
 "name": "Copy with only named species",
 "studyID": "ot_3116",
 "treeID": "tree9"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from \u00c1lvarez-Carretero, S., Tamuri, A. U., Battini, M., Nascimento, F. F., Carlisle, E., Asher, R. J., Yang, Z., Donoghue, P. C. J., & dos Reis, M. (2021). A species-level timeline of mammal evolution integrating phylogenomic data. Nature, 602(7896), 263\u2013267. https://doi.org/10.1038/s41586-021-04341-1\n",
+"decision": "INCLUDED",
+"name": "4705sp_colours_mammal-time.tree",
+"studyID": "ot_3307",
+"treeID": "tree2"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
