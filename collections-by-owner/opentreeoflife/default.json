@@ -14337,6 +14337,14 @@
 "name": "Figure 2",
 "studyID": "ot_3315",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from KING, J. G., STARR, J. R., & LAGO, P. K. (2011). Molecular data resolves relationships within Heteroceridae (Coleoptera: Dryopoidea). Systematic Entomology, 36(3), 435\u2013445. Portico. https://doi.org/10.1111/j.1365-3113.2011.00571.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_3317",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
