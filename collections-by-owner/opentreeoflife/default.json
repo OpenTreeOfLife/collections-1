@@ -14297,6 +14297,14 @@
 "name": "con 50 majrule",
 "studyID": "ot_3310",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Schneider, T., Vierstraete, A., Kosterin, O. E., Ikemeyer, D., Hu, F.-S., Novelo-Guti\u00e9rrez, R., Kompier, T., Everett, L., M\u00fcller, O., & Dumont, H. J. (2024). Molecular Phylogeny of the Family Cordulegastridae (Odonata) Worldwide. Insects, 15(8), 622. https://doi.org/10.3390/insects15080622\n",
+"decision": "INCLUDED",
+"name": "Figure 2",
+"studyID": "ot_3311",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
