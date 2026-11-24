@@ -4404,6 +4404,14 @@
 "name": "ExaBayes_50p.nwk (Kobayashi, 2021)",
 "studyID": "ot_3281",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1 (Linsk\u00fd, 2022)",
+"studyID": "ot_3316",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
