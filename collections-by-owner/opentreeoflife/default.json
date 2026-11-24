@@ -14361,6 +14361,14 @@
 "name": "Fig. 1, ML",
 "studyID": "ot_3319",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kundrata, R., Bocakova, M., & Bocak, L. (2013). The phylogenetic position of Artematopodidae (Coleoptera: Elateroidea), with description of the first two Eurypogon species from China. Contributions to Zoology, 82(4), 199\u2013221. https://doi.org/10.1163/18759866-08204004\n",
+"decision": "INCLUDED",
+"name": "Fig. 1B",
+"studyID": "ot_3320",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
