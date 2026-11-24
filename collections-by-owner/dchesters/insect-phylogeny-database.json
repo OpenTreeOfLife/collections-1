@@ -4412,6 +4412,14 @@
 "name": "Fig. 1 (Linsk\u00fd, 2022)",
 "studyID": "ot_3316",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI (KING, 2011)",
+"studyID": "ot_3317",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
