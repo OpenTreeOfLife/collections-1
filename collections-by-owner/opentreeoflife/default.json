@@ -14281,6 +14281,14 @@
 "name": "con 50 majrule",
 "studyID": "ot_3308",
 "treeID": "tree3"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Dumont, Henri & Vierstraete, Andy & Vanfleteren, J.R.. (2007). A revised molecular phylogeny of the Calopteryginae (Zygoptera: Calopterygidae). Odonatologica. 36. 365-372. ",
+"decision": "INCLUDED",
+"name": "Figure 1",
+"studyID": "ot_3309",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
