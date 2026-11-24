@@ -14345,6 +14345,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_3317",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from LEE, C.-F., SAT\u00d4, M., SHEPARD, W. D., & J\u00c4CH, M. A. (2007). Phylogeny of Psephenidae (Coleoptera: Byrrhoidea) based on larval, pupal and adult characters. Systematic Entomology, 32(3), 502\u2013538. Portico. https://doi.org/10.1111/j.1365-3113.2006.00374.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 15, MP",
+"studyID": "ot_3318",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
