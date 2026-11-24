@@ -14313,6 +14313,14 @@
 "name": "Figure 3",
 "studyID": "ot_3312",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Schneider, T., Vierstraete, A., M\u00fcller, O., van Pelt, G. J., Caspers, M., Ikemeyer, D., Snegovaya, N., & Dumont, H. J. (2021). Taxonomic Revision of Eastern Part of Western Palaearctic Cordulegaster Using Molecular Phylogeny and Morphology, with the Description of Two New Species (Odonata: Anisoptera: Cordulegastridae). Diversity, 13(12), 667. https://doi.org/10.3390/d13120667\n",
+"decision": "INCLUDED",
+"name": "Figure 4",
+"studyID": "ot_3313",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
