@@ -4436,6 +4436,14 @@
 "name": "Fig. 1, ML (Kundrata, 2011)",
 "studyID": "ot_3319",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 1B (Kundrata, 2013)",
+"studyID": "ot_3320",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
