@@ -14321,6 +14321,14 @@
 "name": "Figure 4",
 "studyID": "ot_3313",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Schneider, T., Vierstraete, A., Kosterin, O. E., Ikemeyer, D., Hu, F.-S., Kompier, T., & Dumont, H. J. (2025). Molecular phylogenetic analysis of the family Chlorogomphidae (Odonata, Anisoptera). Invertebrate Systematics, 39(9). https://doi.org/10.1071/is25016\n",
+"decision": "INCLUDED",
+"name": "Figure 2",
+"studyID": "ot_3314",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
