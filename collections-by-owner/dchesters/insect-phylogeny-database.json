@@ -4420,6 +4420,14 @@
 "name": "Fig. 1, BI (KING, 2011)",
 "studyID": "ot_3317",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 15, MP (LEE, 2007)",
+"studyID": "ot_3318",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
