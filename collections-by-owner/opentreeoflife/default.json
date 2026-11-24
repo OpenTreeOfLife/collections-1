@@ -14289,6 +14289,14 @@
 "name": "Figure 1",
 "studyID": "ot_3309",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from KOSTERIN, O. E., VIERSTRAETE, A., SCHNEIDER, T., KOMPIER, T., HU, F.-S., JR., L. E., MAKBUN, N., ONISHKO, V. V., PAPAZIAN, M., & DUMONT, H. J. (2025). Molecular phylogenetic analysis of the family Macromiidae (Odonata) worldwide based on a mitochondrial and two nuclear markers, with a short overview of its taxonomic history. Zootaxa, 5620(4), 501\u2013545. https://doi.org/10.11646/zootaxa.5620.4.1\n",
+"decision": "INCLUDED",
+"name": "con 50 majrule",
+"studyID": "ot_3310",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
