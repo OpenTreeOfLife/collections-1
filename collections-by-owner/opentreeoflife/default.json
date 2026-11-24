@@ -14305,6 +14305,14 @@
 "name": "Figure 2",
 "studyID": "ot_3311",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Schneider, T., Vierstraete, A., Kosterin, O. E., Ikemeyer, D., Hu, F.-S., Snegovaya, N., & Dumont, H. J. (2023). Molecular Phylogeny of Holarctic Aeshnidae with a Focus on the West Palaearctic and Some Remarks on Its Genera Worldwide (Aeshnidae, Odonata). Diversity, 15(9), 950. https://doi.org/10.3390/d15090950\n",
+"decision": "INCLUDED",
+"name": "Figure 3",
+"studyID": "ot_3312",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
