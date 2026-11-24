@@ -14353,6 +14353,14 @@
 "name": "Fig. 15, MP",
 "studyID": "ot_3318",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kundrata, R., & Bocak, L. (2011). The phylogeny and limits of Elateridae (Insecta, Coleoptera): is there a common tendency of click beetles to soft\u2010bodiedness and neoteny? Zoologica Scripta, 40(4), 364\u2013378. Portico. https://doi.org/10.1111/j.1463-6409.2011.00476.x\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, ML",
+"studyID": "ot_3319",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
