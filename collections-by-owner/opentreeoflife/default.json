@@ -14329,6 +14329,14 @@
 "name": "Figure 2",
 "studyID": "ot_3314",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from SCHNEIDER, T., VIERSTRAETE, A., IKEMEYER, D., VAN PELT, G. J., CASPERS, M., M\u00dcLLER, O., & DUMONT, H. J. (2022). The Oracle of Delphi\u2014a molecular phylogenetic approach to Greek Cordulegaster Leach in Brewster, 1815 (Odonata: Anisoptera: Cordulegastridae). Zootaxa, 5125(2), 182\u2013204. https://doi.org/10.11646/zootaxa.5125.2.5\n",
+"decision": "INCLUDED",
+"name": "Figure 2",
+"studyID": "ot_3315",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
