@@ -4452,6 +4452,14 @@
 "name": "Fig. 3, BI (Wang, 2017)",
 "studyID": "ot_3322",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. S8, ML (Kusy, 2020)",
+"studyID": "ot_3323",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
