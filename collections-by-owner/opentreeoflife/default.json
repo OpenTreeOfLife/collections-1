@@ -14385,6 +14385,14 @@
 "name": "Fig. S8, ML",
 "studyID": "ot_3323",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Uribe, J. E., & Guti\u00e9rrez-Rodr\u00edguez, J. (2016). The complete mitogenome of the trilobite beetle, <i>Platerodrilus</i> sp. (Elateroidea: Lycidae). Mitochondrial DNA Part B, 1(1), 658\u2013659. https://doi.org/10.1080/23802359.2016.1219626\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, BI",
+"studyID": "ot_3324",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
