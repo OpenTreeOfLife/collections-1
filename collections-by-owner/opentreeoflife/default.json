@@ -14377,6 +14377,14 @@
 "name": "Fig. 3, BI",
 "studyID": "ot_3322",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kusy, D., He, J.-W., Bybee, S. M., Motyka, M., Bi, W.-X., Podsiadlowski, L., Li, X.-Y., & Bocak, L. (2020). Phylogenomic relationships of bioluminescent elateroids define the \u2018lampyroid\u2019 clade with clicking Sinopyrophoridae as its earliest member. Systematic Entomology, 46(1), 111\u2013123. Portico. https://doi.org/10.1111/syen.12451\n",
+"decision": "INCLUDED",
+"name": "Fig. S8, ML",
+"studyID": "ot_3323",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
