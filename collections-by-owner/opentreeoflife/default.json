@@ -14369,6 +14369,14 @@
 "name": "Fig. 1B",
 "studyID": "ot_3320",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Wang, K., Hong, W., Jiao, H., & Zhao, H. (2017). Transcriptome sequencing and phylogenetic analysis of four species of luminescent beetles. Scientific Reports, 7(1). https://doi.org/10.1038/s41598-017-01835-9\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, BI",
+"studyID": "ot_3322",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
