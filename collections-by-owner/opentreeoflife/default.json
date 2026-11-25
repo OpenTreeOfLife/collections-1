@@ -14393,6 +14393,14 @@
 "name": "Fig. 1, BI",
 "studyID": "ot_3324",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Motyka, M., Kusy, D., Biffi, G., Geiser, M., Kazantsev, S. V., Bilkova, R., Jahodarova, E., Vogler, A. P., & Bocak, L. (2023). Untangling the evolution of soldier beetles (Coleoptera: Cantharidae) and the evaluation of the morphological phylogenetic signal in a soft\u2010bodied elateroid lineage. Cladistics, 39(6), 548\u2013570. Portico. https://doi.org/10.1111/cla.12555\n",
+"decision": "INCLUDED",
+"name": "Fig. 3b, ML",
+"studyID": "ot_3325",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
