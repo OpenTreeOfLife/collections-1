@@ -4468,6 +4468,14 @@
 "name": "Fig. 1, BI (Uribe, 2016)",
 "studyID": "ot_3324",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3b, ML (Motyka, 2023)",
+"studyID": "ot_3325",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
