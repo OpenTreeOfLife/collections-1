@@ -14401,6 +14401,14 @@
 "name": "Fig. 3b, ML",
 "studyID": "ot_3325",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Motyka, M., Kusy, D., Arias-Bohart, E. T., Bybee, S. M., & Bocak, L. (2023). Enigmatic Campyloxenus: Shedding light on the delayed origin of bioluminescence in ancient Gondwanan click beetles. iScience, 26(12), 108440. https://doi.org/10.1016/j.isci.2023.108440\n",
+"decision": "INCLUDED",
+"name": "Fig. S3A, ML",
+"studyID": "ot_3326",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
