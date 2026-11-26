@@ -14441,6 +14441,14 @@
 "name": "Fig. 1, MP",
 "studyID": "ot_3330",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Kusy, D., Motyka, M., Bocek, M., Masek, M., & Bocak, L. (2019). Phylogenomic analysis resolves the relationships among net\u2010winged beetles (Coleoptera: Lycidae) and reveals the parallel evolution of morphological traits. Systematic Entomology, 44(4), 911\u2013925. Portico. https://doi.org/10.1111/syen.12363\n",
+"decision": "INCLUDED",
+"name": "Fig. 3A, ML",
+"studyID": "ot_3331",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
