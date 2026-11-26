@@ -4500,6 +4500,14 @@
 "name": "Fig. 4b, ML (Martin, 2017)",
 "studyID": "ot_3328",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3, ML (Stanger-Hall, 2007)",
+"studyID": "ot_3329",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
