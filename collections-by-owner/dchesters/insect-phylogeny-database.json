@@ -4516,6 +4516,14 @@
 "name": "Fig. 1, MP (Vaz, 2020)",
 "studyID": "ot_3330",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 3A, ML (Kusy, 2019)",
+"studyID": "ot_3331",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
