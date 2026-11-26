@@ -4492,6 +4492,14 @@
 "name": "Lampyridae_AHE.tree (Martin, 2019)",
 "studyID": "ot_3327",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "",
+"decision": "INCLUDED",
+"name": "Fig. 4b, ML (Martin, 2017)",
+"studyID": "ot_3328",
+"treeID": "tree1"
 }
 ],
 "description": "Insect Phylogeny Database",
