@@ -14409,6 +14409,14 @@
 "name": "Fig. S3A, ML",
 "studyID": "ot_3326",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Martin, G. J., Stanger-Hall, K. F., Branham, M. A., Da Silveira, L. F. L., Lower, S. E., Hall, D. W., Li, X.-Y., Lemmon, A. R., Moriarty Lemmon, E., & Bybee, S. M. (2019). Higher-Level Phylogeny and Reclassification of Lampyridae (Coleoptera: Elateroidea). Insect Systematics and Diversity, 3(6). https://doi.org/10.1093/isd/ixz024\n",
+"decision": "INCLUDED",
+"name": "Lampyridae_AHE.tree",
+"studyID": "ot_3327",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
