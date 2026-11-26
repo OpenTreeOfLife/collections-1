@@ -14433,6 +14433,14 @@
 "name": "Fig. 3, ML",
 "studyID": "ot_3329",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Vaz, S., Mermudes, J. R. M., Paiva, P. C., & Da Silveira, L. F. L. (2020). Systematic review and phylogeny of the firefly genus <i>Dilychnia</i> (Lampyridae: Lampyrinae), with notes on geographical range. Zoological Journal of the Linnean Society, 190(3), 844\u2013888. https://doi.org/10.1093/zoolinnean/zlaa041\n",
+"decision": "INCLUDED",
+"name": "Fig. 1, MP",
+"studyID": "ot_3330",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
