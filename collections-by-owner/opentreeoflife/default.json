@@ -14425,6 +14425,14 @@
 "name": "Fig. 4b, ML",
 "studyID": "ot_3328",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Stanger-Hall, K. F., Lloyd, J. E., & Hillis, D. M. (2007). Phylogeny of North American fireflies (Coleoptera: Lampyridae): Implications for the evolution of light signals. Molecular Phylogenetics and Evolution, 45(1), 33\u201349. https://doi.org/10.1016/j.ympev.2007.05.013\n",
+"decision": "INCLUDED",
+"name": "Fig. 3, ML",
+"studyID": "ot_3329",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
