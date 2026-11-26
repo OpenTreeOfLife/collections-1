@@ -14417,6 +14417,14 @@
 "name": "Lampyridae_AHE.tree",
 "studyID": "ot_3327",
 "treeID": "tree1"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from Martin, G. J., Branham, M. A., Whiting, M. F., & Bybee, S. M. (2017). Total evidence phylogeny and the evolution of adult bioluminescence in fireflies (Coleoptera: Lampyridae). Molecular Phylogenetics and Evolution, 107, 564\u2013575. https://doi.org/10.1016/j.ympev.2016.12.017\n",
+"decision": "INCLUDED",
+"name": "Fig. 4b, ML",
+"studyID": "ot_3328",
+"treeID": "tree1"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
